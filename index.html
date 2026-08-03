@@ -38,18 +38,47 @@
 
     h1 {
       font-family: 'Lora', Georgia, serif;
-      font-weight: 700;
-      font-size: 2.5rem;
-      margin-bottom: 20px;
+      font-size: clamp(2.5rem, 4vw, 3.5rem);
+      line-height: 1.05;
+      color: white;
+      margin: 0 0 1rem 0; /* Bottom margin pushes the subhead down */
+      text-shadow: 0 2px 24px rgba(0, 0, 0, 0.908);
+      text-wrap: balance;
     }
 
     .subhead {
-            font-family: 'Lora', Georgia, serif;
-        }
+      font-family: 'Lora', Georgia, serif;
+      font-size: clamp(1rem, 1.5vw, 1.25rem);
+      line-height: 1.5;
+      color: rgba(255, 255, 255, 0.98);
+      max-width: 900px; /* Stops the reading lines from getting too long */
+      margin: 0 0 1.5rem 0;
+    }
+
+    .hero {
+      min-height: 90vh;
+      display: flex;
+      align-items: flex-end; /* Pushes the text block to the bottom */
+      background: linear-gradient(rgba(10, 15, 20, 0.65), rgba(10, 15, 20, 0.85)), url('empty%20piarl.jpg') center/cover;
+      margin-bottom: 3rem;
+    }
+
+    .hero-text {
+      padding: 0 8vw 4rem 8vw; /* 8vw offsets it from the left edge, just like your example */
+      max-width: 1200px; /* Lets the title stretch out wide */
+      text-shadow: 0 2px 30px rgba(0, 0, 0, 0.966);
+    }
+
+    .hero-byline {
+      font-family: 'Lora', sans-serif;
+      font-size: 0.9rem;
+      color: var(--unit);
+      margin: 0;
+    }
 
     .lede-photo {
-  margin: 0 0 2rem 0;      /* figure has default margins — kill them */
-}
+      margin: 0 0 2rem 0;
+    }
     .lede-photo img {
       width: 100%;
       height: auto;
@@ -242,16 +271,26 @@
             /* Shrinks the massive title so it fits beautifully on a phone */
             h1 {
                 font-size: 2.2em;
+                text-align: center;
             }
 
-            /* Adjusts header padding and aligns text left */
-            .header .content {
-                text-align: left;
-                padding-top: 1em;
-                padding-bottom: 1em;
-                padding-left: 1.2em;  /* <--- Add this line! */
-                padding-right: 1.2em; /* <--- And this line! */
+            .subhead {
+                text-align: center;
+                margin: 0 auto 1.5rem auto; 
             }
+
+            .hero-byline {
+                text-align: center;
+            }
+
+           
+            .hero-text {
+              text-align: center;
+              padding-top: 1em;
+              padding-bottom: 2em;
+              padding-left: 1.2em;  
+              padding-right: 1.2em; 
+          }
 
             /* Overrides the desktop background rules */
             .with-image-bg {
@@ -266,23 +305,18 @@
 </head>
 <body>
 
-  <div class="content">
-    <div class="header">
+  <header class="hero">
+    <div class="hero-text">
       <h1>EU POLITICIANS’ HABIT OF SKIPPING WORK ON THURSDAYS MAY HAVE COST EUROPEANS THEIR PRIVACY</h1>
-      <p class="subhead"><b>EU legislators like to skip work on Thursdays to catch the early train back home. That habit now may have contributed to passing the controversial “Chat Control” law, allowing major tech companies to scan EU citizens’ private messages without any suspicion of crime.
-<br><br>This analysis of years of EU voting data shows how. Further investigation also finds that those messages may end up in controversial AI company Palantir's possession.
-</b></p>
-<figure class="lede-photo">
-  <img src="empty%20piarl.jpg"
-       alt="Rows of empty seats in the European Parliament's plenary chamber in Strasbourg.">
-  <figcaption style="font-size: smaller;">The European Parliament’s empty plenary chamber in Strasbourg.<span class="credit">Photo: Eva Van Wassenhove</span></figcaption>
-</figure>
+      
+      <p class="subhead"><b>EU legislators like skipping work on Thursdays to catch the early train back home. That habit now may have contributed to passing the controversial “Chat Control” law, allowing major tech companies to scan EU citizens’ private messages without any suspicion of crime.<br><br>This analysis of years of EU voting data shows how. Further investigation also finds that those messages may end up in controversial AI company Palantir's possession.</b></p>
+      
+      <p class="hero-byline"><i><b>By Arvid Grange<br>Published August 3, 2026</b></i><br></p>
     </div>
-    <br><br>
-    <div class="byline">
-            <p style="font-size: smaller;">By Arvid Grange<br>Published August 3, 2026</p>
-        </div>
-    <p>The votes were cast just before 13.30 on July 9th this year, a Thursday. The result: a majority of 314 vs 276 of the EU Parliament’s legislators voted to reject the law – the controversial ePrivacy Directive or, as it is more commonly known, Chat Control 1.0.
+  </header>
+
+  <div class="content">
+    <p><b>The votes were cast</b> just before 13.30 on July 9th this year, a Thursday. The result: a majority of 314 vs 276 of the EU Parliament’s legislators voted to reject the law – the controversial ePrivacy Directive or, as it is more commonly known, Chat Control 1.0.
       <br><br>
       The law allows tech companies to scan EU citizens’ private messages with the aim of finding and combatting child sexual abuse material. In fact, the law had already been doing so since 2021 but expired this spring. The vote intended to reinstate the law or discard it.
       <br><br>
@@ -294,7 +328,7 @@
   <br><br>
   These are the rules of the European Union.
   <br><br>
-  By analysing years of EU Parliament voting data we could map how this requirement, combined with EU legislators' well-known habit to skip work on Thursdays, may have cost European citizens their digital privacy, and passed it to the controversial AI-company Palantir.
+  <b>By analysing years</b> of EU Parliament voting data we could map how this requirement, combined with EU legislators' well-known habit to skip work on Thursdays, may have cost European citizens their digital privacy, and passed it to the controversial AI-company Palantir.
   <br><br>
    Here are all second reading votes that have been held since 2014 (excluding 2020 – 2022, when voting was done remotely due to the covid-19 pandemic).
   </p>
@@ -348,17 +382,17 @@
       </div>
       <div class="step" id="v-step6">
         <p>
-          This was not the first time the EU Parliament and the Council has butted heads over the law. Back in March of this year a similar vote was held. The result was the same, with a majority of MEPs voting to reject an extension of the law. The EU Council rejected Parliament's verdict and put it to a second reading.
+          <b>This was not</b> the first time the EU Parliament and the Council has butted heads over the law. Back in March of this year a similar vote was held. The result was the same, with a majority of MEPs voting to reject an extension of the law. The EU Council rejected Parliament's verdict and put it to a second reading.
           <br><br>
           Supporters of “Chat Control” argue that the scanning of private messages without prior suspicion of crime is necessary to combat child sexual abuse. Opponents of the law counter that it constitutes an unacceptable invasion of privacy.
           <br><br>
           According to the constitution of the European Union “Everyone has the right to the protection of personal data concerning them.”
           <br><br>
-          But at least two of the major lobbyists behind the law – child protection organizations Thorn and WeProtect Global Alliance, which have had lobby meetings for the law with commissioner Ylva Johansson, the creator of the law proposal, as well as with the president of the European Comission, Ursula von der Leyen – have strong links to American tech and AI company Palantir.
+          <b>But at least</b> two of the major lobbyists behind the law – child protection organizations Thorn and WeProtect Global Alliance, which have had lobby meetings for the law with commissioner Ylva Johansson, the creator of the law proposal, as well as with the president of the European Comission, Ursula von der Leyen – have strong links to American tech and AI company Palantir.
           <br><br>
           Thorn officially lists Palantir as one of their “Tech Task Force Members” and in 2021 Palantir made a blog post stating that they had joined WeProtect Global Alliance.
           <br><br>
-          Besides these partnerships Palantir shares an even more direct link to scanning the private messages. The big tech companies, being predominantly American, are bound by U.S federal law to hand the data over to the National Center for Missing and Exploited Children (NCMEC).
+          <b>Besides these partnerships</b> Palantir shares an even more direct link to scanning the private messages. The big tech companies, being predominantly American, are bound by U.S federal law to hand the data over to the National Center for Missing and Exploited Children (NCMEC).
           <br><br>
           The NCMEC, in turn, uses Palantir’s software for analysing the data.
           <br><br>
@@ -419,10 +453,10 @@
 
   </section>
 <div class="content">
-    <p>An absolute majority is still possible for Parliament to achieve, but high absences make it a statistically more improbable event.</p>
+    <p><b>An absolute majority</b> is still possible for Parliament to achieve, but high absences make it a statistically more improbable event.</p>
     <p>The vote on extending the ePrivacy Directive, or “Chat Control 1.0”, has already gotten much criticism for being held on the last plenary session before the EU Parliament goes on summer recess. The argument being that many MEPs had left for early vacation.</p>
     <p><a href=https://www.euronews.com/next/2026/07/10/chat-control-10-passed-the-european-parliament-through-the-back-door>“Chat Control 1.0 passed the European Parliament — through the back door”</a>, Euronews called it in an article shortly after the vote.</p>
-    <p>In actuality, the vote had a higher attendance than the average Thursday, with just over 600 MEPs being present. Although that still places it well below the average Tuesday attendance of 641.</p>
+    <p><b>In actuality,</b> the vote had a higher attendance than the average Thursday, with just over 600 MEPs being present. Although that still places it well below the average Tuesday attendance of 641.</p>
     <p>Breaking down the second reading votes held between 2014 and 2026 by weekday, there is no remarkable pattern showing that it is less likely for Parliament to overturn the Council’s position on a Thursday than any other day.</p>  
   </div>
 
@@ -485,7 +519,7 @@
 <div class="content">
     <p>The two votes that did reach absolute majority on a Thursday were held only this July, and up until then no Thursday vote had ever reached the absolute majority necessary.</p>
     <p>However, the sample of votes is too small to draw any conclusions.</p>
-    <p>A clearer pattern showing the drastic effect that a Thursday can have on the outcome of a vote like this one emerges when looking at the past three and a half years of regular voting. Even though regular votes only require simple majorities, analyzing how many of them reaches absolute majority numbers anyway show that Thursday votes have a much lower chance of achieving an absolute majority.</p>
+    <p><b>A clearer pattern</b> showing the drastic effect that a Thursday can have on the outcome of a vote like this one emerges when looking at the past three and a half years of regular voting. <br><br>Even though regular votes only require simple majorities, analyzing how many of them reaches absolute majority numbers anyway show that Thursday votes have a much lower chance of achieving an absolute majority.</p>
 
 <svg viewBox="0 0 800 500" role="img" aria-label="Bar chart. Share of recorded votes reaching more than 360 votes in favour, by sitting day. Tuesday 82.1 percent (147 of 179). Wednesday 69.5 percent (223 of 321). Thursday 60.7 percent (125 of 206)."><g transform="translate(56,48)"><line class="gridline" x1="0" x2="724" y1="372" y2="372"></line><line class="gridline" x1="0" x2="724" y1="297.6" y2="297.6"></line><line class="gridline" x1="0" x2="724" y1="223.2" y2="223.2"></line><line class="gridline" x1="0" x2="724" y1="148.8" y2="148.8"></line><line class="gridline" x1="0" x2="724" y1="74.39999999999998" y2="74.39999999999998"></line><line class="gridline" x1="0" x2="724" y1="0" y2="0"></line><g class="axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end"><path class="domain" stroke="currentColor" d="M0,372V0"></path><g class="tick" opacity="1" transform="translate(0,372)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">0%</text></g><g class="tick" opacity="1" transform="translate(0,297.6)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">20%</text></g><g class="tick" opacity="1" transform="translate(0,223.2)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">40%</text></g><g class="tick" opacity="1" transform="translate(0,148.8)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">60%</text></g><g class="tick" opacity="1" transform="translate(0,74.39999999999998)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">80%</text></g><g class="tick" opacity="1" transform="translate(0,0)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">100%</text></g></g><rect class="bar" x="73.70059880239518" y="66.5027932960894" width="143.06586826347302" height="305.4972067039106" fill="var(--unit)"><title>Tuesday: 147 of 179 votes reached more than 360 in favour</title></rect><rect class="bar" x="290.46706586826343" y="113.57009345794398" width="143.06586826347302" height="258.429906542056" fill="var(--unit)"><title>Wednesday: 223 of 321 votes reached more than 360 in favour</title></rect><rect class="bar" x="507.2335329341317" y="146.2718446601942" width="143.06586826347302" height="225.7281553398058" fill="var(--loss)"><title>Thursday: 125 of 206 votes reached more than 360 in favour</title></rect><text class="value-label" x="145.2335329341317" y="54.50279329608939">82.1%</text><text class="value-label" x="361.99999999999994" y="101.57009345794398">69.5%</text><text class="value-label" x="578.7664670658683" y="134.2718446601942">60.7%</text><text class="day-label" x="145.2335329341317" y="402">Tuesdays</text><text class="day-label" x="361.99999999999994" y="402">Wednesdays</text><text class="day-label" x="578.7664670658683" y="402">Thursdays</text><text class="count-label" x="145.2335329341317" y="424">147 of 179 votes</text><text class="count-label" x="361.99999999999994" y="424">223 of 321 votes</text><text class="count-label" x="578.7664670658683" y="424">125 of 206 votes</text></g></svg>
 <p>Reaching a larger than 360-vote majority gets increasingly more unlikely through a regular voting week, from 82% of regular votes reaching those numbers on Tuesdays to only 61% on Thursdays.</p>
