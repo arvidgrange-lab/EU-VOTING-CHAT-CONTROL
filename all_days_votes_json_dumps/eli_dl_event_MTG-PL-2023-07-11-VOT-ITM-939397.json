@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939397",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939397",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112, paragraphe 4, du r\u00e8glement int\u00e9rieur: Les additifs alimentaires \u00abnitrites\u00bb (E 249 - 250) et \u00abnitrates\u00bb (E 251 - 252)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0307"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-110",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939397",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112, paragraphe 4, du r\u00e8glement int\u00e9rieur: Les additifs alimentaires \u00abnitrites\u00bb (E 249 - 250) et \u00abnitrates\u00bb (E 251 - 252)</title><label>Proposition de r\u00e9solution: B9-0307/2023 (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

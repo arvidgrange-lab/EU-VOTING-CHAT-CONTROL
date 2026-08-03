@@ -1,0 +1,108 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-07-09-DEC-177743",
+            "type": "Vote",
+            "activity_date": "2025-07-09",
+            "activity_id": "MTG-PL-2025-07-09-DEC-177743",
+            "activity_label": {
+                "pl": "Ust. 6",
+                "de": "\u00a7\u00a06",
+                "en": "\u00a7 6",
+                "lv": "\u00a7 6",
+                "hr": "\u00a7 6",
+                "pt": "\u00a7 6",
+                "fr": "\u00a7 6",
+                "es": "\u00a7 6",
+                "ro": "\u00a7 6",
+                "ga": "\u00a7 6",
+                "bg": "\u00a7 6",
+                "fi": "\u00a7 6",
+                "da": "\u00a7 6",
+                "nl": "\u00a7 6",
+                "sl": "\u00a7 6",
+                "el": "\u00a7 6",
+                "cs": "\u00a7 6",
+                "it": "\u00a7 6",
+                "et": "\u00a7 6",
+                "mt": "\u00a7 6",
+                "lt": "\u00a7 6",
+                "sk": "odsek 6",
+                "sv": "punkt 6",
+                "hu": "6. bek."
+            },
+            "activity_order": "1.0",
+            "decided_on_a_realization_of": [
+                "eli/dl/doc/A-10-2025-0114-AM-1"
+            ],
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/REJECTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "responsible_organization_label": {
+                "pt": "PfE",
+                "lv": "PfE",
+                "ro": "PfE",
+                "el": "PfE",
+                "sl": "PfE",
+                "pl": "PfE",
+                "hu": "PfE",
+                "et": "PfE",
+                "sk": "PfE",
+                "fi": "PfE",
+                "bg": "PfE",
+                "en": "PfE",
+                "fr": "PfE",
+                "hr": "PfE",
+                "nl": "PfE",
+                "mt": "PfE",
+                "da": "PfE",
+                "cs": "PfE",
+                "de": "PfE",
+                "ga": "PfE",
+                "it": "PfE",
+                "sv": "PfE",
+                "es": "PfE",
+                "lt": "PfE"
+            },
+            "notation_votingId": "177743",
+            "decisionAboutId_XMLLiteral": "<am><reference><number>1</number></reference></am>",
+            "decisionAboutId": "1",
+            "decisionAboutId_Lang": {
+                "bg": "1"
+            },
+            "referenceText": {
+                "sv": "punkt 6",
+                "nl": "\u00a7 6",
+                "da": "\u00a7 6",
+                "fi": "\u00a7 6",
+                "bg": "\u00a7 6",
+                "ga": "\u00a7 6",
+                "ro": "\u00a7 6",
+                "lv": "\u00a7 6",
+                "en": "\u00a7 6",
+                "fr": "\u00a7 6",
+                "pt": "\u00a7 6",
+                "hr": "\u00a7 6",
+                "es": "\u00a7 6",
+                "cs": "\u00a7 6",
+                "el": "\u00a7 6",
+                "sl": "\u00a7 6",
+                "it": "\u00a7 6",
+                "et": "\u00a7 6",
+                "mt": "\u00a7 6",
+                "lt": "\u00a7 6",
+                "sk": "odsek 6",
+                "pl": "Ust. 6",
+                "hu": "6. bek.",
+                "de": "\u00a7\u00a06"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

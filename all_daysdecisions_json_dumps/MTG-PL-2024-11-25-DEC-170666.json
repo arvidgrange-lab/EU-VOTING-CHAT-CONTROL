@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-11-25-DEC-170666",
+            "type": "Vote",
+            "activity_date": "2024-11-25",
+            "activity_id": "MTG-PL-2024-11-25-DEC-170666",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 446,
+            "number_of_votes_abstention": 11,
+            "number_of_votes_against": 211,
+            "number_of_votes_favor": 224,
+            "comment": {
+                "de": "NA",
+                "ga": "VL",
+                "lt": "VB",
+                "hu": "ESz",
+                "pl": "ge",
+                "fi": "K\u00c4",
+                "en": "EV",
+                "el": "\u0397\u03a8",
+                "hr": "VE",
+                "pt": "VE",
+                "fr": "VE",
+                "es": "VE",
+                "ro": "VE",
+                "da": "VE",
+                "it": "VE",
+                "mt": "VE",
+                "lv": "EB",
+                "sl": "EG",
+                "et": "EH",
+                "cs": "EH",
+                "sk": "EH",
+                "nl": "ES",
+                "sv": "EO",
+                "bg": "\u0415\u0413"
+            },
+            "notation_votingId": "170666",
+            "referenceText": {
+                "pl": "Porz\u0105dek obrad we wtorek \u2013 wniosek grupy S&amp;D",
+                "fi": "tiistain esityslista \u2013 S&amp;D-ryhm\u00e4n pyynt\u00f6",
+                "el": "\u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03b1 \u03b4\u03b9\u03ac\u03c4\u03b1\u03be\u03b7 \u03a4\u03c1\u03af\u03c4\u03b7\u03c2 \u2013 \u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u039f\u03bc\u03ac\u03b4\u03b1\u03c2 S&amp;D",
+                "nl": "Agenda van dinsdag \u2013 Verzoek van de S&amp;D-Fractie",
+                "hr": "Dnevni red za utorak \u2013 Zahtjev Kluba zastupnika S&amp;D-a",
+                "lt": "Antradienio darbotvark\u0117 - S&amp;D frakcijos pra\u0161ymas",
+                "hu": "Keddi napirend \u2013 az S&amp;D k\u00e9pvisel\u0151csoport k\u00e9relme",
+                "de": "Tagesordnung f\u00fcr Dienstag\u00a0\u2013 Antrag der S&amp;D-Fraktion",
+                "pt": "Ordem do dia de ter\u00e7a-feira \u2013 Pedido do Grupo S&amp;D",
+                "et": "Teisip\u00e4eva p\u00e4evakord \u2013 fraktsiooni S&amp;D taotlus",
+                "mt": "A\u0121enda tat-Tlieta - Talba tal-Grupp S&amp;D",
+                "da": "Dagsorden for tirsdag \u2013 Anmodning fra S&amp;D-Gruppen",
+                "ro": "Ordinea de zi de mar\u021bi - Solicitarea Grupului S&amp;D",
+                "sk": "Program utorkov\u00e9ho rokovania \u2013 \u017eiados\u0165 skupiny S&amp;D",
+                "it": "Ordine del giorno di marted\u00ec \u2013 Richiesta del gruppo S&amp;D",
+                "sl": "Torkov dnevni red \u2013 zahteva skupine S&amp;D",
+                "fr": "Ordre du jour de mardi - Demande du groupe S&amp;D",
+                "sv": "Tisdagens f\u00f6redragningslista \u2013 beg\u00e4ran fr\u00e5n S&amp;D-gruppen",
+                "en": "Tuesday\u2019s agenda \u2013 Request by the S&amp;D Group",
+                "ga": "Cl\u00e1r Oibre - D\u00e9 M\u00e1irt - Iarraidh \u00f3n nGr\u00fapa S&amp;D",
+                "bg": "\u0414\u043d\u0435\u0432\u0435\u043d \u0440\u0435\u0434 \u0437\u0430 \u0432\u0442\u043e\u0440\u043d\u0438\u043a \u2013 \u0438\u0441\u043a\u0430\u043d\u0435 \u043d\u0430 \u0433\u0440\u0443\u043f\u0430\u0442\u0430 S&amp;D",
+                "es": "Orden del d\u00eda del martes - Solicitud del Grupo\u00a0S&amp;D",
+                "lv": "Otrdienas darba k\u0101rt\u012bba - S&amp;D grupas piepras\u012bjums",
+                "cs": "\u00datern\u00ed po\u0159ad jedn\u00e1n\u00ed \u2013 \u017e\u00e1dost skupiny S&amp;D"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-12-VOT-ITM-939451",
+            "type": "Activity",
+            "activity_date": "2023-09-12",
+            "activity_id": "MTG-PL-2023-09-12-VOT-ITM-939451",
+            "activity_label": {
+                "fr": "Mise en place de l\u2019instrument visant \u00e0 renforcer l\u2019industrie europ\u00e9enne de la d\u00e9fense au moyen d\u2019acquisitions conjointes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0161"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-12-OJ-ITM-V-63",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-12-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939451",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en place de l\u2019instrument visant \u00e0 renforcer l\u2019industrie europ\u00e9enne de la d\u00e9fense au moyen d\u2019acquisitions conjointes</title><label>Rapport: Michael Gahler, Zdzis\u0142aw Krasnod\u0119bski (A9-0161/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

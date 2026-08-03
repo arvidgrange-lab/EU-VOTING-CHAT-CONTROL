@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939444",
+            "activity_label": {
+                "fr": "Carburants durables pour l\u2019aviation (Initiative \u00abReFuel EU Aviation\u00bb)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0199"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-39",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939444",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Carburants durables pour l\u2019aviation (Initiative \u00abReFuel EU Aviation\u00bb)</title><label>Rapport: Jos\u00e9 Ram\u00f3n Bauz\u00e1 D\u00edaz (A9-0199/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

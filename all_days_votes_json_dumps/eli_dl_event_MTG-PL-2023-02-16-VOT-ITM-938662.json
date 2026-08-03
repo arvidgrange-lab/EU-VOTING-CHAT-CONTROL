@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-16-VOT-ITM-938662",
+            "type": "Activity",
+            "activity_date": "2023-02-16",
+            "activity_id": "MTG-PL-2023-02-16-VOT-ITM-938662",
+            "activity_label": {
+                "fr": "Banque centrale europ\u00e9enne - rapport annuel 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0022"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-16-OJ-ITM-V-17",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-16-VOT-ITM-009"
+            ],
+            "notation_dlvId": "938662",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Banque centrale europ\u00e9enne - rapport annuel 2022</title><label>Rapport: Rasmus Andresen (A9-0022/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

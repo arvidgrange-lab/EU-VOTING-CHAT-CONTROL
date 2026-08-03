@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939654",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939654",
+            "activity_label": {
+                "fr": "R\u00e9ception par type des v\u00e9hicules \u00e0 moteur et des moteurs en ce qui concerne leurs \u00e9missions et leur durabilit\u00e9 (Euro 7)",
+                "mul": "R\u00e9ception par type des v\u00e9hicules \u00e0 moteur et des moteurs en ce qui concerne leurs \u00e9missions et leur durabilit\u00e9 (Euro 7) - Type-approval of motor vehicles and engines with respect to their emissions and battery durability (Euro 7) - Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich ihrer Emissionen und der Dauerhaltbarkeit von Batterien (Euro 7)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0298"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-22",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-018"
+            ],
+            "notation_dlvId": "939654",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9ception par type des v\u00e9hicules \u00e0 moteur et des moteurs en ce qui concerne leurs \u00e9missions et leur durabilit\u00e9 (Euro 7)</title><label>Rapport: Alexandr Vondra (A9-0298/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

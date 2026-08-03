@@ -1,0 +1,408 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615892-7",
+            "type": "Activity",
+            "activity_date": "2017-06-15",
+            "activity_id": "MTG-PL-2017-06-15-VOT-ITM-615892-7",
+            "activity_label": {
+                "fr": "Les plateformes en ligne et le march\u00e9 unique num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0204"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-15-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "615892",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les plateformes en ligne et le march\u00e9 unique num\u00e9rique</title><label>Rapport: Henna Virkkunen et  Philippe Juvin (A8-0204/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615892-7",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615891-6",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615889-5",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-618009-1",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616605-2",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616621-9",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616611-8",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616609-4",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616607-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2276",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615892-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615891-6",
+            "type": "Activity",
+            "activity_date": "2017-06-15",
+            "activity_id": "MTG-PL-2017-06-15-VOT-ITM-615891-6",
+            "activity_label": {
+                "fr": "Agenda europ\u00e9en pour l'\u00e9conomie collaborative"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0195"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-15-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "615891",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Agenda europ\u00e9en pour l'\u00e9conomie collaborative</title><label>Rapport: Nicola Danti (A8-0195/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615892-7",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615891-6",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615889-5",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-618009-1",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616605-2",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616621-9",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616611-8",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616609-4",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616607-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2003",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615891-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615889-5",
+            "type": "Activity",
+            "activity_date": "2017-06-15",
+            "activity_id": "MTG-PL-2017-06-15-VOT-ITM-615889-5",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre du Fonds europ\u00e9en pour les investissements strat\u00e9giques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0200"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-15-OJ-ITM-V-43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-15-VOT-ITM-005"
+            ],
+            "notation_dlvId": "615889",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du Fonds europ\u00e9en pour les investissements strat\u00e9giques</title><label>Rapport: Jos\u00e9 Manuel Fernandes et  Udo Bullmann (A8-0200/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615892-7",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615891-6",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615889-5",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-618009-1",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616605-2",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616621-9",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616611-8",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616609-4",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616607-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2064",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615889-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-618009-1",
+            "type": "Activity",
+            "activity_date": "2017-06-15",
+            "activity_id": "MTG-PL-2017-06-15-VOT-ITM-618009-1",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e d'immunit\u00e9 de Marine Le Pen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0223"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-15-OJ-ITM-V-82"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "618009",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e d'immunit\u00e9 de Marine Le Pen</title><label>Rapport: Sajjad Karim (A8-0223/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615892-7",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615891-6",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615889-5",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-618009-1",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616605-2",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616621-9",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616611-8",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616609-4",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616607-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2021",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-618009-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616605-2",
+            "type": "Activity",
+            "activity_date": "2017-06-15",
+            "activity_id": "MTG-PL-2017-06-15-VOT-ITM-616605-2",
+            "activity_label": {
+                "fr": "Le cas d'Afgan Mukhtarli et la situation des m\u00e9dias en Azerba\u00efdjan"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0415",
+                "eli/dl/doc/B-8-2017-0417",
+                "eli/dl/doc/B-8-2017-0418",
+                "eli/dl/doc/B-8-2017-0420",
+                "eli/dl/doc/B-8-2017-0414",
+                "eli/dl/doc/B-8-2017-0416"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-15-OJ-ITM-V-63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-15-VOT-ITM-002"
+            ],
+            "notation_dlvId": "616605",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le cas d'Afgan Mukhtarli et la situation des m\u00e9dias en Azerba\u00efdjan</title><label>Propositions de r\u00e9solution: B8-0414/2017, B8-0415/2017, B8-0416/2017, B8-0417/2017, B8-0418/2017, B8-0420/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615892-7",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615891-6",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615889-5",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-618009-1",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616605-2",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616621-9",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616611-8",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616609-4",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616607-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616621-9",
+            "type": "Activity",
+            "activity_date": "2017-06-15",
+            "activity_id": "MTG-PL-2017-06-15-VOT-ITM-616621-9",
+            "activity_label": {
+                "fr": "Statut et financement des partis politiques europ\u00e9ens et des fondations politiques europ\u00e9ennes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0405",
+                "eli/dl/doc/B-8-2017-0406"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-15-OJ-ITM-V-74"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-15-VOT-ITM-009"
+            ],
+            "notation_dlvId": "616621",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Statut et financement des partis politiques europ\u00e9ens et des fondations politiques europ\u00e9ennes</title><label>Propositions de r\u00e9solution: B8-0405/2017, B8-0406/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615892-7",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615891-6",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615889-5",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-618009-1",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616605-2",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616621-9",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616611-8",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616609-4",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616607-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616611-8",
+            "type": "Activity",
+            "activity_date": "2017-06-15",
+            "activity_id": "MTG-PL-2017-06-15-VOT-ITM-616611-8",
+            "activity_label": {
+                "fr": "Situation humanitaire au Y\u00e9men"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0411",
+                "eli/dl/doc/B-8-2017-0413",
+                "eli/dl/doc/B-8-2017-0408",
+                "eli/dl/doc/B-8-2017-0407",
+                "eli/dl/doc/B-8-2017-0410",
+                "eli/dl/doc/B-8-2017-0412",
+                "eli/dl/doc/B-8-2017-0409"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-15-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-15-VOT-ITM-008"
+            ],
+            "notation_dlvId": "616611",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation humanitaire au Y\u00e9men</title><label>Propositions de r\u00e9solution: B8-0407/2017, B8-0408/2017, B8-0409/2017, B8-0410/2017, B8-0411/2017, B8-0412/2017, B8-0413/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615892-7",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615891-6",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615889-5",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-618009-1",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616605-2",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616621-9",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616611-8",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616609-4",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616607-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616609-4",
+            "type": "Activity",
+            "activity_date": "2017-06-15",
+            "activity_id": "MTG-PL-2017-06-15-VOT-ITM-616609-4",
+            "activity_label": {
+                "fr": "Situation des droits de l'homme en Indon\u00e9sie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0426",
+                "eli/dl/doc/B-8-2017-0425",
+                "eli/dl/doc/B-8-2017-0428",
+                "eli/dl/doc/B-8-2017-0431",
+                "eli/dl/doc/B-8-2017-0424",
+                "eli/dl/doc/B-8-2017-0430"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-15-OJ-ITM-V-65"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "616609",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation des droits de l'homme en Indon\u00e9sie</title><label>Propositions de r\u00e9solution: B8-0424/2017, B8-0425/2017, B8-0426/2017, B8-0428/2017, B8-0430/2017, B8-0431/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615892-7",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615891-6",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615889-5",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-618009-1",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616605-2",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616621-9",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616611-8",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616609-4",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616607-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616607-3",
+            "type": "Activity",
+            "activity_date": "2017-06-15",
+            "activity_id": "MTG-PL-2017-06-15-VOT-ITM-616607-3",
+            "activity_label": {
+                "fr": "Le Pakistan, et notamment la situation des d\u00e9fenseurs des droits de l'homme et la peine de mort"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0429",
+                "eli/dl/doc/B-8-2017-0422",
+                "eli/dl/doc/B-8-2017-0423",
+                "eli/dl/doc/B-8-2017-0421",
+                "eli/dl/doc/B-8-2017-0427",
+                "eli/dl/doc/B-8-2017-0419"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-15-OJ-ITM-V-64"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "616607",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le Pakistan, et notamment la situation des d\u00e9fenseurs des droits de l'homme et la peine de mort</title><label>Propositions de r\u00e9solution : B8-0419/2017, B8-0421/2017, B8-0422/2017, B8-0423/2017, B8-0427/2017, B8-0429/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615892-7",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615891-6",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-615889-5",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-618009-1",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616605-2",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616621-9",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616611-8",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616609-4",
+                        "eli/dl/event/MTG-PL-2017-06-15-VOT-ITM-616607-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-05-21-VOT-ITM-990986",
+            "type": "Activity",
+            "activity_date": "2026-05-21",
+            "activity_id": "MTG-PL-2026-05-21-VOT-ITM-990986",
+            "activity_label": {
+                "hu": "Id\u0151szakos m\u0171szaki vizsg\u00e1lat \u00e9s k\u00f6z\u00fati m\u0171szaki ellen\u0151rz\u00e9s (m\u0171szaki alkalmass\u00e1gi jogszab\u00e1lycsomag) ***I",
+                "sv": "Periodisk provning av motorfordons trafiks\u00e4kerhet och tekniska v\u00e4gkontroller (trafiks\u00e4kerhetspaketet) ***I",
+                "da": "Periodisk teknisk kontrol og syn ved vejsiden (k\u00f8ret\u00f8jssikkerhedspakken) ***I",
+                "sk": "Pravideln\u00e1 kontrola technick\u00e9ho stavu a cestn\u00e1 technick\u00e1 kontrola (Bal\u00edk opatren\u00ed t\u00fdkaj\u00facich sa technick\u00e9ho stavu vozidiel)\u00a0***I",
+                "nl": "De periodieke technische controle en de technische controle langs de weg (Pakket technische controles) ***I",
+                "bg": "\u041f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u043d\u0438 \u043f\u0440\u0435\u0433\u043b\u0435\u0434\u0438 \u0437\u0430 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043d\u0430 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u0442\u0430 \u0438\u0437\u043f\u0440\u0430\u0432\u043d\u043e\u0441\u0442 \u0438 \u043a\u0440\u0430\u0439\u043f\u044a\u0442\u043d\u0430 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0430 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 (\u041f\u0430\u043a\u0435\u0442 \u0437\u0430 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u0442\u0430 \u0438\u0437\u043f\u0440\u0430\u0432\u043d\u043e\u0441\u0442) ***I",
+                "hr": "Periodi\u010dni tehni\u010dki pregledi i pregledi tehni\u010dke ispravnosti na cesti (Paket o tehni\u010dkoj ispravnosti) ***I",
+                "lv": "Periodisk\u0101s tehnisk\u0101s apskates un tehnisk\u0101s p\u0101rbaudes uz ce\u013ciem (Transportl\u012bdzek\u013cu tehnisk\u0101 st\u0101vok\u013ca pakete) ***I",
+                "cs": "Pravideln\u00e9 technick\u00e9 prohl\u00eddky motorov\u00fdch vozidel a jejich p\u0159\u00edpojn\u00fdch vozidel (bal\u00ed\u010dek p\u0159edpis\u016f t\u00fdkaj\u00edc\u00edch se technick\u00e9 zp\u016fsobilosti vozidel) ***I",
+                "it": "Controlli tecnici periodici e controlli tecnici su strada (Pacchetto controlli tecnici) ***I",
+                "fr": "Contr\u00f4le technique p\u00e9riodique et contr\u00f4le technique routier (paquet \u00abcontr\u00f4le technique\u00bb) ***I",
+                "sl": "Redni tehni\u010dni pregledi in cestni pregled tehni\u010dne brezhibnosti (sve\u017eenj o tehni\u010dnih pregledih) ***I",
+                "ro": "Inspec\u021bia tehnic\u0103 periodic\u0103 \u0219i controlul tehnic \u00een trafic (Pachetul privind inspec\u021bia tehnic\u0103 a autovehiculelor) ***I",
+                "mul": "Contr\u00f4le technique p\u00e9riodique et contr\u00f4le technique routier (paquet \u00abcontr\u00f4le technique\u00bb) - Periodic roadworthiness tests and technical roadside inspection (Roadworthiness package) - Regelm\u00e4\u00dfige technische \u00dcberwachung und technische Unterwegskontrolle (Paket zur Verkehrs- und Betriebssicherheit)",
+                "fi": "M\u00e4\u00e4r\u00e4aikaiskatsastukset ja tekniset tienvarsitarkastukset (tieliikennekelpoisuuspaketti) ***I",
+                "en": "Periodic roadworthiness tests and technical roadside inspection (Roadworthiness package) ***I",
+                "pl": "Okresowe badania zdatno\u015bci do ruchu drogowego i drogowa kontrola techniczna (Pakiet w sprawie zdatno\u015bci do ruchu drogowego) ***I",
+                "es": "Inspecciones t\u00e9cnicas peri\u00f3dicas e inspecciones t\u00e9cnicas en carretera (paquete sobre la inspecci\u00f3n t\u00e9cnica de veh\u00edculos) ***I",
+                "el": "\u03a0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03cc\u03c2 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03cc\u03c2 \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ae \u03bf\u03b4\u03b9\u03ba\u03ae \u03b5\u03c0\u03b9\u03b8\u03b5\u03ce\u03c1\u03b7\u03c3\u03b7 (\u0394\u03ad\u03c3\u03bc\u03b7 \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03cc \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf) ***I",
+                "et": "Korraline tehno\u00fclevaatus ja tehnokontroll (tehno\u00fclevaatuspakett) ***I",
+                "ga": "T\u00e1st\u00e1lacha tr\u00e9imhsi\u00fala r\u00f3dacmhainneachta agus ini\u00fachadh teicni\u00fail cois b\u00f3thair (An pac\u00e1iste r\u00f3dacmhainneachta) ***I",
+                "de": "Regelm\u00e4\u00dfige technische \u00dcberwachung und technische Unterwegskontrolle (Paket zur Verkehrs- und Betriebssicherheit) ***I",
+                "lt": "Periodin\u0117 technin\u0117 ap\u017ei\u016bra ir techninis patikrinimas kelyje (technin\u0117s ap\u017ei\u016bros dokument\u0173 rinkinys) ***I",
+                "pt": "Inspe\u00e7\u00e3o t\u00e9cnica peri\u00f3dica e inspe\u00e7\u00e3o t\u00e9cnica na estrada (Pacote \u00abInspe\u00e7\u00e3o T\u00e9cnica Autom\u00f3vel\u00bb) ***I",
+                "mt": "Testijiet perjodi\u010bi tal-affidabbilt\u00e0 stradali u spezzjonijiet tekni\u010bi waqt it-tra\u0121itt (Pakkett dwar l-Affidabbilt\u00e0 Stradali) ***I"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2026-0139"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2026-05-21-DEC-193315"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2026-05-21-OJ-ITM-V-94"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2026-05-21-VOT-ITM-003"
+            ],
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2026-05-21-VOT-ITM-990986-RCV-1"
+            ],
+            "notation_dlvId": "990986",
+            "structuredLabel": {
+                "en": "<structuredLabel><title>Periodic roadworthiness tests and technical roadside inspection (Roadworthiness package) ***I</title><label>Report: Jens Gieseke (A10-0139/2026) (Majority of votes cast required)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Periodisk\u0101s tehnisk\u0101s apskates un tehnisk\u0101s p\u0101rbaudes uz ce\u013ciem (Transportl\u012bdzek\u013cu tehnisk\u0101 st\u0101vok\u013ca pakete) ***I</title><label>Zi\u0146ojums: Jens Gieseke (A10-0139/2026) (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>De periodieke technische controle en de technische controle langs de weg (Pakket technische controles) ***I</title><label>Verslag: Jens Gieseke (A10-0139/2026) (Meerderheid van de uitgebrachte stemmen vereist)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Periodin\u0117 technin\u0117 ap\u017ei\u016bra ir techninis patikrinimas kelyje (technin\u0117s ap\u017ei\u016bros dokument\u0173 rinkinys) ***I</title><label>Prane\u0161imas: Jens Gieseke (A10-0139/2026) (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Periodisk provning av motorfordons trafiks\u00e4kerhet och tekniska v\u00e4gkontroller (trafiks\u00e4kerhetspaketet) ***I</title><label>Bet\u00e4nkande: Jens Gieseke (A10-0139/2026) (En majoritet av de avgivna r\u00f6sterna kr\u00e4vdes)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Regelm\u00e4\u00dfige technische \u00dcberwachung und technische Unterwegskontrolle (Paket zur Verkehrs- und Betriebssicherheit) ***I</title><label>Bericht: Jens Gieseke (A10-0139/2026) (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>M\u00e4\u00e4r\u00e4aikaiskatsastukset ja tekniset tienvarsitarkastukset (tieliikennekelpoisuuspaketti) ***I</title><label>Mietint\u00f6: Jens Gieseke (A10-0139/2026) (hyv\u00e4ksymiseen vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Okresowe badania zdatno\u015bci do ruchu drogowego i drogowa kontrola techniczna (Pakiet w sprawie zdatno\u015bci do ruchu drogowego) ***I</title><label>Sprawozdanie: Jens Gieseke (A10-0139/2026) (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Pravideln\u00e9 technick\u00e9 prohl\u00eddky motorov\u00fdch vozidel a jejich p\u0159\u00edpojn\u00fdch vozidel (bal\u00ed\u010dek p\u0159edpis\u016f t\u00fdkaj\u00edc\u00edch se technick\u00e9 zp\u016fsobilosti vozidel) ***I</title><label>Zpr\u00e1va: Jens Gieseke (A10-0139/2026) (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Contr\u00f4le technique p\u00e9riodique et contr\u00f4le technique routier (paquet \u00abcontr\u00f4le technique\u00bb) ***I</title><label>Rapport: Jens Gieseke (A10-0139/2026) (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Periodi\u010dni tehni\u010dki pregledi i pregledi tehni\u010dke ispravnosti na cesti (Paket o tehni\u010dkoj ispravnosti) ***I</title><label>Izvje\u0161\u0107e: Jens Gieseke (A10-0139/2026) (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Inspe\u00e7\u00e3o t\u00e9cnica peri\u00f3dica e inspe\u00e7\u00e3o t\u00e9cnica na estrada (Pacote \u00abInspe\u00e7\u00e3o T\u00e9cnica Autom\u00f3vel\u00bb) ***I</title><label>Relat\u00f3rio: Jens Gieseke (A10-0139/2026) (Requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Korraline tehno\u00fclevaatus ja tehnokontroll (tehno\u00fclevaatuspakett) ***I</title><label>Raport: Jens Gieseke (A10-0139/2026) (N\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Redni tehni\u010dni pregledi in cestni pregled tehni\u010dne brezhibnosti (sve\u017eenj o tehni\u010dnih pregledih) ***I</title><label>Poro\u010dilo: Jens Gieseke (A10-0139/2026) (potrebna je ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Testijiet perjodi\u010bi tal-affidabbilt\u00e0 stradali u spezzjonijiet tekni\u010bi waqt it-tra\u0121itt (Pakkett dwar l-Affidabbilt\u00e0 Stradali) ***I</title><label>Rapport: Jens Gieseke (A10-0139/2026) (Rikjesta l-ma\u0121\u0121oranza tal-voti mitfug\u0127a)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Pravideln\u00e1 kontrola technick\u00e9ho stavu a cestn\u00e1 technick\u00e1 kontrola (Bal\u00edk opatren\u00ed t\u00fdkaj\u00facich sa technick\u00e9ho stavu vozidiel)\u00a0***I</title><label>Spr\u00e1va: Jens Gieseke (A10\u20130139/2026) (potrebn\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>T\u00e1st\u00e1lacha tr\u00e9imhsi\u00fala r\u00f3dacmhainneachta agus ini\u00fachadh teicni\u00fail cois b\u00f3thair (An pac\u00e1iste r\u00f3dacmhainneachta) ***I</title><label>Tuarasc\u00e1il: Jens Gieseke (A10-0139/2026) (Tromlach na v\u00f3ta\u00ed arna gcaitheamh ag teast\u00e1il)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u03a0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03cc\u03c2 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03cc\u03c2 \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ae \u03bf\u03b4\u03b9\u03ba\u03ae \u03b5\u03c0\u03b9\u03b8\u03b5\u03ce\u03c1\u03b7\u03c3\u03b7 (\u0394\u03ad\u03c3\u03bc\u03b7 \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03cc \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf) ***I</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Jens Gieseke (A10-0139/2026) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Periodisk teknisk kontrol og syn ved vejsiden (k\u00f8ret\u00f8jssikkerhedspakken) ***I</title><label>Bet\u00e6nkning: Jens Gieseke (A10-0139/2026) (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Inspecciones t\u00e9cnicas peri\u00f3dicas e inspecciones t\u00e9cnicas en carretera (paquete sobre la inspecci\u00f3n t\u00e9cnica de veh\u00edculos) ***I</title><label>Informe: Jens Gieseke (A10-0139/2026) (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Id\u0151szakos m\u0171szaki vizsg\u00e1lat \u00e9s k\u00f6z\u00fati m\u0171szaki ellen\u0151rz\u00e9s (m\u0171szaki alkalmass\u00e1gi jogszab\u00e1lycsomag) ***I</title><label>Jelent\u00e9s: Jens Gieseke (A10-0139/2026) (a leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Controlli tecnici periodici e controlli tecnici su strada (Pacchetto controlli tecnici) ***I</title><label>Relazione: Jens Gieseke (A10-0139/2026) (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u041f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u043d\u0438 \u043f\u0440\u0435\u0433\u043b\u0435\u0434\u0438 \u0437\u0430 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043d\u0430 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u0442\u0430 \u0438\u0437\u043f\u0440\u0430\u0432\u043d\u043e\u0441\u0442 \u0438 \u043a\u0440\u0430\u0439\u043f\u044a\u0442\u043d\u0430 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0430 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 (\u041f\u0430\u043a\u0435\u0442 \u0437\u0430 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u0442\u0430 \u0438\u0437\u043f\u0440\u0430\u0432\u043d\u043e\u0441\u0442) ***I</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Jens Gieseke (A10-0139/2026) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Inspec\u021bia tehnic\u0103 periodic\u0103 \u0219i controlul tehnic \u00een trafic (Pachetul privind inspec\u021bia tehnic\u0103 a autovehiculelor) ***I</title><label>Raport: Jens Gieseke (A10-0139/2026) (Este necesar\u0103 majoritatea voturilor exprimate.)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,744 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-344718-8",
+            "activity_label": {
+                "fr": "Processus d'int\u00e9gration europ\u00e9enne du Kosovo"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0004"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-82"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-008"
+            ],
+            "notation_dlvId": "344718",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Processus d'int\u00e9gration europ\u00e9enne du Kosovo</title><label>Proposition de r\u00e9solution: B7-0004/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2881",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-344715-3",
+            "activity_label": {
+                "fr": "Modification du r\u00e8glement du Parlement europ\u00e9en concernant la lev\u00e9e et la d\u00e9fense de l'immunit\u00e9 parlementaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0012"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-003"
+            ],
+            "notation_dlvId": "344715",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification du r\u00e8glement du Parlement europ\u00e9en concernant la lev\u00e9e et la d\u00e9fense de l'immunit\u00e9 parlementaire</title><label>Rapport: Anneli J\u00e4\u00e4tteenm\u00e4ki (A7-0012/2014) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2031",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-345249-4",
+            "activity_label": {
+                "fr": "Proposition de r\u00e9solution d\u00e9pos\u00e9e conform\u00e9ment \u00e0 l'article 88, paragraphes 2 et 3, du r\u00e8glement sur la proposition de d\u00e9cision du Conseil  concernant la mise sur le march\u00e9 \u00e0 des fins de culture, conform\u00e9ment \u00e0 la directive\u00a02001/18/CE, d\u2019un ma\u00efs (Zea mays\u00a0L., lign\u00e9e 1507) g\u00e9n\u00e9tiquement modifi\u00e9 pour le rendre r\u00e9sistant \u00e0 certains parasites de l\u2019ordre des l\u00e9pidopt\u00e8res"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0007"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-149"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-004"
+            ],
+            "notation_dlvId": "345249",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Proposition de r\u00e9solution d\u00e9pos\u00e9e conform\u00e9ment \u00e0 l'article 88, paragraphes 2 et 3, du r\u00e8glement sur la proposition de d\u00e9cision du Conseil  concernant la mise sur le march\u00e9 \u00e0 des fins de culture, conform\u00e9ment \u00e0 la directive\u00a02001/18/CE, d\u2019un ma\u00efs (Zea mays\u00a0L., lign\u00e9e 1507) g\u00e9n\u00e9tiquement modifi\u00e9 pour le rendre r\u00e9sistant \u00e0 certains parasites de l\u2019ordre des l\u00e9pidopt\u00e8res</title><label>Proposition de r\u00e9solution: B7-0007/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2974",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-345348-13",
+            "activity_label": {
+                "fr": "R\u00e9centes \u00e9lections au Bangladesh"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0037",
+                "eli/dl/doc/B-7-2014-0041",
+                "eli/dl/doc/B-7-2014-0040",
+                "eli/dl/doc/B-7-2014-0036",
+                "eli/dl/doc/B-7-2014-0034",
+                "eli/dl/doc/B-7-2014-0038"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-194"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-013"
+            ],
+            "notation_dlvId": "345348",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9centes \u00e9lections au Bangladesh</title><label>B7-0034/2014, B7-0036/2014, B7-0037/2014, B7-0038/2014, B7-0040/2014, B7-0041/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2516",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-344717-7",
+            "activity_label": {
+                "fr": "Rapport de suivi 2013 sur la Serbie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0006"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-007"
+            ],
+            "notation_dlvId": "344717",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport de suivi 2013 sur la Serbie</title><label>Proposition de r\u00e9solution: B7-0006/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2880",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-344722-6",
+            "activity_label": {
+                "fr": "Citoyennet\u00e9 de l'Union europ\u00e9enne \u00e0 vendre"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0030",
+                "eli/dl/doc/B-7-2014-0029",
+                "eli/dl/doc/B-7-2014-0028",
+                "eli/dl/doc/B-7-2014-0015",
+                "eli/dl/doc/B-7-2014-0017",
+                "eli/dl/doc/B-7-2014-0031"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-183"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-006"
+            ],
+            "notation_dlvId": "344722",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Citoyennet\u00e9 de l'Union europ\u00e9enne \u00e0 vendre</title><label>Propositions de r\u00e9solution: B7-0015/2014, B7-0017/2014, B7-0028/2014, B7-0029/2014, B7-0030/2014, B7-0031/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2995",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-345351-12",
+            "activity_label": {
+                "fr": "Situation des d\u00e9fenseurs des droits de l'homme et des militants de l'opposition au Cambodge et au Laos"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0035",
+                "eli/dl/doc/B-7-2014-0039",
+                "eli/dl/doc/B-7-2014-0033",
+                "eli/dl/doc/B-7-2014-0046",
+                "eli/dl/doc/B-7-2014-0042",
+                "eli/dl/doc/B-7-2014-0049",
+                "eli/dl/doc/B-7-2014-0044"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-193"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-012"
+            ],
+            "notation_dlvId": "345351",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation des d\u00e9fenseurs des droits de l'homme et des militants de l'opposition au Cambodge et au Laos</title><label>B7-0033/2014, B7-0035/2014, B7-0039/2014, B7-0042/2014, B7-0044/2014, B7-0046/2014, B7-0049/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2515",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-345248-1",
+            "activity_label": {
+                "fr": "Nomination d'un membre du directoire de la Banque centrale europ\u00e9enne (Sabine LAUTENSCHL\u00c4GER)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0023"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-198"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-001"
+            ],
+            "notation_dlvId": "345248",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre du directoire de la Banque centrale europ\u00e9enne (Sabine LAUTENSCHL\u00c4GER)</title><label>Rapport: Sharon Bowles (A7-0023/2014) (Vote au scrutin secret (article 169, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0801",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-345350-14",
+            "activity_label": {
+                "fr": "R\u00e9centes mesures visant \u00e0 criminaliser les personnes LGBTI"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0051",
+                "eli/dl/doc/B-7-2014-0043",
+                "eli/dl/doc/B-7-2014-0050",
+                "eli/dl/doc/B-7-2014-0045",
+                "eli/dl/doc/B-7-2014-0047",
+                "eli/dl/doc/B-7-2014-0048"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-195"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-014"
+            ],
+            "notation_dlvId": "345350",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9centes mesures visant \u00e0 criminaliser les personnes LGBTI</title><label>B7-0043/2014, B7-0045/2014, B7-0047/2014, B7-0048/2014, B7-0050/2014, B7-0051/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2517",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-345211-5",
+            "activity_label": {
+                "fr": "Respect du droit fondamental \u00e0 la libre circulation dans l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0023",
+                "eli/dl/doc/B-7-2014-0026",
+                "eli/dl/doc/B-7-2014-0027",
+                "eli/dl/doc/B-7-2014-0016",
+                "eli/dl/doc/B-7-2014-0025"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-196"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-005"
+            ],
+            "notation_dlvId": "345211",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Respect du droit fondamental \u00e0 la libre circulation dans l'UE</title><label>Proposition de r\u00e9solution: B7-0016/2014, B7-0023/2014, B7-0025/2014, B7-0026/2014, B7-0027/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2960",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-344721-9",
+            "activity_label": {
+                "fr": "Rapport de suivi 2012 concernant l'Islande et perspectives \u00e0 l'issue des \u00e9lections"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0005"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-113"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-009"
+            ],
+            "notation_dlvId": "344721",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport de suivi 2012 concernant l'Islande et perspectives \u00e0 l'issue des \u00e9lections</title><label>Proposition de r\u00e9solution: B7-0005/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2932",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-344724-11",
+            "activity_label": {
+                "fr": "Strat\u00e9gie de l'UE pour les personnes sans-abri"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0011",
+                "eli/dl/doc/B-7-2014-0008",
+                "eli/dl/doc/B-7-2014-0010",
+                "eli/dl/doc/B-7-2014-0009",
+                "eli/dl/doc/B-7-2014-0012"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-182"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-011"
+            ],
+            "notation_dlvId": "344724",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie de l'UE pour les personnes sans-abri</title><label>Propositions de r\u00e9solution: B7-0008/2014, B7-0009/2014, B7-0010/2014, B7-0011/2014, B7-0012/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2994",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-344715-2",
+            "activity_label": {
+                "fr": "Autorisation donn\u00e9e \u00e0 la France d'appliquer un taux r\u00e9duit concernant certaines taxes indirectes sur le rhum \"traditionnel\" produit en Guadeloupe, en Guyane fran\u00e7aise, en Martinique et \u00e0 La R\u00e9union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0013"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-189"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-002"
+            ],
+            "notation_dlvId": "344715",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Autorisation donn\u00e9e \u00e0 la France d'appliquer un taux r\u00e9duit concernant certaines taxes indirectes sur le rhum \"traditionnel\" produit en Guadeloupe, en Guyane fran\u00e7aise, en Martinique et \u00e0 La R\u00e9union</title><label>Rapport: Danuta Maria H\u00fcbner (A7-0013/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0413",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10",
+            "type": "Activity",
+            "activity_date": "2014-01-16",
+            "activity_id": "MTG-PL-2014-01-16-VOT-ITM-345210-10",
+            "activity_label": {
+                "fr": "Situation au Soudan du Sud"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0020",
+                "eli/dl/doc/B-7-2014-0032",
+                "eli/dl/doc/B-7-2014-0022",
+                "eli/dl/doc/B-7-2014-0019",
+                "eli/dl/doc/B-7-2014-0018"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-16-OJ-ITM-V-190"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-16-VOT-ITM-010"
+            ],
+            "notation_dlvId": "345210",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation au Soudan du Sud</title><label>Propositions de r\u00e9solution: B7-0018/2014, B7-0019/2014, B7-0020/2014, B7-0021/014, B7-0022/2014, B7-0032/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344718-8",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-3",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345249-4",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345348-13",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344717-7",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344722-6",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345351-12",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345248-1",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345350-14",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345211-5",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344721-9",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344724-11",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-344715-2",
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2512",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-16-VOT-ITM-345210-10"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

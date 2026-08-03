@@ -1,0 +1,486 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7",
+            "type": "Activity",
+            "activity_date": "2017-11-16",
+            "activity_id": "MTG-PL-2017-11-16-VOT-ITM-655595-7",
+            "activity_label": {
+                "fr": "Strat\u00e9gie UE-Afrique: un coup d'acc\u00e9l\u00e9rateur au d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0334"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-16-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-16-VOT-ITM-007"
+            ],
+            "notation_dlvId": "655595",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie UE-Afrique: un coup d'acc\u00e9l\u00e9rateur au d\u00e9veloppement</title><label>Rapport: Maurice Ponga (A8-0334/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2083",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3",
+            "type": "Activity",
+            "activity_date": "2017-11-16",
+            "activity_id": "MTG-PL-2017-11-16-VOT-ITM-655914-3",
+            "activity_label": {
+                "fr": "Madagascar"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0645",
+                "eli/dl/doc/B-8-2017-0643",
+                "eli/dl/doc/B-8-2017-0641",
+                "eli/dl/doc/B-8-2017-0646",
+                "eli/dl/doc/B-8-2017-0647",
+                "eli/dl/doc/B-8-2017-0644"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-16-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-16-VOT-ITM-003"
+            ],
+            "notation_dlvId": "655914",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Madagascar</title><label>Propositions de r\u00e9solution: B8-0641/2017, B8-0643/2017, B8-0644/2017, B8-0645/2017, B8-0646/2017, B8-0647/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2963",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8",
+            "type": "Activity",
+            "activity_date": "2017-11-16",
+            "activity_id": "MTG-PL-2017-11-16-VOT-ITM-655594-8",
+            "activity_label": {
+                "fr": "Activit\u00e9s du m\u00e9diateur europ\u00e9en en 2016"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0328"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-16-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-16-VOT-ITM-008"
+            ],
+            "notation_dlvId": "655594",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Activit\u00e9s du m\u00e9diateur europ\u00e9en en 2016</title><label>Rapport: Marlene Mizzi (A8-0328/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2126",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2",
+            "type": "Activity",
+            "activity_date": "2017-11-16",
+            "activity_id": "MTG-PL-2017-11-16-VOT-ITM-655913-2",
+            "activity_label": {
+                "fr": "Attentats terroristes en Somalie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0632",
+                "eli/dl/doc/B-8-2017-0635",
+                "eli/dl/doc/B-8-2017-0633",
+                "eli/dl/doc/B-8-2017-0631",
+                "eli/dl/doc/B-8-2017-0600"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-16-OJ-ITM-V-72"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-16-VOT-ITM-002"
+            ],
+            "notation_dlvId": "655913",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Attentats terroristes en Somalie</title><label>Propositions de r\u00e9solution: B8-0600/2017, B8-0631/2017, B8-0632/2017, B8-0633/2017, B8-0635/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2962",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4",
+            "type": "Activity",
+            "activity_date": "2017-11-16",
+            "activity_id": "MTG-PL-2017-11-16-VOT-ITM-657327-4",
+            "activity_label": {
+                "fr": "\u00c9tablissement des crit\u00e8res et m\u00e9canismes de d\u00e9termination de l\u2019\u00c9tat membre responsable de l\u2019examen d\u2019une demande de protection internationale introduite dans l\u2019un des \u00c9tats membres par un ressortissant de pays tiers ou un apatride (refonte)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0345"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-16-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-16-VOT-ITM-004"
+            ],
+            "notation_dlvId": "657327",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement des crit\u00e8res et m\u00e9canismes de d\u00e9termination de l\u2019\u00c9tat membre responsable de l\u2019examen d\u2019une demande de protection internationale introduite dans l\u2019un des \u00c9tats membres par un ressortissant de pays tiers ou un apatride (refonte)</title><label>Rapport: Cecilia Wikstr\u00f6m (A8-0345/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0133",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5",
+            "type": "Activity",
+            "activity_date": "2017-11-16",
+            "activity_id": "MTG-PL-2017-11-16-VOT-ITM-655644-5",
+            "activity_label": {
+                "fr": "Accord de partenariat sur les relations et la coop\u00e9ration UE-Nouvelle-Z\u00e9lande (approbation)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0327"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-16-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-16-VOT-ITM-005"
+            ],
+            "notation_dlvId": "655644",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat sur les relations et la coop\u00e9ration UE-Nouvelle-Z\u00e9lande (approbation)</title><label>Recommandation: Charles Tannock (A8-0327/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0366",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6",
+            "type": "Activity",
+            "activity_date": "2017-11-16",
+            "activity_id": "MTG-PL-2017-11-16-VOT-ITM-655659-6",
+            "activity_label": {
+                "fr": "Accord de partenariat sur les relations et la coop\u00e9ration UE-Nouvelle-Z\u00e9lande (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0333"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-16-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-16-VOT-ITM-006"
+            ],
+            "notation_dlvId": "655659",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat sur les relations et la coop\u00e9ration UE-Nouvelle-Z\u00e9lande (r\u00e9solution)</title><label>Rapport: Charles Tannock (A8-0333/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2050",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10",
+            "type": "Activity",
+            "activity_date": "2017-11-16",
+            "activity_id": "MTG-PL-2017-11-16-VOT-ITM-655660-10",
+            "activity_label": {
+                "fr": "Lutte contre les in\u00e9galit\u00e9s comme moyen d'action pour stimuler la cr\u00e9ation d'emplois et la croissance"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0340"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-16-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-16-VOT-ITM-010"
+            ],
+            "notation_dlvId": "655660",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lutte contre les in\u00e9galit\u00e9s comme moyen d'action pour stimuler la cr\u00e9ation d'emplois et la croissance</title><label>Rapport: Javi L\u00f3pez (A8-0340/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2269",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9",
+            "type": "Activity",
+            "activity_date": "2017-11-16",
+            "activity_id": "MTG-PL-2017-11-16-VOT-ITM-655910-9",
+            "activity_label": {
+                "fr": "Examen de la mise en \u0153uvre de la politique environnementale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0590"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-16-OJ-ITM-V-26"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-16-VOT-ITM-009"
+            ],
+            "notation_dlvId": "655910",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Examen de la mise en \u0153uvre de la politique environnementale</title><label>Proposition de r\u00e9solution: B8-0590/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2705",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1",
+            "type": "Activity",
+            "activity_date": "2017-11-16",
+            "activity_id": "MTG-PL-2017-11-16-VOT-ITM-655912-1",
+            "activity_label": {
+                "fr": "Libert\u00e9 d'expression au Soudan, notamment le cas de Mohamed Zine El Abidine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0637",
+                "eli/dl/doc/B-8-2017-0642",
+                "eli/dl/doc/B-8-2017-0634",
+                "eli/dl/doc/B-8-2017-0636",
+                "eli/dl/doc/B-8-2017-0639",
+                "eli/dl/doc/B-8-2017-0638",
+                "eli/dl/doc/B-8-2017-0640"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-16-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-16-VOT-ITM-001"
+            ],
+            "notation_dlvId": "655912",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Libert\u00e9 d'expression au Soudan, notamment le cas de Mohamed Zine El Abidine</title><label>Propositions de r\u00e9solution: B8-0634/2017, B8-0636/2017, B8-0637/2017, B8-0638/2017, B8-0639/2017, B8-0640/2017, B8-0642/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655595-7",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655914-3",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655594-8",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655913-2",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-657327-4",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655644-5",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655659-6",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655660-10",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655910-9",
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2961",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-16-VOT-ITM-655912-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

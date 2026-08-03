@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938703",
+            "activity_label": {
+                "fr": "Droits de l\u2019Union pour mettre en \u0153uvre et faire appliquer l\u2019accord sur le retrait du Royaume-Uni et l'accord de commerce et de coop\u00e9ration UE/Royaume-Uni"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0248"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938703",
+            "epvoc:amendmentsAdoptedCommittee": 20,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 20,
+            "epvoc:amendmentsTabledCommittee": 20,
+            "epvoc:amendmentsTabledTotal": 20,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits de l\u2019Union pour mettre en \u0153uvre et faire appliquer l\u2019accord sur le retrait du Royaume-Uni et l'accord de commerce et de coop\u00e9ration UE/Royaume-Uni</title><label>Rapport: Se\u00e1n Kelly, Andreas Schieder, Danuta Maria H\u00fcbner (A9-0248/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

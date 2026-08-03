@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939592",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939592",
+            "activity_label": {
+                "fr": "D\u00e9charge 2021: budget g\u00e9n\u00e9ral de l\u2019UE - Conseil europ\u00e9en et Conseil",
+                "mul": "D\u00e9charge 2021: budget g\u00e9n\u00e9ral de l\u2019UE - Conseil europ\u00e9en et Conseil - Discharge 2021: EU general budget -  European Council and Council - Entlastung 2021: Gesamthaushaltsplan der EU \u2013 Europ\u00e4ischer Rat und Rat"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0274"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-28",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939592",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2021: budget g\u00e9n\u00e9ral de l\u2019UE - Conseil europ\u00e9en et Conseil</title><label>Rapport: Mikul\u00e1\u0161 Peksa (A9-0274/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

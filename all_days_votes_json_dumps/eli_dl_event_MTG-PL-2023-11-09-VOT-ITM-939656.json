@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939656",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939656",
+            "activity_label": {
+                "mul": "Syst\u00e8mes des ressources propres de l'Union - System of own resources of the European Union  - Eigenmittelsystem der Europ\u00e4ischen Union",
+                "fr": "Syst\u00e8mes des ressources propres de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0295"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-21",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-019"
+            ],
+            "notation_dlvId": "939656",
+            "epvoc:amendmentsAdoptedCommittee": 5,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 5,
+            "epvoc:amendmentsTabledCommittee": 5,
+            "epvoc:amendmentsTabledPoliticalGroup": 3,
+            "epvoc:amendmentsTabledTotal": 8,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8mes des ressources propres de l'Union</title><label>Rapport: Jos\u00e9 Manuel Fernandes, Val\u00e9rie Hayer (A9-0295/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

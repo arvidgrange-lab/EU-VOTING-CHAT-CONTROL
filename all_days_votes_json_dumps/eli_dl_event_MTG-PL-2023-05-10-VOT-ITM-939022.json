@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-10-VOT-ITM-939022",
+            "type": "Activity",
+            "activity_date": "2023-05-10",
+            "activity_id": "MTG-PL-2023-05-10-VOT-ITM-939022",
+            "activity_label": {
+                "fr": "D\u00e9charge 2021: entreprise commune \u00abRecherche sur la gestion du trafic a\u00e9rien dans le ciel unique europ\u00e9en 3\u00bb (avant le 30 novembre 2021: entreprise commune SESAR)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0118"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-10-OJ-ITM-V-115",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-10-VOT-ITM-045"
+            ],
+            "notation_dlvId": "939022",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2021: entreprise commune \u00abRecherche sur la gestion du trafic a\u00e9rien dans le ciel unique europ\u00e9en 3\u00bb (avant le 30 novembre 2021: entreprise commune SESAR)</title><label>Rapport: Ryszard Czarnecki (A9-0118/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

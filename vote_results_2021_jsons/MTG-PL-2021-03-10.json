@@ -1,0 +1,257 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929947",
+            "type": "Activity",
+            "activity_date": "2021-03-10",
+            "activity_id": "MTG-PL-2021-03-10-VOT-ITM-929947",
+            "activity_label": {
+                "fr": "Contr\u00f4le des p\u00eaches"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0016"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-10-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-10-VOT-ITM-001"
+            ],
+            "notation_dlvId": "929947",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contr\u00f4le des p\u00eaches</title><label>Rapport: Clara Aguilera (A9-0016/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929947",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929799",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930008",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930005",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930009",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929641"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929799",
+            "type": "Activity",
+            "activity_date": "2021-03-10",
+            "activity_id": "MTG-PL-2021-03-10-VOT-ITM-929799",
+            "activity_label": {
+                "fr": "Activit\u00e9s du M\u00e9diateur europ\u00e9en \u2013 rapport annuel 2019"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0013"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-10-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-10-VOT-ITM-002"
+            ],
+            "notation_dlvId": "929799",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Activit\u00e9s du M\u00e9diateur europ\u00e9en \u2013 rapport annuel 2019</title><label>Rapport: Sylvie Guillaume (A9-0013/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929947",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929799",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930008",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930005",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930009",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929641"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2125",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929799"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930008",
+            "type": "Activity",
+            "activity_date": "2021-03-10",
+            "activity_id": "MTG-PL-2021-03-10-VOT-ITM-930008",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3: coton g\u00e9n\u00e9tiquement modifi\u00e9 GHB614 \u00d7 T304-40 \u00d7 GHB119"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0160"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-10-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-10-VOT-ITM-010"
+            ],
+            "notation_dlvId": "930008",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3: coton g\u00e9n\u00e9tiquement modifi\u00e9 GHB614 \u00d7 T304-40 \u00d7 GHB119</title><label>B9-0160/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929947",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929799",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930008",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930005",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930009",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929641"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2553",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930008"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930005",
+            "type": "Activity",
+            "activity_date": "2021-03-10",
+            "activity_id": "MTG-PL-2021-03-10-VOT-ITM-930005",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3: substances actives, notamment la dimoxystrobine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0162"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-10-OJ-ITM-V-69"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-10-VOT-ITM-009"
+            ],
+            "notation_dlvId": "930005",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3: substances actives, notamment la dimoxystrobine </title><label>B9-0162/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929947",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929799",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930008",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930005",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930009",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929641"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2552",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930005"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930009",
+            "type": "Activity",
+            "activity_date": "2021-03-10",
+            "activity_id": "MTG-PL-2021-03-10-VOT-ITM-930009",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MZIR098 (SYN-\u00d8\u00d8\u00d898-3)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0161"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-10-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-10-VOT-ITM-011"
+            ],
+            "notation_dlvId": "930009",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MZIR098 (SYN-\u00d8\u00d8\u00d898-3)</title><label>B9-0161/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929947",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929799",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930008",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930005",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930009",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929641"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2554",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930009"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929641",
+            "type": "Activity",
+            "activity_date": "2021-03-10",
+            "activity_id": "MTG-PL-2021-03-10-VOT-ITM-929641",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre du r\u00e8glement sur les produits de construction"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0012"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-10-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-10-VOT-ITM-012"
+            ],
+            "notation_dlvId": "929641",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du r\u00e8glement sur les produits de construction</title><label>Rapport: Christian Doleschal (A9-0012/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929947",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929799",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930008",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930005",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-930009",
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929641"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2028",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-10-VOT-ITM-929641"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

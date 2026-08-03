@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-05-VOT-ITM-939544",
+            "type": "Activity",
+            "activity_date": "2023-10-05",
+            "activity_id": "MTG-PL-2023-10-05-VOT-ITM-939544",
+            "activity_label": {
+                "fr": "Le cas de Zarema Moussa\u00efeva en Tch\u00e9tch\u00e9nie",
+                "mul": "Le cas de Zarema Moussa\u00efeva en Tch\u00e9tch\u00e9nie - The case of Zarema Musaeva in Chechnya - Der Fall Sarema Mussajewa in Tschetschenien"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0419",
+                "eli/dl/doc/B-9-2023-0416",
+                "eli/dl/doc/B-9-2023-0421",
+                "eli/dl/doc/B-9-2023-0415",
+                "eli/dl/doc/B-9-2023-0418"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-05-OJ-ITM-V-83",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-05-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939544",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le cas de Zarema Moussa\u00efeva en Tch\u00e9tch\u00e9nie</title><label>Propositions de r\u00e9solution: RC-B9-0415/2023, B9-0415/2023, B9-0416/2023, B9-0418/2023, B9-0419/2023, B9-0421/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

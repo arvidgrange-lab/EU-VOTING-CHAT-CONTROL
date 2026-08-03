@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938986",
+            "activity_label": {
+                "fr": "R\u00e9pression en Russie, notamment les cas de Vladimir Kara-Mourza et d'Alexe\u00ef Navalny"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0226",
+                "eli/dl/doc/B-9-2023-0229",
+                "eli/dl/doc/B-9-2023-0227",
+                "eli/dl/doc/B-9-2023-0225",
+                "eli/dl/doc/B-9-2023-0228"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-91",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-002"
+            ],
+            "notation_dlvId": "938986",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9pression en Russie, notamment les cas de Vladimir Kara-Mourza et d'Alexe\u00ef Navalny</title><label>Propositions de r\u00e9solution: RC-B9-0225/2023, B9-0225/2023, B9-0226/2023, B9-0227/2023, B9-0228/2023, B9-0229/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

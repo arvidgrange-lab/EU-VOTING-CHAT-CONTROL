@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-09-VOT-ITM-939094",
+            "type": "Activity",
+            "activity_date": "2023-05-09",
+            "activity_id": "MTG-PL-2023-05-09-VOT-ITM-939094",
+            "activity_label": {
+                "fr": "Accord d\u2019association UE/Euratom/Ukraine: lib\u00e9ralisation temporaire des \u00e9changes commerciaux compl\u00e9tant les concessions commerciales applicables aux produits ukrainiens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0165"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-09-OJ-ITM-V-38",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-09-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939094",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord d\u2019association UE/Euratom/Ukraine: lib\u00e9ralisation temporaire des \u00e9changes commerciaux compl\u00e9tant les concessions commerciales applicables aux produits ukrainiens</title><label>Rapport: Sandra Kalniete (A9-0165/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

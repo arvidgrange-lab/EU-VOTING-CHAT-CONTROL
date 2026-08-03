@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-11-VOT-ITM-939130",
+            "type": "Activity",
+            "activity_date": "2023-05-11",
+            "activity_id": "MTG-PL-2023-05-11-VOT-ITM-939130",
+            "activity_label": {
+                "fr": "Ad\u00e9quation de la protection assur\u00e9e par le cadre de protection des donn\u00e9es UE-\u00c9tats-Unis"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0234"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-11-OJ-ITM-V-72",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-11-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939130",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ad\u00e9quation de la protection assur\u00e9e par le cadre de protection des donn\u00e9es UE-\u00c9tats-Unis</title><label>Propositions de r\u00e9solution: B9-0234/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

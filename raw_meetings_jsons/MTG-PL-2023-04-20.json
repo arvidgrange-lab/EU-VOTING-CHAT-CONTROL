@@ -1,0 +1,558 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938987",
+            "activity_label": {
+                "fr": "R\u00e9sidents de longue dur\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0145"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-96",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM--004"
+            ],
+            "notation_dlvId": "938987",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9sidents de longue dur\u00e9e</title><label>Rapport: Damian Boeselager (A9-0145/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938986",
+            "activity_label": {
+                "fr": "R\u00e9pression en Russie, notamment les cas de Vladimir Kara-Mourza et d'Alexe\u00ef Navalny"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0226",
+                "eli/dl/doc/B-9-2023-0229",
+                "eli/dl/doc/B-9-2023-0227",
+                "eli/dl/doc/B-9-2023-0225",
+                "eli/dl/doc/B-9-2023-0228"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-91",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-002"
+            ],
+            "notation_dlvId": "938986",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9pression en Russie, notamment les cas de Vladimir Kara-Mourza et d'Alexe\u00ef Navalny</title><label>Propositions de r\u00e9solution: RC-B9-0225/2023, B9-0225/2023, B9-0226/2023, B9-0227/2023, B9-0228/2023, B9-0229/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2657",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938995",
+            "activity_label": {
+                "fr": "Atteintes au droit \u00e0 l'\u00e9ducation et r\u00e9pression visant les militants pour le droit \u00e0 l'\u00e9ducation en Afghanistan, notamment le cas de Matiullah Wesa"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0211",
+                "eli/dl/doc/B-9-2023-0208",
+                "eli/dl/doc/B-9-2023-0209",
+                "eli/dl/doc/B-9-2023-0210",
+                "eli/dl/doc/B-9-2023-0205",
+                "eli/dl/doc/B-9-2023-0207"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-80",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-001"
+            ],
+            "notation_dlvId": "938995",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Atteintes au droit \u00e0 l'\u00e9ducation et r\u00e9pression visant les militants pour le droit \u00e0 l'\u00e9ducation en Afghanistan, notamment le cas de Matiullah Wesa </title><label>Propositions de r\u00e9solution: RC-B9-0205/2023, B9-0205/2023, B9-0207/2023, B9-0208/2023, B9-0209/2023, B9-0210/2023, B9-0211/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2648",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938994",
+            "activity_label": {
+                "fr": "Le chanteur Yahaya Aminu Sharif, condamn\u00e9 pour blasph\u00e8me au Nigeria, sous la menace de la peine capitale et d\u2019ex\u00e9cution"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0212",
+                "eli/dl/doc/B-9-2023-0215",
+                "eli/dl/doc/B-9-2023-0218",
+                "eli/dl/doc/B-9-2023-0214",
+                "eli/dl/doc/B-9-2023-0213",
+                "eli/dl/doc/B-9-2023-0216"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-82",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938994",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le chanteur Yahaya Aminu Sharif, condamn\u00e9 pour blasph\u00e8me au Nigeria, sous la menace de la peine capitale et d\u2019ex\u00e9cution</title><label>Propositions de r\u00e9solution: RC-B9-0212/2023, B9-0212/2023, B9-0213/2023, B9-0214/2023, B9-0215/2023, B9-0216/2023, B9-0218/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2650",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938992",
+            "activity_label": {
+                "fr": "\u00c9tat pr\u00e9visionnel des d\u00e9penses et des recettes du Parlement pour l'exercice 2024"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0153"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-32",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-006"
+            ],
+            "notation_dlvId": "938992",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tat pr\u00e9visionnel des d\u00e9penses et des recettes du Parlement pour l'exercice 2024</title><label>Rapport: Nils U\u0161akovs (A9-0153/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2185",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938993",
+            "activity_label": {
+                "fr": "D\u00e9p\u00e9nalisation universelle de l'homosexualit\u00e9, \u00e0 la lumi\u00e8re des \u00e9v\u00e9nements r\u00e9cents en Ouganda"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0222",
+                "eli/dl/doc/B-9-2023-0223",
+                "eli/dl/doc/B-9-2023-0219",
+                "eli/dl/doc/B-9-2023-0221",
+                "eli/dl/doc/B-9-2023-0220",
+                "eli/dl/doc/B-9-2023-0224"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-70",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-007"
+            ],
+            "notation_dlvId": "938993",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9p\u00e9nalisation universelle de l'homosexualit\u00e9, \u00e0 la lumi\u00e8re des \u00e9v\u00e9nements r\u00e9cents en Ouganda</title><label>Propositions de r\u00e9solution: RC-B9-0219/2023, B9-0219/2023, B9-0220/2023, B9-0221/2023, B9-0222/2023, B9-0223/2023, B9-0224/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2643",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938958",
+            "activity_label": {
+                "fr": "March\u00e9s de cryptoactifs (MiCA)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0052"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-20",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-004"
+            ],
+            "notation_dlvId": "938958",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>March\u00e9s de cryptoactifs (MiCA)  </title><label>Rapport: Stefan Berger (A9-0052/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-0265",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938991",
+            "activity_label": {
+                "fr": "Syst\u00e8me europ\u00e9en d\u2019information sur les casiers judiciaires - ressortissants de pays tiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0148"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-95",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM--002"
+            ],
+            "notation_dlvId": "938991",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8me europ\u00e9en d\u2019information sur les casiers judiciaires - ressortissants de pays tiers</title><label>Rapport: Birgit Sippel (A9-0148/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0046",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938990",
+            "activity_label": {
+                "fr": "Filtrage des ressortissants de pays tiers aux fronti\u00e8res ext\u00e9rieures"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0149"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-93",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM--001"
+            ],
+            "notation_dlvId": "938990",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Filtrage des ressortissants de pays tiers aux fronti\u00e8res ext\u00e9rieures</title><label>Rapport: Birgit Sippel (A9-0149/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938989",
+            "activity_label": {
+                "fr": "Gestion des situations de crise dans le domaine de la migration et de l'asile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0127"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-92",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-000"
+            ],
+            "notation_dlvId": "938989",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gestion des situations de crise dans le domaine de la migration et de l'asile</title><label>Rapport: Juan Fernando L\u00f3pez Aguilar (A9-0127/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938943",
+            "activity_label": {
+                "fr": "Informations accompagnant les transferts de fonds et certains crypto-actifs (refonte)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0081"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-21",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-005"
+            ],
+            "notation_dlvId": "938943",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Informations accompagnant les transferts de fonds et certains crypto-actifs (refonte)</title><label>Rapport: Ernest Urtasun, Assita Kanko (A9-0081/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0241",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938988",
+            "activity_label": {
+                "fr": "Gestion de l'asile et de la migration"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0152"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-94",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM--003"
+            ],
+            "notation_dlvId": "938988",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gestion de l'asile et de la migration</title><label>Rapport: Tomas Tob\u00e9 (A9-0152/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938987",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938986",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938994",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938992",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938958",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938991",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938943",
+                        "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938988"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

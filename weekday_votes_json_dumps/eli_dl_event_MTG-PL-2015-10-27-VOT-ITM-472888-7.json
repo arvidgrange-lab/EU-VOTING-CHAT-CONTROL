@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472888-7",
+            "activity_label": {
+                "fr": "Voyages \u00e0 forfait et prestations de voyage assist\u00e9es"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0297"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-82"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-007"
+            ],
+            "notation_dlvId": "472888",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Voyages \u00e0 forfait et prestations de voyage assist\u00e9es</title><label>Recommandation pour la deuxi\u00e8me lecture: Birgit Collin-Langen (A8-0297/2015) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

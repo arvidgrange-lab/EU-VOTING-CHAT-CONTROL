@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939372",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939372",
+            "activity_label": {
+                "fr": "Efficacit\u00e9 \u00e9nerg\u00e9tique (refonte)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0221"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-50",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-014"
+            ],
+            "notation_dlvId": "939372",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Efficacit\u00e9 \u00e9nerg\u00e9tique (refonte)</title><label>Rapport: Niels Fuglsang (A9-0221/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

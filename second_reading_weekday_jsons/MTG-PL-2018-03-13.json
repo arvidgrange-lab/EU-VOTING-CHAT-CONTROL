@@ -1,0 +1,416 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684234-5",
+            "type": "Activity",
+            "activity_date": "2018-03-13",
+            "activity_id": "MTG-PL-2018-03-13-VOT-ITM-684234-5",
+            "activity_label": {
+                "fr": "Qualification initiale et formation continue des conducteurs de certains v\u00e9hicules routiers et permis de conduire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0321"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-13-OJ-ITM-V-43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "684234",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Qualification initiale et formation continue des conducteurs de certains v\u00e9hicules routiers et permis de conduire</title><label>Rapport: Peter Lundgren (A8-0321/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684234-5",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684232-4",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-2",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-1",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684794-9",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684237-8",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-3",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684335-6",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684236-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0015",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684234-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684232-4",
+            "type": "Activity",
+            "activity_date": "2018-03-13",
+            "activity_id": "MTG-PL-2018-03-13-VOT-ITM-684232-4",
+            "activity_label": {
+                "fr": "Services de livraison transfronti\u00e8re de colis"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0315"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-13-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "684232",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Services de livraison transfronti\u00e8re de colis</title><label>Rapport: Lucy Anderson (A8-0315/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684234-5",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684232-4",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-2",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-1",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684794-9",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684237-8",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-3",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684335-6",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684236-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0149",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684232-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-2",
+            "type": "Activity",
+            "activity_date": "2018-03-13",
+            "activity_id": "MTG-PL-2018-03-13-VOT-ITM-684230-2",
+            "activity_label": {
+                "fr": "Accord de coop\u00e9ration et d'assistance administrative mutuelle en mati\u00e8re douani\u00e8re entre l'Union europ\u00e9enne et la Nouvelle-Z\u00e9lande"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0029"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-13-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-13-VOT-ITM-002"
+            ],
+            "notation_dlvId": "684230",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de coop\u00e9ration et d'assistance administrative mutuelle en mati\u00e8re douani\u00e8re entre l'Union europ\u00e9enne et la Nouvelle-Z\u00e9lande</title><label>Recommandation: Daniel Caspary (A8-0029/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684234-5",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684232-4",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-2",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-1",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684794-9",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684237-8",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-3",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684335-6",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684236-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0006",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-1",
+            "type": "Activity",
+            "activity_date": "2018-03-13",
+            "activity_id": "MTG-PL-2018-03-13-VOT-ITM-684230-1",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre du protocole relatif aux cons\u00e9quences financi\u00e8res de l'expiration du trait\u00e9 CECA et au Fonds de recherche du charbon et de l'acier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0034"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-13-OJ-ITM-V-48"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "684230",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du protocole relatif aux cons\u00e9quences financi\u00e8res de l'expiration du trait\u00e9 CECA et au Fonds de recherche du charbon et de l'acier</title><label>Recommandation: Jean Arthuis (A8-0034/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684234-5",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684232-4",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-2",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-1",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684794-9",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684237-8",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-3",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684335-6",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684236-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0213",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684794-9",
+            "type": "Activity",
+            "activity_date": "2018-03-13",
+            "activity_id": "MTG-PL-2018-03-13-VOT-ITM-684794-9",
+            "activity_label": {
+                "fr": "Le r\u00f4le des r\u00e9gions et des villes de l'UE dans la mise en \u0153uvre de l'accord de Paris de la COP 21 sur le changement climatique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0045"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-13-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-13-VOT-ITM-009"
+            ],
+            "notation_dlvId": "684794",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le r\u00f4le des r\u00e9gions et des villes de l'UE dans la mise en \u0153uvre de l'accord de Paris de la COP 21 sur le changement climatique</title><label>Rapport: \u00c1ngela Vallina (A8-0045/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684234-5",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684232-4",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-2",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-1",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684794-9",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684237-8",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-3",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684335-6",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684236-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2006",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684794-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684237-8",
+            "type": "Activity",
+            "activity_date": "2018-03-13",
+            "activity_id": "MTG-PL-2018-03-13-VOT-ITM-684237-8",
+            "activity_label": {
+                "fr": "R\u00e9gions en retard de d\u00e9veloppement dans l\u2019UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0046"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-13-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-13-VOT-ITM-008"
+            ],
+            "notation_dlvId": "684237",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9gions en retard de d\u00e9veloppement dans l\u2019UE</title><label>Rapport: Michela Giuffrida (A8-0046/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684234-5",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684232-4",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-2",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-1",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684794-9",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684237-8",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-3",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684335-6",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684236-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2208",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684237-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-3",
+            "type": "Activity",
+            "activity_date": "2018-03-13",
+            "activity_id": "MTG-PL-2018-03-13-VOT-ITM-684230-3",
+            "activity_label": {
+                "fr": "Strat\u00e9gie europ\u00e9enne relative aux syst\u00e8mes de transport intelligents cooperatifs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0036"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-13-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-13-VOT-ITM-003"
+            ],
+            "notation_dlvId": "684230",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie europ\u00e9enne relative aux syst\u00e8mes de transport intelligents cooperatifs</title><label>Rapport: Istv\u00e1n Ujhelyi (A8-0036/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684234-5",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684232-4",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-2",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-1",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684794-9",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684237-8",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-3",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684335-6",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684236-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2067",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684335-6",
+            "type": "Activity",
+            "activity_date": "2018-03-13",
+            "activity_id": "MTG-PL-2018-03-13-VOT-ITM-684335-6",
+            "activity_label": {
+                "fr": "\u00c9tablissement du programme europ\u00e9en de d\u00e9veloppement industriel dans le domaine de la d\u00e9fense visant \u00e0 soutenir la comp\u00e9titivit\u00e9 et la capacit\u00e9 d\u2019innovation de l\u2019industrie de la d\u00e9fense de l\u2019UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0037"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-13-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "684335",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement du programme europ\u00e9en de d\u00e9veloppement industriel dans le domaine de la d\u00e9fense visant \u00e0 soutenir la comp\u00e9titivit\u00e9 et la capacit\u00e9 d\u2019innovation de l\u2019industrie de la d\u00e9fense de l\u2019UE</title><label>Rapport: Fran\u00e7oise Grosset\u00eate (A8-0037/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684234-5",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684232-4",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-2",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-1",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684794-9",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684237-8",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-3",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684335-6",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684236-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0125",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684335-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684236-7",
+            "type": "Activity",
+            "activity_date": "2018-03-13",
+            "activity_id": "MTG-PL-2018-03-13-VOT-ITM-684236-7",
+            "activity_label": {
+                "fr": "\u00c9galit\u00e9 des genres dans les accords commerciaux de l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0023"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-13-OJ-ITM-V-50"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-13-VOT-ITM-007"
+            ],
+            "notation_dlvId": "684236",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9galit\u00e9 des genres dans les accords commerciaux de l'UE</title><label>Rapport: Eleonora Forenza et  Malin Bj\u00f6rk (A8-0023/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684234-5",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684232-4",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-2",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-1",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684794-9",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684237-8",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684230-3",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684335-6",
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684236-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2015",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-13-VOT-ITM-684236-7"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

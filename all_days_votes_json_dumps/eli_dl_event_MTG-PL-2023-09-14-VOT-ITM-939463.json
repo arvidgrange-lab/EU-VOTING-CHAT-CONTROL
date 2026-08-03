@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-14-VOT-ITM-939463",
+            "type": "Activity",
+            "activity_date": "2023-09-14",
+            "activity_id": "MTG-PL-2023-09-14-VOT-ITM-939463",
+            "activity_label": {
+                "fr": "L\u2019avenir du secteur europ\u00e9en du livre"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0257"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-14-OJ-ITM-V-54",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939463",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u2019avenir du secteur europ\u00e9en du livre</title><label>Rapport: Tomasz Frankowski (A9-0257/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939727",
+            "activity_label": {
+                "mul": "Propositions du Parlement europ\u00e9en pour la r\u00e9vision des trait\u00e9s - Proposals of the European Parliament for the amendment of the Treaties - Vorschl\u00e4ge des Europ\u00e4ischen Parlaments zur \u00c4nderung der Vertr\u00e4ge",
+                "fr": "Propositions du Parlement europ\u00e9en pour la r\u00e9vision des trait\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0337"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-016"
+            ],
+            "notation_dlvId": "939727",
+            "epvoc:amendmentsAdoptedMEP": 8,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 5,
+            "epvoc:amendmentsAdoptedTotal": 13,
+            "epvoc:amendmentsTabledMEP": 17,
+            "epvoc:amendmentsTabledPoliticalGroup": 72,
+            "epvoc:amendmentsTabledTotal": 89,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Propositions du Parlement europ\u00e9en pour la r\u00e9vision des trait\u00e9s</title><label>Rapport: Guy Verhofstadt, Sven Simon, Gabriele Bischoff, Daniel Freund, Helmut Scholz (A9-0337/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

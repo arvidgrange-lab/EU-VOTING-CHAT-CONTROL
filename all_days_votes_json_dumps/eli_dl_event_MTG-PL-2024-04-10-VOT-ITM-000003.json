@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-04-10-VOT-ITM-000003",
+            "type": "Activity",
+            "activity_date": "2024-04-10",
+            "activity_id": "MTG-PL-2024-04-10-VOT-ITM-000003",
+            "activity_label": {
+                "da": "Dagsorden for onsdag \u2013 Anmodning fra ECR-Gruppen (tilf\u00f8jelse af erkl\u00e6ringer fra R\u00e5det og Kommissionen)",
+                "ro": "Ordinea de zi de miercuri - Cererea Grupului ECR (ad\u0103ugarea declara\u021biilor Consiliului \u0219i Comisiei)",
+                "it": "Ordine del giorno di mercoled\u00ec \u2013 Richiesta del gruppo ECR (aggiunta delle dichiarazioni del Consiglio e della Commissione)",
+                "mul": "Ordre du jour de mercredi - Demande du groupe ECR (ajout de d\u00e9clarations du Conseil et de la Commission) - Wednesday\u2019s Agenda - Request from the ECR group (addition of Council and Commission statements) - Tagesordnung f\u00fcr Mittwoch - Antrag der ECR-Fraktion (Aufnahme von Erkl\u00e4rungen des Rates und der Kommission)",
+                "ga": "Cl\u00e1r Oibre - D\u00e9 C\u00e9adaoin - Iarraidh \u00f3n nGr\u00fapa ECR (r\u00e1itis \u00f3n gComhairle agus \u00f3n gCoimisi\u00fan a chur isteach)",
+                "fi": "Keskiviikon esityslista \u2013 ECR-ryhm\u00e4n pyynt\u00f6 (neuvoston ja komission julkilausumien lis\u00e4\u00e4minen)",
+                "pl": "Porz\u0105dek obrad w \u015brod\u0119 \u2013 wniosek grupy ECR (dodanie o\u015bwiadcze\u0144 Rady i Komisji)",
+                "hu": "Szerdai napirend - az ECR k\u00e9pvisel\u0151csoport k\u00e9relme (A Tan\u00e1cs \u00e9s a Bizotts\u00e1g nyilatkozatai)",
+                "sl": "Sredin dnevni red \u2013 zahteva skupine ECR (vklju\u010ditev izjav Sveta in Komisije)",
+                "hr": "Dnevni red za srijedu \u2013 Zahtjev Kluba zastupnika ECR-a (dodavanje izjava Vije\u0107a i Komisije)",
+                "pt": "Ordem do dia de quarta-feira - Pedido do Grupo ECR (aditamento de declara\u00e7\u00f5es do Conselho e da Comiss\u00e3o)",
+                "bg": "\u0414\u043d\u0435\u0432\u0435\u043d \u0440\u0435\u0434 \u0437\u0430 \u0441\u0440\u044f\u0434\u0430 - \u0438\u0441\u043a\u0430\u043d\u0435 \u043d\u0430 \u0433\u0440\u0443\u043f\u0430\u0442\u0430 ECR (\u0434\u043e\u0431\u0430\u0432\u044f\u043d\u0435 \u043d\u0430 \u0438\u0437\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 \u0421\u044a\u0432\u0435\u0442\u0430 \u0438 \u041a\u043e\u043c\u0438\u0441\u0438\u044f\u0442\u0430)",
+                "el": "\u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03b1 \u03b4\u03b9\u03ac\u03c4\u03b1\u03be\u03b7 \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7\u03c2 \u2013 \u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u039f\u03bc\u03ac\u03b4\u03b1\u03c2 ECR (\u03c0\u03c1\u03bf\u03c3\u03b8\u03ae\u03ba\u03b7 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03c5\u03bc\u03b2\u03bf\u03c5\u03bb\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2)",
+                "en": "Wednesday\u2019s agenda \u2013 Request by the ECR Group (addition of Council and Commission statements)",
+                "mt": "A\u0121enda tal-Erbg\u0127a - Talba tal-Grupp ECR (\u017cieda tad-dikjarazzjonijiet tal-Kunsill u tal-Kummissjoni)",
+                "lt": "Tre\u010diadienio darbotvark\u0117 - ECR frakcijos pra\u0161ymas (Tarybos ir Komisijos parei\u0161kim\u0173 \u012ftraukimas)",
+                "sv": "Onsdagens f\u00f6redragningslista \u2013 beg\u00e4ran fr\u00e5n ECR-gruppen (till\u00e4gg: uttalanden av r\u00e5det och kommissionen)",
+                "de": "Tagesordnung f\u00fcr Mittwoch \u2013 Antrag der ECR-Fraktion (Hinzuf\u00fcgung von Erkl\u00e4rungen des Rates und der Kommission)",
+                "et": "Kolmap\u00e4eva p\u00e4evakord \u2013 fraktsiooni ECR taotlus (n\u00f5ukogu ja komisjoni avalduste lisamine)",
+                "lv": "Tre\u0161dienas darba k\u0101rt\u012bba - ECR grupas piepras\u012bjums (Padomes un Komisijas pazi\u0146ojumu pievieno\u0161ana)",
+                "cs": "St\u0159ede\u010dn\u00ed po\u0159ad jedn\u00e1n\u00ed \u2013 \u017e\u00e1dost skupiny ECR (dopln\u011bn\u00ed prohl\u00e1\u0161en\u00ed Rady a Komise)",
+                "fr": "Ordre du jour de mercredi - Demande du groupe ECR (ajout de d\u00e9clarations du Conseil et de la Commission)",
+                "es": "Orden del d\u00eda del mi\u00e9rcoles - Solicitud del Grupo\u00a0ECR (incorporaci\u00f3n de declaraciones del Consejo y de la Comisi\u00f3n)",
+                "nl": "Agenda van woensdag \u2013 Verzoek van de ECR-Fractie (toevoeging van verklaringen van de Raad en de Commissie)",
+                "sk": "Program stredaj\u0161ieho rokovania \u2013 \u017eiados\u0165 skupiny ECR (doplnenie vyhl\u00e1sen\u00ed Rady a Komisie)"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-04-10-DEC-168149"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-04-10-VOT-ITM-003"
+            ],
+            "notation_dlvId": "000003",
+            "structuredLabel": {
+                "bg": "<structuredLabel><title>\u0414\u043d\u0435\u0432\u0435\u043d \u0440\u0435\u0434 \u0437\u0430 \u0441\u0440\u044f\u0434\u0430 - \u0438\u0441\u043a\u0430\u043d\u0435 \u043d\u0430 \u0433\u0440\u0443\u043f\u0430\u0442\u0430 ECR (\u0434\u043e\u0431\u0430\u0432\u044f\u043d\u0435 \u043d\u0430 \u0438\u0437\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 \u0421\u044a\u0432\u0435\u0442\u0430 \u0438 \u041a\u043e\u043c\u0438\u0441\u0438\u044f\u0442\u0430)</title><label/></structuredLabel>",
+                "mt": "<structuredLabel><title>A\u0121enda tal-Erbg\u0127a - Talba tal-Grupp ECR (\u017cieda tad-dikjarazzjonijiet tal-Kunsill u tal-Kummissjoni)</title><label/></structuredLabel>",
+                "ro": "<structuredLabel><title>Ordinea de zi de miercuri - Cererea Grupului ECR (ad\u0103ugarea declara\u021biilor Consiliului \u0219i Comisiei)</title><label/></structuredLabel>",
+                "hr": "<structuredLabel><title>Dnevni red za srijedu \u2013 Zahtjev Kluba zastupnika ECR-a (dodavanje izjava Vije\u0107a i Komisije)</title><label/></structuredLabel>",
+                "lt": "<structuredLabel><title>Tre\u010diadienio darbotvark\u0117 - ECR frakcijos pra\u0161ymas (Tarybos ir Komisijos parei\u0161kim\u0173 \u012ftraukimas)</title><label/></structuredLabel>",
+                "it": "<structuredLabel><title>Ordine del giorno di mercoled\u00ec \u2013 Richiesta del gruppo ECR (aggiunta delle dichiarazioni del Consiglio e della Commissione)</title><label/></structuredLabel>",
+                "el": "<structuredLabel><title>\u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03b1 \u03b4\u03b9\u03ac\u03c4\u03b1\u03be\u03b7 \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7\u03c2 \u2013 \u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u039f\u03bc\u03ac\u03b4\u03b1\u03c2 ECR (\u03c0\u03c1\u03bf\u03c3\u03b8\u03ae\u03ba\u03b7 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03c5\u03bc\u03b2\u03bf\u03c5\u03bb\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2)</title><label/></structuredLabel>",
+                "sv": "<structuredLabel><title>Onsdagens f\u00f6redragningslista \u2013 beg\u00e4ran fr\u00e5n ECR-gruppen (till\u00e4gg: uttalanden av r\u00e5det och kommissionen)</title><label/></structuredLabel>",
+                "et": "<structuredLabel><title>Kolmap\u00e4eva p\u00e4evakord \u2013 fraktsiooni ECR taotlus (n\u00f5ukogu ja komisjoni avalduste lisamine)</title><label/></structuredLabel>",
+                "es": "<structuredLabel><title>Orden del d\u00eda del mi\u00e9rcoles - Solicitud del Grupo\u00a0ECR (incorporaci\u00f3n de declaraciones del Consejo y de la Comisi\u00f3n)</title><label/></structuredLabel>",
+                "sk": "<structuredLabel><title>Program stredaj\u0161ieho rokovania \u2013 \u017eiados\u0165 skupiny ECR (doplnenie vyhl\u00e1sen\u00ed Rady a Komisie)</title><label/></structuredLabel>",
+                "nl": "<structuredLabel><title>Agenda van woensdag \u2013 Verzoek van de ECR-Fractie (toevoeging van verklaringen van de Raad en de Commissie)</title><label/></structuredLabel>",
+                "en": "<structuredLabel><title>Wednesday\u2019s agenda \u2013 Request by the ECR Group (addition of Council and Commission statements)</title><label/></structuredLabel>",
+                "fr": "<structuredLabel><title>Ordre du jour de mercredi - Demande du groupe ECR (ajout de d\u00e9clarations du Conseil et de la Commission)</title><label/></structuredLabel>",
+                "pt": "<structuredLabel><title>Ordem do dia de quarta-feira - Pedido do Grupo ECR (aditamento de declara\u00e7\u00f5es do Conselho e da Comiss\u00e3o)</title><label/></structuredLabel>",
+                "de": "<structuredLabel><title>Tagesordnung f\u00fcr Mittwoch \u2013 Antrag der ECR-Fraktion (Hinzuf\u00fcgung von Erkl\u00e4rungen des Rates und der Kommission)</title><label/></structuredLabel>",
+                "cs": "<structuredLabel><title>St\u0159ede\u010dn\u00ed po\u0159ad jedn\u00e1n\u00ed \u2013 \u017e\u00e1dost skupiny ECR (dopln\u011bn\u00ed prohl\u00e1\u0161en\u00ed Rady a Komise)</title><label/></structuredLabel>",
+                "sl": "<structuredLabel><title>Sredin dnevni red \u2013 zahteva skupine ECR (vklju\u010ditev izjav Sveta in Komisije)</title><label/></structuredLabel>",
+                "ga": "<structuredLabel><title>Cl\u00e1r Oibre - D\u00e9 C\u00e9adaoin - Iarraidh \u00f3n nGr\u00fapa ECR (r\u00e1itis \u00f3n gComhairle agus \u00f3n gCoimisi\u00fan a chur isteach)</title><label/></structuredLabel>",
+                "fi": "<structuredLabel><title>Keskiviikon esityslista \u2013 ECR-ryhm\u00e4n pyynt\u00f6 (neuvoston ja komission julkilausumien lis\u00e4\u00e4minen)</title><label/></structuredLabel>",
+                "pl": "<structuredLabel><title>Porz\u0105dek obrad w \u015brod\u0119 \u2013 wniosek grupy ECR (dodanie o\u015bwiadcze\u0144 Rady i Komisji)</title><label/></structuredLabel>",
+                "hu": "<structuredLabel><title>Szerdai napirend - az ECR k\u00e9pvisel\u0151csoport k\u00e9relme (A Tan\u00e1cs \u00e9s a Bizotts\u00e1g nyilatkozatai)</title><label/></structuredLabel>",
+                "lv": "<structuredLabel><title>Tre\u0161dienas darba k\u0101rt\u012bba - ECR grupas piepras\u012bjums (Padomes un Komisijas pazi\u0146ojumu pievieno\u0161ana)</title><label/></structuredLabel>",
+                "da": "<structuredLabel><title>Dagsorden for onsdag \u2013 Anmodning fra ECR-Gruppen (tilf\u00f8jelse af erkl\u00e6ringer fra R\u00e5det og Kommissionen)</title><label/></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

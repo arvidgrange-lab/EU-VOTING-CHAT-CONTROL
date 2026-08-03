@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-06-18-VOT-ITM-992822",
+            "type": "Activity",
+            "activity_date": "2026-06-18",
+            "activity_id": "MTG-PL-2026-06-18-VOT-ITM-992822",
+            "activity_label": {
+                "hr": "Zahtjevi za kru\u017enost u konstrukciji vozila i gospodarenje otpadnim vozilima ***I",
+                "hu": "A j\u00e1rm\u0171vek tervez\u00e9s\u00e9re vonatkoz\u00f3 k\u00f6rforg\u00e1soss\u00e1gi k\u00f6vetelm\u00e9nyek \u00e9s a hullad\u00e9kk\u00e1 v\u00e1lt g\u00e9pj\u00e1rm\u0171vek kezel\u00e9se ***I",
+                "sk": "Po\u017eiadavky na obehovos\u0165 pri navrhovan\u00ed vozidiel a nakladanie s vozidlami po skon\u010den\u00ed \u017eivotnosti ***I",
+                "ro": "Cerin\u021bele de circularitate pentru proiectarea vehiculelor \u0219i gestionarea vehiculelor scoase din uz ***I",
+                "fr": "Exigences en mati\u00e8re de circularit\u00e9 applicables \u00e0 la conception des v\u00e9hicules et \u00e0 la gestion des v\u00e9hicules hors d\u2019usage ***I",
+                "lv": "Aprit\u012bguma pras\u012bbas transportl\u012bdzek\u013cu konstrukcijai un nolietotu transportl\u012bdzek\u013cu apsaimnieko\u0161ana ***I",
+                "da": "Krav om cirkularitet i design af k\u00f8ret\u00f8jer og om h\u00e5ndtering af udrangerede k\u00f8ret\u00f8jer ***I",
+                "ga": "Ceanglais chiorcla\u00edochta maidir le dearadh feithicl\u00ed agus bainisti\u00fa feithicl\u00ed a bhfuil a r\u00e9 caite ***I",
+                "fi": "Ajoneuvojen suunnittelua koskevat kiertotalousvaatimukset ja romuajoneuvojen j\u00e4tehuolto ***I",
+                "lt": "Transporto priemoni\u0173 projektavimo \u017eiedi\u0161kumo reikalavimai ir eksploatuoti netinkam\u0173 transporto priemoni\u0173 valdymas ***I",
+                "mt": "Ir-rekwi\u017citi ta\u010b-\u010birkolarit\u00e0 g\u0127ad-disinn tal-vetturi u l-\u0121estjoni ta\u2019 vetturi li ma g\u0127adhomx jintu\u017caw ***I",
+                "sv": "Cirkularitetskrav f\u00f6r fordonskonstruktion och hantering av uttj\u00e4nta fordon ***I",
+                "it": "Requisiti di circolarit\u00e0 per la progettazione dei veicoli e gestione dei veicoli fuori uso ***I",
+                "nl": "Circulariteitseisen voor voertuigontwerp en het beheer van autowrakken ***I",
+                "bg": "\u0418\u0437\u0438\u0441\u043a\u0432\u0430\u043d\u0438\u044f\u0442\u0430 \u0437\u0430 \u043a\u0440\u044a\u0433\u043e\u0432\u043e\u0441\u0442 \u043f\u0440\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u0430\u043d\u0435\u0442\u043e \u043d\u0430 \u043f\u0440\u0435\u0432\u043e\u0437\u043d\u0438 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u0438 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u0442\u043e \u043d\u0430 \u0438\u0437\u043b\u0435\u0437\u043b\u0438\u0442\u0435 \u043e\u0442 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u0430 \u043f\u0440\u0435\u0432\u043e\u0437\u043d\u0438 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 ***I",
+                "et": "S\u00f5idukite konstruktsiooni ringlusp\u00f5hisuse n\u00f5uded ja romus\u00f5idukite k\u00e4itlemine ***I",
+                "el": "\u0391\u03c0\u03b1\u03b9\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03c5\u03ba\u03bb\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03c3\u03c7\u03b5\u03b4\u03b9\u03b1\u03c3\u03bc\u03cc \u03c4\u03c9\u03bd \u03bf\u03c7\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03bf\u03c7\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03cd\u03ba\u03bb\u03bf\u03c5 \u03b6\u03c9\u03ae\u03c2 \u03c4\u03bf\u03c5\u03c2 ***I",
+                "de": "Anforderungen an die kreislauforientierte Konstruktion von Fahrzeugen und Entsorgung von Altfahrzeugen ***I",
+                "sl": "Zahteve glede kro\u017enosti pri zasnovi vozil in ravnanju z izrabljenimi vozili ***I",
+                "pl": "Wymogi w zakresie obiegu zamkni\u0119tego w odniesieniu do projektowania pojazd\u00f3w oraz zarz\u0105dzania pojazdami wycofanymi z eksploatacji ***I",
+                "en": "Circularity requirements for vehicle design and management of end-of-life vehicles ***I",
+                "cs": "Po\u017eadavky na ob\u011bhovost projekt\u016f vozidel a nakl\u00e1d\u00e1n\u00ed s vozidly s ukon\u010denou \u017eivotnost\u00ed ***I",
+                "mul": "Exigences en mati\u00e8re de circularit\u00e9 applicables \u00e0 la conception des v\u00e9hicules et \u00e0 la gestion des v\u00e9hicules hors d\u2019usage - Circularity requirements for vehicle design and management of end-of-life vehicles - Anforderungen an die kreislauforientierte Konstruktion von Fahrzeugen und Entsorgung von Altfahrzeugen",
+                "es": "Requisitos de circularidad aplicables al dise\u00f1o de los veh\u00edculos y a la gesti\u00f3n de los veh\u00edculos al final de su vida \u00fatil ***I",
+                "pt": "Requisitos de circularidade para a conce\u00e7\u00e3o de ve\u00edculos e a gest\u00e3o dos ve\u00edculos em fim de vida ***I"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2025-0158"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-193661",
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-194419",
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-194421",
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-193650",
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-194420",
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-193659",
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-193658",
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-193656",
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-194417",
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-193648",
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-194418",
+                "eli/dl/event/MTG-PL-2026-06-18-DEC-194422"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2026-06-18-OJ-ITM-V-54"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2026-06-18-VOT-ITM-005"
+            ],
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2026-06-18-VOT-ITM-992822-RCV-1"
+            ],
+            "comment": {
+                "da": "<remarkFreeTexts order=\"1\"><title>Diverse</title><remarkFreeText><translation>Till\u00e6g til alle sprogudgaver.</translation></remarkFreeText></remarkFreeTexts>",
+                "et": "<remarkFreeTexts order=\"1\"><title>Muud k\u00fcsimused</title><remarkFreeText><translation>Addendum avaldatakse k\u00f5igis keeleversioonides.</translation></remarkFreeText></remarkFreeTexts>",
+                "nl": "<remarkFreeTexts order=\"1\"><title>Diversen</title><remarkFreeText><translation>Addendum in alle taalversies.</translation></remarkFreeText></remarkFreeTexts>",
+                "lt": "<remarkFreeTexts order=\"1\"><title>\u012evair\u016bs</title><remarkFreeText><translation><i>Addendum</i> visomis kalbomis.</translation></remarkFreeText></remarkFreeTexts>",
+                "ro": "<remarkFreeTexts order=\"1\"><title>Diverse</title><remarkFreeText><translation>Addendum \u00een toate versiunile lingvistice.</translation></remarkFreeText></remarkFreeTexts>",
+                "mt": "<remarkFreeTexts order=\"1\"><title>Varji</title><remarkFreeText><translation>Addendum fil-ver\u017cjonijiet lingwisti\u010bi kollha.</translation></remarkFreeText></remarkFreeTexts>",
+                "pt": "<remarkFreeTexts order=\"1\"><title>Diversos</title><remarkFreeText><translation>Adenda em todas as vers\u00f5es lingu\u00edsticas.</translation></remarkFreeText></remarkFreeTexts>",
+                "fr": "<remarkFreeTexts order=\"1\"><title>Divers</title><remarkFreeText><translation>Addendum dans toutes les versions linguistiques.</translation></remarkFreeText></remarkFreeTexts>",
+                "bg": "<remarkFreeTexts order=\"1\"><title>\u0420\u0430\u0437\u043d\u0438</title><remarkFreeText><translation>\u0414\u043e\u043f\u044a\u043b\u043d\u0435\u043d\u0438\u0435 \u0432 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u0435\u0442\u0435 \u043d\u0430 \u0432\u0441\u0438\u0447\u043a\u0438 \u0435\u0437\u0438\u0446\u0438.</translation></remarkFreeText></remarkFreeTexts>",
+                "lv": "<remarkFreeTexts order=\"1\"><title>Da\u017e\u0101di</title><remarkFreeText><translation>Papildin\u0101jums vis\u0101s valodu versij\u0101s.</translation></remarkFreeText></remarkFreeTexts>",
+                "sl": "<remarkFreeTexts order=\"1\"><title>Razno</title><remarkFreeText><translation>Dodatek v vseh jezikovnih razli\u010dicah.</translation></remarkFreeText></remarkFreeTexts>",
+                "it": "<remarkFreeTexts order=\"1\"><title>Varie</title><remarkFreeText><translation>Addendum in tutte le versioni linguistiche.</translation></remarkFreeText></remarkFreeTexts>",
+                "hr": "<remarkFreeTexts order=\"1\"><title>Razno</title><remarkFreeText><translation>Dodatak u svim jezi\u010dnim verzijama.</translation></remarkFreeText></remarkFreeTexts>",
+                "en": "<remarkFreeTexts order=\"1\"><title>Miscellaneous</title><remarkFreeText><translation>Addendum in all language versions.</translation></remarkFreeText></remarkFreeTexts>",
+                "ga": "<remarkFreeTexts order=\"1\"><title>Aon ghn\u00f3 eile</title><remarkFreeText><translation>Aguis\u00edn sna leaganacha teanga uile.</translation></remarkFreeText></remarkFreeTexts>",
+                "sv": "<remarkFreeTexts order=\"1\"><title>\u00d6vriga fr\u00e5gor</title><remarkFreeText><translation>Till\u00e4gg i alla spr\u00e5kversioner.</translation></remarkFreeText></remarkFreeTexts>",
+                "hu": "<remarkFreeTexts order=\"1\"><title>Egy\u00e9b</title><remarkFreeText><translation>Kieg\u00e9sz\u00edt\u00e9s minden nyelvi v\u00e1ltozatban.</translation></remarkFreeText></remarkFreeTexts>",
+                "cs": "<remarkFreeTexts order=\"1\"><title>R\u016fzn\u00e9</title><remarkFreeText><translation>Addendum ve v\u0161ech jazykov\u00fdch zn\u011bn\u00edch.</translation></remarkFreeText></remarkFreeTexts>",
+                "sk": "<remarkFreeTexts order=\"1\"><title>In\u00e9</title><remarkFreeText><translation>Dodatok vo v\u0161etk\u00fdch jazykov\u00fdch verzi\u00e1ch.</translation></remarkFreeText></remarkFreeTexts>",
+                "el": "<remarkFreeTexts order=\"1\"><title>\u0394\u03b9\u03ac\u03c6\u03bf\u03c1\u03b1</title><remarkFreeText><translation>\u03a0\u03c1\u03bf\u03c3\u03b8\u03ae\u03ba\u03b7 \u03c3\u03b5 \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b5\u03c2.</translation></remarkFreeText></remarkFreeTexts>",
+                "es": "<remarkFreeTexts order=\"1\"><title>Varios</title><remarkFreeText><translation><i>Addendum</i> en todas las versiones ling\u00fc\u00edsticas.</translation></remarkFreeText></remarkFreeTexts>",
+                "de": "<remarkFreeTexts order=\"1\"><title>Verschiedenes</title><remarkFreeText><translation>Addendum in allen Sprachfassungen.</translation></remarkFreeText></remarkFreeTexts>",
+                "fi": "<remarkFreeTexts order=\"1\"><title>Muuta</title><remarkFreeText><translation>Lis\u00e4ys kaikkiin kieliversioihin.</translation></remarkFreeText></remarkFreeTexts>",
+                "pl": "<remarkFreeTexts order=\"1\"><title>R\u00f3\u017cne</title><remarkFreeText><translation>Addendum we wszystkich wersjach j\u0119zykowych.</translation></remarkFreeText></remarkFreeTexts>"
+            },
+            "notation_dlvId": "992822",
+            "structuredLabel": {
+                "hu": "<structuredLabel><title>A j\u00e1rm\u0171vek tervez\u00e9s\u00e9re vonatkoz\u00f3 k\u00f6rforg\u00e1soss\u00e1gi k\u00f6vetelm\u00e9nyek \u00e9s a hullad\u00e9kk\u00e1 v\u00e1lt g\u00e9pj\u00e1rm\u0171vek kezel\u00e9se ***I</title><label>Jelent\u00e9s: Jens Gieseke, Paulius Saudargas (A10-0158/2025) ((a leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "et": "<structuredLabel><title>S\u00f5idukite konstruktsiooni ringlusp\u00f5hisuse n\u00f5uded ja romus\u00f5idukite k\u00e4itlemine ***I</title><label>Raport: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (n\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Ir-rekwi\u017citi ta\u010b-\u010birkolarit\u00e0 g\u0127ad-disinn tal-vetturi u l-\u0121estjoni ta\u2019 vetturi li ma g\u0127adhomx jintu\u017caw ***I</title><label>Rapport: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (Ma\u0121\u0121oranza tal-voti mitfug\u0127a mitluba)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0418\u0437\u0438\u0441\u043a\u0432\u0430\u043d\u0438\u044f\u0442\u0430 \u0437\u0430 \u043a\u0440\u044a\u0433\u043e\u0432\u043e\u0441\u0442 \u043f\u0440\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u0430\u043d\u0435\u0442\u043e \u043d\u0430 \u043f\u0440\u0435\u0432\u043e\u0437\u043d\u0438 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u0438 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u0442\u043e \u043d\u0430 \u0438\u0437\u043b\u0435\u0437\u043b\u0438\u0442\u0435 \u043e\u0442 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u0430 \u043f\u0440\u0435\u0432\u043e\u0437\u043d\u0438 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 ***I</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Krav om cirkularitet i design af k\u00f8ret\u00f8jer og om h\u00e5ndtering af udrangerede k\u00f8ret\u00f8jer ***I</title><label>Bet\u00e6nkning: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Transporto priemoni\u0173 projektavimo \u017eiedi\u0161kumo reikalavimai ir eksploatuoti netinkam\u0173 transporto priemoni\u0173 valdymas ***I</title><label>Prane\u0161imas: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Cirkularitetskrav f\u00f6r fordonskonstruktion och hantering av uttj\u00e4nta fordon ***I</title><label>Bet\u00e4nkande: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (En majoritet av de avgivna r\u00f6sterna kr\u00e4vdes.)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Circularity requirements for vehicle design and management of end-of-life vehicles ***I</title><label>Report: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (Majority of votes cast required)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Po\u017eadavky na ob\u011bhovost projekt\u016f vozidel a nakl\u00e1d\u00e1n\u00ed s vozidly s ukon\u010denou \u017eivotnost\u00ed ***I</title><label>Zpr\u00e1va: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Requisiti di circolarit\u00e0 per la progettazione dei veicoli e gestione dei veicoli fuori uso ***I</title><label>Relazione: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0391\u03c0\u03b1\u03b9\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03c5\u03ba\u03bb\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03c3\u03c7\u03b5\u03b4\u03b9\u03b1\u03c3\u03bc\u03cc \u03c4\u03c9\u03bd \u03bf\u03c7\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03bf\u03c7\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03cd\u03ba\u03bb\u03bf\u03c5 \u03b6\u03c9\u03ae\u03c2 \u03c4\u03bf\u03c5\u03c2 ***I</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Requisitos de circularidad aplicables al dise\u00f1o de los veh\u00edculos y a la gesti\u00f3n de los veh\u00edculos al final de su vida \u00fatil ***I</title><label>Informe: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Aprit\u012bguma pras\u012bbas transportl\u012bdzek\u013cu konstrukcijai un nolietotu transportl\u012bdzek\u013cu apsaimnieko\u0161ana ***I</title><label>Zi\u0146ojums: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Wymogi w zakresie obiegu zamkni\u0119tego w odniesieniu do projektowania pojazd\u00f3w oraz zarz\u0105dzania pojazdami wycofanymi z eksploatacji ***I</title><label>Sprawozdanie: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Cerin\u021bele de circularitate pentru proiectarea vehiculelor \u0219i gestionarea vehiculelor scoase din uz ***I</title><label>Raport: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (Este necesar\u0103 majoritatea voturilor exprimate)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Po\u017eiadavky na obehovos\u0165 pri navrhovan\u00ed vozidiel a nakladanie s vozidlami po skon\u010den\u00ed \u017eivotnosti ***I</title><label>Spr\u00e1va: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (potrebn\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Requisitos de circularidade para a conce\u00e7\u00e3o de ve\u00edculos e a gest\u00e3o dos ve\u00edculos em fim de vida ***I</title><label>Relat\u00f3rio: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (Requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Circulariteitseisen voor voertuigontwerp en het beheer van autowrakken ***I</title><label>Verslag: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (Meerderheid van de uitgebrachte stemmen vereist)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Ceanglais chiorcla\u00edochta maidir le dearadh feithicl\u00ed agus bainisti\u00fa feithicl\u00ed a bhfuil a r\u00e9 caite ***I</title><label>Tuarasc\u00e1il: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (Is g\u00e1 tromlach na v\u00f3ta\u00ed a chaitear)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Zahteve glede kro\u017enosti pri zasnovi vozil in ravnanju z izrabljenimi vozili ***I</title><label>Poro\u010dilo: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (potrebna je ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Zahtjevi za kru\u017enost u konstrukciji vozila i gospodarenje otpadnim vozilima ***I</title><label>Izvje\u0161\u0107e: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Exigences en mati\u00e8re de circularit\u00e9 applicables \u00e0 la conception des v\u00e9hicules et \u00e0 la gestion des v\u00e9hicules hors d\u2019usage ***I</title><label>Rapport: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Anforderungen an die kreislauforientierte Konstruktion von Fahrzeugen und Entsorgung von Altfahrzeugen ***I</title><label>Bericht: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Ajoneuvojen suunnittelua koskevat kiertotalousvaatimukset ja romuajoneuvojen j\u00e4tehuolto ***I</title><label>Mietint\u00f6: Jens Gieseke, Paulius Saudargas (A10-0158/2025) (hyv\u00e4ksymiseen vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

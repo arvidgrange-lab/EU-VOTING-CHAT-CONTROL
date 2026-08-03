@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939735",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939735",
+            "activity_label": {
+                "fr": "Exploiter les talents dans les r\u00e9gions d\u2019Europe",
+                "mul": "Exploiter les talents dans les r\u00e9gions d\u2019Europe - Harnessing talent in Europe\u2019s regions - Talenterschlie\u00dfung in den Regionen Europas"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0325"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939735",
+            "epvoc:amendmentsAdoptedMEP": 1,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledMEP": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Exploiter les talents dans les r\u00e9gions d\u2019Europe</title><label>Rapport: Cristina Maestre Mart\u00edn De Almagro (A9-0325/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

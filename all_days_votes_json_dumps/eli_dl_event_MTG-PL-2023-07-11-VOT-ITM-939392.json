@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939392",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939392",
+            "activity_label": {
+                "fr": "Promouvoir et adapter la formation professionnelle en tant qu\u2019outil pour la r\u00e9ussite des travailleurs et \u00e9l\u00e9ment constitutif de l\u2019\u00e9conomie de l\u2019Union dans la nouvelle industrie 4.0"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0232"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-83",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-022"
+            ],
+            "notation_dlvId": "939392",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Promouvoir et adapter la formation professionnelle en tant qu\u2019outil pour la r\u00e9ussite des travailleurs et \u00e9l\u00e9ment constitutif de l\u2019\u00e9conomie de l\u2019Union dans la nouvelle industrie 4.0</title><label>Rapport: Anna Zalewska (A9-0232/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

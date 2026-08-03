@@ -1,0 +1,303 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676138-7",
+            "type": "Activity",
+            "activity_date": "2018-02-07",
+            "activity_id": "MTG-PL-2018-02-07-VOT-ITM-676138-7",
+            "activity_label": {
+                "fr": "Tol\u00e9rance z\u00e9ro \u00e0 l\u2019\u00e9gard des mutilations g\u00e9nitales f\u00e9minines"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0068"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-07-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-07-VOT-ITM-007"
+            ],
+            "notation_dlvId": "676138",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Tol\u00e9rance z\u00e9ro \u00e0 l\u2019\u00e9gard des mutilations g\u00e9nitales f\u00e9minines</title><label>Proposition de r\u00e9solution: B8-0068/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676138-7",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-677205-6",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676161-5",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676944-1",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675414-2",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675412-3",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676981-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2936",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676138-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-677205-6",
+            "type": "Activity",
+            "activity_date": "2018-02-07",
+            "activity_id": "MTG-PL-2018-02-07-VOT-ITM-677205-6",
+            "activity_label": {
+                "fr": "Ajout de Sri Lanka, de Trinit\u00e9-et-Tobago et de la Tunisie sur la liste des pays tiers \u00e0 haut risque"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0074"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-07-OJ-ITM-V-58"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-07-VOT-ITM-006"
+            ],
+            "notation_dlvId": "677205",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ajout de Sri Lanka, de Trinit\u00e9-et-Tobago et de la Tunisie sur la liste des pays tiers \u00e0 haut risque</title><label>Proposition de r\u00e9solution: B8-0074/2018 (majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676138-7",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-677205-6",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676161-5",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676944-1",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675414-2",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675412-3",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676981-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-3020",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-677205-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676161-5",
+            "type": "Activity",
+            "activity_date": "2018-02-07",
+            "activity_id": "MTG-PL-2018-02-07-VOT-ITM-676161-5",
+            "activity_label": {
+                "fr": "Protection et non-discrimination des minorit\u00e9s dans les \u00c9tats membres de l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0064"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-07-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-07-VOT-ITM-005"
+            ],
+            "notation_dlvId": "676161",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection et non-discrimination des minorit\u00e9s dans les \u00c9tats membres de l\u2019Union</title><label>Proposition de r\u00e9solution: B8-0064/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676138-7",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-677205-6",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676161-5",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676944-1",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675414-2",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675412-3",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676981-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2937",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676161-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676944-1",
+            "type": "Activity",
+            "activity_date": "2018-02-07",
+            "activity_id": "MTG-PL-2018-02-07-VOT-ITM-676944-1",
+            "activity_label": {
+                "fr": "Cessation pr\u00e9matur\u00e9e des fonctions de vice-pr\u00e9sident du Parlement europ\u00e9en (Ryszard Czarnecki)"
+            },
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-07-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-07-VOT-ITM-001"
+            ],
+            "notation_dlvId": "676944",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cessation pr\u00e9matur\u00e9e des fonctions de vice-pr\u00e9sident du Parlement europ\u00e9en (Ryszard Czarnecki)</title><label>Proposition de d\u00e9cision:  (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676138-7",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-677205-6",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676161-5",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676944-1",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675414-2",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675412-3",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676981-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675414-2",
+            "type": "Activity",
+            "activity_date": "2018-02-07",
+            "activity_id": "MTG-PL-2018-02-07-VOT-ITM-675414-2",
+            "activity_label": {
+                "fr": "Composition du Parlement europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0007"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-07-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-07-VOT-ITM-002"
+            ],
+            "notation_dlvId": "675414",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Composition du Parlement europ\u00e9en</title><label>Rapport: Danuta Maria H\u00fcbner et  Pedro Silva Pereira (A8-0007/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676138-7",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-677205-6",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676161-5",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676944-1",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675414-2",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675412-3",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676981-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2054",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675414-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675412-3",
+            "type": "Activity",
+            "activity_date": "2018-02-07",
+            "activity_id": "MTG-PL-2018-02-07-VOT-ITM-675412-3",
+            "activity_label": {
+                "fr": "R\u00e9vision de l\u2019accord-cadre sur les relations entre le Parlement europ\u00e9en et la Commission"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0006"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-07-OJ-ITM-V-26"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-07-VOT-ITM-003"
+            ],
+            "notation_dlvId": "675412",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9vision de l\u2019accord-cadre sur les relations entre le Parlement europ\u00e9en et la Commission</title><label>Rapport: Esteban Gonz\u00e1lez Pons (A8-0006/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676138-7",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-677205-6",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676161-5",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676944-1",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675414-2",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675412-3",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676981-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2233",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675412-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676981-4",
+            "type": "Activity",
+            "activity_date": "2018-02-07",
+            "activity_id": "MTG-PL-2018-02-07-VOT-ITM-676981-4",
+            "activity_label": {
+                "fr": "\u00c9change automatis\u00e9 de donn\u00e9es relatives \u00e0 l'immatriculation des v\u00e9hicules au Portugal"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0017"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-07-OJ-ITM-V-54"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-07-VOT-ITM-004"
+            ],
+            "notation_dlvId": "676981",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change automatis\u00e9 de donn\u00e9es relatives \u00e0 l'immatriculation des v\u00e9hicules au Portugal</title><label>Rapport: Ignazio Corrao (A8-0017/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676138-7",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-677205-6",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676161-5",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676944-1",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675414-2",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-675412-3",
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676981-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0821",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-07-VOT-ITM-676981-4"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825117",
+            "type": "Activity",
+            "activity_date": "2019-09-17",
+            "activity_id": "MTG-PL-2019-09-17-VOT-ITM-825117",
+            "activity_label": {
+                "fr": "Nomination du vice-pr\u00e9sident du conseil de surveillance de la Banque centrale europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0007"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-17-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-17-VOT-ITM-002"
+            ],
+            "notation_dlvId": "825117",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination du vice-pr\u00e9sident du conseil de surveillance de la Banque centrale europ\u00e9enne </title><label>Rapport: Roberto Gualtieri (A9-0007/2019) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825117",
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825113",
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825631"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0903",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825117"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825113",
+            "type": "Activity",
+            "activity_date": "2019-09-17",
+            "activity_id": "MTG-PL-2019-09-17-VOT-ITM-825113",
+            "activity_label": {
+                "fr": "Nomination du pr\u00e9sident de la Banque centrale europ\u00e9enne - Candidate: Mme Christine Lagarde"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0008"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-17-OJ-ITM-V-26"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-17-VOT-ITM-001"
+            ],
+            "notation_dlvId": "825113",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination du pr\u00e9sident de la Banque centrale europ\u00e9enne - Candidate: Mme Christine Lagarde</title><label>Rapport: Roberto Gualtieri (A9-0008/2019) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825117",
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825113",
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825631"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0810",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825113"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825631",
+            "type": "Activity",
+            "activity_date": "2019-09-17",
+            "activity_id": "MTG-PL-2019-09-17-VOT-ITM-825631",
+            "activity_label": {
+                "fr": "Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es relatives \u00e0 l'immatriculation des v\u00e9hicules en Irlande"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0003"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-17-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-17-VOT-ITM-003"
+            ],
+            "notation_dlvId": "825631",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es relatives \u00e0 l'immatriculation des v\u00e9hicules en Irlande</title><label>Rapport: Juan Fernando L\u00f3pez Aguilar (A9-0003/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825117",
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825113",
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825631"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0806",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-17-VOT-ITM-825631"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

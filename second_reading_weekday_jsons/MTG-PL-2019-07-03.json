@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-07-03-VOT-ITM-806829-1",
+            "type": "Activity",
+            "activity_date": "2019-07-03",
+            "activity_id": "MTG-PL-2019-07-03-VOT-ITM-806829-1",
+            "activity_label": {
+                "fr": "Composition num\u00e9rique des commissions"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0001"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-07-03-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-07-03-VOT-ITM-001"
+            ],
+            "notation_dlvId": "806829",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Composition num\u00e9rique des commissions</title><label>Proposition de d\u00e9cision: B9-0001/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-03-VOT-ITM-806829-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2689",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-03-VOT-ITM-806829-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

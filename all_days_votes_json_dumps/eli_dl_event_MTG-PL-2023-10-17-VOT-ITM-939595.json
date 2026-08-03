@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939595",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939595",
+            "activity_label": {
+                "mul": "\u00c9tablissement de la plateforme Technologies strat\u00e9giques pour l'Europe (\u00abSTEP\u00bb) - Establishing the Strategic Technologies for Europe Platform (\u2018STEP\u2019) - Einrichtung der Plattform \u201eStrategische Technologien f\u00fcr Europa\u201c (STEP)",
+                "fr": "\u00c9tablissement de la plateforme Technologies strat\u00e9giques pour l'Europe (\u00abSTEP\u00bb)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0290"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-69",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939595",
+            "epvoc:amendmentsAdoptedCommittee": 57,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 57,
+            "epvoc:amendmentsTabledCommittee": 57,
+            "epvoc:amendmentsTabledPoliticalGroup": 11,
+            "epvoc:amendmentsTabledTotal": 68,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement de la plateforme Technologies strat\u00e9giques pour l'Europe (\u00abSTEP\u00bb)</title><label>Rapport: Jos\u00e9 Manuel Fernandes, Christian Ehler (A9-0290/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938643",
+            "activity_label": {
+                "fr": "Amendements au r\u00e8glement relatif aux fonds europ\u00e9ens d'investissement \u00e0 long terme (ELTIF)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0196"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-31",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "938643",
+            "epvoc:amendmentsAdoptedCommittee": 2,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 2,
+            "epvoc:amendmentsTabledCommittee": 2,
+            "epvoc:amendmentsTabledTotal": 2,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Amendements au r\u00e8glement relatif aux fonds europ\u00e9ens d'investissement \u00e0 long terme (ELTIF)</title><label>Rapport: Michiel Hoogeveen (A9-0196/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

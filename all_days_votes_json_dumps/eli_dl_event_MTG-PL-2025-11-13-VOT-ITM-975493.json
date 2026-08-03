@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-11-13-VOT-ITM-975493",
+            "type": "Activity",
+            "activity_date": "2025-11-13",
+            "activity_id": "MTG-PL-2025-11-13-VOT-ITM-975493",
+            "activity_label": {
+                "ro": "Votul deputatelor \u00een plen prin reprezentare \u00een timpul sarcinii \u0219i dup\u0103 na\u0219tere",
+                "mul": "Vote des d\u00e9put\u00e9es par procuration en pl\u00e9ni\u00e8re pendant la grossesse et apr\u00e8s l\u2019accouchement - Proxy voting in plenary for Members during pregnancy and after giving birth - Abstimmung im Plenum mittels Stimmrechts\u00fcbertragung f\u00fcr Mitglieder w\u00e4hrend der Schwangerschaft und nach der Geburt",
+                "pl": "Umo\u017cliwienie pos\u0142ankom w ci\u0105\u017cy i w po\u0142ogu udzia\u0142u w g\u0142osowaniu plenarnym przez pe\u0142nomocnika",
+                "sv": "Fullmaktsr\u00f6stning i kammaren f\u00f6r ledam\u00f6ter under graviditet och efter f\u00f6rlossning",
+                "en": "Proxy voting in plenary for Members during pregnancy and after giving birth",
+                "fi": "J\u00e4senten mahdollisuus \u00e4\u00e4nest\u00e4\u00e4 t\u00e4ysistunnossa valtakirjalla raskauden aikana ja synnytyksen j\u00e4lkeen",
+                "de": "Abstimmung im Plenum mittels Stimmrechts\u00fcbertragung f\u00fcr Mitglieder w\u00e4hrend der Schwangerschaft und nach der Geburt",
+                "es": "Votaci\u00f3n por delegaci\u00f3n en el Pleno para las diputadas durante el embarazo y despu\u00e9s del parto",
+                "nl": "EP-leden tijdens zwangerschap of na bevalling bij volmacht laten stemmen tijdens plenaire vergaderingen",
+                "lv": "Deput\u0101\u0161u balso\u0161ana plen\u0101rs\u0113d\u0113 gr\u016btniec\u012bbas laik\u0101 vai p\u0113c dzemd\u012bb\u0101m ar pilnvarot\u0101s personas starpniec\u012bbu",
+                "mt": "Votazzjoni permezz ta\u2019 prokura fil-plenarja g\u0127all-Membri waqt it-tqala u wara li jwelldu",
+                "fr": "Vote des d\u00e9put\u00e9es par procuration en pl\u00e9ni\u00e8re pendant la grossesse et apr\u00e8s l\u2019accouchement",
+                "pt": "Permiss\u00e3o de as deputadas votarem em sess\u00e3o plen\u00e1ria por procura\u00e7\u00e3o durante a gravidez e ap\u00f3s o parto",
+                "bg": "\u0413\u043b\u0430\u0441\u0443\u0432\u0430\u043d\u0435 \u043d\u0430 \u043f\u043b\u0435\u043d\u0430\u0440\u043d\u043e \u0437\u0430\u0441\u0435\u0434\u0430\u043d\u0438\u0435 \u0447\u0440\u0435\u0437 \u043f\u044a\u043b\u043d\u043e\u043c\u043e\u0449\u043d\u0438\u043a \u043f\u043e \u0432\u0440\u0435\u043c\u0435 \u043d\u0430 \u0431\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0441\u0442 \u0438 \u0441\u043b\u0435\u0434 \u0440\u0430\u0436\u0434\u0430\u043d\u0435",
+                "hr": "Glasovanje zastupnica na plenarnoj sjednici preko opunomo\u0107enika tijekom trudno\u0107e i nakon poroda",
+                "el": "\u03a8\u03b7\u03c6\u03bf\u03c6\u03bf\u03c1\u03af\u03b1 \u03b4\u03b9\u03ac \u03c0\u03bb\u03b7\u03c1\u03b5\u03be\u03bf\u03c5\u03c3\u03af\u03bf\u03c5 \u03c3\u03c4\u03b7\u03bd \u039f\u03bb\u03bf\u03bc\u03ad\u03bb\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b2\u03bf\u03c5\u03bb\u03b5\u03cd\u03c4\u03c1\u03b9\u03b5\u03c2 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c1\u03ba\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03b3\u03ba\u03c5\u03bc\u03bf\u03c3\u03cd\u03bd\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03ac \u03c4\u03bf\u03bd \u03c4\u03bf\u03ba\u03b5\u03c4\u03cc",
+                "ga": "Seachv\u00f3t\u00e1il sa su\u00ed ioml\u00e1nach d\u2019Fheisir\u00ed le linn toirchis agus tar \u00e9is breithe",
+                "da": "Stemmeafgivning ved fuldmagt p\u00e5 plenarm\u00f8der for medlemmer under graviditet og efter at have f\u00f8dt",
+                "hu": "Terhess\u00e9g alatt \u00e9s a sz\u00fcl\u00e9s ut\u00e1n a k\u00e9pvisel\u0151k meghatalmazott \u00fatj\u00e1n val\u00f3 szavaz\u00e1sa a plen\u00e1ris \u00fcl\u00e9sen",
+                "sk": "Hlasovanie na plen\u00e1rnej sch\u00f4dzi prostredn\u00edctvom z\u00e1stupcu pre poslankyne po\u010das tehotenstva a po p\u00f4rode",
+                "cs": "Hlasov\u00e1n\u00ed prost\u0159ednictv\u00edm zmocn\u011bnce na plen\u00e1rn\u00edch zased\u00e1n\u00edch pro poslankyn\u011b b\u011bhem t\u011bhotenstv\u00ed a po porodu",
+                "et": "Parlamendiliikmetel raseduse ajal ja p\u00e4rast s\u00fcnnitust t\u00e4iskogul volituse alusel h\u00e4\u00e4letamise v\u00f5imaldamine",
+                "lt": "Parlamento nari\u0173 balsavimas plenariniame pos\u0117dyje n\u0117\u0161tumo metu ir po gimdymo suteikus \u012fgaliojim\u0105 balsuoti j\u0173 vardu",
+                "it": "Voto per delega in Aula durante la gravidanza e dopo il parto",
+                "sl": "Glasovanje po poobla\u0161\u010dencu za poslanke v nose\u010dnosti in po porodu"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2025-0214"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2025-11-13-DEC-181343",
+                "eli/dl/event/MTG-PL-2025-11-13-DEC-181340",
+                "eli/dl/event/MTG-PL-2025-11-13-DEC-181341",
+                "eli/dl/event/MTG-PL-2025-11-13-DEC-181342",
+                "eli/dl/event/MTG-PL-2025-11-13-DEC-181383"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2025-11-13-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2025-11-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "975493",
+            "structuredLabel": {
+                "sk": "<structuredLabel><title>Hlasovanie na plen\u00e1rnej sch\u00f4dzi prostredn\u00edctvom z\u00e1stupcu pre poslankyne po\u010das tehotenstva a po p\u00f4rode</title><label>Spr\u00e1va: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (potrebn\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>J\u00e4senten mahdollisuus \u00e4\u00e4nest\u00e4\u00e4 t\u00e4ysistunnossa valtakirjalla raskauden aikana ja synnytyksen j\u00e4lkeen</title><label>Mietint\u00f6: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (hyv\u00e4ksymiseen vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>EP-leden tijdens zwangerschap of na bevalling bij volmacht laten stemmen tijdens plenaire vergaderingen</title><label>Verslag: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (Meerderheid van de uitgebrachte stemmen)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u03a8\u03b7\u03c6\u03bf\u03c6\u03bf\u03c1\u03af\u03b1 \u03b4\u03b9\u03ac \u03c0\u03bb\u03b7\u03c1\u03b5\u03be\u03bf\u03c5\u03c3\u03af\u03bf\u03c5 \u03c3\u03c4\u03b7\u03bd \u039f\u03bb\u03bf\u03bc\u03ad\u03bb\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b2\u03bf\u03c5\u03bb\u03b5\u03cd\u03c4\u03c1\u03b9\u03b5\u03c2 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c1\u03ba\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03b3\u03ba\u03c5\u03bc\u03bf\u03c3\u03cd\u03bd\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03ac \u03c4\u03bf\u03bd \u03c4\u03bf\u03ba\u03b5\u03c4\u03cc</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Voto per delega in Aula durante la gravidanza e dopo il parto</title><label>Relazione: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Glasovanje po poobla\u0161\u010dencu za poslanke v nose\u010dnosti in po porodu</title><label>poro\u010dilo: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (potrebna ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Proxy voting in plenary for Members during pregnancy and after giving birth</title><label>Report: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (Majority of votes cast required)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Glasovanje zastupnica na plenarnoj sjednici preko opunomo\u0107enika tijekom trudno\u0107e i nakon poroda</title><label>Izvje\u0161\u0107e: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Parlamento nari\u0173 balsavimas plenariniame pos\u0117dyje n\u0117\u0161tumo metu ir po gimdymo suteikus \u012fgaliojim\u0105 balsuoti j\u0173 vardu</title><label>Prane\u0161imas: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Deput\u0101\u0161u balso\u0161ana plen\u0101rs\u0113d\u0113 gr\u016btniec\u012bbas laik\u0101 vai p\u0113c dzemd\u012bb\u0101m ar pilnvarot\u0101s personas starpniec\u012bbu</title><label>Zi\u0146ojums: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0413\u043b\u0430\u0441\u0443\u0432\u0430\u043d\u0435 \u043d\u0430 \u043f\u043b\u0435\u043d\u0430\u0440\u043d\u043e \u0437\u0430\u0441\u0435\u0434\u0430\u043d\u0438\u0435 \u0447\u0440\u0435\u0437 \u043f\u044a\u043b\u043d\u043e\u043c\u043e\u0449\u043d\u0438\u043a \u043f\u043e \u0432\u0440\u0435\u043c\u0435 \u043d\u0430 \u0431\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0441\u0442 \u0438 \u0441\u043b\u0435\u0434 \u0440\u0430\u0436\u0434\u0430\u043d\u0435</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Permiss\u00e3o de as deputadas votarem em sess\u00e3o plen\u00e1ria por procura\u00e7\u00e3o durante a gravidez e ap\u00f3s o parto</title><label>Relat\u00f3rio: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (Requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Votul deputatelor \u00een plen prin reprezentare \u00een timpul sarcinii \u0219i dup\u0103 na\u0219tere</title><label>Raport: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (este necesar\u0103 majoritatea voturilor exprimate)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Umo\u017cliwienie pos\u0142ankom w ci\u0105\u017cy i w po\u0142ogu udzia\u0142u w g\u0142osowaniu plenarnym przez pe\u0142nomocnika</title><label>Sprawozdanie: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Stemmeafgivning ved fuldmagt p\u00e5 plenarm\u00f8der for medlemmer under graviditet og efter at have f\u00f8dt</title><label>Bet\u00e6nkning: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Parlamendiliikmetel raseduse ajal ja p\u00e4rast s\u00fcnnitust t\u00e4iskogul volituse alusel h\u00e4\u00e4letamise v\u00f5imaldamine</title><label>Raport: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (n\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Terhess\u00e9g alatt \u00e9s a sz\u00fcl\u00e9s ut\u00e1n a k\u00e9pvisel\u0151k meghatalmazott \u00fatj\u00e1n val\u00f3 szavaz\u00e1sa a plen\u00e1ris \u00fcl\u00e9sen</title><label>Jelent\u00e9s: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (A leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Seachv\u00f3t\u00e1il sa su\u00ed ioml\u00e1nach d\u2019Fheisir\u00ed le linn toirchis agus tar \u00e9is breithe</title><label>Tuarasc\u00e1il: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (Tromlach na v\u00f3ta\u00ed arna gcaitheamh ag teast\u00e1il)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Vote des d\u00e9put\u00e9es par procuration en pl\u00e9ni\u00e8re pendant la grossesse et apr\u00e8s l\u2019accouchement</title><label>Rapport: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Hlasov\u00e1n\u00ed prost\u0159ednictv\u00edm zmocn\u011bnce na plen\u00e1rn\u00edch zased\u00e1n\u00edch pro poslankyn\u011b b\u011bhem t\u011bhotenstv\u00ed a po porodu</title><label>Zpr\u00e1va: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Votazzjoni permezz ta\u2019 prokura fil-plenarja g\u0127all-Membri waqt it-tqala u wara li jwelldu</title><label>Rapport: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (Ma\u0121\u0121oranza tal-voti mitfug\u0127a mitluba)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Votaci\u00f3n por delegaci\u00f3n en el Pleno para las diputadas durante el embarazo y despu\u00e9s del parto</title><label>Informe: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Abstimmung im Plenum mittels Stimmrechts\u00fcbertragung f\u00fcr Mitglieder w\u00e4hrend der Schwangerschaft und nach der Geburt</title><label>Bericht: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Fullmaktsr\u00f6stning i kammaren f\u00f6r ledam\u00f6ter under graviditet och efter f\u00f6rlossning</title><label>Bet\u00e4nkande: Juan Fernando L\u00f3pez Aguilar (A10-0214/2025) (En majoritet av de avgivna r\u00f6sterna kr\u00e4vdes.)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

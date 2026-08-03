@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-11-13-DEC-180629",
+            "type": "Vote",
+            "activity_date": "2025-11-13",
+            "activity_id": "MTG-PL-2025-11-13-DEC-180629",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 632,
+            "number_of_votes_abstention": 21,
+            "number_of_votes_against": 192,
+            "number_of_votes_favor": 419,
+            "comment": {
+                "el": "\u039c\u03a8",
+                "nl": "Geh. S",
+                "sv": "sluten",
+                "cs": "TAJ",
+                "et": "SH",
+                "de": "geh.",
+                "pl": "taj",
+                "sl": "TG",
+                "lv": "AIZKL",
+                "mt": "SIG",
+                "sk": "TH",
+                "pt": "SEC",
+                "it": "SEC",
+                "bg": "SEC",
+                "hu": "SEC",
+                "fi": "SEC",
+                "ro": "SEC",
+                "en": "SEC",
+                "es": "SEC",
+                "hr": "SEC",
+                "fr": "SEC",
+                "da": "SEC",
+                "ga": "BR",
+                "lt": "SB"
+            },
+            "notation_votingId": "180629",
+            "referenceText": {
+                "mt": "\u0126atra ta\u2019 Pierre Moscovici",
+                "cs": "jmenov\u00e1n\u00ed Pierra Moscoviciho",
+                "nl": "Voordracht van Pierre Moscovici",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 Pierre Moscovici",
+                "hr": "Imenovanje Pierrea Moscovicija",
+                "sl": "imenovanje Pierra Moscovicija",
+                "et": "Pierre Moscovici ametisse nimetamine",
+                "ro": "Propunere de numire a lui Pierre Moscovici ",
+                "es": "Nombramiento de Pierre Moscovici",
+                "lv": "Pierre Moscovici iecel\u0161ana",
+                "fi": "Pierre Moscovicin nimitt\u00e4minen",
+                "en": "Nomination of Pierre Moscovici",
+                "ga": "Ainmni\u00fach\u00e1n Pierre Moscovici",
+                "it": "Nomina di Pierre Moscovici",
+                "bg": "\u041d\u043e\u043c\u0438\u043d\u0438\u0440\u0430\u043d\u0435 \u043d\u0430 \u041f\u0438\u0435\u0440 \u041c\u043e\u0441\u043a\u043e\u0432\u0438\u0441\u0438",
+                "pt": "Nomea\u00e7\u00e3o de Pierre Moscovici",
+                "sk": "Vymenovanie Pierra Moscoviciho",
+                "fr": "Nomination de Pierre Moscovici",
+                "lt": "Pierre\u2019o Moscovici skyrimas",
+                "de": "Ernennung von Pierre Moscovici",
+                "da": "Udn\u00e6vnelse af Pierre Moscovici",
+                "sv": "Utn\u00e4mning av Pierre Moscovici",
+                "pl": "Mianowanie Pierre\u2019a Moscovici",
+                "hu": "Pierre Moscovici kinevez\u00e9se"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

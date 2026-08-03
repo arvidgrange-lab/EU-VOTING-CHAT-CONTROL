@@ -1,0 +1,269 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419553-5",
+            "type": "Activity",
+            "activity_date": "2015-04-15",
+            "activity_id": "MTG-PL-2015-04-15-VOT-ITM-419553-5",
+            "activity_label": {
+                "fr": "100e anniversaire du g\u00e9nocide arm\u00e9nien"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0348",
+                "eli/dl/doc/B-8-2015-0347",
+                "eli/dl/doc/B-8-2015-0346",
+                "eli/dl/doc/B-8-2015-0344",
+                "eli/dl/doc/B-8-2015-0343",
+                "eli/dl/doc/B-8-2015-0342",
+                "eli/dl/doc/B-8-2015-0349"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-15-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-15-VOT-ITM-005"
+            ],
+            "notation_dlvId": "419553",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>100e anniversaire du g\u00e9nocide arm\u00e9nien</title><label>Propositions de r\u00e9solution: B8-0342/2015, B8-0343/2015, B8-0344/2015, B8-0346/2015, B8-0347/2015, B8-0348/2015, B8-0349/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419553-5",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419554-6",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-1",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-4",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-3",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2590",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419553-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419554-6",
+            "type": "Activity",
+            "activity_date": "2015-04-15",
+            "activity_id": "MTG-PL-2015-04-15-VOT-ITM-419554-6",
+            "activity_label": {
+                "fr": "Journ\u00e9e internationale des Roms \u2013 anti-tziganisme en Europe et reconnaissance par l'UE de la journ\u00e9e de comm\u00e9moration du g\u00e9nocide des Roms durant la Seconde Guerre mondiale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0326"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-15-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "419554",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Journ\u00e9e internationale des Roms \u2013 anti-tziganisme en Europe et reconnaissance par l'UE de la journ\u00e9e de comm\u00e9moration du g\u00e9nocide des Roms durant la Seconde Guerre mondiale</title><label>Proposition de r\u00e9solution: B8-0326/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419553-5",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419554-6",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-1",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-4",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-3",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2615",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419554-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-1",
+            "type": "Activity",
+            "activity_date": "2015-04-15",
+            "activity_id": "MTG-PL-2015-04-15-VOT-ITM-419299-1",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: demande EGF/2014/017  FR/Mory-Ducros"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0124"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-15-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "419299",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: demande EGF/2014/017  FR/Mory-Ducros</title><label>Rapport: Jean-Paul Denanot (A8-0124/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419553-5",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419554-6",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-1",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-4",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-3",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2056",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-4",
+            "type": "Activity",
+            "activity_date": "2015-04-15",
+            "activity_id": "MTG-PL-2015-04-15-VOT-ITM-419299-4",
+            "activity_label": {
+                "fr": "Modification du cadre financier pluriannuel 2014-2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0125"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-15-OJ-ITM-V-8"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "419299",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification du cadre financier pluriannuel 2014-2020</title><label>Recommandation: Jan Olbrycht et  Isabelle Thomas (A8-0125/2015) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419553-5",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419554-6",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-1",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-4",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-3",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0010",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-3",
+            "type": "Activity",
+            "activity_date": "2015-04-15",
+            "activity_id": "MTG-PL-2015-04-15-VOT-ITM-419299-3",
+            "activity_label": {
+                "fr": "D\u00e9cision instituant le comit\u00e9 de l'emploi"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0065"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-15-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "419299",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9cision instituant le comit\u00e9 de l'emploi </title><label>Rapport: Marita Ulvskog (A8-0065/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419553-5",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419554-6",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-1",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-4",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-3",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0801",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-2",
+            "type": "Activity",
+            "activity_date": "2015-04-15",
+            "activity_id": "MTG-PL-2015-04-15-VOT-ITM-419299-2",
+            "activity_label": {
+                "fr": "D\u00e9cision instituant le comit\u00e9 de la protection sociale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0066"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-15-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-15-VOT-ITM-002"
+            ],
+            "notation_dlvId": "419299",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9cision instituant le comit\u00e9 de la protection sociale</title><label>Rapport: Marita Ulvskog (A8-0066/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419553-5",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419554-6",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-1",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-4",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-3",
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0802",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-15-VOT-ITM-419299-2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

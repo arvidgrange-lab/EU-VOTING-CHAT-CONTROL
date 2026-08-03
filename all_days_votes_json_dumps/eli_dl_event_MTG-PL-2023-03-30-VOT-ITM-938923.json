@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-30-VOT-ITM-938923",
+            "type": "Activity",
+            "activity_date": "2023-03-30",
+            "activity_id": "MTG-PL-2023-03-30-VOT-ITM-938923",
+            "activity_label": {
+                "fr": "Rapport 2022 sur l'\u00e9tat de droit - la situation de l'\u00e9tat de droit dans l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0189",
+                "eli/dl/doc/B-9-2023-0191",
+                "eli/dl/doc/B-9-2023-0190"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-30-OJ-ITM-V-29",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-30-VOT-ITM-008"
+            ],
+            "notation_dlvId": "938923",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 2,
+            "epvoc:amendmentsAdoptedTotal": 2,
+            "epvoc:amendmentsTabledPoliticalGroup": 38,
+            "epvoc:amendmentsTabledTotal": 38,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2022 sur l'\u00e9tat de droit - la situation de l'\u00e9tat de droit dans l'Union europ\u00e9enne</title><label>Propositions de r\u00e9solution: B9-0189/2023, B9-0190/2023, B9-0191/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939586",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939586",
+            "activity_label": {
+                "fr": "R\u00e9seau d\u2019information sur la durabilit\u00e9 des exploitations agricoles",
+                "mul": "R\u00e9seau d\u2019information sur la durabilit\u00e9 des exploitations agricoles - Farm Sustainability Data Network - Datennetz f\u00fcr die Nachhaltigkeit landwirtschaftlicher Betriebe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0075"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-49",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9seau d\u2019information sur la durabilit\u00e9 des exploitations agricoles</title><label>Rapport: J\u00e9r\u00e9my Decerle (A9-0075/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

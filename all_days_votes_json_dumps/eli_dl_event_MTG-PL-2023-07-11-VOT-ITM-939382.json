@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939382",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939382",
+            "activity_label": {
+                "fr": "Nouveau r\u00e8glement sur les produits de construction"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0207"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-34",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939382",
+            "epvoc:amendmentsAdoptedCommittee": 88,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 88,
+            "epvoc:amendmentsTabledCommittee": 88,
+            "epvoc:amendmentsTabledPoliticalGroup": 8,
+            "epvoc:amendmentsTabledTotal": 96,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nouveau r\u00e8glement sur les produits de construction</title><label>Rapport: Christian Doleschal (A9-0207/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939772",
+            "activity_label": {
+                "mul": "Publication \u00e9lectronique du Journal officiel de l\u2019Union europ\u00e9enne - Official Journal of the EU: electronic publication - Amtsblatt der Europ\u00e4ischen Union \u2013 elektronische Ver\u00f6ffentlichung",
+                "fr": "Publication \u00e9lectronique du Journal officiel de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0352"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939772",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Publication \u00e9lectronique du Journal officiel de l\u2019Union europ\u00e9enne</title><label>Recommandation: Adri\u00e1n V\u00e1zquez L\u00e1zara (A9-0352/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

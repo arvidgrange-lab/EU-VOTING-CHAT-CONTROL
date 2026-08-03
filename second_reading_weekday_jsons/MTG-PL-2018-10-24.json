@@ -1,0 +1,974 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741732-8",
+            "activity_label": {
+                "fr": "Appui aux r\u00e9formes structurelles dans les \u00c9tats membres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0316"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-98"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-008"
+            ],
+            "notation_dlvId": "741732",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Appui aux r\u00e9formes structurelles dans les \u00c9tats membres</title><label>Rapport: Lambert van Nistelrooij et  Constanze Krehl (A8-0316/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0336",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-742973-2",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Sophie Montel"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0350"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-104"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-002"
+            ],
+            "notation_dlvId": "742973",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Sophie Montel</title><label>Rapport: Tadeusz Zwiefka (A8-0350/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2076",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741265-7",
+            "activity_label": {
+                "fr": "D\u00e9charge 2016: Bureau europ\u00e9en d'appui en mati\u00e8re d'asile (EASO)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0299"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-007"
+            ],
+            "notation_dlvId": "741265",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2016: Bureau europ\u00e9en d'appui en mati\u00e8re d'asile (EASO)</title><label>Rapport: Bart Staes (A8-0299/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2177",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741732-11",
+            "activity_label": {
+                "fr": "Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es pour ce qui est des donn\u00e9es dactyloscopiques en Croatie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0345"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-011"
+            ],
+            "notation_dlvId": "741732",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es pour ce qui est des donn\u00e9es dactyloscopiques en Croatie</title><label>Rapport: Branislav \u0160kripek (A8-0345/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0810",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741287-5",
+            "activity_label": {
+                "fr": "Budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour 2019 - toutes sections"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0313"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-005"
+            ],
+            "notation_dlvId": "741287",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour 2019 - toutes sections</title><label>Rapport: Daniele Viotti et  Paul R\u00fcbig (A8-0313/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2046",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-742973-1",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Steeve Briois"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0349"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-103"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-001"
+            ],
+            "notation_dlvId": "742973",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Steeve Briois</title><label>Rapport: Tadeusz Zwiefka (A8-0349/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2075",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741269-16",
+            "activity_label": {
+                "fr": "Harmonisation des structures des droits d\u2019accises sur l\u2019alcool et les boissons alcooliques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0307"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-016"
+            ],
+            "notation_dlvId": "741269",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Harmonisation des structures des droits d\u2019accises sur l\u2019alcool et les boissons alcooliques</title><label>Rapport: Miguel Viegas (A8-0307/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0173",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741266-15",
+            "activity_label": {
+                "fr": "Utilisation du syst\u00e8me d'information Schengen aux fins du retour des ressortissants de pays tiers en s\u00e9jour irr\u00e9gulier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0348"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-015"
+            ],
+            "notation_dlvId": "741266",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Utilisation du syst\u00e8me d'information Schengen aux fins du retour des ressortissants de pays tiers en s\u00e9jour irr\u00e9gulier</title><label>Rapport: Jeroen Lenaers (A8-0348/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0407",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741732-10",
+            "activity_label": {
+                "fr": "Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es pour ce qui est des donn\u00e9es ADN en Irlande"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0343"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-74"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-010"
+            ],
+            "notation_dlvId": "741732",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es pour ce qui est des donn\u00e9es ADN en Irlande</title><label>Rapport: Branislav \u0160kripek (A8-0343/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0809",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-742857-18",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 106: autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 87427 \u00d7 MON 89034 \u00d7 1507 \u00d7 MON 88017 \u00d7 59122"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0491"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-97"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-018"
+            ],
+            "notation_dlvId": "742857",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 106: autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 87427 \u00d7 MON 89034 \u00d7 1507 \u00d7 MON 88017 \u00d7 59122</title><label>B8-0491/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2873",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741261-6",
+            "activity_label": {
+                "fr": "D\u00e9charge 2016: Budget g\u00e9n\u00e9ral de l'UE - Conseil europ\u00e9en et Conseil _x000D_"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0300"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-006"
+            ],
+            "notation_dlvId": "741261",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2016: Budget g\u00e9n\u00e9ral de l'UE - Conseil europ\u00e9en et Conseil _x000D_\n</title><label>Rapport: Marco Valli (A8-0300/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2138",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741268-14",
+            "activity_label": {
+                "fr": "\u00c9tablissement, fonctionnement et utilisation du syst\u00e8me d'information Schengen (SIS) dans le domaine de la coop\u00e9ration polici\u00e8re et judiciaire en mati\u00e8re p\u00e9nale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0349"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-014"
+            ],
+            "notation_dlvId": "741268",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement, fonctionnement et utilisation du syst\u00e8me d'information Schengen (SIS) dans le domaine de la coop\u00e9ration polici\u00e8re et judiciaire en mati\u00e8re p\u00e9nale</title><label>Rapport: Carlos Coelho (A8-0349/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0409",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741732-9",
+            "activity_label": {
+                "fr": "Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es pour ce qui est des donn\u00e9es dactyloscopiques en Irlande"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0344"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-009"
+            ],
+            "notation_dlvId": "741732",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es pour ce qui est des donn\u00e9es dactyloscopiques en Irlande</title><label>Rapport: Branislav \u0160kripek (A8-0344/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0808",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-742856-17",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 106: renouvellement de l'autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 NK603 \u00d7 MON 810"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0490"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-96"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-017"
+            ],
+            "notation_dlvId": "742856",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 106: renouvellement de l'autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 NK603 \u00d7 MON 810</title><label>B8-0490/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2872",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-742973-3",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Georgios Kyrtsos"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0351"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-105"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-003"
+            ],
+            "notation_dlvId": "742973",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Georgios Kyrtsos </title><label>Rapport: Heidi Hautala (A8-0351/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2041",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741256-12",
+            "activity_label": {
+                "fr": "R\u00e9duction de l'incidence sur l'environnement de certains produits en plastique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0317"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-012"
+            ],
+            "notation_dlvId": "741256",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9duction de l'incidence sur l'environnement de certains produits en plastique</title><label>Rapport: Fr\u00e9d\u00e9rique Ries (A8-0317/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0172",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-743339-4",
+            "activity_label": {
+                "fr": "Projet de Budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2019 - toutes sections"
+            },
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-95"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-004"
+            ],
+            "notation_dlvId": "743339",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de Budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2019 - toutes sections</title><label>Projets d\u2019amendements (majorit\u00e9 des membres qui composent le Parlement)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13",
+            "type": "Activity",
+            "activity_date": "2018-10-24",
+            "activity_id": "MTG-PL-2018-10-24-VOT-ITM-741267-13",
+            "activity_label": {
+                "fr": "\u00c9tablissement, fonctionnement et utilisation du syst\u00e8me d'information Schengen (SIS) dans le domaine des contr\u00f4les aux fronti\u00e8res"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0347"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-24-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-24-VOT-ITM-013"
+            ],
+            "notation_dlvId": "741267",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement, fonctionnement et utilisation du syst\u00e8me d'information Schengen (SIS) dans le domaine des contr\u00f4les aux fronti\u00e8res</title><label>Rapport: Carlos Coelho (A8-0347/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-8",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-2",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741265-7",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-11",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741287-5",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-1",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741269-16",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741266-15",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-10",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742857-18",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741261-6",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741268-14",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741732-9",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742856-17",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-742973-3",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741256-12",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-743339-4",
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0408",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-24-VOT-ITM-741267-13"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939663",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939663",
+            "activity_label": {
+                "fr": "Demande de d\u00e9fense de l'immunit\u00e9 de Stefano Maullu"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0318"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-46",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939663",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de d\u00e9fense de l'immunit\u00e9 de Stefano Maullu</title><label>Rapport: Ib\u00e1n Garc\u00eda Del Blanco (A9-0318/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

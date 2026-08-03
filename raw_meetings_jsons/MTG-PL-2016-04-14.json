@@ -1,0 +1,666 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-520557-5",
+            "activity_label": {
+                "fr": "Honduras: situation des d\u00e9fenseurs des droits de l'homme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0482",
+                "eli/dl/doc/B-8-2016-0470",
+                "eli/dl/doc/B-8-2016-0473",
+                "eli/dl/doc/B-8-2016-0477",
+                "eli/dl/doc/B-8-2016-0472",
+                "eli/dl/doc/B-8-2016-0469",
+                "eli/dl/doc/B-8-2016-0480"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-100"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "520557",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Honduras: situation des d\u00e9fenseurs des droits de l'homme</title><label>B8-0472/2016, B8-0473/2016, B8-0477/2016, B8-0480/2016, B8-0482/2016, B8-0470/2016, B8-0469/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2648",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-522221-1",
+            "activity_label": {
+                "fr": "Protection des personnes physiques \u00e0 l'\u00e9gard du traitement des donn\u00e9es \u00e0 caract\u00e8re personnel"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0139"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-110"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "522221",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des personnes physiques \u00e0 l'\u00e9gard du traitement des donn\u00e9es \u00e0 caract\u00e8re personnel</title><label>Recommandation pour la deuxi\u00e8me lecture: Jan Philipp Albrecht (A8-0139/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0011",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-520229-13",
+            "activity_label": {
+                "fr": "Secteur priv\u00e9 et d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0043"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-84"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-013"
+            ],
+            "notation_dlvId": "520229",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Secteur priv\u00e9 et d\u00e9veloppement</title><label>Rapport: Nirj Deva (A8-0043/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2205",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-522167-8",
+            "activity_label": {
+                "fr": "\u00c9tat pr\u00e9visionnel des recettes et des d\u00e9penses du Parlement europ\u00e9en pour l'exercice 2017"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0131"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-82"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "522167",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tat pr\u00e9visionnel des recettes et des d\u00e9penses du Parlement europ\u00e9en pour l'exercice 2017</title><label>Rapport: Indrek Tarand (A8-0131/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2019",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-520555-4",
+            "activity_label": {
+                "fr": "Pakistan, en particulier l'attentat perp\u00e9tr\u00e9 \u00e0 Lahore"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0466",
+                "eli/dl/doc/B-8-2016-0475",
+                "eli/dl/doc/B-8-2016-0476",
+                "eli/dl/doc/B-8-2016-0468",
+                "eli/dl/doc/B-8-2016-0467",
+                "eli/dl/doc/B-8-2016-0474",
+                "eli/dl/doc/B-8-2016-0471"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-99"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "520555",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pakistan, en particulier l'attentat perp\u00e9tr\u00e9 \u00e0 Lahore</title><label>B8-0471/2016, B8-0474/2016, B8-0475/2016, B8-0476/2016, B8-0467/2016, B8-0468/2016, B8-0466/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2644",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-521904-3",
+            "activity_label": {
+                "fr": "Utilisation des donn\u00e9es des dossiers passagers (UE-PNR)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0248"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-96"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "521904",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Utilisation des donn\u00e9es des dossiers passagers (UE-PNR)</title><label>Deuxi\u00e8me rapport: Timothy Kirkhope (A8-0248/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2011-0023",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-520225-7",
+            "activity_label": {
+                "fr": "Protection des secrets d'affaires contre l'obtention, l'utilisation et la divulgation illicites"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0199"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "520225",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des secrets d'affaires contre l'obtention, l'utilisation et la divulgation illicites</title><label>Rapport: Constance Le Grip (A8-0199/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0402",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-521886-9",
+            "activity_label": {
+                "fr": "Rapport sur la Turquie 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0442"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-11"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "521886",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport sur la Turquie 2015</title><label>Proposition de r\u00e9solution: B8-0442/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2898",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-521888-10",
+            "activity_label": {
+                "fr": "Rapport sur l'Albanie 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0440"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "521888",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport sur l'Albanie 2015</title><label>Proposition de r\u00e9solution: B8-0440/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2896",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-520228-12",
+            "activity_label": {
+                "fr": "Remplir l'objectif de lutte contre la pauvret\u00e9 dans le contexte de l'augmentation des co\u00fbts des m\u00e9nages"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0040"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-012"
+            ],
+            "notation_dlvId": "520228",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Remplir l'objectif de lutte contre la pauvret\u00e9 dans le contexte de l'augmentation des co\u00fbts des m\u00e9nages</title><label>Rapport: Tam\u00e1s Meszerics (A8-0040/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2223",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-522222-2",
+            "activity_label": {
+                "fr": "Protection des personnes physiques \u00e0 des fins de pr\u00e9vention des infractions p\u00e9nales"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0138"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-111"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "522222",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des personnes physiques \u00e0 des fins de pr\u00e9vention des infractions p\u00e9nales</title><label>Recommandation pour la deuxi\u00e8me lecture: Marju Lauristin (A8-0138/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0010",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-521889-11",
+            "activity_label": {
+                "fr": "Rapport sur la Bosnie-Herz\u00e9govine 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0441"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "521889",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport sur la Bosnie-Herz\u00e9govine 2015</title><label>Proposition de r\u00e9solution: B8-0441/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2897",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-520559-6",
+            "activity_label": {
+                "fr": "Nigeria"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0479",
+                "eli/dl/doc/B-8-2016-0478",
+                "eli/dl/doc/B-8-2016-0483",
+                "eli/dl/doc/B-8-2016-0485",
+                "eli/dl/doc/B-8-2016-0481",
+                "eli/dl/doc/B-8-2016-0486",
+                "eli/dl/doc/B-8-2016-0484"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-101"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "520559",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nigeria</title><label>B8-0479/2016, B8-0481/2016, B8-0483/2016, B8-0484/2016, B8-0485/2016, B8-0486/2016, B8-0478/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520557-5",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520229-13",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522167-8",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520555-4",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521904-3",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520225-7",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521886-9",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521888-10",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520228-12",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522222-2",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-521889-11",
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2649",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-520559-6"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

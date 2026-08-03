@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939485",
+            "activity_label": {
+                "fr": "Amendements au r\u00e8glement int\u00e9rieur du Parlement en vue de renforcer l\u2019int\u00e9grit\u00e9, l\u2019ind\u00e9pendance et l\u2019obligation de rendre des comptes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0262"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-64",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939485",
+            "epvoc:amendmentsAdoptedCommittee": 15,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 15,
+            "epvoc:amendmentsTabledCommittee": 15,
+            "epvoc:amendmentsTabledPoliticalGroup": 14,
+            "epvoc:amendmentsTabledTotal": 29,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Amendements au r\u00e8glement int\u00e9rieur du Parlement en vue de renforcer l\u2019int\u00e9grit\u00e9, l\u2019ind\u00e9pendance et l\u2019obligation de rendre des comptes</title><label>Rapport: Gabriele Bischoff (A9-0262/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

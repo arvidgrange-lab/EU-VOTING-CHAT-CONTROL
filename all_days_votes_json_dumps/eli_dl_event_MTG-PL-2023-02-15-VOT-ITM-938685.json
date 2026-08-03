@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938685",
+            "activity_label": {
+                "fr": "Protocole \u00e0 l'accord de coop\u00e9ration concernant un syst\u00e8me mondial de navigation par satellite \u00e0 usage civil CE/Cor\u00e9e: adh\u00e9sion de la Bulgarie, de la Croatie et de la Roumanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0006"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-35",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "938685",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protocole \u00e0 l'accord de coop\u00e9ration concernant un syst\u00e8me mondial de navigation par satellite \u00e0 usage civil CE/Cor\u00e9e: adh\u00e9sion de la Bulgarie, de la Croatie et de la Roumanie</title><label>Recommandation: Cristian-Silviu Bu\u015foi (A9-0006/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,297 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650769-5",
+            "type": "Activity",
+            "activity_date": "2017-10-25",
+            "activity_id": "MTG-PL-2017-10-25-VOT-ITM-650769-5",
+            "activity_label": {
+                "fr": "Cr\u00e9ation d'un syst\u00e8me d'entr\u00e9e/sortie (EES) pour enregistrer les donn\u00e9es relatives aux entr\u00e9es et aux sorties des ressortissants de pays tiers qui franchissent les fronti\u00e8res ext\u00e9rieures de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0057"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-25-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-25-VOT-ITM-005"
+            ],
+            "notation_dlvId": "650769",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation d'un syst\u00e8me d'entr\u00e9e/sortie (EES) pour enregistrer les donn\u00e9es relatives aux entr\u00e9es et aux sorties des ressortissants de pays tiers qui franchissent les fronti\u00e8res ext\u00e9rieures de l'Union europ\u00e9enne</title><label>Rapport: Agust\u00edn D\u00edaz de Mera Garc\u00eda Consuegra (A8-0057/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650769-5",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650774-7",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-651856-1",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650771-4",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650770-6",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650763-2",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650767-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0106",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650769-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650774-7",
+            "type": "Activity",
+            "activity_date": "2017-10-25",
+            "activity_id": "MTG-PL-2017-10-25-VOT-ITM-650774-7",
+            "activity_label": {
+                "fr": "Int\u00e9gration des Roms dans l\u2019Union du point de vue des droits fondamentaux: lutter contre l'antitsiganisme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0294"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-25-OJ-ITM-V-26"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-25-VOT-ITM-007"
+            ],
+            "notation_dlvId": "650774",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Int\u00e9gration des Roms dans l\u2019Union du point de vue des droits fondamentaux: lutter contre l'antitsiganisme</title><label>Rapport: Soraya Post (A8-0294/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650769-5",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650774-7",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-651856-1",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650771-4",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650770-6",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650763-2",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650767-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2038",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650774-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-651856-1",
+            "type": "Activity",
+            "activity_date": "2017-10-25",
+            "activity_id": "MTG-PL-2017-10-25-VOT-ITM-651856-1",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-25-VOT-ITM-001"
+            ],
+            "notation_dlvId": "651856",
+            "structuredLabel": {
+                "fr": "<structuredLabel><label> (majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650769-5",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650774-7",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-651856-1",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650771-4",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650770-6",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650763-2",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650767-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650771-4",
+            "type": "Activity",
+            "activity_date": "2017-10-25",
+            "activity_id": "MTG-PL-2017-10-25-VOT-ITM-650771-4",
+            "activity_label": {
+                "fr": "Protection des travailleurs contre les risques li\u00e9s \u00e0 l'exposition \u00e0 des agents canc\u00e9rig\u00e8nes ou mutag\u00e8nes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0064"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-25-OJ-ITM-V-36"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-25-VOT-ITM-004"
+            ],
+            "notation_dlvId": "650771",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des travailleurs contre les risques li\u00e9s \u00e0 l'exposition \u00e0 des agents canc\u00e9rig\u00e8nes ou mutag\u00e8nes</title><label>Rapport: Marita Ulvskog (A8-0064/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650769-5",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650774-7",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-651856-1",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650771-4",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650770-6",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650763-2",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650767-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0130",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650771-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650770-6",
+            "type": "Activity",
+            "activity_date": "2017-10-25",
+            "activity_id": "MTG-PL-2017-10-25-VOT-ITM-650770-6",
+            "activity_label": {
+                "fr": "Modification du code fronti\u00e8res Schengen en ce qui concerne l'utilisation du syst\u00e8me d'entr\u00e9e/sortie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0059"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-25-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-25-VOT-ITM-006"
+            ],
+            "notation_dlvId": "650770",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification du code fronti\u00e8res Schengen en ce qui concerne l'utilisation du syst\u00e8me d'entr\u00e9e/sortie</title><label>Rapport: Agust\u00edn D\u00edaz de Mera Garc\u00eda Consuegra (A8-0059/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650769-5",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650774-7",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-651856-1",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650771-4",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650770-6",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650763-2",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650767-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0105",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650770-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650763-2",
+            "type": "Activity",
+            "activity_date": "2017-10-25",
+            "activity_id": "MTG-PL-2017-10-25-VOT-ITM-650763-2",
+            "activity_label": {
+                "fr": "Budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2018 - toutes sections"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0299"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-25-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-25-VOT-ITM-002"
+            ],
+            "notation_dlvId": "650763",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2018 - toutes sections</title><label>Rapport: Siegfried Mure\u015fan et  Richard Ashworth (A8-0299/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650769-5",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650774-7",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-651856-1",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650771-4",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650770-6",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650763-2",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650767-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2044",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650763-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650767-3",
+            "type": "Activity",
+            "activity_date": "2017-10-25",
+            "activity_id": "MTG-PL-2017-10-25-VOT-ITM-650767-3",
+            "activity_label": {
+                "fr": "D\u00e9charge 2015: Budget g\u00e9n\u00e9ral de l'UE - Conseil et Conseil europ\u00e9en_x000D_"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0291"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-25-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-25-VOT-ITM-003"
+            ],
+            "notation_dlvId": "650767",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2015: Budget g\u00e9n\u00e9ral de l'UE - Conseil et Conseil europ\u00e9en_x000D_\n</title><label>Rapport: Bart Staes (A8-0291/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650769-5",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650774-7",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-651856-1",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650771-4",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650770-6",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650763-2",
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650767-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2153",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-25-VOT-ITM-650767-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

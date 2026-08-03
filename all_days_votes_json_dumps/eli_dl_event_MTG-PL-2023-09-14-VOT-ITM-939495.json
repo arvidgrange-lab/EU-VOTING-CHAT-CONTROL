@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-14-VOT-ITM-939495",
+            "type": "Activity",
+            "activity_date": "2023-09-14",
+            "activity_id": "MTG-PL-2023-09-14-VOT-ITM-939495",
+            "activity_label": {
+                "fr": "Situation des droits de l\u2019homme au Bangladesh, en particulier le cas d\u2019Odhikar"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0384",
+                "eli/dl/doc/B-9-2023-0378",
+                "eli/dl/doc/B-9-2023-0381",
+                "eli/dl/doc/B-9-2023-0380",
+                "eli/dl/doc/B-9-2023-0383",
+                "eli/dl/doc/B-9-2023-0382"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-14-OJ-ITM-V-81",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939495",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 2,
+            "epvoc:amendmentsTabledTotal": 2,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation des droits de l\u2019homme au Bangladesh, en particulier le cas d\u2019Odhikar</title><label>Propositions de r\u00e9solution: RC-B9-0378/2023, B9-0378/2023, B9-0380/2023, B9-0381/2023, B9-0382/2023, B9-0383/2023, B9-0384/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

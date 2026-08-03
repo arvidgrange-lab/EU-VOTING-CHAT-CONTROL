@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-09-VOT-ITM-939093",
+            "type": "Activity",
+            "activity_date": "2023-05-09",
+            "activity_id": "MTG-PL-2023-05-09-VOT-ITM-939093",
+            "activity_label": {
+                "fr": "R\u00e8gles sp\u00e9cifiques relatives aux m\u00e9dicaments \u00e0 usage humain destin\u00e9s \u00e0 \u00eatre mis sur le march\u00e9 de l\u2019Irlande du Nord"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0167"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-09-OJ-ITM-V-49",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-09-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939093",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8gles sp\u00e9cifiques relatives aux m\u00e9dicaments \u00e0 usage humain destin\u00e9s \u00e0 \u00eatre mis sur le march\u00e9 de l\u2019Irlande du Nord</title><label>Rapport: Pascal Canfin (A9-0167/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939834",
+            "activity_label": {
+                "mul": "Conception addictive des services en ligne et protection des consommateurs sur le march\u00e9 unique de l\u2019UE - Addictive design of online services and consumer protection in the EU single market - Suchterzeugende Gestaltung von Online-Diensten und Verbraucherschutz im EU-Binnenmarkt",
+                "fr": "Conception addictive des services en ligne et protection des consommateurs sur le march\u00e9 unique de l\u2019UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0340"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-36",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-016"
+            ],
+            "notation_dlvId": "939834",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conception addictive des services en ligne et protection des consommateurs sur le march\u00e9 unique de l\u2019UE</title><label>Rapport: Kim Van Sparrentak (A9-0340/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

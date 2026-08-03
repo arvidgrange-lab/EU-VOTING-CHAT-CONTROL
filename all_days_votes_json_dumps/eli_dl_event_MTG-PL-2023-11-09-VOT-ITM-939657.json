@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939657",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939657",
+            "activity_label": {
+                "mul": "Comptes \u00e9conomiques europ\u00e9ens de l'environnement: nouveaux modules - European environmental economic accounts: new modules - Europ\u00e4ische umwelt\u00f6konomische Gesamtrechnungen: Einf\u00fchrung neuer Module",
+                "fr": "Comptes \u00e9conomiques europ\u00e9ens de l'environnement: nouveaux modules"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0296"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-5",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-014"
+            ],
+            "notation_dlvId": "939657",
+            "epvoc:amendmentsAdoptedCommittee": 29,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 5,
+            "epvoc:amendmentsAdoptedTotal": 34,
+            "epvoc:amendmentsTabledCommittee": 35,
+            "epvoc:amendmentsTabledPoliticalGroup": 8,
+            "epvoc:amendmentsTabledTotal": 43,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Comptes \u00e9conomiques europ\u00e9ens de l'environnement: nouveaux modules</title><label>Rapport: Pascal Canfin (A9-0296/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

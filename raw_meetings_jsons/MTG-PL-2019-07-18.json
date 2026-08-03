@@ -1,0 +1,192 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809170-2",
+            "type": "Activity",
+            "activity_date": "2019-07-18",
+            "activity_id": "MTG-PL-2019-07-18-VOT-ITM-809170-2",
+            "activity_label": {
+                "fr": "Situation \u00e0 la fronti\u00e8re entre les \u00c9tats-Unis et le Mexique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0014",
+                "eli/dl/doc/B-9-2019-0028",
+                "eli/dl/doc/B-9-2019-0029",
+                "eli/dl/doc/B-9-2019-0024",
+                "eli/dl/doc/B-9-2019-0026",
+                "eli/dl/doc/B-9-2019-0027",
+                "eli/dl/doc/B-9-2019-0030"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-07-18-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-07-18-VOT-ITM-002"
+            ],
+            "notation_dlvId": "809170",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation \u00e0 la fronti\u00e8re entre les \u00c9tats-Unis et le Mexique</title><label>Propositions de r\u00e9solution: B9-0014/2019, B9-0024/2019, B9-0026/2019, B9-0027/2019, B9-0028/2019, B9-0029/2019, B9-0030/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-07-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809170-2",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809168-1",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809443-4",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809173-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2733",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809170-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809168-1",
+            "type": "Activity",
+            "activity_date": "2019-07-18",
+            "activity_id": "MTG-PL-2019-07-18-VOT-ITM-809168-1",
+            "activity_label": {
+                "fr": "Situation \u00e0 Hong Kong"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0017",
+                "eli/dl/doc/B-9-2019-0015",
+                "eli/dl/doc/B-9-2019-0021",
+                "eli/dl/doc/B-9-2019-0019",
+                "eli/dl/doc/B-9-2019-0023",
+                "eli/dl/doc/B-9-2019-0013"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-07-18-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-07-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "809168",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation \u00e0 Hong Kong</title><label>Propositions de r\u00e9solution: B9-0013/2019, B9-0015/2019, B9-0017/2019, B9-0019/2019, B9-0021/2019, B9-0023/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-07-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809170-2",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809168-1",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809443-4",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809173-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2732",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809168-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809443-4",
+            "type": "Activity",
+            "activity_date": "2019-07-18",
+            "activity_id": "MTG-PL-2019-07-18-VOT-ITM-809443-4",
+            "activity_label": {
+                "fr": "Situation au Venezuela"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0008",
+                "eli/dl/doc/B-9-2019-0006",
+                "eli/dl/doc/B-9-2019-0011",
+                "eli/dl/doc/B-9-2019-0010",
+                "eli/dl/doc/B-9-2019-0007",
+                "eli/dl/doc/B-9-2019-0009"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-07-18-OJ-ITM-V-26"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-07-18-VOT-ITM-004"
+            ],
+            "notation_dlvId": "809443",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation au Venezuela</title><label>Propositions de r\u00e9solution: B9-0006/2019, B9-0007/2019, B9-0008/2019, B9-0009/2019, B9-0010/2019, B9-0011/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-07-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809170-2",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809168-1",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809443-4",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809173-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2730",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809443-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809173-3",
+            "type": "Activity",
+            "activity_date": "2019-07-18",
+            "activity_id": "MTG-PL-2019-07-18-VOT-ITM-809173-3",
+            "activity_label": {
+                "fr": "La Russie, notamment la situation des militants \u00e9cologistes et des prisonniers politiques ukrainiens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0016",
+                "eli/dl/doc/B-9-2019-0018",
+                "eli/dl/doc/B-9-2019-0025",
+                "eli/dl/doc/B-9-2019-0020",
+                "eli/dl/doc/B-9-2019-0012",
+                "eli/dl/doc/B-9-2019-0022"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-07-18-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-07-18-VOT-ITM-003"
+            ],
+            "notation_dlvId": "809173",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La Russie, notamment la situation des militants \u00e9cologistes et des prisonniers politiques ukrainiens</title><label>Propositions de r\u00e9solution: B9-0012/2019, B9-0016/2019, B9-0018/2019, B9-0020/2019, B9-0022/2019, B9-0025/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-07-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809170-2",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809168-1",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809443-4",
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809173-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2734",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-18-VOT-ITM-809173-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

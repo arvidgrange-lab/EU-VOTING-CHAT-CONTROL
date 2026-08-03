@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-04-10-VOT-ITM-944654",
+            "type": "Activity",
+            "activity_date": "2024-04-10",
+            "activity_id": "MTG-PL-2024-04-10-VOT-ITM-944654",
+            "activity_label": {
+                "de": "Verrechnungspreisgestaltung *",
+                "ro": "Stabilirea pre\u021burilor de transfer *",
+                "mt": "L-ipprezzar ta\u2019 trasferimenti *",
+                "et": "Siirdehinnad *",
+                "nl": "Verrekenprijzen *",
+                "fi": "Siirtohinnoittelu *",
+                "lt": "Sandori\u0173 kainodara *",
+                "mul": "Prix de transfert - Transfer pricing - Verrechnungspreisgestaltung",
+                "fr": "Prix de transfert *",
+                "da": "Transfer pricing *",
+                "en": "Transfer pricing *",
+                "el": "\u039c\u03b5\u03c4\u03b1\u03b2\u03b9\u03b2\u03b1\u03c3\u03c4\u03b9\u03ba\u03ae \u03c4\u03b9\u03bc\u03bf\u03bb\u03cc\u03b3\u03b7\u03c3\u03b7 *",
+                "pt": "Pre\u00e7os de transfer\u00eancia *",
+                "pl": "Ustalanie cen transferowych *",
+                "es": "Precios de transferencia\u00a0*",
+                "hr": "Transferne cijene *",
+                "sk": "Transferov\u00e9 oce\u0148ovanie *",
+                "sl": "Dolo\u010danje transfernih cen *",
+                "bg": "\u0422\u0440\u0430\u043d\u0441\u0444\u0435\u0440\u043d\u043e \u0446\u0435\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u0443\u0432\u0430\u043d\u0435 *",
+                "cs": "Stanovov\u00e1n\u00ed p\u0159evodn\u00edch cen *",
+                "hu": "Transzfer\u00e1raz\u00e1s *",
+                "ga": "Praghs\u00e1il aistrithe *",
+                "it": "Prezzi di trasferimento *",
+                "sv": "Internpriss\u00e4ttning *",
+                "lv": "Transfertcenu noteik\u0161ana *"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2024-0066"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-04-10-DEC-166922"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-04-10-OJ-ITM-V-61"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-04-10-VOT-ITM-051"
+            ],
+            "notation_dlvId": "944654",
+            "structuredLabel": {
+                "hu": "<structuredLabel><title>Transzfer\u00e1raz\u00e1s * </title><label>Jelent\u00e9s: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Stabilirea pre\u021burilor de transfer *</title><label>Raport: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Verrechnungspreisgestaltung *</title><label>Bericht: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Siirdehinnad *</title><label>Raport: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Prix de transfert *</title><label>Rapport: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Precios de transferencia\u00a0*</title><label>Informe: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u039c\u03b5\u03c4\u03b1\u03b2\u03b9\u03b2\u03b1\u03c3\u03c4\u03b9\u03ba\u03ae \u03c4\u03b9\u03bc\u03bf\u03bb\u03cc\u03b3\u03b7\u03c3\u03b7 *</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Dolo\u010danje transfernih cen *</title><label>Poro\u010dilo: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Pre\u00e7os de transfer\u00eancia *</title><label>Relat\u00f3rio: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Transferov\u00e9 oce\u0148ovanie *</title><label>Spr\u00e1va: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Prezzi di trasferimento *</title><label>Relazione: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Siirtohinnoittelu *</title><label>Mietint\u00f6: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Transfer pricing *</title><label>Report: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Verrekenprijzen *</title><label>Verslag: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>L-ipprezzar ta\u2019 trasferimenti *</title><label>Rapport: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0422\u0440\u0430\u043d\u0441\u0444\u0435\u0440\u043d\u043e \u0446\u0435\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u0443\u0432\u0430\u043d\u0435 *</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Transferne cijene *</title><label>Izvje\u0161\u0107e: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Internpriss\u00e4ttning *</title><label>Bet\u00e4nkande: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Stanovov\u00e1n\u00ed p\u0159evodn\u00edch cen *</title><label>Zpr\u00e1va: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Sandori\u0173 kainodara *</title><label>Prane\u0161imas: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Ustalanie cen transferowych *</title><label>Sprawozdanie: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Transfertcenu noteik\u0161ana *</title><label>Zi\u0146ojums: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Transfer pricing *</title><label>Bet\u00e6nkning: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Praghs\u00e1il aistrithe *</title><label>Tuarasc\u00e1il: Kira Marie Peter-Hansen (A9-0066/2024)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

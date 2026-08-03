@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939590",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939590",
+            "activity_label": {
+                "fr": "Implications des activit\u00e9s de p\u00eache chinoises sur les p\u00eacheries de l\u2019Union et la voie \u00e0 suivre",
+                "mul": "Implications des activit\u00e9s de p\u00eache chinoises sur les p\u00eacheries de l\u2019Union et la voie \u00e0 suivre - Implications of Chinese fishing operations for EU fisheries and the way forward - Die Auswirkungen der chinesischen Fischereit\u00e4tigkeiten auf die EU-Fischerei und weiteres Vorgehen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0282"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-56",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939590",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Implications des activit\u00e9s de p\u00eache chinoises sur les p\u00eacheries de l\u2019Union et la voie \u00e0 suivre</title><label>Rapport: Pierre Karleskind (A9-0282/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

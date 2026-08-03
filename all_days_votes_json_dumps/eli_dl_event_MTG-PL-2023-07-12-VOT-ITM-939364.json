@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939364",
+            "activity_label": {
+                "fr": "Contr\u00f4le des activit\u00e9s financi\u00e8res de la Banque europ\u00e9enne d\u2019investissement \u2013 rapport annuel 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0212"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-016"
+            ],
+            "notation_dlvId": "939364",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contr\u00f4le des activit\u00e9s financi\u00e8res de la Banque europ\u00e9enne d\u2019investissement \u2013 rapport annuel 2022</title><label>Rapport: Viola von Cramon-Taubadel (A9-0212/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

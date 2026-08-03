@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-221123",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-019"
+            ],
+            "notation_dlvId": "221123",
+            "structuredLabel": {
+                "fr": "<structuredLabel><label>Informations compl\u00e9mentaires</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

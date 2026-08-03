@@ -1,0 +1,865 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990701",
+            "type": "Activity",
+            "activity_date": "2026-05-19",
+            "activity_id": "MTG-PL-2026-05-19-VOT-ITM-990701",
+            "activity_label": {
+                "ga": "Iarraidh ar dh\u00edol\u00faine Angelika Niebler a tharscaoileadh",
+                "fi": "Angelika Nieblerin koskemattomuuden pid\u00e4tt\u00e4mist\u00e4 koskeva pyynt\u00f6",
+                "hu": "Angelika Niebler mentelmi jog\u00e1nak felf\u00fcggeszt\u00e9s\u00e9re ir\u00e1nyul\u00f3 k\u00e9relem",
+                "bg": "\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u0441\u043d\u0435\u043c\u0430\u043d\u0435 \u043d\u0430 \u0438\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430 \u043d\u0430 \u0410\u043d\u0433\u0435\u043b\u0438\u043a\u0430 \u041d\u0438\u0431\u043b\u0435\u0440",
+                "lv": "Piepras\u012bjums atcelt Angelika Niebler imunit\u0101ti",
+                "et": "Angelika Niebleri puutumatuse \u00e4rav\u00f5tmise taotlus",
+                "mt": "Talba g\u0127at-tne\u0127\u0127ija tal-immunit\u00e0 ta\u2019 Angelika Niebler",
+                "nl": "Verzoek tot opheffing van de immuniteit van Angelika Niebler",
+                "lt": "Pra\u0161ymas at\u0161aukti Angelikos Niebler (Angelika Niebler) imunitet\u0105",
+                "sk": "\u017diados\u0165 o zbavenie Angeliky Nieblerovej imunity",
+                "sv": "Beg\u00e4ran om upph\u00e4vande av Angelika Nieblers immunitet",
+                "en": "Request for the waiver of the immunity of Angelika Niebler",
+                "it": "Richiesta di revoca dell'immunit\u00e0 di Angelika Niebler",
+                "fr": "Demande de lev\u00e9e de l\u2019immunit\u00e9 d\u2019Angelika Niebler",
+                "ro": "Cererea de ridicare a imunit\u0103\u021bii deputatei Angelika Niebler",
+                "hr": "Zahtjev za ukidanje imuniteta Angeliki Niebler",
+                "cs": "\u017d\u00e1dost, aby byla Angelika Nieblerov\u00e1 zbavena imunity",
+                "pl": "Wniosek o uchylenie immunitetu Angeliki Niebler",
+                "pt": "Pedido de levantamento da imunidade de Angelika Niebler",
+                "da": "Anmodning om oph\u00e6velse af Angelika Nieblers immunitet",
+                "de": "Antrag auf Aufhebung der Immunit\u00e4t von Angelika Niebler",
+                "sl": "Zahteva za odvzem imunitete Angeliki Niebler",
+                "es": "Suplicatorio de suspensi\u00f3n de la inmunidad de Angelika Niebler",
+                "el": "\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ac\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c5\u03bb\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 Angelika Niebler"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2026-0127"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192440"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2026-05-19-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2026-05-19-VOT-ITM-002"
+            ],
+            "notation_dlvId": "990701",
+            "structuredLabel": {
+                "cs": "<structuredLabel><title>\u017d\u00e1dost, aby byla Angelika Nieblerov\u00e1 zbavena imunity</title><label>Zpr\u00e1va: Marcin Sypniewski (A10-0127/2026) (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Richiesta di revoca dell'immunit\u00e0 di Angelika Niebler</title><label>Relazione: Marcin Sypniewski (A10-0127/2026) (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Cererea de ridicare a imunit\u0103\u021bii deputatei Angelika Niebler</title><label>Raport: Marcin Sypniewski (A10-0127/2026) (Este necesar\u0103 majoritatea voturilor exprimate.)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>\u017diados\u0165 o zbavenie Angeliky Nieblerovej imunity</title><label>Spr\u00e1va: Marcin Sypniewski (A10-0127/2026) (potrebn\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Talba g\u0127at-tne\u0127\u0127ija tal-immunit\u00e0 ta\u2019 Angelika Niebler</title><label>Rapport: Marcin Sypniewski (A10-0127/2026) (Rikjesta l-ma\u0121\u0121oranza tal-voti mitfug\u0127a)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Pedido de levantamento da imunidade de Angelika Niebler</title><label>Relat\u00f3rio: Marcin Sypniewski (A10-0127/2026) (Requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l\u2019immunit\u00e9 d\u2019Angelika Niebler</title><label>Rapport: Marcin Sypniewski (A10-0127/2026) (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Angelika Nieblerin koskemattomuuden pid\u00e4tt\u00e4mist\u00e4 koskeva pyynt\u00f6</title><label>Mietint\u00f6: Marcin Sypniewski (A10-0127/2026) (hyv\u00e4ksymiseen vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Wniosek o uchylenie immunitetu Angeliki Niebler</title><label>Sprawozdanie: Marcin Sypniewski (A10-0127/2026) (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Anmodning om oph\u00e6velse af Angelika Nieblers immunitet</title><label>Bet\u00e6nkning: Marcin Sypniewski (A10-0127/2026) (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Pra\u0161ymas at\u0161aukti Angelikos Niebler (Angelika Niebler) imunitet\u0105</title><label>Prane\u0161imas: Marcin Sypniewski (A10-0127/2026) (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u0441\u043d\u0435\u043c\u0430\u043d\u0435 \u043d\u0430 \u0438\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430 \u043d\u0430 \u0410\u043d\u0433\u0435\u043b\u0438\u043a\u0430 \u041d\u0438\u0431\u043b\u0435\u0440</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Marcin Sypniewski (A10-0127/2026) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Antrag auf Aufhebung der Immunit\u00e4t von Angelika Niebler</title><label>Bericht: Marcin Sypniewski (A10-0127/2026) (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Iarraidh ar dh\u00edol\u00faine Angelika Niebler a tharscaoileadh</title><label>Tuarasc\u00e1il: Marcin Sypniewski (A10-0127/2026) (Tromlach na v\u00f3ta\u00ed arna gcaitheamh ag teast\u00e1il)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Zahtjev za ukidanje imuniteta Angeliki Niebler</title><label>Izvje\u0161\u0107e: Marcin Sypniewski (A10-0127/2026) (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ac\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c5\u03bb\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 Angelika Niebler</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Marcin Sypniewski (A10-0127/2026) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Angelika Niebleri puutumatuse \u00e4rav\u00f5tmise taotlus</title><label>Raport: Marcin Sypniewski (A10-0127/2026) (n\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Suplicatorio de suspensi\u00f3n de la inmunidad de Angelika Niebler</title><label>Informe: Marcin Sypniewski (A10-0127/2026) (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Zahteva za odvzem imunitete Angeliki Niebler</title><label>Poro\u010dilo: Marcin Sypniewski (A10-0127/2026) (potrebna je ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Angelika Niebler mentelmi jog\u00e1nak felf\u00fcggeszt\u00e9s\u00e9re ir\u00e1nyul\u00f3 k\u00e9relem</title><label>Jelent\u00e9s: Marcin Sypniewski (A10-0127/2026) (a leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Beg\u00e4ran om upph\u00e4vande av Angelika Nieblers immunitet</title><label>Bet\u00e4nkande: Marcin Sypniewski (A10-0127/2026) (En majoritet av de avgivna r\u00f6sterna kr\u00e4vdes)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Piepras\u012bjums atcelt Angelika Niebler imunit\u0101ti</title><label>Zi\u0146ojums: Marcin Sypniewski (A10-0127/2026) (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Verzoek tot opheffing van de immuniteit van Angelika Niebler</title><label>Verslag: Marcin Sypniewski (A10-0127/2026) (Meerderheid van de uitgebrachte stemmen vereist)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Request for the waiver of the immunity of Angelika Niebler</title><label>Report: Marcin Sypniewski (A10-0127/2026) (Majority of votes cast required)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2026-05-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990701",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990704",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990702",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990692",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990703",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990673",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990676",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990675",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990672"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2025-2175",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990701"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990704",
+            "type": "Activity",
+            "activity_date": "2026-05-19",
+            "activity_id": "MTG-PL-2026-05-19-VOT-ITM-990704",
+            "activity_label": {
+                "cs": "\u017d\u00e1dost, aby byl Alvise P\u00e9rez zbaven imunity",
+                "pl": "Wniosek o uchylenie immunitetu Alvise P\u00e9reza",
+                "sk": "\u017diados\u0165 o zbavenie Alviseho P\u00e9reza imunity",
+                "da": "Anmodning om oph\u00e6velse af Alvise P\u00e9rez' immunitet",
+                "sl": "Zahteva za odvzem imunitete Alviseju P\u00e9rezu",
+                "nl": "Verzoek tot opheffing van de immuniteit van Alvise P\u00e9rez",
+                "mt": "Talba g\u0127at-tne\u0127\u0127ija tal-immunit\u00e0 ta\u2019 Alvise P\u00e9rez",
+                "el": "\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ac\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c5\u03bb\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 Alvise P\u00e9rez",
+                "de": "Antrag auf Aufhebung der Immunit\u00e4t von Alvise P\u00e9rez",
+                "hr": "Zahtjev za ukidanje imuniteta Alviseu P\u00e9rezu",
+                "fi": "Alvise P\u00e9rezin koskemattomuuden pid\u00e4tt\u00e4mist\u00e4 koskeva pyynt\u00f6",
+                "hu": "Alvise P\u00e9rez mentelmi jog\u00e1nak felf\u00fcggeszt\u00e9s\u00e9re ir\u00e1nyul\u00f3 k\u00e9relem",
+                "sv": "Beg\u00e4ran om upph\u00e4vande av Alvise P\u00e9rez immunitet",
+                "lt": "Pra\u0161ymas at\u0161aukti Alvise P\u00e9rezo (Alvise P\u00e9rez) imunitet\u0105",
+                "lv": "Piepras\u012bjums atcelt Alvise P\u00e9rez imunit\u0101ti",
+                "en": "Request for the waiver of the immunity of Alvise P\u00e9rez",
+                "it": "Richiesta di revoca dell'immunit\u00e0 di Alvise P\u00e9rez",
+                "bg": "\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u0441\u043d\u0435\u043c\u0430\u043d\u0435 \u043d\u0430 \u0438\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430 \u043d\u0430 \u0410\u043b\u0432\u0438\u0441\u0435 \u041f\u0435\u0440\u0435\u0441",
+                "fr": "Demande de lev\u00e9e de l\u2019immunit\u00e9 d\u2019Alvise P\u00e9rez",
+                "es": "Suplicatorio de suspensi\u00f3n de la inmunidad de Alvise P\u00e9rez",
+                "pt": "Pedido de levantamento da imunidade de Alvise P\u00e9rez",
+                "et": "Alvise P\u00e9rezi puutumatuse \u00e4rav\u00f5tmise taotlus",
+                "ro": "Cererea de ridicare a imunit\u0103\u021bii deputatului Alvise P\u00e9rez",
+                "ga": "Iarraidh ar dh\u00edol\u00faine Alvise P\u00e9rez a tharscaoileadh"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2026-0129"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192442"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2026-05-19-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2026-05-19-VOT-ITM-004"
+            ],
+            "notation_dlvId": "990704",
+            "structuredLabel": {
+                "ro": "<structuredLabel><title>Cererea de ridicare a imunit\u0103\u021bii deputatului Alvise P\u00e9rez</title><label>Raport: Pascale Piera (A10-0129/2026) (Este necesar\u0103 majoritatea voturilor exprimate.)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Alvise P\u00e9rezin koskemattomuuden pid\u00e4tt\u00e4mist\u00e4 koskeva pyynt\u00f6</title><label>Mietint\u00f6: Pascale Piera (A10-0129/2026) (hyv\u00e4ksymiseen vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Anmodning om oph\u00e6velse af Alvise P\u00e9rez' immunitet</title><label>Bet\u00e6nkning: Pascale Piera (A10-0129/2026) (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>\u017diados\u0165 o zbavenie Alviseho P\u00e9reza imunity</title><label>Spr\u00e1va: Pascale Piera (A10-0129/2026) (potrebn\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ac\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c5\u03bb\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 Alvise P\u00e9rez</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Pascale Piera (A10-0129/2026) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Talba g\u0127at-tne\u0127\u0127ija tal-immunit\u00e0 ta\u2019 Alvise P\u00e9rez</title><label>Rapport: Pascale Piera (A10-0129/2026) (Rikjesta l-ma\u0121\u0121oranza tal-voti mitfug\u0127a)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Wniosek o uchylenie immunitetu Alvise P\u00e9reza</title><label>Sprawozdanie: Pascale Piera (A10-0129/2026) (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>\u017d\u00e1dost, aby byl Alvise P\u00e9rez zbaven imunity</title><label>Zpr\u00e1va: Pascale Piera (A10-0129/2026) (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Beg\u00e4ran om upph\u00e4vande av Alvise P\u00e9rez immunitet</title><label>Bet\u00e4nkande: Pascale Piera (A10-0129/2026) (En majoritet av de avgivna r\u00f6sterna kr\u00e4vdes.)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Antrag auf Aufhebung der Immunit\u00e4t von Alvise P\u00e9rez</title><label>Bericht: Pascale Piera (A10-0129/2026) (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Suplicatorio de suspensi\u00f3n de la inmunidad de Alvise P\u00e9rez</title><label>Informe: Pascale Piera (A10-0129/2026) (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Richiesta di revoca dell'immunit\u00e0 di Alvise P\u00e9rez</title><label>Relazione: Pascale Piera (A10-0129/2026) (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Pra\u0161ymas at\u0161aukti Alvise P\u00e9rezo (Alvise P\u00e9rez) imunitet\u0105</title><label>Prane\u0161imas: Pascale Piera (A10-0129/2026) (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u0441\u043d\u0435\u043c\u0430\u043d\u0435 \u043d\u0430 \u0438\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430 \u043d\u0430 \u0410\u043b\u0432\u0438\u0441\u0435 \u041f\u0435\u0440\u0435\u0441</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Pascale Piera (A10-0129/2026) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Zahteva za odvzem imunitete Alviseju P\u00e9rezu</title><label>Poro\u010dilo: Pascale Piera (A10-0129/2026)(potrebna je ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Alvise P\u00e9rez mentelmi jog\u00e1nak felf\u00fcggeszt\u00e9s\u00e9re ir\u00e1nyul\u00f3 k\u00e9relem</title><label>Jelent\u00e9s: Pascale Piera (A10-0129/2026) (a leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Zahtjev za ukidanje imuniteta Alviseu P\u00e9rezu</title><label>Izvje\u0161\u0107e: Pascale Piera (A10-0129/2026) (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Verzoek tot opheffing van de immuniteit van Alvise P\u00e9rez</title><label>Verslag: Pascale Piera (A10-0129/2026) (Meerderheid van de uitgebrachte stemmen vereist)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l\u2019immunit\u00e9 d\u2019Alvise P\u00e9rez</title><label>Rapport: Pascale Piera (A10-0129/2026) (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Alvise P\u00e9rezi puutumatuse \u00e4rav\u00f5tmise taotlus</title><label>Raport: Pascale Piera (A10-0129/2026) (n\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Pedido de levantamento da imunidade de Alvise P\u00e9rez</title><label>Relat\u00f3rio: Pascale Piera (A10-0129/2026) (Requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Iarraidh ar dh\u00edol\u00faine Alvise P\u00e9rez a tharscaoileadh</title><label>Tuarasc\u00e1il: Pascale Piera (A10-0129/2026) (Tromlach na v\u00f3ta\u00ed arna gcaitheamh ag teast\u00e1il)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Request for the waiver of the immunity of Alvise P\u00e9rez</title><label>Report: Pascale Piera (A10-0129/2026) (Majority of votes cast required)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Piepras\u012bjums atcelt Alvise P\u00e9rez imunit\u0101ti</title><label>Zi\u0146ojums: Pascale Piera (A10-0129/2026) (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2026-05-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990701",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990704",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990702",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990692",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990703",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990673",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990676",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990675",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990672"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2025-2236",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990704"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990702",
+            "type": "Activity",
+            "activity_date": "2026-05-19",
+            "activity_id": "MTG-PL-2026-05-19-VOT-ITM-990702",
+            "activity_label": {
+                "ga": "Iarraidh ar dh\u00edol\u00faine Nikos Pappas a tharscaoileadh",
+                "fi": "Nikos Pappasin koskemattomuuden pid\u00e4tt\u00e4mist\u00e4 koskeva pyynt\u00f6",
+                "hr": "Zahtjev za ukidanje imuniteta Nikosu Pappasu",
+                "it": "Richiesta di revoca dell'immunit\u00e0 di Nikos Pappas",
+                "fr": "Demande de lev\u00e9e de l\u2019immunit\u00e9 de Nikos Pappas",
+                "de": "Antrag auf Aufhebung der Immunit\u00e4t von Nikos Pappas",
+                "sk": "\u017diados\u0165 o zbavenie Nikosa Pappasa imunity",
+                "bg": "\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u0441\u043d\u0435\u043c\u0430\u043d\u0435 \u043d\u0430 \u0438\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430 \u043d\u0430 \u041d\u0438\u043a\u043e\u0441 \u041f\u0430\u043f\u0430\u0441",
+                "hu": "Nikos Pappas mentelmi jog\u00e1nak felf\u00fcggeszt\u00e9s\u00e9re ir\u00e1nyul\u00f3 k\u00e9relem",
+                "lv": "Piepras\u012bjums atcelt Nikos Pappas imunit\u0101ti",
+                "ro": "Cererea de ridicare a imunit\u0103\u021bii deputatului Nikos Pappas",
+                "el": "\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ac\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c5\u03bb\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u039d\u03af\u03ba\u03bf\u03c5 \u03a0\u03b1\u03c0\u03c0\u03ac",
+                "pl": "Wniosek o uchylenie immunitetu Nikosa Pappasa",
+                "es": "Suplicatorio de suspensi\u00f3n de la inmunidad de Nikos Pappas",
+                "pt": "Pedido de levantamento da imunidade de Nikos Pappas",
+                "sl": "Zahteva za odvzem imunitete Nikosu Papasu (Nikos Pappas)",
+                "en": "Request for the waiver of the immunity of Nikos Pappas",
+                "da": "Anmodning om oph\u00e6velse af Nikos Pappas' immunitet",
+                "et": "Nikos Pappase puutumatuse \u00e4rav\u00f5tmise taotlus",
+                "mt": "Talba g\u0127at-tne\u0127\u0127ija tal-immunit\u00e0 ta\u2019 Nikos Pappas",
+                "sv": "Beg\u00e4ran om upph\u00e4vande av Nikos Pappas immunitet",
+                "nl": "Verzoek tot opheffing van de immuniteit van Nikos Pappas",
+                "lt": "Pra\u0161ymas at\u0161aukti Nikoso Pappaso (Nikos Pappas) imunitet\u0105",
+                "cs": "\u017d\u00e1dost, aby byl Nikos Pappas zbaven imunity"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2026-0128"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192441"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2026-05-19-OJ-ITM-V-69"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2026-05-19-VOT-ITM-003"
+            ],
+            "notation_dlvId": "990702",
+            "structuredLabel": {
+                "sv": "<structuredLabel><title>Beg\u00e4ran om upph\u00e4vande av Nikos Pappas immunitet</title><label>Bet\u00e4nkande: Marcin Sypniewski (A10-0128/2026) (En majoritet av de avgivna r\u00f6sterna kr\u00e4vdes)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Nikos Pappasin koskemattomuuden pid\u00e4tt\u00e4mist\u00e4 koskeva pyynt\u00f6</title><label>Mietint\u00f6: Marcin Sypniewski (A10-0128/2026) (hyv\u00e4ksymiseen vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Zahteva za odvzem imunitete Nikosu Papasu (Nikos Pappas)</title><label>Poro\u010dilo: Marcin Sypniewski (A10-0128/2026) (potrebna je ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Wniosek o uchylenie immunitetu Nikosa Pappasa</title><label>Sprawozdanie: Marcin Sypniewski (A10-0128/2026) (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Piepras\u012bjums atcelt Nikos Pappas imunit\u0101ti</title><label>Zi\u0146ojums: Marcin Sypniewski (A10-0128/2026) (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Pedido de levantamento da imunidade de Nikos Pappas</title><label>Relat\u00f3rio: Marcin Sypniewski (A10-0128/2026) (Requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Nikos Pappase puutumatuse \u00e4rav\u00f5tmise taotlus</title><label>Raport: Marcin Sypniewski (A10-0128/2026) (n\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ac\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c5\u03bb\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u039d\u03af\u03ba\u03bf\u03c5 \u03a0\u03b1\u03c0\u03c0\u03ac</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Marcin Sypniewski (A10-0128/2026) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Nikos Pappas mentelmi jog\u00e1nak felf\u00fcggeszt\u00e9s\u00e9re ir\u00e1nyul\u00f3 k\u00e9relem</title><label>Jelent\u00e9s: Marcin Sypniewski (A10-0128/2026) (a leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l\u2019immunit\u00e9 de Nikos Pappas</title><label>Rapport: Marcin Sypniewski (A10-0128/2026) (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>\u017d\u00e1dost, aby byl Nikos Pappas zbaven imunity</title><label>Zpr\u00e1va: Marcin Sypniewski (A10-0128/2026) (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Anmodning om oph\u00e6velse af Nikos Pappas' immunitet</title><label>Bet\u00e6nkning: Marcin Sypniewski (A10-0128/2026) (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u0441\u043d\u0435\u043c\u0430\u043d\u0435 \u043d\u0430 \u0438\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430 \u043d\u0430 \u041d\u0438\u043a\u043e\u0441 \u041f\u0430\u043f\u0430\u0441</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Marcin Sypniewski (A10-0128/2026) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Pra\u0161ymas at\u0161aukti Nikoso Pappaso (Nikos Pappas) imunitet\u0105</title><label>Prane\u0161imas: Marcin Sypniewski (A10-0128/2026) (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Richiesta di revoca dell'immunit\u00e0 di Nikos Pappas</title><label>Relazione: Marcin Sypniewski (A10-0128/2026) (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Talba g\u0127at-tne\u0127\u0127ija tal-immunit\u00e0 ta\u2019 Nikos Pappas</title><label>Rapport: Marcin Sypniewski (A10-0128/2026) (Rikjesta l-ma\u0121\u0121oranza tal-voti mitfug\u0127a)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Iarraidh ar dh\u00edol\u00faine Nikos Pappas a tharscaoileadh</title><label>Tuarasc\u00e1il: Marcin Sypniewski (A10-0128/2026) (Tromlach na v\u00f3ta\u00ed arna gcaitheamh ag teast\u00e1il)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Antrag auf Aufhebung der Immunit\u00e4t von Nikos Pappas</title><label>Bericht: Marcin Sypniewski (A10-0128/2026) (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Request for the waiver of the immunity of Nikos Pappas</title><label>Report: Marcin Sypniewski (A10-0128/2026) (Majority of votes cast required)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Suplicatorio de suspensi\u00f3n de la inmunidad de Nikos Pappas</title><label>Informe: Marcin Sypniewski (A10-0128/2026) (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Cererea de ridicare a imunit\u0103\u021bii deputatului Nikos Pappas</title><label>Raport: Marcin Sypniewski (A10-0128/2026) (Este necesar\u0103 majoritatea voturilor exprimate.)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Verzoek tot opheffing van de immuniteit van Nikos Pappas</title><label>Verslag: Marcin Sypniewski (A10-0128/2026) (Meerderheid van de uitgebrachte stemmen vereist)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>\u017diados\u0165 o zbavenie Nikosa Pappasa imunity</title><label>Spr\u00e1va: Marcin Sypniewski (A10-0128/2026) (potrebn\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Zahtjev za ukidanje imuniteta Nikosu Pappasu</title><label>Izvje\u0161\u0107e: Marcin Sypniewski (A10-0128/2026) (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2026-05-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990701",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990704",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990702",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990692",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990703",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990673",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990676",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990675",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990672"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2025-2234",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990702"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990692",
+            "type": "Activity",
+            "activity_date": "2026-05-19",
+            "activity_id": "MTG-PL-2026-05-19-VOT-ITM-990692",
+            "activity_label": {
+                "lv": "Vienot\u0101 Eiropas dzelzce\u013ca telpa: dzelzce\u013ca infrastrukt\u016bras jaudas izmanto\u0161ana ***II",
+                "nl": "De gemeenschappelijke Europese spoorwegruimte: gebruik van spoorweginfrastructuurcapaciteit ***II",
+                "bg": "\u0415\u0434\u0438\u043d\u043d\u043e \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u043e \u0436\u0435\u043b\u0435\u0437\u043e\u043f\u044a\u0442\u043d\u043e \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e: \u0438\u0437\u043f\u043e\u043b\u0437\u0432\u0430\u043d\u0435 \u043d\u0430 \u0436\u0435\u043b\u0435\u0437\u043e\u043f\u044a\u0442\u043d\u0438\u044f \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435\u043d \u043a\u0430\u043f\u0430\u0446\u0438\u0442\u0435\u0442 ***II",
+                "cs": "Jednotn\u00fd evropsk\u00fd \u017eelezni\u010dn\u00ed prostor: vyu\u017e\u00edv\u00e1n\u00ed kapacity \u017eelezni\u010dn\u00ed infrastruktury ***II",
+                "en": "Single European railway area: use of railway infrastructure capacity ***II",
+                "mt": "\u017bona ferrovjarja unika Ewropea: l-u\u017cu tal-kapa\u010bit\u00e0 infrastrutturali ferrovjarja ***II",
+                "sl": "Enotno evropsko \u017eelezni\u0161ko obmo\u010dje: uporaba \u017eelezni\u0161kih infrastrukturnih zmogljivosti ***II",
+                "lt": "Bendra Europos gele\u017einkeli\u0173 erdv\u0117: gele\u017einkeli\u0173 infrastrukt\u016bros paj\u0117gum\u0173 naudojimas ***II",
+                "fi": "Yhten\u00e4inen eurooppalainen rautatielue: rautateiden ratakapasiteetin k\u00e4ytt\u00f6 ***II",
+                "da": "Det f\u00e6lles europ\u00e6iske jernbaneomr\u00e5de: anvendelse af jernbaneinfrastrukturkapacitet ***II",
+                "hu": "Egys\u00e9ges eur\u00f3pai vas\u00fati t\u00e9rs\u00e9g: a vas\u00fati infrastrukt\u00fara-kapacit\u00e1s haszn\u00e1lata ***II",
+                "it": "Spazio ferroviario europeo unico: uso della capacit\u00e0 di infrastruttura ferroviaria ***II",
+                "pt": "Espa\u00e7o ferrovi\u00e1rio europeu \u00fanico: utiliza\u00e7\u00e3o da capacidade da infraestrutura ferrovi\u00e1ria ***II",
+                "el": "\u0395\u03bd\u03b9\u03b1\u03af\u03bf\u03c2 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03cc\u03c2 \u03c3\u03b9\u03b4\u03b7\u03c1\u03bf\u03b4\u03c1\u03bf\u03bc\u03b9\u03ba\u03cc\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c2: \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c7\u03c9\u03c1\u03b7\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c3\u03b9\u03b4\u03b7\u03c1\u03bf\u03b4\u03c1\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03c5\u03c0\u03bf\u03b4\u03bf\u03bc\u03ae\u03c2 ***II",
+                "ga": "An limist\u00e9ar Eorpach aonair iarnr\u00f3id: \u00fas\u00e1id an toillte bonneagair iarnr\u00f3id ***II",
+                "sk": "Jednotn\u00fd eur\u00f3psky \u017eelezni\u010dn\u00fd priestor: vyu\u017e\u00edvanie kapacity \u017eelezni\u010dnej infra\u0161trukt\u00fary\u00a0***II",
+                "pl": "Jednolity europejski obszar kolejowy: wykorzystanie zdolno\u015bci przepustowej infrastruktury kolejowej ***II",
+                "sv": "Det gemensamma europeiska j\u00e4rnv\u00e4gsomr\u00e5det: utnyttjande av j\u00e4rnv\u00e4gsinfrastrukturkapacitet ***II",
+                "de": "Einheitlicher europ\u00e4ischer Eisenbahnraum: Nutzung der Fahrwegkapazit\u00e4t der Eisenbahn ***II",
+                "es": "Espacio ferroviario europeo \u00fanico: uso de la capacidad de infraestructura ferroviaria ***II",
+                "et": "\u00dchtne Euroopa raudteepiirkond: raudteetaristu l\u00e4bilaskev\u00f5ime kasutamine ***II",
+                "ro": "Spa\u021biul feroviar unic european: Utilizarea capacit\u0103\u021bilor de infrastructur\u0103 feroviar\u0103 ***II",
+                "hr": "Jedinstveni europski \u017eeljezni\u010dki prostor: upotreba \u017eeljezni\u010dkog infrastrukturnog kapaciteta ***II",
+                "fr": "Espace ferroviaire unique europ\u00e9en: utilisation des capacit\u00e9s de l'infrastructure ferroviaire ***II"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2026-0126"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192475",
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192474"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2026-05-19-OJ-ITM-V-60"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2026-05-19-VOT-ITM-006"
+            ],
+            "notation_dlvId": "990692",
+            "structuredLabel": {
+                "el": "<structuredLabel><title>\u0395\u03bd\u03b9\u03b1\u03af\u03bf\u03c2 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03cc\u03c2 \u03c3\u03b9\u03b4\u03b7\u03c1\u03bf\u03b4\u03c1\u03bf\u03bc\u03b9\u03ba\u03cc\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c2: \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c7\u03c9\u03c1\u03b7\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c3\u03b9\u03b4\u03b7\u03c1\u03bf\u03b4\u03c1\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03c5\u03c0\u03bf\u03b4\u03bf\u03bc\u03ae\u03c2 ***II</title><label>\u03a3\u03cd\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03ac\u03b3\u03bd\u03c9\u03c3\u03b7: Tilly Metz (A10-0126/2026) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03b7 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ce\u03bd \u03c0\u03bf\u03c5 \u03b1\u03c0\u03b1\u03c1\u03c4\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03bf \u039a\u03bf\u03b9\u03bd\u03bf\u03b2\u03bf\u03cd\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03bf\u03c0\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03ae \u03c4\u03b7\u03bd \u03b1\u03c0\u03cc\u03c1\u03c1\u03b9\u03c8\u03b7 \u03c4\u03b7\u03c2 \u03b8\u03ad\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03a3\u03c5\u03bc\u03b2\u03bf\u03c5\u03bb\u03af\u03bf\u03c5)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Jednotn\u00fd evropsk\u00fd \u017eelezni\u010dn\u00ed prostor: vyu\u017e\u00edv\u00e1n\u00ed kapacity \u017eelezni\u010dn\u00ed infrastruktury ***II</title><label>Doporu\u010den\u00ed pro druh\u00e9 \u010dten\u00ed: Tilly Metz (A10-0126/2026) (pro zm\u011bnu nebo zam\u00edtnut\u00ed postoje Rady se vy\u017eaduje v\u011bt\u0161ina hlas\u016f v\u0161ech poslanc\u016f Parlamentu)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Spa\u021biul feroviar unic european: Utilizarea capacit\u0103\u021bilor de infrastructur\u0103 feroviar\u0103 ***II</title><label>Recomandare pentru a doua lectur\u0103: Tilly Metz (A10-0126/2026) (Este necesar\u0103 majoritatea deputa\u021bilor care compun Parlamentul pentru modificarea sau respingerea pozi\u021biei Consiliului.)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Einheitlicher europ\u00e4ischer Eisenbahnraum: Nutzung der Fahrwegkapazit\u00e4t der Eisenbahn ***II</title><label>Empfehlung f\u00fcr die zweite Lesung: Tilly Metz (A10-0126/2026) (Mehrheit der Mitglieder des Parlaments f\u00fcr die Ab\u00e4nderung oder Ablehnung des Standpunkt des Rates erforderlich)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Espa\u00e7o ferrovi\u00e1rio europeu \u00fanico: utiliza\u00e7\u00e3o da capacidade da infraestrutura ferrovi\u00e1ria ***II</title><label>Recomenda\u00e7\u00e3o para segunda leitura: Tilly Metz (A10-0126/2026) (Requerida a maioria dos deputados que comp\u00f5em o Parlamento para alterar ou rejeitar a posi\u00e7\u00e3o do Conselho)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Single European railway area: use of railway infrastructure capacity ***II</title><label>Recommendation for second reading: Tilly Metz (A10-0126/2026) (Majority of Parliament\u2019s component Members required to amend or reject the Council position)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>De gemeenschappelijke Europese spoorwegruimte: gebruik van spoorweginfrastructuurcapaciteit ***II</title><label>Aanbeveling voor de tweede lezing: Tilly Metz (A10-0126/2026) (Meerderheid van de leden van het Parlement vereist om het standpunt van de Raad te wijzigen of te verwerpen)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>\u017bona ferrovjarja unika Ewropea: l-u\u017cu tal-kapa\u010bit\u00e0 infrastrutturali ferrovjarja ***II</title><label>Rakkomandazzjoni g\u0127at-tieni qari: Tilly Metz (A10-0126/2026) (Ma\u0121\u0121oranza tal-Membri li jag\u0127mlu parti mill-Parlament Ewropew me\u0127tie\u0121a g\u0127all-emenda jew g\u0127ar-rifjut tal-po\u017cizzjoni tal-Kunsill)</label></structuredLabel>",
+                "et": "<structuredLabel><title>\u00dchtne Euroopa raudteepiirkond: raudteetaristu l\u00e4bilaskev\u00f5ime kasutamine ***II</title><label>Teise lugemise soovitus: Tilly Metz (A10-0126/2026) (n\u00f5ukogu seisukoha muutmiseks v\u00f5i tagasil\u00fckkamiseks on n\u00f5utav parlamendi koosseisu h\u00e4\u00e4lteenamus)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Yhten\u00e4inen eurooppalainen rautatielue:  rautateiden ratakapasiteetin k\u00e4ytt\u00f6 ***II</title><label>Suositus toiseen k\u00e4sittelyyn: Tilly Metz (A10-0126/2026) (neuvoston kannan tarkistamiseen tai hylk\u00e4\u00e4miseen vaaditaan parlamentin j\u00e4senten enemmist\u00f6)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Spazio ferroviario europeo unico: uso della capacit\u00e0 di infrastruttura ferroviaria ***II</title><label>Raccomandazione per la seconda lettura: Tilly Metz (A10-0126/2026) (Richiesta la maggioranza dei membri che compongono il Parlamento per la modifica o la reiezione della posizione del Consiglio)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Vienot\u0101 Eiropas dzelzce\u013ca telpa: dzelzce\u013ca infrastrukt\u016bras jaudas izmanto\u0161ana ***II</title><label>Ieteikums otrajam las\u012bjumam: Tilly Metz (A10-0126/2026) (Lai groz\u012btu vai noraid\u012btu Padomes nost\u0101ju, vajadz\u012bgs Parlamenta deput\u0101tu vair\u0101kums)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0415\u0434\u0438\u043d\u043d\u043e \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u043e \u0436\u0435\u043b\u0435\u0437\u043e\u043f\u044a\u0442\u043d\u043e \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e: \u0438\u0437\u043f\u043e\u043b\u0437\u0432\u0430\u043d\u0435 \u043d\u0430 \u0436\u0435\u043b\u0435\u0437\u043e\u043f\u044a\u0442\u043d\u0438\u044f \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435\u043d \u043a\u0430\u043f\u0430\u0446\u0438\u0442\u0435\u0442 ***II</title><label>\u041f\u0440\u0435\u043f\u043e\u0440\u044a\u043a\u0430 \u0437\u0430 \u0432\u0442\u043e\u0440\u043e \u0447\u0435\u0442\u0435\u043d\u0435: Tilly Metz (A10-0126/2026) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u0447\u043b\u0435\u043d\u043e\u0432\u0435\u0442\u0435, \u0441\u044a\u0441\u0442\u0430\u0432\u043b\u044f\u0432\u0430\u0449\u0438 \u041f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430, \u0437\u0430 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043e\u0442\u0445\u0432\u044a\u0440\u043b\u044f\u043d\u0435 \u043d\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0442\u0430 \u043d\u0430 \u0421\u044a\u0432\u0435\u0442\u0430)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Jedinstveni europski \u017eeljezni\u010dki prostor: upotreba \u017eeljezni\u010dkog infrastrukturnog kapaciteta ***II</title><label>Preporuka za drugo \u010ditanje: Tilly Metz (A10-0126/2026) (za odbacivanje ili izmjenu stajali\u0161ta Vije\u0107a potrebna je ve\u0107ina zastupnika u Parlamentu)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Egys\u00e9ges eur\u00f3pai vas\u00fati t\u00e9rs\u00e9g: a vas\u00fati infrastrukt\u00fara-kapacit\u00e1s haszn\u00e1lata ***II</title><label>Aj\u00e1nl\u00e1s m\u00e1sodik olvasatra: Tilly Metz (A10-0126/2026) (a Tan\u00e1cs \u00e1ll\u00e1spontj\u00e1nak m\u00f3dos\u00edt\u00e1s\u00e1hoz vagy elutas\u00edt\u00e1s\u00e1hoz az \u00f6sszes parlamenti k\u00e9pvisel\u0151 t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Enotno evropsko \u017eelezni\u0161ko obmo\u010dje: uporaba \u017eelezni\u0161kih infrastrukturnih zmogljivosti ***II</title><label>Priporo\u010dilo za drugo obravnavo: Tilly Metz (A10-0126/2026) (za spremembo ali zavrnitev stali\u0161\u010da Sveta je zahtevana ve\u010dina poslancev Parlamenta)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Espacio ferroviario europeo \u00fanico: uso de la capacidad de infraestructura ferroviaria ***II</title><label>Recomendaci\u00f3n para la segunda lectura: Tilly Metz (A10-0126/2026) (mayor\u00eda de los diputados que componen el Parlamento requerida para modificar o rechazar la Posici\u00f3n del Consejo)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Det gemensamma europeiska j\u00e4rnv\u00e4gsomr\u00e5det: utnyttjande av j\u00e4rnv\u00e4gsinfrastrukturkapacitet ***II</title><label>Andrabehandlingsrekommendation: Tilly Metz (A10-0126/2026) (En majoritet av parlamentets ledam\u00f6ter kr\u00e4vdes f\u00f6r att \u00e4ndra eller f\u00f6rkasta r\u00e5dets st\u00e5ndpunkt)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Jednotn\u00fd eur\u00f3psky \u017eelezni\u010dn\u00fd priestor: vyu\u017e\u00edvanie kapacity \u017eelezni\u010dnej infra\u0161trukt\u00fary\u00a0***II</title><label>Odpor\u00fa\u010danie do druh\u00e9ho \u010d\u00edtania: Tilly Metz (A10-0126/2026) (potrebn\u00e1 v\u00e4\u010d\u0161ina hlasov v\u0161etk\u00fdch poslancov Parlamentu na zmenu alebo zamietnutie poz\u00edcie Rady)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Bendra Europos gele\u017einkeli\u0173 erdv\u0117: gele\u017einkeli\u0173 infrastrukt\u016bros paj\u0117gum\u0173 naudojimas ***II</title><label>Rekomendacija antrajam svarstymui: Tilly Metz (A10-0126/2026) (Tarybos pozicijai i\u0161 dalies pakeisti arba atmesti reikalinga vis\u0173 Parlamento nari\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Espace ferroviaire unique europ\u00e9en: utilisation des capacit\u00e9s de l'infrastructure ferroviaire ***II</title><label>Recommandation pour la deuxi\u00e8me lecture: Tilly Metz (A10-0126/2026) (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise pour modifier ou rejeter la position du Conseil)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>An limist\u00e9ar Eorpach aonair iarnr\u00f3id: \u00fas\u00e1id an toillte bonneagair iarnr\u00f3id ***II</title><label>Moladh don dara l\u00e9amh: Tilly Metz (A10-0126/2026) (Tromlach na bhFeisir\u00ed a chomhdh\u00e9anann an Pharlaimint ag teast\u00e1il chun an seasamh \u00f3n gComhairle a leas\u00fa n\u00f3 di\u00falt\u00fa d\u00f3)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Det f\u00e6lles europ\u00e6iske jernbaneomr\u00e5de:  anvendelse af jernbaneinfrastrukturkapacitet ***II</title><label>Indstilling ved andenbehandling: Tilly Metz (A10-0126/2026) (Flertal af Parlamentets medlemmer p\u00e5kr\u00e6vet for at \u00e6ndre eller forkaste R\u00e5dets holdning)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Jednolity europejski obszar kolejowy: wykorzystanie zdolno\u015bci przepustowej infrastruktury kolejowej ***II</title><label>Zalecenie do drugiego czytania: Tilly Metz (A10-0126/2026) (wi\u0119kszo\u015b\u0107 g\u0142os\u00f3w pos\u0142\u00f3w do Parlamentu wymagana do zmiany lub odrzucenia stanowiska Rady)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2026-05-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990701",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990704",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990702",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990692",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990703",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990673",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990676",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990675",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990672"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0271",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990692"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990703",
+            "type": "Activity",
+            "activity_date": "2026-05-19",
+            "activity_id": "MTG-PL-2026-05-19-VOT-ITM-990703",
+            "activity_label": {
+                "es": "Suplicatorio de suspensi\u00f3n de la inmunidad de Harald Vilimsky",
+                "et": "Harald Vilimisky puutumatuse \u00e4rav\u00f5tmise taotlus",
+                "hu": "Harald Vilimsky mentelmi jog\u00e1nak felf\u00fcggeszt\u00e9s\u00e9re ir\u00e1nyul\u00f3 k\u00e9relem",
+                "nl": "Verzoek tot opheffing van de immuniteit van Harald Vilimsky",
+                "mt": "Talba g\u0127at-tne\u0127\u0127ija tal-immunit\u00e0 ta\u2019 Harald Vilimsky",
+                "pl": "Wniosek o uchylenie immunitetu Haralda Vilimsky'ego",
+                "lt": "Pra\u0161ymas at\u0161aukti Haraldo Vilimsky (Harald Vilimsky) imunitet\u0105",
+                "fi": "Harald Vilimskyn koskemattomuuden pid\u00e4tt\u00e4mist\u00e4 koskeva pyynt\u00f6",
+                "sv": "Beg\u00e4ran om upph\u00e4vande av Harald Vilimskys immunitet",
+                "en": "Request for the waiver of the immunity of Harald Vilimsky",
+                "it": "Richiesta di revoca dell'immunit\u00e0 di Harald Vilimsky",
+                "hr": "Zahtjev za ukidanje imuniteta Haraldu Vilimskom",
+                "sk": "\u017diados\u0165 o zbavenie Haralda Vilimsk\u00e9ho imunity",
+                "bg": "\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u0441\u043d\u0435\u043c\u0430\u043d\u0435 \u043d\u0430 \u0438\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430 \u043d\u0430 \u0425\u0430\u0440\u0430\u043b\u0434 \u0412\u0438\u043b\u0438\u043c\u0441\u043a\u0438",
+                "de": "Antrag auf Aufhebung der Immunit\u00e4t von Harald Vilimsky",
+                "el": "\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ac\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c5\u03bb\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 Harald Vilimsky",
+                "cs": "\u017d\u00e1dost, aby byl Harald Vilimsky zbaven imunity",
+                "ga": "Iarraidh ar dh\u00edol\u00faine Harald Vilimsky a tharscaoileadh",
+                "ro": "Cererea de ridicare a imunit\u0103\u021bii deputatului Harald Vilimsky",
+                "sl": "Zahteva za odvzem imunitete Haraldu Vilimskemu",
+                "pt": "Pedido de levantamento da imunidade de Harald Vilimsky",
+                "lv": "Piepras\u012bjums atcelt Harald Vilimsky imunit\u0101ti",
+                "fr": "Demande de lev\u00e9e de l\u2019immunit\u00e9 de Harald Vilimsky",
+                "da": "Anmodning om oph\u00e6velse af Harald Vilimskys immunitet"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2026-0125"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192439"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2026-05-19-OJ-ITM-V-67"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2026-05-19-VOT-ITM-001"
+            ],
+            "notation_dlvId": "990703",
+            "structuredLabel": {
+                "el": "<structuredLabel><title>\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ac\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c5\u03bb\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 Harald Vilimsky</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: David Cormand (A10-0125/2026) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Talba g\u0127at-tne\u0127\u0127ija tal-immunit\u00e0 ta\u2019 Harald Vilimsky</title><label>Rapport: David Cormand (A10-0125/2026) (Rikjesta l-ma\u0121\u0121oranza tal-voti mitfug\u0127a)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Harald Vilimisky puutumatuse \u00e4rav\u00f5tmise taotlus</title><label>Raport: David Cormand (A10-0125/2026) (n\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Pra\u0161ymas at\u0161aukti Haraldo Vilimsky (Harald Vilimsky) imunitet\u0105</title><label>Prane\u0161imas: David Cormand (A10-0125/2026) (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Request for the waiver of the immunity of Harald Vilimsky</title><label>Report: David Cormand (A10-0125/2026) (Majority of votes cast required)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Suplicatorio de suspensi\u00f3n de la inmunidad de Harald Vilimsky</title><label>Informe: David Cormand (A10-0125/2026) (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Zahteva za odvzem imunitete Haraldu Vilimskemu</title><label>Poro\u010dilo: David Cormand (A10-0125/2026) (potrebna je ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Piepras\u012bjums atcelt Harald Vilimsky imunit\u0101ti</title><label>Zi\u0146ojums: David Cormand (A10-0125/2026) (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Verzoek tot opheffing van de immuniteit van Harald Vilimsky</title><label>Verslag: David Cormand (A10-0125/2026) (Meerderheid van de uitgebrachte stemmen vereist)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Richiesta di revoca dell'immunit\u00e0 di Harald Vilimsky</title><label>Relazione: David Cormand (A10-0125/2026) (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Cererea de ridicare a imunit\u0103\u021bii deputatului Harald Vilimsky</title><label>Raport: David Cormand (A10-0125/2026) (Este necesar\u0103 majoritatea voturilor exprimate.)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>\u017d\u00e1dost, aby byl Harald Vilimsky zbaven imunity</title><label>Zpr\u00e1va: David Cormand (A10-0125/2026) (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Pedido de levantamento da imunidade de Harald Vilimsky</title><label>Relat\u00f3rio: David Cormand (A10-0125/2026) (Requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Beg\u00e4ran om upph\u00e4vande av Harald Vilimskys immunitet</title><label>Bet\u00e4nkande: David Cormand (A10-0125/2026) (En majoritet av de avgivna r\u00f6sterna kr\u00e4vdes)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Zahtjev za ukidanje imuniteta Haraldu Vilimskom</title><label>Izvje\u0161\u0107e: David Cormand (A10-0125/2026) (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Anmodning om oph\u00e6velse af Harald Vilimskys immunitet</title><label>Bet\u00e6nkning: David Cormand (A10-0125/2026) (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>\u017diados\u0165 o zbavenie Haralda Vilimsk\u00e9ho imunity</title><label>Spr\u00e1va: David Cormand (A10-0125/2026) (potrebn\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u0441\u043d\u0435\u043c\u0430\u043d\u0435 \u043d\u0430 \u0438\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430 \u043d\u0430 \u0425\u0430\u0440\u0430\u043b\u0434 \u0412\u0438\u043b\u0438\u043c\u0441\u043a\u0438</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: David Cormand (A10-0125/2026) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Harald Vilimskyn koskemattomuuden pid\u00e4tt\u00e4mist\u00e4 koskeva pyynt\u00f6</title><label>Mietint\u00f6: David Cormand (A10-0125/2026) (hyv\u00e4ksymiseen vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Iarraidh ar dh\u00edol\u00faine Harald Vilimsky a tharscaoileadh</title><label>Tuarasc\u00e1il: David Cormand (A10-0125/2026) (Tromlach na v\u00f3ta\u00ed arna gcaitheamh ag teast\u00e1il)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l\u2019immunit\u00e9 de Harald Vilimsky</title><label>Rapport: David Cormand (A10-0125/2026) (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Wniosek o uchylenie immunitetu Haralda Vilimsky'ego</title><label>Sprawozdanie: David Cormand (A10-0125/2026) (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Antrag auf Aufhebung der Immunit\u00e4t von Harald Vilimsky</title><label>Bericht: David Cormand (A10-0125/2026) (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Harald Vilimsky mentelmi jog\u00e1nak felf\u00fcggeszt\u00e9s\u00e9re ir\u00e1nyul\u00f3 k\u00e9relem</title><label>Jelent\u00e9s: David Cormand (A10-0125/2026) (a leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2026-05-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990701",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990704",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990702",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990692",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990703",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990673",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990676",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990675",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990672"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2025-2158",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990703"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990673",
+            "type": "Activity",
+            "activity_date": "2026-05-19",
+            "activity_id": "MTG-PL-2026-05-19-VOT-ITM-990673",
+            "activity_label": {
+                "sl": "Pridelava in tr\u017eenje gozdnega reprodukcijskega materiala ***II",
+                "lv": "Me\u017ea reprodukt\u012bv\u0101 materi\u0101la ra\u017eo\u0161ana un tirdzniec\u012bba ***II",
+                "fr": "Production et commercialisation de mat\u00e9riels forestiers de reproduction ***II",
+                "bg": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u0438 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u043d\u0435 \u043d\u0430 \u043f\u0430\u0437\u0430\u0440\u0430 \u043d\u0430 \u0433\u043e\u0440\u0441\u043a\u0438 \u0440\u0435\u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0438\u0432\u0435\u043d \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b ***II",
+                "fi": "Mets\u00e4nviljelyaineiston tuotanto ja kaupan pit\u00e4minen ***II",
+                "ga": "T\u00e1irgeadh agus marg\u00fa \u00e1bhair at\u00e1irgthe foraoise ***II",
+                "de": "Erzeugung und Inverkehrbringen forstlichen Vermehrungsguts ***II",
+                "it": "Produzione e commercializzazione di materiale forestale di moltiplicazione ***II",
+                "ro": "Produc\u021bia \u0219i comercializarea materialului forestier de reproducere ***II",
+                "da": "Produktion og markedsf\u00f8ring af forstligt formeringsmateriale ***II",
+                "sv": "Produktion och saluf\u00f6ring av skogsodlingsmaterial ***II",
+                "et": "Kultiveerimismaterjali tootmine ja turustamine ***II",
+                "cs": "Produkce reproduk\u010dn\u00edho materi\u00e1lu lesn\u00edch d\u0159evin a jeho uv\u00e1d\u011bn\u00ed na trh ***II",
+                "en": "Production and marketing of forest reproductive material ***II",
+                "el": "\u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae \u03ba\u03b1\u03b9 \u03b5\u03bc\u03c0\u03bf\u03c1\u03af\u03b1 \u03b4\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03c0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03b1\u03c3\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03bf\u03cd \u03c5\u03bb\u03b9\u03ba\u03bf\u03cd ***II",
+                "hr": "Proizvodnja i stavljanje na tr\u017ei\u0161te \u0161umskog reprodukcijskog materijala ***II",
+                "pl": "Produkcja i wprowadzanie do obrotu le\u015bnego materia\u0142u rozmno\u017ceniowego ***II",
+                "sk": "Produkcia a marketing lesn\u00e9ho reproduk\u010dn\u00e9ho materi\u00e1lu ***II",
+                "nl": "De productie en het in de handel brengen van bosbouwkundig teeltmateriaal ***II",
+                "es": "Producci\u00f3n y comercializaci\u00f3n de material forestal de reproducci\u00f3n ***II",
+                "lt": "Mi\u0161ko dauginamosios med\u017eiagos gamyba ir prekyba ja ***II",
+                "hu": "Az erd\u00e9szeti szapor\u00edt\u00f3anyagok el\u0151\u00e1ll\u00edt\u00e1sa \u00e9s forgalmaz\u00e1sa ***II",
+                "pt": "Produ\u00e7\u00e3o e comercializa\u00e7\u00e3o de material de reprodu\u00e7\u00e3o florestal ***II",
+                "mt": "Il-produzzjoni u l-kummer\u010bjalizzazzjoni tal-materjal riproduttiv tal-foresti ***II"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2026-0136"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192454",
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192452",
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192455"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2026-05-19-OJ-ITM-V-61"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2026-05-19-VOT-ITM-005"
+            ],
+            "notation_dlvId": "990673",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Production et commercialisation de mat\u00e9riels forestiers de reproduction ***II</title><label>Recommandation pour la deuxi\u00e8me lecture: Herbert Dorfmann (A10-0136/2026) (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise pour modifier ou rejeter la position du Conseil)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>De productie en het in de handel brengen van bosbouwkundig teeltmateriaal ***II</title><label>Aanbeveling voor de tweede lezing: Herbert Dorfmann (A10-0136/2026) (Meerderheid van de leden van het Parlement vereist om het standpunt van de Raad te wijzigen of te verwerpen)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Produktion og markedsf\u00f8ring af forstligt formeringsmateriale ***II</title><label>Indstilling ved andenbehandling: Herbert Dorfmann (A10-0136/2026) (Flertal af Parlamentets medlemmer p\u00e5kr\u00e6vet for at \u00e6ndre eller forkaste R\u00e5dets holdning)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Produkce reproduk\u010dn\u00edho materi\u00e1lu lesn\u00edch d\u0159evin a jeho uv\u00e1d\u011bn\u00ed na trh ***II</title><label>Doporu\u010den\u00ed pro druh\u00e9 \u010dten\u00ed: Herbert Dorfmann (A10-0136/2026) (pro zm\u011bnu nebo zam\u00edtnut\u00ed postoje Rady se vy\u017eaduje v\u011bt\u0161ina hlas\u016f v\u0161ech poslanc\u016f Parlamentu)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Produ\u00e7\u00e3o e comercializa\u00e7\u00e3o de material de reprodu\u00e7\u00e3o florestal ***II</title><label>Recomenda\u00e7\u00e3o para segunda leitura: Herbert Dorfmann (A10-0136/2026) (Requerida a maioria dos deputados que comp\u00f5em o Parlamento para alterar ou rejeitar a posi\u00e7\u00e3o do Conselho)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Produkcja i wprowadzanie do obrotu le\u015bnego materia\u0142u rozmno\u017ceniowego ***II</title><label>Zalecenie do drugiego czytania: Herbert Dorfmann (A10-0136/2026) (wi\u0119kszo\u015b\u0107 g\u0142os\u00f3w pos\u0142\u00f3w do Parlamentu wymagana do zmiany lub odrzucenia stanowiska Rady)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Proizvodnja i stavljanje na tr\u017ei\u0161te \u0161umskog reprodukcijskog materijala ***II</title><label>Preporuka za drugo \u010ditanje: Herbert Dorfmann (A10-0136/2026) (za odbacivanje ili izmjenu stajali\u0161ta Vije\u0107a potrebna je ve\u0107ina zastupnika u Parlamentu)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Kultiveerimismaterjali tootmine ja turustamine ***II</title><label>Teise lugemise soovitus: Herbert Dorfmann (A10-0136/2026) (n\u00f5ukogu seisukoha muutmiseks v\u00f5i tagasil\u00fckkamiseks on n\u00f5utav parlamendi koosseisu h\u00e4\u00e4lteenamus)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Mi\u0161ko dauginamosios med\u017eiagos gamyba ir prekyba ja ***II</title><label>Rekomendacija antrajam svarstymui: Herbert Dorfmann (A10-0136/2026) (Tarybos pozicijai i\u0161 dalies pakeisti arba atmesti reikalinga vis\u0173 Parlamento nari\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Pridelava in tr\u017eenje gozdnega reprodukcijskega materiala ***II</title><label>Priporo\u010dilo za drugo obravnavo: Herbert Dorfmann (A10-0136/2026) (za spremembo ali zavrnitev stali\u0161\u010da Sveta je zahtevana ve\u010dina poslancev Parlamenta)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Production and marketing of forest reproductive material ***II</title><label>Recommendation for second reading: Herbert Dorfmann (A10-0136/2026) (Majority of Parliament\u2019s component Members required to amend or reject the Council position)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Mets\u00e4nviljelyaineiston tuotanto ja kaupan pit\u00e4minen ***II</title><label>Suositus toiseen k\u00e4sittelyyn: Herbert Dorfmann (A10-0136/2026) (neuvoston kannan tarkistamiseen tai hylk\u00e4\u00e4miseen vaaditaan parlamentin j\u00e4senten enemmist\u00f6)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>T\u00e1irgeadh agus marg\u00fa \u00e1bhair at\u00e1irgthe foraoise ***II</title><label>Moladh don dara l\u00e9amh: Herbert Dorfmann (A10-0136/2026) (Tromlach na bhFeisir\u00ed a chomhdh\u00e9anann an Pharlaimint ag teast\u00e1il chun an seasamh \u00f3n gComhairle a leas\u00fa n\u00f3 di\u00falt\u00fa d\u00f3)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Erzeugung und Inverkehrbringen forstlichen Vermehrungsguts ***II</title><label>Empfehlung f\u00fcr die zweite Lesung: Herbert Dorfmann (A10-0136/2026) (Mehrheit der Mitglieder des Parlaments f\u00fcr die Ab\u00e4nderung oder Ablehnung des Standpunkt des Rates erforderlich)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Producci\u00f3n y comercializaci\u00f3n de material forestal de reproducci\u00f3n ***II</title><label>Recomendaci\u00f3n para la segunda lectura: Herbert Dorfmann (A10-0136/2026) (mayor\u00eda de los diputados que componen el Parlamento requerida para modificar o rechazar la Posici\u00f3n del Consejo)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Il-produzzjoni u l-kummer\u010bjalizzazzjoni tal-materjal riproduttiv tal-foresti ***II</title><label>Rakkomandazzjoni g\u0127at-tieni qari: Herbert Dorfmann (A10-0136/2026) (Ma\u0121\u0121oranza tal-Membri li jag\u0127mlu parti mill-Parlament Ewropew me\u0127tie\u0121a g\u0127all-emenda jew g\u0127ar-rifjut tal-po\u017cizzjoni tal-Kunsill)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Az erd\u00e9szeti szapor\u00edt\u00f3anyagok el\u0151\u00e1ll\u00edt\u00e1sa \u00e9s forgalmaz\u00e1sa ***II</title><label>Aj\u00e1nl\u00e1s m\u00e1sodik olvasatra: Herbert Dorfmann (A10-0136/2026) (a Tan\u00e1cs \u00e1ll\u00e1spontj\u00e1nak m\u00f3dos\u00edt\u00e1s\u00e1hoz vagy elutas\u00edt\u00e1s\u00e1hoz az \u00f6sszes parlamenti k\u00e9pvisel\u0151 t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u0438 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u043d\u0435 \u043d\u0430 \u043f\u0430\u0437\u0430\u0440\u0430 \u043d\u0430 \u0433\u043e\u0440\u0441\u043a\u0438 \u0440\u0435\u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0438\u0432\u0435\u043d \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b ***II</title><label>\u041f\u0440\u0435\u043f\u043e\u0440\u044a\u043a\u0430 \u0437\u0430 \u0432\u0442\u043e\u0440\u043e \u0447\u0435\u0442\u0435\u043d\u0435: Herbert Dorfmann (A10-0136/2026) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u0447\u043b\u0435\u043d\u043e\u0432\u0435\u0442\u0435, \u0441\u044a\u0441\u0442\u0430\u0432\u043b\u044f\u0432\u0430\u0449\u0438 \u041f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430, \u0437\u0430 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043e\u0442\u0445\u0432\u044a\u0440\u043b\u044f\u043d\u0435 \u043d\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0442\u0430 \u043d\u0430 \u0421\u044a\u0432\u0435\u0442\u0430)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Me\u017ea reprodukt\u012bv\u0101 materi\u0101la ra\u017eo\u0161ana un tirdzniec\u012bba ***II</title><label>Ieteikums otrajam las\u012bjumam: Herbert Dorfmann (A10-0136/2026) (Lai groz\u012btu vai noraid\u012btu Padomes nost\u0101ju, vajadz\u012bgs Parlamenta deput\u0101tu vair\u0101kums)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Produzione e commercializzazione di materiale forestale di moltiplicazione ***II</title><label>Raccomandazione per la seconda lettura: Herbert Dorfmann (A10-0136/2026) (Richiesta la maggioranza dei membri che compongono il Parlamento per la modifica o la reiezione della posizione del Consiglio)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Produc\u021bia \u0219i comercializarea materialului forestier de reproducere ***II</title><label>Recomandare pentru a doua lectur\u0103: Herbert Dorfmann (A10-0136/2026) (Este necesar\u0103 majoritatea deputa\u021bilor care compun Parlamentul pentru modificarea sau respingerea pozi\u021biei Consiliului.)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Produktion och saluf\u00f6ring av skogsodlingsmaterial ***II</title><label>Andrabehandlingsrekommendation: Herbert Dorfmann (A10-0136/2026) (En majoritet av parlamentets ledam\u00f6ter kr\u00e4vdes f\u00f6r att \u00e4ndra eller f\u00f6rkasta r\u00e5dets st\u00e5ndpunkt)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Produkcia a marketing lesn\u00e9ho reproduk\u010dn\u00e9ho materi\u00e1lu ***II</title><label>Odpor\u00fa\u010danie do druh\u00e9ho \u010d\u00edtania: Herbert Dorfmann (A10-0136/2026) (potrebn\u00e1 v\u00e4\u010d\u0161ina hlasov v\u0161etk\u00fdch poslancov Parlamentu na zmenu alebo zamietnutie poz\u00edcie Rady)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae \u03ba\u03b1\u03b9 \u03b5\u03bc\u03c0\u03bf\u03c1\u03af\u03b1 \u03b4\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03c0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03b1\u03c3\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03bf\u03cd \u03c5\u03bb\u03b9\u03ba\u03bf\u03cd ***II</title><label>\u03a3\u03cd\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03ac\u03b3\u03bd\u03c9\u03c3\u03b7: Herbert Dorfmann (A10-0136/2026) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03b7 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ce\u03bd \u03c0\u03bf\u03c5 \u03b1\u03c0\u03b1\u03c1\u03c4\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03bf \u039a\u03bf\u03b9\u03bd\u03bf\u03b2\u03bf\u03cd\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03bf\u03c0\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03ae \u03c4\u03b7\u03bd \u03b1\u03c0\u03cc\u03c1\u03c1\u03b9\u03c8\u03b7 \u03c4\u03b7\u03c2 \u03b8\u03ad\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03a3\u03c5\u03bc\u03b2\u03bf\u03c5\u03bb\u03af\u03bf\u03c5)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2026-05-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990701",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990704",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990702",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990692",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990703",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990673",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990676",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990675",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990672"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0228",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990673"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990676",
+            "type": "Activity",
+            "activity_date": "2026-05-19",
+            "activity_id": "MTG-PL-2026-05-19-VOT-ITM-990676",
+            "activity_label": {
+                "lt": "Su prekyba susijusio neigiamo pasaulini\u0173 perteklini\u0173 paj\u0117gum\u0173 poveikio S\u0105jungos plieno rinkai ma\u017einimas",
+                "el": "\u0391\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ad\u03c2 \u03b5\u03c0\u03b9\u03c0\u03c4\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1\u03c2 \u03c0\u03bb\u03b5\u03bf\u03bd\u03ac\u03b6\u03bf\u03c5\u03c3\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03b9\u03ba\u03ae\u03c2 \u03b9\u03ba\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03bd\u03c9\u03c3\u03b9\u03b1\u03ba\u03ae \u03b1\u03b3\u03bf\u03c1\u03ac \u03c7\u03ac\u03bb\u03c5\u03b2\u03b1 ***I",
+                "ga": "\u00c9ifeachta\u00ed di\u00faltacha a bhaineann le tr\u00e1d\u00e1il ar mhargadh cruach an Aontais de dheasca na r\u00f3-acmhainneachta domhanda ***I",
+                "et": "\u00dclemaailmsest liigsest tootmisv\u00f5imsusest liidu teraseturule tuleneva negatiivse kaubandusm\u00f5ju k\u00e4sitlemine ***I",
+                "de": "Negative handelsbezogene Auswirkungen globaler \u00dcberkapazit\u00e4ten auf den Stahlmarkt der Union ***I",
+                "en": "Negative trade-related effects of global overcapacity on the Union steel market ***I",
+                "sl": "Negativni u\u010dinki svetovne prese\u017ene zmogljivosti na trg jekla v Uniji ***I",
+                "mt": "L-effetti negattivi relatati mal-kummer\u010b tal-kapa\u010bit\u00e0 \u017cejda globali fuq is-suq tal-azzar tal-Unjoni ***I",
+                "ro": "Abordarea efectelor comerciale negative ale supracapacit\u0103\u021bii mondiale pe pia\u021ba o\u021belului din Uniune ***I",
+                "hu": "A glob\u00e1lis kapacit\u00e1sfelesleg \u00e1ltal az uni\u00f3s ac\u00e9lpiacra gyakorolt negat\u00edv kereskedelmi hat\u00e1sok ***I",
+                "fi": "Maailmanlaajuisen ylikapasiteetin unionin ter\u00e4smarkkinoilla aiheuttamat kauppaan liittyv\u00e4t kielteiset vaikutukset ***I",
+                "es": "Efectos negativos relacionados con el comercio del exceso de capacidad mundial en el mercado sider\u00fargico de la Uni\u00f3n ***I",
+                "nl": "De negatieve handelsgerelateerde gevolgen van de wereldwijde overcapaciteit voor de staalmarkt van de Unie ***I",
+                "mul": "Effets commerciaux n\u00e9gatifs de la surcapacit\u00e9 mondiale sur le march\u00e9 de l'acier de l'Union - Negative trade-related effects of global overcapacity on the Union steel market - Eind\u00e4mmung der negativen handelsbezogenen Auswirkungen globaler \u00dcberkapazit\u00e4ten auf den Stahlmarkt der Union",
+                "da": "Negative handelsrelaterede virkninger af den globale overkapacitet for Unionens st\u00e5lmarked ***I",
+                "cs": "Negativn\u00ed \u00fa\u010dinky celosv\u011btov\u00e9 nadm\u011brn\u00e9 kapacity na obchod na trhu s ocel\u00ed v Unii ***I",
+                "hr": "Negativni trgovinski u\u010dinci globalnih prekomjernih kapaciteta na Unijino tr\u017ei\u0161te \u010delika ***I",
+                "pt": "Efeitos negativos relacionados com o com\u00e9rcio decorrentes da sobrecapacidade mundial que afetam o mercado sider\u00fargico da UE ***I",
+                "lv": "Negat\u012bv\u0101s ar tirdzniec\u012bbu saist\u012bt\u0101s sekas, kuras Savien\u012bbas t\u0113rauda tirg\u016b izrais\u012bjis glob\u0101lais jaudas p\u0101rpalikums ***I",
+                "sv": "Negativa handelsrelaterade effekter av global \u00f6verkapacitet p\u00e5 unionens st\u00e5lmarknad ***I",
+                "sk": "Negat\u00edvne \u00fa\u010dinky celosvetovej nadmernej kapacity na trh \u00danie s oce\u013eou s\u00favisiacich s obchodom ***I",
+                "it": "Effetti negativi sul commercio dovuti alla sovraccapacit\u00e0 globale nel mercato siderurgico dell'Unione ***I",
+                "fr": "Effets commerciaux n\u00e9gatifs de la surcapacit\u00e9 mondiale sur le march\u00e9 de l'acier de l'Union ***I",
+                "bg": "\u0421\u0432\u044a\u0440\u0437\u0430\u043d\u0438\u0442\u0435 \u0441 \u0442\u044a\u0440\u0433\u043e\u0432\u0438\u044f\u0442\u0430 \u043d\u0435\u0431\u043b\u0430\u0433\u043e\u043f\u0440\u0438\u044f\u0442\u043d\u0438 \u043f\u043e\u0441\u043b\u0435\u0434\u0438\u0446\u0438 \u043e\u0442 \u0441\u0432\u0440\u044a\u0445\u043a\u0430\u043f\u0430\u0446\u0438\u0442\u0435\u0442\u0430 \u0432 \u0441\u0432\u0435\u0442\u043e\u0432\u0435\u043d \u043c\u0430\u0449\u0430\u0431 \u0437\u0430 \u043f\u0430\u0437\u0430\u0440\u0430 \u043d\u0430 \u0441\u0442\u043e\u043c\u0430\u043d\u0430 \u0432 \u0421\u044a\u044e\u0437\u0430 ***I",
+                "pl": "Zwi\u0105zane z handlem negatywne skutki globalnych nadwy\u017cek mocy produkcyjnych na unijnym rynku stali ***I"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2026-0012"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192432",
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192430"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2026-05-19-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2026-05-19-VOT-ITM-007"
+            ],
+            "notation_dlvId": "990676",
+            "structuredLabel": {
+                "hr": "<structuredLabel><title>Negativni trgovinski u\u010dinci globalnih prekomjernih kapaciteta na Unijino tr\u017ei\u0161te \u010delika ***I</title><label>Izvje\u0161\u0107e: Karin Karlsbro (A10-0012/2026) (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Zwi\u0105zane z handlem negatywne skutki globalnych nadwy\u017cek mocy produkcyjnych na unijnym rynku stali ***I</title><label>Sprawozdanie: Karin Karlsbro (A10-0012/2026) (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Negative handelsrelaterede virkninger af den globale overkapacitet for Unionens st\u00e5lmarked ***I</title><label>Bet\u00e6nkning: Karin Karlsbro (A10-0012/2026) (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Negative trade-related effects of global overcapacity on the Union steel market ***I</title><label>Report: Karin Karlsbro (A10-0012/2026) (Majority of votes cast required)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0421\u0432\u044a\u0440\u0437\u0430\u043d\u0438\u0442\u0435 \u0441 \u0442\u044a\u0440\u0433\u043e\u0432\u0438\u044f\u0442\u0430 \u043d\u0435\u0431\u043b\u0430\u0433\u043e\u043f\u0440\u0438\u044f\u0442\u043d\u0438 \u043f\u043e\u0441\u043b\u0435\u0434\u0438\u0446\u0438 \u043e\u0442 \u0441\u0432\u0440\u044a\u0445\u043a\u0430\u043f\u0430\u0446\u0438\u0442\u0435\u0442\u0430 \u0432 \u0441\u0432\u0435\u0442\u043e\u0432\u0435\u043d \u043c\u0430\u0449\u0430\u0431 \u0437\u0430 \u043f\u0430\u0437\u0430\u0440\u0430 \u043d\u0430 \u0441\u0442\u043e\u043c\u0430\u043d\u0430 \u0432 \u0421\u044a\u044e\u0437\u0430 ***I</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Karin Karlsbro (A10-0012/2026) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0391\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ad\u03c2 \u03b5\u03c0\u03b9\u03c0\u03c4\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1\u03c2 \u03c0\u03bb\u03b5\u03bf\u03bd\u03ac\u03b6\u03bf\u03c5\u03c3\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03b9\u03ba\u03ae\u03c2 \u03b9\u03ba\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03bd\u03c9\u03c3\u03b9\u03b1\u03ba\u03ae \u03b1\u03b3\u03bf\u03c1\u03ac \u03c7\u03ac\u03bb\u03c5\u03b2\u03b1 ***I</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Karin Karlsbro (A10-0012/2026) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Negativa handelsrelaterade effekter av global \u00f6verkapacitet p\u00e5 unionens st\u00e5lmarknad ***I</title><label>Bet\u00e4nkande: Karin Karlsbro (A10-0012/2026) (En majoritet av de avgivna r\u00f6sterna kr\u00e4vdes)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Efeitos negativos relacionados com o com\u00e9rcio decorrentes da sobrecapacidade mundial que afetam o mercado sider\u00fargico da UE ***I</title><label>Relat\u00f3rio: Karin Karlsbro (A10-0012/2026) (Requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Effetti negativi sul commercio dovuti alla sovraccapacit\u00e0 globale nel mercato siderurgico dell'Unione ***I</title><label>Relazione: Karin Karlsbro (A10-0012/2026) (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Negat\u00edvne \u00fa\u010dinky celosvetovej nadmernej kapacity na trh \u00danie s oce\u013eou s\u00favisiacich s obchodom ***I</title><label>Spr\u00e1va: Karin Karlsbro (A10-0012/2026) (potrebn\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Su prekyba susijusio neigiamo pasaulini\u0173 perteklini\u0173 paj\u0117gum\u0173 poveikio S\u0105jungos plieno rinkai ma\u017einimas</title><label>Prane\u0161imas: Karin Karlsbro (A10-0012/2026) (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Effets commerciaux n\u00e9gatifs de la surcapacit\u00e9 mondiale sur le march\u00e9 de l'acier de l'Union ***I</title><label>Rapport: Karin Karlsbro (A10-0012/2026) (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Negativni u\u010dinki svetovne prese\u017ene zmogljivosti na trg jekla v Uniji ***I</title><label>Poro\u010dilo: Karin Karlsbro (A10-0012/2026) (potrebna je ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>De negatieve handelsgerelateerde gevolgen van de wereldwijde overcapaciteit voor de staalmarkt van de Unie ***I</title><label>Verslag: Karin Karlsbro (A10-0012/2026) (Meerderheid van de uitgebrachte stemmen vereist)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>A glob\u00e1lis kapacit\u00e1sfelesleg \u00e1ltal az uni\u00f3s ac\u00e9lpiacra gyakorolt negat\u00edv kereskedelmi hat\u00e1sok ***I</title><label>Jelent\u00e9s: Karin Karlsbro (A10-0012/2026) (a leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Abordarea efectelor comerciale negative ale supracapacit\u0103\u021bii mondiale pe pia\u021ba o\u021belului din Uniune ***I</title><label>Raport: Karin Karlsbro (A10-0012/2026) (Este necesar\u0103 majoritatea voturilor exprimate.)</label></structuredLabel>",
+                "et": "<structuredLabel><title>\u00dclemaailmsest liigsest tootmisv\u00f5imsusest liidu teraseturule tuleneva negatiivse kaubandusm\u00f5ju k\u00e4sitlemine ***I</title><label>Raport: Karin Karlsbro (A10-0012/2026) (n\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Negativn\u00ed \u00fa\u010dinky celosv\u011btov\u00e9 nadm\u011brn\u00e9 kapacity na obchod na trhu s ocel\u00ed v Unii ***I</title><label>Zpr\u00e1va: Karin Karlsbro (A10-0012/2026) (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Maailmanlaajuisen ylikapasiteetin unionin ter\u00e4smarkkinoilla aiheuttamat kauppaan liittyv\u00e4t kielteiset vaikutukset ***I</title><label>Mietint\u00f6: Karin Karlsbro (A10-0012/2026) (hyv\u00e4ksymiseen vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>\u00c9ifeachta\u00ed di\u00faltacha a bhaineann le tr\u00e1d\u00e1il ar mhargadh cruach an Aontais de dheasca na r\u00f3-acmhainneachta domhanda ***I</title><label>Tuarasc\u00e1il: Karin Karlsbro (A10-0012/2026) (Tromlach na v\u00f3ta\u00ed arna gcaitheamh ag teast\u00e1il)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Negat\u012bv\u0101s ar tirdzniec\u012bbu saist\u012bt\u0101s sekas, kuras Savien\u012bbas t\u0113rauda tirg\u016b izrais\u012bjis glob\u0101lais jaudas p\u0101rpalikums ***I</title><label>Zi\u0146ojums: Karin Karlsbro (A10-0012/2026) (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Negative handelsbezogene Auswirkungen globaler \u00dcberkapazit\u00e4ten auf den Stahlmarkt der Union ***I</title><label>Bericht: Karin Karlsbro (A10-0012/2026) (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Efectos negativos relacionados con el comercio del exceso de capacidad mundial en el mercado sider\u00fargico de la Uni\u00f3n ***I</title><label>Informe: Karin Karlsbro (A10-0012/2026) (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>L-effetti negattivi relatati mal-kummer\u010b tal-kapa\u010bit\u00e0 \u017cejda globali fuq is-suq tal-azzar tal-Unjoni ***I</title><label>Rapport: Karin Karlsbro (A10-0012/2026) (Rikjesta l-ma\u0121\u0121oranza tal-voti mitfug\u0127a)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2026-05-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990701",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990704",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990702",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990692",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990703",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990673",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990676",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990675",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990672"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2025-0726",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990676"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990675",
+            "type": "Activity",
+            "activity_date": "2026-05-19",
+            "activity_id": "MTG-PL-2026-05-19-VOT-ITM-990675",
+            "activity_label": {
+                "lv": "\u0100rvalstu ieguld\u012bjumu Savien\u012bb\u0101 izv\u0113rt\u0113\u0161ana ***I",
+                "en": "Screening of foreign investments in the Union ***I",
+                "es": "Control de las inversiones extranjeras en la Uni\u00f3n ***I",
+                "it": "Controllo degli investimenti esteri nell'Unione ***I",
+                "fi": "Ulkomaisten sijoitusten seuranta unionissa ***I",
+                "da": "Screening af udenlandske investeringer i Unionen ***I",
+                "fr": "Filtrage des investissements \u00e9trangers dans l'Union ***I",
+                "mt": "L-iskrinjar ta\u2019 investimenti barranin fl-Unjoni ***I",
+                "hr": "Provjera stranih ulaganja u Uniji ***I",
+                "de": "\u00dcberpr\u00fcfung ausl\u00e4ndischer Investitionen in der Union ***I",
+                "pt": "An\u00e1lise dos investimentos estrangeiros na Uni\u00e3o ***I",
+                "sk": "Preverovanie priamych zahrani\u010dn\u00fdch invest\u00edci\u00ed do \u00danie ***I",
+                "ga": "Infheist\u00edochta\u00ed coigr\u00edche isteach san Aontas a scagadh ***I",
+                "et": "V\u00e4lisinvesteeringute taustauuringud liidus ***I",
+                "lt": "U\u017esienio investicij\u0173 S\u0105jungoje tikrinimas ***I",
+                "hu": "Az Uni\u00f3ban megval\u00f3sul\u00f3 k\u00fclf\u00f6ldi befektet\u00e9sek \u00e1tvil\u00e1g\u00edt\u00e1sa ***I",
+                "sl": "Pregled tujih nalo\u017eb v Uniji ***I",
+                "pl": "Monitorowanie bezpo\u015brednich inwestycji zagranicznych w Unii ***I",
+                "ro": "Examinarea investi\u021biilor str\u0103ine \u00een Uniune ***I",
+                "nl": "De screening van buitenlandse investeringen in de Unie ***I",
+                "sv": "Granskning av utl\u00e4ndska investeringar i unionen ***I",
+                "bg": "\u0421\u043a\u0440\u0438\u043d\u0438\u043d\u0433 \u043d\u0430 \u0447\u0443\u0436\u0434\u0435\u0441\u0442\u0440\u0430\u043d\u043d\u0438 \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438 \u0432 \u0421\u044a\u044e\u0437\u0430 ***I",
+                "cs": "Prov\u011b\u0159ov\u00e1n\u00ed zahrani\u010dn\u00edch investic v Unii ***I",
+                "el": "\u0388\u03bb\u03b5\u03b3\u03c7\u03bf\u03c2 \u03c4\u03c9\u03bd \u03be\u03ad\u03bd\u03c9\u03bd \u03b5\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd \u03c3\u03c4\u03b7\u03bd \u0388\u03bd\u03c9\u03c3\u03b7 ***I",
+                "mul": "Filtrage des investissements \u00e9trangers dans l'Union - Screening of foreign investments in the Union - \u00dcberpr\u00fcfung ausl\u00e4ndischer Investitionen in der Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2025-0061"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192436",
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192438"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2026-05-19-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2026-05-19-VOT-ITM-008"
+            ],
+            "notation_dlvId": "990675",
+            "structuredLabel": {
+                "pl": "<structuredLabel><title>Monitorowanie bezpo\u015brednich inwestycji zagranicznych w Unii ***I</title><label>Sprawozdanie: Rapha\u00ebl Glucksmann (A10-0061/2025) (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Preverovanie priamych zahrani\u010dn\u00fdch invest\u00edci\u00ed do \u00danie ***I</title><label>Spr\u00e1va: Rapha\u00ebl Glucksmann (A10-0061/2025) (potrebn\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Az Uni\u00f3ban megval\u00f3sul\u00f3 k\u00fclf\u00f6ldi befektet\u00e9sek \u00e1tvil\u00e1g\u00edt\u00e1sa ***I</title><label>Jelent\u00e9s: Rapha\u00ebl Glucksmann (A10-0061/2025) (a leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>An\u00e1lise dos investimentos estrangeiros na Uni\u00e3o ***I</title><label>Relat\u00f3rio: Rapha\u00ebl Glucksmann (A10-0061/2025) (Requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "et": "<structuredLabel><title>V\u00e4lisinvesteeringute taustauuringud liidus ***I</title><label>Raport: Rapha\u00ebl Glucksmann (A10-0061/2025) (n\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Granskning av utl\u00e4ndska investeringar i unionen ***I</title><label>Bet\u00e4nkande: Rapha\u00ebl Glucksmann (A10-0061/2025) (En majoritet av de avgivna r\u00f6sterna kr\u00e4vdes)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Infheist\u00edochta\u00ed coigr\u00edche isteach san Aontas a scagadh ***I</title><label>Tuarasc\u00e1il: Rapha\u00ebl Glucksmann (A10-0061/2025) (Tromlach na v\u00f3ta\u00ed arna gcaitheamh ag teast\u00e1il)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Screening af udenlandske investeringer i Unionen ***I</title><label>Bet\u00e6nkning: Rapha\u00ebl Glucksmann (A10-0061/2025) (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Ulkomaisten sijoitusten seuranta unionissa ***I</title><label>Mietint\u00f6: Rapha\u00ebl Glucksmann (A10-0061/2025) (hyv\u00e4ksymiseen vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>",
+                "de": "<structuredLabel><title>\u00dcberpr\u00fcfung ausl\u00e4ndischer Investitionen in der Union ***I</title><label>Bericht: Rapha\u00ebl Glucksmann (A10-0061/2025) (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Pregled tujih nalo\u017eb v Uniji ***I</title><label>Poro\u010dilo: Rapha\u00ebl Glucksmann (A10-0061/2025) (potrebna je ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Controllo degli investimenti esteri nell'Unione ***I</title><label>Relazione: Rapha\u00ebl Glucksmann (A10-0061/2025) (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Prov\u011b\u0159ov\u00e1n\u00ed zahrani\u010dn\u00edch investic v Unii ***I</title><label>Zpr\u00e1va: Rapha\u00ebl Glucksmann (A10-0061/2025) (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0388\u03bb\u03b5\u03b3\u03c7\u03bf\u03c2 \u03c4\u03c9\u03bd \u03be\u03ad\u03bd\u03c9\u03bd \u03b5\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd \u03c3\u03c4\u03b7\u03bd \u0388\u03bd\u03c9\u03c3\u03b7 ***I</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Rapha\u00ebl Glucksmann (A10-0061/2025) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Provjera stranih ulaganja u Uniji ***I</title><label>Izvje\u0161\u0107e: Rapha\u00ebl Glucksmann (A10-0061/2025) (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>\u0100rvalstu ieguld\u012bjumu Savien\u012bb\u0101 izv\u0113rt\u0113\u0161ana ***I</title><label>Zi\u0146ojums: Rapha\u00ebl Glucksmann (A10-0061/2025) (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Filtrage des investissements \u00e9trangers dans l'Union ***I</title><label>Rapport: Rapha\u00ebl Glucksmann (A10-0061/2025) (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>De screening van buitenlandse investeringen in de Unie ***I</title><label>Verslag: Rapha\u00ebl Glucksmann (A10-0061/2025) (Meerderheid van de uitgebrachte stemmen vereist)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Screening of foreign investments in the Union ***I</title><label>Report: Rapha\u00ebl Glucksmann (A10-0061/2025) (Majority of votes cast required)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0421\u043a\u0440\u0438\u043d\u0438\u043d\u0433 \u043d\u0430 \u0447\u0443\u0436\u0434\u0435\u0441\u0442\u0440\u0430\u043d\u043d\u0438 \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438 \u0432 \u0421\u044a\u044e\u0437\u0430 ***I</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Rapha\u00ebl Glucksmann (A10-0061/2025) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>U\u017esienio investicij\u0173 S\u0105jungoje tikrinimas ***I</title><label>Prane\u0161imas: Rapha\u00ebl Glucksmann (A10-0061/2025) (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Control de las inversiones extranjeras en la Uni\u00f3n ***I</title><label>Informe: Rapha\u00ebl Glucksmann (A10-0061/2025) (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Examinarea investi\u021biilor str\u0103ine \u00een Uniune ***I</title><label>Raport: Rapha\u00ebl Glucksmann (A10-0061/2025) (Este necesar\u0103 majoritatea voturilor exprimate.)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>L-iskrinjar ta\u2019 investimenti barranin fl-Unjoni ***I</title><label>Rapport: Rapha\u00ebl Glucksmann (A10-0061/2025) (Rikjesta l-ma\u0121\u0121oranza tal-voti mitfug\u0127a)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2026-05-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990701",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990704",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990702",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990692",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990703",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990673",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990676",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990675",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990672"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2024-0017",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990675"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990672",
+            "type": "Activity",
+            "activity_date": "2026-05-19",
+            "activity_id": "MTG-PL-2026-05-19-VOT-ITM-990672",
+            "activity_label": {
+                "ro": "Fondul de cercetare pentru c\u0103rbune \u0219i o\u021bel: programul de cercetare \u0219i orient\u0103rile tehnice \u0219i financiare multianuale *",
+                "mt": "Fond tar-Ri\u010berka g\u0127all-Fa\u0127am u l-Azzar: programm ta\u2019 ri\u010berka u linji gwida tekni\u010bi u finanzjarji pluriennali *",
+                "hr": "Istra\u017eiva\u010dki fond za ugljen i \u010delik: istra\u017eiva\u010dki program te vi\u0161egodi\u0161nje tehni\u010dke i financijske smjernice *",
+                "et": "S\u00f6e ja terase teadusfond: teadusprogramm ning mitmeaastased tehnilised ja finantssuunised *",
+                "lt": "Angli\u0173 ir plieno mokslini\u0173 tyrim\u0173 fondas: mokslini\u0173 tyrim\u0173 programa ir daugiamet\u0117s technin\u0117s ir finansin\u0117s gair\u0117s *",
+                "en": "Research Fund for Coal and Steel: research programme and multiannual technical and financial guidelines *",
+                "sk": "V\u00fdskumn\u00fd fond pre uhlie a oce\u013e: v\u00fdskumn\u00fd program a viacro\u010dn\u00e9 technick\u00e9 a finan\u010dn\u00e9 usmernenia *",
+                "it": "Fondo di ricerca carbone e acciaio: programma di ricerca e orientamenti tecnici e finanziari pluriennali *",
+                "sv": "Kol- och st\u00e5lforskningsfonden: forskningsprogram och fler\u00e5riga tekniska och ekonomiska riktlinjer *",
+                "de": "Forschungsfonds f\u00fcr Kohle und Stahl: Forschungsprogramm und mehrj\u00e4hrige technische Leitlinien und mehrj\u00e4hrige Finanzleitlinien *",
+                "pl": "Fundusz Badawczy W\u0119gla i\u00a0Stali: program badawczy oraz wieloletnie wytyczne techniczne i\u00a0finansowe *",
+                "fi": "Hiili- ja ter\u00e4stutkimusrahasto: tutkimusohjelma ja monivuotiset tekniset ja taloudelliset suuntaviivat *",
+                "lv": "Og\u013cu un t\u0113rauda p\u0113tniec\u012bbas fonds: p\u0113t\u012bjumu programma un daudzgadu tehnisk\u0101s un finan\u0161u pamatnost\u0101dnes *",
+                "el": "\u03a4\u03b1\u03bc\u03b5\u03af\u03bf \u0388\u03c1\u03b5\u03c5\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u0386\u03bd\u03b8\u03c1\u03b1\u03ba\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u03a7\u03ac\u03bb\u03c5\u03b2\u03b1: \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ad\u03c2 \u03ba\u03b1\u03c4\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c1\u03b9\u03b5\u03c2 \u03b3\u03c1\u03b1\u03bc\u03bc\u03ad\u03c2 \u03c0\u03bf\u03bb\u03c5\u03b5\u03c4\u03bf\u03cd\u03c2 \u03b4\u03b9\u03ac\u03c1\u03ba\u03b5\u03b9\u03b1\u03c2 *",
+                "da": "Kul- og St\u00e5lforskningsfonden: forskningsprogram og fler\u00e5rige tekniske og finansielle retningslinjer *",
+                "cs": "V\u00fdzkumn\u00fd fond pro uhl\u00ed a ocel: v\u00fdzkumn\u00fd program a v\u00edcelet\u00e9 technick\u00e9 a finan\u010dn\u00ed z\u00e1kladn\u00ed sm\u011bry *",
+                "mul": "Fonds de recherche du charbon et de l\u2019acier: programme de recherche et lignes directrices techniques et financi\u00e8res pluriannuelles - Research Fund for Coal and Steel: research programme and multiannual technical and financial guidelines - Forschungsfonds f\u00fcr Kohle und Stahl: Forschungsprogramm und mehrj\u00e4hrige technische Leitlinien und mehrj\u00e4hrige Finanzleitlinien",
+                "fr": "Fonds de recherche du charbon et de l\u2019acier: programme de recherche et lignes directrices techniques et financi\u00e8res pluriannuelles *",
+                "pt": "Fundo de Investiga\u00e7\u00e3o do Carv\u00e3o e do A\u00e7o: programa de investiga\u00e7\u00e3o e diretrizes t\u00e9cnicas e financeiras plurianuais *",
+                "nl": "Fonds voor onderzoek inzake kolen en staal: onderzoeksprogramma en technische en financi\u00eble meerjarenrichtsnoeren *",
+                "bg": "\u0418\u0437\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0441\u043a\u0438 \u0444\u043e\u043d\u0434 \u0437\u0430 \u0432\u044a\u0433\u043b\u0438\u0449\u0430 \u0438 \u0441\u0442\u043e\u043c\u0430\u043d\u0430: \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0430 \u0437\u0430 \u0438\u0437\u0441\u043b\u0435\u0434\u0432\u0430\u043d\u0438\u044f \u0438 \u043c\u043d\u043e\u0433\u043e\u0433\u043e\u0434\u0438\u0448\u043d\u0438 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438 \u0438 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u0438 \u043d\u0430\u0441\u043e\u043a\u0438 *",
+                "sl": "Raziskovalni sklad za premog in jeklo: raziskovalni program ter ve\u010dletne tehni\u010dne in finan\u010dne smernice *",
+                "ga": "An Ciste Taighde um Ghual agus Cruach: cl\u00e1r taighde agus treoirl\u00ednte teicni\u00fala agus airgeadais ilbhliant\u00fala *",
+                "es": "Fondo de Investigaci\u00f3n del Carb\u00f3n y del Acero: programa de investigaci\u00f3n y directrices t\u00e9cnicas y financieras plurianuales *",
+                "hu": "A Sz\u00e9n- \u00e9s Ac\u00e9lipari Kutat\u00e1si Alap: kutat\u00e1si program \u00e9s t\u00f6bb\u00e9ves technikai \u00e9s p\u00e9nz\u00fcgyi ir\u00e1nymutat\u00e1sok *"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2026-0130"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2026-05-19-DEC-192484"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2026-05-19-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2026-05-19-VOT-ITM-009"
+            ],
+            "notation_dlvId": "990672",
+            "structuredLabel": {
+                "mt": "<structuredLabel><title>Fond tar-Ri\u010berka g\u0127all-Fa\u0127am u l-Azzar: programm ta\u2019 ri\u010berka u linji gwida tekni\u010bi u finanzjarji pluriennali *</title><label>Rapport: Borys Budka (A10-0130/2026) (Rikjesta l-ma\u0121\u0121oranza tal-voti mitfug\u0127a)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Forschungsfonds f\u00fcr Kohle und Stahl: Forschungsprogramm und mehrj\u00e4hrige technische Leitlinien und mehrj\u00e4hrige Finanzleitlinien *</title><label>Bericht: Borys Budka (A10-0130/2026) (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Fondo di ricerca carbone e acciaio: programma di ricerca e orientamenti tecnici e finanziari pluriennali *</title><label>Relazione: Borys Budka (A10-0130/2026) (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Kul- og St\u00e5lforskningsfonden:  forskningsprogram og fler\u00e5rige tekniske og finansielle retningslinjer *</title><label>Bet\u00e6nkning: Borys Budka (A10-0130/2026) (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Og\u013cu un t\u0113rauda p\u0113tniec\u012bbas fonds: p\u0113t\u012bjumu programma un daudzgadu tehnisk\u0101s un finan\u0161u pamatnost\u0101dnes *</title><label>Zi\u0146ojums: Borys Budka (A10-0130/2026) (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Fonds de recherche du charbon et de l\u2019acier: programme de recherche et lignes directrices techniques et financi\u00e8res pluriannuelles *</title><label>Rapport: Borys Budka (A10-0130/2026) (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Angli\u0173 ir plieno mokslini\u0173 tyrim\u0173 fondas: mokslini\u0173 tyrim\u0173 programa ir daugiamet\u0117s technin\u0117s ir finansin\u0117s gair\u0117s *</title><label>Prane\u0161imas: Borys Budka (A10-0130/2026) (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>An Ciste Taighde um Ghual agus Cruach: cl\u00e1r taighde agus treoirl\u00ednte teicni\u00fala agus airgeadais ilbhliant\u00fala *</title><label>Tuarasc\u00e1il: Borys Budka (A10-0130/2026) (Tromlach na v\u00f3ta\u00ed arna gcaitheamh ag teast\u00e1il)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>V\u00fdzkumn\u00fd fond pro uhl\u00ed a ocel: v\u00fdzkumn\u00fd program a v\u00edcelet\u00e9 technick\u00e9 a finan\u010dn\u00ed z\u00e1kladn\u00ed sm\u011bry *</title><label>Zpr\u00e1va: Borys Budka (A10-0130/2026) (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u03a4\u03b1\u03bc\u03b5\u03af\u03bf \u0388\u03c1\u03b5\u03c5\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u0386\u03bd\u03b8\u03c1\u03b1\u03ba\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u03a7\u03ac\u03bb\u03c5\u03b2\u03b1: \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ad\u03c2 \u03ba\u03b1\u03c4\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c1\u03b9\u03b5\u03c2 \u03b3\u03c1\u03b1\u03bc\u03bc\u03ad\u03c2 \u03c0\u03bf\u03bb\u03c5\u03b5\u03c4\u03bf\u03cd\u03c2 \u03b4\u03b9\u03ac\u03c1\u03ba\u03b5\u03b9\u03b1\u03c2 *</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Borys Budka (A10-0130/2026) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Fondo de Investigaci\u00f3n del Carb\u00f3n y del Acero: programa de investigaci\u00f3n y directrices t\u00e9cnicas y financieras plurianuales *</title><label>Informe: Borys Budka (A10-0130/2026) (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Raziskovalni sklad za premog in jeklo: raziskovalni program ter ve\u010dletne tehni\u010dne in finan\u010dne smernice *</title><label>Poro\u010dilo: Borys Budka (A10-0130/2026)(potrebna je ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0418\u0437\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0441\u043a\u0438 \u0444\u043e\u043d\u0434 \u0437\u0430 \u0432\u044a\u0433\u043b\u0438\u0449\u0430 \u0438 \u0441\u0442\u043e\u043c\u0430\u043d\u0430: \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0430 \u0437\u0430 \u0438\u0437\u0441\u043b\u0435\u0434\u0432\u0430\u043d\u0438\u044f \u0438 \u043c\u043d\u043e\u0433\u043e\u0433\u043e\u0434\u0438\u0448\u043d\u0438 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438 \u0438 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u0438 \u043d\u0430\u0441\u043e\u043a\u0438 *</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Borys Budka (A10-0130/2026) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Fonds voor onderzoek inzake kolen en staal: onderzoeksprogramma en technische en financi\u00eble meerjarenrichtsnoeren *</title><label>Verslag: Borys Budka (A10-0130/2026) (Meerderheid van de uitgebrachte stemmen vereist)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Kol- och st\u00e5lforskningsfonden: forskningsprogram och fler\u00e5riga tekniska och ekonomiska riktlinjer *</title><label>Bet\u00e4nkande: Marcin Sypniewski (A10-0130/2026) (En majoritet av de avgivna r\u00f6sterna kr\u00e4vdes)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Istra\u017eiva\u010dki fond za ugljen i \u010delik: istra\u017eiva\u010dki program te vi\u0161egodi\u0161nje tehni\u010dke i financijske smjernice *</title><label>Izvje\u0161\u0107e: Borys Budka (A10-0130/2026) (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>V\u00fdskumn\u00fd fond pre uhlie a oce\u013e: v\u00fdskumn\u00fd program a viacro\u010dn\u00e9 technick\u00e9 a finan\u010dn\u00e9 usmernenia *</title><label>Spr\u00e1va: Borys Budka (A10-0130/2026) (potrebn\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "et": "<structuredLabel><title>S\u00f6e ja terase teadusfond: teadusprogramm ning mitmeaastased tehnilised ja finantssuunised *</title><label>Raport: Borys Budka (A10-0130/2026) (n\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>A Sz\u00e9n- \u00e9s Ac\u00e9lipari Kutat\u00e1si Alap: kutat\u00e1si program \u00e9s t\u00f6bb\u00e9ves technikai \u00e9s p\u00e9nz\u00fcgyi ir\u00e1nymutat\u00e1sok *</title><label>Jelent\u00e9s: Borys Budka (A10-0130/2026) (a leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Research Fund for Coal and Steel: research programme and multiannual technical and financial guidelines *</title><label>Report: Borys Budka (A10-0130/2026) (Majority of votes cast required)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Fundusz Badawczy W\u0119gla i\u00a0Stali: program badawczy oraz wieloletnie wytyczne techniczne i\u00a0finansowe *</title><label>Sprawozdanie: Borys Budka (A10-0130/2026) (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Fundo de Investiga\u00e7\u00e3o do Carv\u00e3o e do A\u00e7o: programa de investiga\u00e7\u00e3o e diretrizes t\u00e9cnicas e financeiras plurianuais *</title><label>Relat\u00f3rio: Borys Budka (A10-0130/2026) (Requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Fondul de cercetare pentru c\u0103rbune \u0219i o\u021bel: programul de cercetare \u0219i orient\u0103rile tehnice \u0219i financiare multianuale *</title><label>Raport: Borys Budka (A10-0130/2026) (Este necesar\u0103 majoritatea voturilor exprimate.)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Hiili- ja ter\u00e4stutkimusrahasto: tutkimusohjelma ja monivuotiset tekniset ja taloudelliset suuntaviivat *</title><label>Mietint\u00f6: Borys Budka (A10-0130/2026) (hyv\u00e4ksymiseen vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2026-05-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990701",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990704",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990702",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990692",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990703",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990673",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990676",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990675",
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990672"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2025-0398",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2026-05-19-VOT-ITM-990672"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

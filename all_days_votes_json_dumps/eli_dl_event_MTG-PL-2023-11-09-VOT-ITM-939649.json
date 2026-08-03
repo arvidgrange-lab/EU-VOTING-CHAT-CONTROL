@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939649",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939649",
+            "activity_label": {
+                "fr": "Point d\u2019acc\u00e8s unique europ\u00e9en: acc\u00e8s aux informations concernant les services financiers, les march\u00e9s des capitaux et la durabilit\u00e9",
+                "mul": "Point d\u2019acc\u00e8s unique europ\u00e9en: acc\u00e8s aux informations concernant les services financiers, les march\u00e9s des capitaux et la durabilit\u00e9 - European single access point (ESAP): access to information in relation to financial services, capital markets and sustainability - Zentrales europ\u00e4isches Zugangsportal (ESAP): Zugriff auf Informationen im Zusammenhang mit Finanzdienstleistungen, Kapitalm\u00e4rkten und Nachhaltigkeit"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0026"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-16",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939649",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Point d\u2019acc\u00e8s unique europ\u00e9en: acc\u00e8s aux informations concernant les services financiers, les march\u00e9s des capitaux et la durabilit\u00e9</title><label>Rapport: Pedro Silva Pereira (A9-0026/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

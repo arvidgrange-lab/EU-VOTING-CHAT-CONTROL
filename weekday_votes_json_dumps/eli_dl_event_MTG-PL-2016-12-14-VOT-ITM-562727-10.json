@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562727-10",
+            "activity_label": {
+                "fr": "Services nationaux de transport de voyageurs par chemin de fer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0373"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "562727",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 10,
+            "epvoc:amendmentsTabledTotal": 10,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Services nationaux de transport de voyageurs par chemin de fer</title><label>Recommandation pour la deuxi\u00e8me lecture: Wim van de Camp (A8-0373/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

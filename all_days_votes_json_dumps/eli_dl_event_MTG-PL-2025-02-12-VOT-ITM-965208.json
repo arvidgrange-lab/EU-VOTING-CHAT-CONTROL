@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-02-12-VOT-ITM-965208",
+            "type": "Activity",
+            "activity_date": "2025-02-12",
+            "activity_id": "MTG-PL-2025-02-12-VOT-ITM-965208",
+            "activity_label": {
+                "hu": "H\u00e9a: a digit\u00e1lis korhoz igazod\u00f3 szab\u00e1lyok *",
+                "hr": "PDV: pravila za digitalno doba *",
+                "lv": "PVN: noteikumi digit\u0101laj\u0101 laikmet\u0101 *",
+                "ga": "CBL: rialacha don r\u00e9 dhigiteach *",
+                "bg": "\u0414\u0414\u0421: \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0432 \u0435\u0440\u0430\u0442\u0430 \u043d\u0430 \u0446\u0438\u0444\u0440\u043e\u0432\u0438\u0442\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 *",
+                "fi": "ALV: s\u00e4\u00e4nt\u00f6jen mukauttaminen digiaikaan *",
+                "pt": "IVA: regras para a era digital *",
+                "sl": "DDV: pravila za digitalno dobo *",
+                "en": "VAT: rules for the digital age *",
+                "el": "\u03a6\u03a0\u0391: \u03ba\u03b1\u03bd\u03cc\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03ae \u03b5\u03c0\u03bf\u03c7\u03ae *",
+                "ro": "TVA: norme pentru era digital\u0103 *",
+                "lt": "PVM: prie skaitmeninio am\u017eiaus pritaikytos taisykl\u0117s *",
+                "da": "Moms: regler for den digitale tidsalder *",
+                "pl": "Przepisy dotycz\u0105ce VAT w epoce cyfrowej",
+                "de": "Mehrwertsteuervorschriften f\u00fcr das digitale Zeitalter *",
+                "es": "IVA: normas en la era digital\u00a0*",
+                "sk": "DPH: pravidl\u00e1 pre digit\u00e1lny vek *",
+                "sv": "Merv\u00e4rdesskatt: regler f\u00f6r den digitala tids\u00e5ldern *",
+                "cs": "DPH: pravidla pro digit\u00e1ln\u00ed v\u011bk *",
+                "it": "IVA: norme per l'era digitale *",
+                "nl": "Btw: regels voor het digitale tijdperk\u00a0*",
+                "et": "K\u00e4ibemaks: digiajastu eeskirjad*",
+                "mt": "VAT: regoli g\u0127all-era di\u0121itali *",
+                "fr": "TVA: les r\u00e8gles \u00e0 l\u2019\u00e8re du num\u00e9rique *",
+                "mul": "TVA: les r\u00e8gles \u00e0 l\u2019\u00e8re du num\u00e9rique - VAT: rules for the digital age - Mehrwertsteuervorschriften f\u00fcr das digitale Zeitalter"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2025-0001"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2025-02-12-DEC-171706"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2025-02-12-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2025-02-12-VOT-ITM-001"
+            ],
+            "notation_dlvId": "965208",
+            "structuredLabel": {
+                "de": "<structuredLabel><title>Mehrwertsteuervorschriften f\u00fcr das digitale Zeitalter *</title><label>Bericht: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>PVN: noteikumi digit\u0101laj\u0101 laikmet\u0101 *</title><label>Zi\u0146ojums: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>PDV: pravila za digitalno doba *</title><label>Izvje\u0161\u0107e: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Przepisy dotycz\u0105ce VAT w epoce cyfrowej</title><label>Sprawozdanie: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>VAT: regoli g\u0127all-era di\u0121itali *</title><label>Rapport: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "et": "<structuredLabel><title>K\u00e4ibemaks: digiajastu eeskirjad*</title><label>Raport: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Moms: regler for den digitale tidsalder *</title><label>Bet\u00e6nkning: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Btw: regels voor het digitale tijdperk\u00a0*</title><label>Verslag: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "es": "<structuredLabel><title>IVA: normas en la era digital\u00a0*</title><label>Informe: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>PVM:  prie skaitmeninio am\u017eiaus pritaikytos taisykl\u0117s *</title><label>Prane\u0161imas: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "it": "<structuredLabel><title>IVA: norme per l'era digitale *</title><label>Relazione: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>ALV: s\u00e4\u00e4nt\u00f6jen mukauttaminen digiaikaan *</title><label>Mietint\u00f6: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>IVA: regras para a era digital *</title><label>Relat\u00f3rio: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>H\u00e9a: a digit\u00e1lis korhoz igazod\u00f3 szab\u00e1lyok *</title><label>Jelent\u00e9s: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "en": "<structuredLabel><title>VAT: rules for the digital age *</title><label>Report: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>TVA: norme pentru era digital\u0103 *</title><label>Raport: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Merv\u00e4rdesskatt: regler f\u00f6r den digitala tids\u00e5ldern *</title><label>Bet\u00e4nkande: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>DDV: pravila za digitalno dobo *</title><label>Poro\u010dilo: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>TVA: les r\u00e8gles \u00e0 l\u2019\u00e8re du num\u00e9rique *</title><label>Rapport: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>DPH: pravidla pro digit\u00e1ln\u00ed v\u011bk *</title><label>Zpr\u00e1va: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0414\u0414\u0421: \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0432 \u0435\u0440\u0430\u0442\u0430 \u043d\u0430 \u0446\u0438\u0444\u0440\u043e\u0432\u0438\u0442\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 *</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>CBL: rialacha don r\u00e9 dhigiteach *</title><label>Tuarasc\u00e1il: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>DPH: pravidl\u00e1 pre digit\u00e1lny vek *</title><label>Spr\u00e1va: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u03a6\u03a0\u0391: \u03ba\u03b1\u03bd\u03cc\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03ae \u03b5\u03c0\u03bf\u03c7\u03ae *</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: \u013dudov\u00edt \u00d3dor (A10-0001/2025)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

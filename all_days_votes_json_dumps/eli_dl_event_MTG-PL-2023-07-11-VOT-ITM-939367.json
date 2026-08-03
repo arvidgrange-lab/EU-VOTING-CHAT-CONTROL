@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939367",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939367",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2023/001 BE/LNSA \u2013 Belgique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0228"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-89",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939367",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 3,
+            "epvoc:amendmentsTabledTotal": 3,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2023/001 BE/LNSA \u2013 Belgique</title><label>Rapport: Eleni Stavrou (A9-0228/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

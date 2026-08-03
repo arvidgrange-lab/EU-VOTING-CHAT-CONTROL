@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939309",
+            "activity_label": {
+                "fr": "Situation humanitaire au Soudan, en particulier la mort d'enfants pi\u00e9g\u00e9s par les combats"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0295",
+                "eli/dl/doc/B-9-2023-0293",
+                "eli/dl/doc/B-9-2023-0291",
+                "eli/dl/doc/B-9-2023-0294",
+                "eli/dl/doc/B-9-2023-0271",
+                "eli/dl/doc/B-9-2023-0292"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-88",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939309",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 2,
+            "epvoc:amendmentsTabledTotal": 2,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation humanitaire au Soudan, en particulier la mort d'enfants pi\u00e9g\u00e9s par les combats</title><label>Propositions de r\u00e9solution: RC-B9-0291/2023, B9-0271/2023, B9-0291/2023, B9-0292/2023, B9-0293/2023, B9-0294/2023, B9-0295/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

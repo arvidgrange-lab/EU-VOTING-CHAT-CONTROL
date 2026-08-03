@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939400",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939400",
+            "activity_label": {
+                "fr": "Accord UE-Chili: modification des concessions pour l\u2019ensemble des contingents tarifaires de la liste CLXXV de l\u2019Union europ\u00e9enne \u00e0 la suite du retrait du Royaume-Uni de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0222"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-76",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939400",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Chili: modification des concessions pour l\u2019ensemble des contingents tarifaires de la liste CLXXV de l\u2019Union europ\u00e9enne \u00e0 la suite du retrait du Royaume-Uni de l\u2019Union europ\u00e9enne</title><label>Recommandation: Samira Rafaela (A9-0222/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

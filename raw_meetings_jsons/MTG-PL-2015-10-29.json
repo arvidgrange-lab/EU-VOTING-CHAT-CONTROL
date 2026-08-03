@@ -1,0 +1,363 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473704-5",
+            "type": "Activity",
+            "activity_date": "2015-10-29",
+            "activity_id": "MTG-PL-2015-10-29-VOT-ITM-473704-5",
+            "activity_label": {
+                "fr": "Recommandation du Conseil relative \u00e0 l'int\u00e9gration des ch\u00f4meurs de longue dur\u00e9e sur le march\u00e9 du travail"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1093"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-29-OJ-ITM-V-88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-29-VOT-ITM-005"
+            ],
+            "notation_dlvId": "473704",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Recommandation du Conseil relative \u00e0 l'int\u00e9gration des ch\u00f4meurs de longue dur\u00e9e sur le march\u00e9 du travail</title><label>B8-1093/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473704-5",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473703-3",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473265-4",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473141-7",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473139-1",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-472910-2",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473705-8",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473459-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2820",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473704-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473703-3",
+            "type": "Activity",
+            "activity_date": "2015-10-29",
+            "activity_id": "MTG-PL-2015-10-29-VOT-ITM-473703-3",
+            "activity_label": {
+                "fr": "Suivi de la r\u00e9solution du Parlement europ\u00e9en du 12 mars 2014 sur la surveillance \u00e9lectronique de masse des citoyens de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1092"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-29-OJ-ITM-V-102"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-29-VOT-ITM-003"
+            ],
+            "notation_dlvId": "473703",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Suivi de la r\u00e9solution du Parlement europ\u00e9en du 12 mars 2014 sur la surveillance \u00e9lectronique de masse des citoyens de l'Union europ\u00e9enne</title><label>Propositions de r\u00e9solution: B8-1092/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473704-5",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473703-3",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473265-4",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473141-7",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473139-1",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-472910-2",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473705-8",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473459-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2635",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473703-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473265-4",
+            "type": "Activity",
+            "activity_date": "2015-10-29",
+            "activity_id": "MTG-PL-2015-10-29-VOT-ITM-473265-4",
+            "activity_label": {
+                "fr": "Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: mise en \u0153uvre des priorit\u00e9s pour 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0307"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-29-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-29-VOT-ITM-004"
+            ],
+            "notation_dlvId": "473265",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: mise en \u0153uvre des priorit\u00e9s pour 2015</title><label>Rapport: Dariusz Rosati (A8-0307/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473704-5",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473703-3",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473265-4",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473141-7",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473139-1",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-472910-2",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473705-8",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473459-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2210",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473265-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473141-7",
+            "type": "Activity",
+            "activity_date": "2015-10-29",
+            "activity_id": "MTG-PL-2015-10-29-VOT-ITM-473141-7",
+            "activity_label": {
+                "fr": "Nouveaux d\u00e9fis et concepts pour la promotion du tourisme en Europe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0258"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-29-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-29-VOT-ITM-007"
+            ],
+            "notation_dlvId": "473141",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nouveaux d\u00e9fis et concepts pour la promotion du tourisme en Europe</title><label>Rapport: Isabella De Monte (A8-0258/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473704-5",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473703-3",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473265-4",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473141-7",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473139-1",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-472910-2",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473705-8",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473459-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2241",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473141-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473139-1",
+            "type": "Activity",
+            "activity_date": "2015-10-29",
+            "activity_id": "MTG-PL-2015-10-29-VOT-ITM-473139-1",
+            "activity_label": {
+                "fr": "Agence de l'UE en charge de la formation des services r\u00e9pressifs (Cepol)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0048"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-29-OJ-ITM-V-49"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-29-VOT-ITM-001"
+            ],
+            "notation_dlvId": "473139",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Agence de l'UE en charge de la formation des services r\u00e9pressifs (Cepol)</title><label>Rapport: Kinga G\u00e1l (A8-0048/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473704-5",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473703-3",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473265-4",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473141-7",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473139-1",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-472910-2",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473705-8",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473459-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0217",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473139-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-472910-2",
+            "type": "Activity",
+            "activity_date": "2015-10-29",
+            "activity_id": "MTG-PL-2015-10-29-VOT-ITM-472910-2",
+            "activity_label": {
+                "fr": "Transparence des op\u00e9rations de financement sur titres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0120"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-29-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-29-VOT-ITM-002"
+            ],
+            "notation_dlvId": "472910",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Transparence des op\u00e9rations de financement sur titres</title><label>Rapport: Renato Soru (A8-0120/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473704-5",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473703-3",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473265-4",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473141-7",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473139-1",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-472910-2",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473705-8",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473459-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0017",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-472910-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473705-8",
+            "type": "Activity",
+            "activity_date": "2015-10-29",
+            "activity_id": "MTG-PL-2015-10-29-VOT-ITM-473705-8",
+            "activity_label": {
+                "fr": "D\u00e9veloppement d'une technologie utilisant les satellites pour assurer le suivi des avions en vol \u00e0 l'\u00e9chelle mondiale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1094"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-29-OJ-ITM-V-85"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-29-VOT-ITM-008"
+            ],
+            "notation_dlvId": "473705",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9veloppement d'une technologie utilisant les satellites pour assurer le suivi des avions en vol \u00e0 l'\u00e9chelle mondiale</title><label>Propositions de r\u00e9solution: B8-1094/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473704-5",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473703-3",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473265-4",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473141-7",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473139-1",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-472910-2",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473705-8",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473459-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2857",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473705-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473459-6",
+            "type": "Activity",
+            "activity_date": "2015-10-29",
+            "activity_id": "MTG-PL-2015-10-29-VOT-ITM-473459-6",
+            "activity_label": {
+                "fr": "Utilisation s\u00fbre des syst\u00e8mes d'a\u00e9ronefs t\u00e9l\u00e9pilot\u00e9s (RPAS) dans le domaine de l'aviation civile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0261"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-29-OJ-ITM-V-76"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-29-VOT-ITM-006"
+            ],
+            "notation_dlvId": "473459",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Utilisation s\u00fbre des syst\u00e8mes d'a\u00e9ronefs t\u00e9l\u00e9pilot\u00e9s (RPAS) dans le domaine de l'aviation civile</title><label>Rapport: Jacqueline Foster (A8-0261/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473704-5",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473703-3",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473265-4",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473141-7",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473139-1",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-472910-2",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473705-8",
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473459-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2243",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-29-VOT-ITM-473459-6"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

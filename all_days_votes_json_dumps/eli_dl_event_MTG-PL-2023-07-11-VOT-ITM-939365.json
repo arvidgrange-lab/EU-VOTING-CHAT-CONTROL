@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939365",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939365",
+            "activity_label": {
+                "fr": "Mesures de lib\u00e9ralisation temporaire des \u00e9changes en compl\u00e9ment des concessions commerciales applicables aux produits moldaves au titre de l\u2019accord d\u2019association UE/Euratom/Moldavie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0219"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-72",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939365",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures de lib\u00e9ralisation temporaire des \u00e9changes en compl\u00e9ment des concessions commerciales applicables aux produits moldaves au titre de l\u2019accord d\u2019association UE/Euratom/Moldavie</title><label>Rapport: Mark\u00e9ta Gregorov\u00e1 (A9-0219/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

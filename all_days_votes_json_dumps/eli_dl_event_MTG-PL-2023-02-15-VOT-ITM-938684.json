@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938684",
+            "activity_label": {
+                "fr": "Autorisation pour la Pologne de ratifier la modification de la convention sur la conservation et la gestion des ressources en colin dans la partie centrale de la mer de B\u00e9ring"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0007"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-38",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938684",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Autorisation pour la Pologne de ratifier la modification de la convention sur la conservation et la gestion des ressources en colin dans la partie centrale de la mer de B\u00e9ring</title><label>Recommandation: El\u017cbieta Rafalska (A9-0007/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

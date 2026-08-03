@@ -1,0 +1,119 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-05-06-DEC-175168",
+            "type": "Decision",
+            "activity_date": "2025-05-06",
+            "activity_id": "MTG-PL-2025-05-06-DEC-175168",
+            "activity_label": {
+                "sv": "Punkt 36",
+                "pl": "Ust. 36",
+                "fr": "\u00a7 36",
+                "et": "\u00a7 36",
+                "de": "\u00a7 36",
+                "it": "\u00a7 36",
+                "ro": "\u00a7 36",
+                "lt": "\u00a7 36",
+                "cs": "\u00a7 36",
+                "nl": "\u00a7 36",
+                "ga": "\u00a7 36",
+                "el": "\u00a7 36",
+                "fi": "\u00a7 36",
+                "pt": "\u00a7 36",
+                "mt": "\u00a7 36",
+                "lv": "\u00a7 36",
+                "es": "\u00a7 36",
+                "sl": "\u00a7 36",
+                "bg": "\u00a7 36",
+                "en": "\u00a7 36",
+                "da": "\u00a7 36",
+                "sk": "odsek 36",
+                "hu": "36. bek.",
+                "hr": "\u00a7 36."
+            },
+            "activity_order": "16.0",
+            "decided_on_a_realization_of": [
+                "eli/dl/doc/MTG-PL-2025-05-06-VOT-ITM-965498-SPLIT-2-4"
+            ],
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/LAPSED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "responsible_organization_label": {
+                "sv": "originaltexten",
+                "bg": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u0435\u043d \u0442\u0435\u043a\u0441\u0442",
+                "sk": "p\u00f4vodn\u00fd text",
+                "hu": "eredeti sz\u00f6veg",
+                "nl": "oorspronkelijke tekst",
+                "pl": "pierwotny tekst"
+            },
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2025-05-06-VOT-ITM-965498-SPLIT-2"
+            ],
+            "comment": {
+                "ga": "4",
+                "sk": "4",
+                "ro": "4",
+                "pl": "4",
+                "lv": "4",
+                "en": "4",
+                "es": "4",
+                "fr": "4",
+                "pt": "4",
+                "lt": "4",
+                "hr": "4",
+                "hu": "4",
+                "bg": "4",
+                "fi": "4",
+                "da": "4",
+                "de": "4",
+                "nl": "4",
+                "sl": "4",
+                "el": "4",
+                "cs": "4",
+                "it": "4",
+                "sv": "4",
+                "et": "4",
+                "mt": "4"
+            },
+            "notation_votingId": "175168",
+            "decisionAboutId_Lang": {
+                "bg": "\u00a7"
+            },
+            "decisionAboutId": "\u00a7",
+            "decisionAboutId_XMLLiteral": "<am><symbol href=\"https://xx.xx.xx/\u00a7\"/></am>",
+            "referenceText": {
+                "mt": "\u00a7 36",
+                "lv": "\u00a7 36",
+                "es": "\u00a7 36",
+                "sl": "\u00a7 36",
+                "bg": "\u00a7 36",
+                "en": "\u00a7 36",
+                "da": "\u00a7 36",
+                "cs": "\u00a7 36",
+                "lt": "\u00a7 36",
+                "ro": "\u00a7 36",
+                "it": "\u00a7 36",
+                "de": "\u00a7 36",
+                "et": "\u00a7 36",
+                "fr": "\u00a7 36",
+                "nl": "\u00a7 36",
+                "ga": "\u00a7 36",
+                "el": "\u00a7 36",
+                "fi": "\u00a7 36",
+                "pt": "\u00a7 36",
+                "pl": "Ust. 36",
+                "sv": "Punkt 36",
+                "sk": "odsek 36",
+                "hu": "36. bek.",
+                "hr": "\u00a7 36."
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

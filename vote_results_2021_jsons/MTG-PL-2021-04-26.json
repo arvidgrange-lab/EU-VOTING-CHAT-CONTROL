@@ -1,0 +1,311 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934492",
+            "type": "Activity",
+            "activity_date": "2021-04-26",
+            "activity_id": "MTG-PL-2021-04-26-VOT-ITM-934492",
+            "activity_label": {
+                "fr": "Accord Union/Norv\u00e8ge: modification des concessions pour l\u2019ensemble des contingents tarifaires de la liste CLXXV de l\u2019UE apr\u00e8s le retrait du Royaume-Uni de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0035"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-26-OJ-ITM-V-19",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-26-VOT-ITM-006"
+            ],
+            "notation_dlvId": "934492",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord Union/Norv\u00e8ge: modification des concessions pour l\u2019ensemble des contingents tarifaires de la liste CLXXV de l\u2019UE apr\u00e8s le retrait du Royaume-Uni de l\u2019Union europ\u00e9enne</title><label>Recommandation: J\u00f6rgen Warborn (A9-0035/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934492",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934489",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934493",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934463",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934487",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934490",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934488",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934486"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934489",
+            "type": "Activity",
+            "activity_date": "2021-04-26",
+            "activity_id": "MTG-PL-2021-04-26-VOT-ITM-934489",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Ioannis Lagos"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0135"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-26-OJ-ITM-V-186",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-26-VOT-ITM-004"
+            ],
+            "notation_dlvId": "934489",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Ioannis Lagos</title><label>Rapport: Angel Dzhambazki (A9-0135/2021) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934492",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934489",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934493",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934463",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934487",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934490",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934488",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934486"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934493",
+            "type": "Activity",
+            "activity_date": "2021-04-26",
+            "activity_id": "MTG-PL-2021-04-26-VOT-ITM-934493",
+            "activity_label": {
+                "fr": "Accord de partenariat volontaire Union/Honduras"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0053"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-26-OJ-ITM-V-22",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-26-VOT-ITM-007"
+            ],
+            "notation_dlvId": "934493",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat volontaire Union/Honduras</title><label>Recommandation: Karin Karlsbro (A9-0053/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934492",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934489",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934493",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934463",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934487",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934490",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934488",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934486"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934463",
+            "type": "Activity",
+            "activity_date": "2021-04-26",
+            "activity_id": "MTG-PL-2021-04-26-VOT-ITM-934463",
+            "activity_label": {
+                "fr": "Rapport d'ex\u00e9cution sur les aspects li\u00e9s \u00e0 la s\u00e9curit\u00e9 routi\u00e8re du paquet \u00abcontr\u00f4le technique\u00bb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0028"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-26-OJ-ITM-V-81",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-26-VOT-ITM-008"
+            ],
+            "notation_dlvId": "934463",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport d'ex\u00e9cution sur les aspects li\u00e9s \u00e0 la s\u00e9curit\u00e9 routi\u00e8re du paquet \u00abcontr\u00f4le technique\u00bb</title><label>Rapport: Beno\u00eet Lutgen (A9-0028/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934492",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934489",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934493",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934463",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934487",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934490",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934488",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934486"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2205",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934463"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934487",
+            "type": "Activity",
+            "activity_date": "2021-04-26",
+            "activity_id": "MTG-PL-2021-04-26-VOT-ITM-934487",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Filip De Man"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0134"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-26-OJ-ITM-V-147",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-26-VOT-ITM-001"
+            ],
+            "notation_dlvId": "934487",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Filip De Man</title><label>Rapport: St\u00e9phane S\u00e9journ\u00e9 (A9-0134/2021) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934492",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934489",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934493",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934463",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934487",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934490",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934488",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934486"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934490",
+            "type": "Activity",
+            "activity_date": "2021-04-26",
+            "activity_id": "MTG-PL-2021-04-26-VOT-ITM-934490",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Ioannis Lagos"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0136"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-26-OJ-ITM-V-187",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-26-VOT-ITM-003"
+            ],
+            "notation_dlvId": "934490",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Ioannis Lagos</title><label>Rapport: Marie Toussaint (A9-0136/2021) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934492",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934489",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934493",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934463",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934487",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934490",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934488",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934486"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934488",
+            "type": "Activity",
+            "activity_date": "2021-04-26",
+            "activity_id": "MTG-PL-2021-04-26-VOT-ITM-934488",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l\u2019immunit\u00e9 de Zdzis\u0142aw Krasnod\u0119bski"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0132"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-26-OJ-ITM-V-148",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-26-VOT-ITM-002"
+            ],
+            "notation_dlvId": "934488",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l\u2019immunit\u00e9 de Zdzis\u0142aw Krasnod\u0119bski</title><label>Rapport: Ib\u00e1n Garc\u00eda Del Blanco (A9-0132/2021) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934492",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934489",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934493",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934463",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934487",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934490",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934488",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934486"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934486",
+            "type": "Activity",
+            "activity_date": "2021-04-26",
+            "activity_id": "MTG-PL-2021-04-26-VOT-ITM-934486",
+            "activity_label": {
+                "fr": "R\u00e9sidus chimiques dans la mer Baltique sur la base des p\u00e9titions n\u00ba 1328/2019 et n\u00ba 0406/2020, en vertu de l'article 227, paragraphe 2, du r\u00e8glement int\u00e9rieur"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0224"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-26-OJ-ITM-V-77",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-26-VOT-ITM-009"
+            ],
+            "notation_dlvId": "934486",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9sidus chimiques dans la mer Baltique sur la base des p\u00e9titions n\u00ba 1328/2019 et n\u00ba 0406/2020, en vertu de l'article 227, paragraphe 2, du r\u00e8glement int\u00e9rieur</title><label>Proposition de r\u00e9solution: B9-0224/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934492",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934489",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934493",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934463",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934487",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934490",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934488",
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934486"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2567",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-26-VOT-ITM-934486"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

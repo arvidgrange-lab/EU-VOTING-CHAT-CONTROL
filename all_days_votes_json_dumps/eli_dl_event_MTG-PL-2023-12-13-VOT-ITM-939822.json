@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939822",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939822",
+            "activity_label": {
+                "mul": "La coop\u00e9ration au d\u00e9veloppement de l\u2019Union europ\u00e9enne pour am\u00e9liorer l\u2019acc\u00e8s \u00e0 l\u2019\u00e9ducation et \u00e0 la formation dans les pays en d\u00e9veloppement - EU development cooperation to enhance access to education and training in developing countries - Entwicklungszusammenarbeit der EU zur Verbesserung des Zugangs zu allgemeiner und beruflicher Bildung in Entwicklungsl\u00e4ndern",
+                "fr": "La coop\u00e9ration au d\u00e9veloppement de l\u2019Union europ\u00e9enne pour am\u00e9liorer l\u2019acc\u00e8s \u00e0 l\u2019\u00e9ducation et \u00e0 la formation dans les pays en d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0338"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-34",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939822",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La coop\u00e9ration au d\u00e9veloppement de l\u2019Union europ\u00e9enne pour am\u00e9liorer l\u2019acc\u00e8s \u00e0 l\u2019\u00e9ducation et \u00e0 la formation dans les pays en d\u00e9veloppement</title><label>Rapport: Gy\u00f6rgy H\u00f6lv\u00e9nyi (A9-0338/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

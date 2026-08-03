@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-11-VOT-ITM-939144",
+            "type": "Activity",
+            "activity_date": "2023-05-11",
+            "activity_id": "MTG-PL-2023-05-11-VOT-ITM-939144",
+            "activity_label": {
+                "fr": "Bi\u00e9lorussie: le traitement inhumain et l'hospitalisation de Viktor Babariko, \u00e9minent chef de l'opposition"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0252",
+                "eli/dl/doc/B-9-2023-0253",
+                "eli/dl/doc/B-9-2023-0254",
+                "eli/dl/doc/B-9-2023-0255",
+                "eli/dl/doc/B-9-2023-0250",
+                "eli/dl/doc/B-9-2023-0251"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-11-OJ-ITM-V-149",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-11-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939144",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Bi\u00e9lorussie: le traitement inhumain et l'hospitalisation de Viktor Babariko, \u00e9minent chef de l'opposition</title><label>Propositions de r\u00e9solution: RC-B9-0251/2023, B9-0250/2023, B9-0251/2023, B9-0252/2023, B9-0253/2023, B9-0254/2023, B9-0255/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

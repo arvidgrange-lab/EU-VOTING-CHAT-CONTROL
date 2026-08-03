@@ -1,0 +1,783 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580511-5",
+            "activity_label": {
+                "fr": "Accord-cadre de partenariat et de coop\u00e9ration UE-Mongolie (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0383"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-005"
+            ],
+            "notation_dlvId": "580511",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord-cadre de partenariat et de coop\u00e9ration UE-Mongolie (r\u00e9solution)</title><label>Rapport: Helmut Scholz (A8-0383/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2231",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580506-1",
+            "activity_label": {
+                "fr": "Accord \u00e9conomique et commercial global UE-Canada"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0009"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "580506",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord \u00e9conomique et commercial global UE-Canada</title><label>Recommandation: Artis Pabriks (A8-0009/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0205",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580511-6",
+            "activity_label": {
+                "fr": "Accord relatif au commerce des a\u00e9ronefs civils (annexe relative aux produits vis\u00e9s)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0007"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-56"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "580511",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord relatif au commerce des a\u00e9ronefs civils (annexe relative aux produits vis\u00e9s)</title><label>Recommandation: Inmaculada Rodr\u00edguez-Pi\u00f1ero Fern\u00e1ndez (A8-0007/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0202",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580852-2",
+            "activity_label": {
+                "fr": "Conclusion de l'AECG UE-Canada"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0141",
+                "eli/dl/doc/B-8-2017-0146",
+                "eli/dl/doc/B-8-2017-0143",
+                "eli/dl/doc/B-8-2017-0145",
+                "eli/dl/doc/B-8-2017-0144",
+                "eli/dl/doc/B-8-2017-0142"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-002"
+            ],
+            "notation_dlvId": "580852",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conclusion de l'AECG UE-Canada</title><label>Propositions de r\u00e9solution: B8-0141/2017, B8-0142/2017, B8-0143/2017, B8-0144/2017, B8-0145/2017, B8-0146/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2525",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580507-3",
+            "activity_label": {
+                "fr": "Accord de partenariat strat\u00e9gique UE-Canada"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0028"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "580507",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat strat\u00e9gique UE-Canada</title><label>Recommandation: Charles Tannock (A8-0028/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0373",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580511-4",
+            "activity_label": {
+                "fr": "Accord-cadre de partenariat et de coop\u00e9ration UE-Mongolie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0382"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "580511",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord-cadre de partenariat et de coop\u00e9ration UE-Mongolie</title><label>Recommandation: Helmut Scholz (A8-0382/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0114",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580514-10",
+            "activity_label": {
+                "fr": "Rapport 2016 concernant la Bosnie-Herz\u00e9govine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0026"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-010"
+            ],
+            "notation_dlvId": "580514",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2016 concernant la Bosnie-Herz\u00e9govine</title><label>Rapport: Cristian Dan Preda (A8-0026/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2313",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580513-9",
+            "activity_label": {
+                "fr": "Rapport 2016 concernant l'Albanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0023"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-009"
+            ],
+            "notation_dlvId": "580513",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2016 concernant l'Albanie</title><label>Rapport: Knut Fleckenstein (A8-0023/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2312",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580516-14",
+            "activity_label": {
+                "fr": "Union bancaire - Rapport annuel 2016"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0019"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-014"
+            ],
+            "notation_dlvId": "580516",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Union bancaire - Rapport annuel 2016</title><label>Rapport: Danuta Maria H\u00fcbner (A8-0019/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2247",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580515-13",
+            "activity_label": {
+                "fr": "Gouvernance du march\u00e9 unique dans le cadre du Semestre europ\u00e9en 2017"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0016"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-48"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-013"
+            ],
+            "notation_dlvId": "580515",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gouvernance du march\u00e9 unique dans le cadre du Semestre europ\u00e9en 2017</title><label>Rapport: Antonio L\u00f3pez-Ist\u00fariz White (A8-0016/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2248",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-582079-11",
+            "activity_label": {
+                "fr": "Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: examen annuel de la croissance 2017"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0039"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-011"
+            ],
+            "notation_dlvId": "582079",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: examen annuel de la croissance 2017</title><label>Rapport: Gunnar H\u00f6kmark (A8-0039/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2306",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580858-15",
+            "activity_label": {
+                "fr": "Pesticides biologiques \u00e0 faible risque"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0140"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-015"
+            ],
+            "notation_dlvId": "580858",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pesticides biologiques \u00e0 faible risque</title><label>Proposition de r\u00e9solution: B8-0140/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2903",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-582075-12",
+            "activity_label": {
+                "fr": "Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: emploi et aspects sociaux dans le cadre de l'examen annuel de la croissance 2017"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0037"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-012"
+            ],
+            "notation_dlvId": "582075",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: emploi et aspects sociaux dans le cadre de l'examen annuel de la croissance 2017</title><label>Rapport: Yana Toom (A8-0037/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2307",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580512-7",
+            "activity_label": {
+                "fr": "Rapport co\u00fbt-efficacit\u00e9 des r\u00e9ductions d'\u00e9missions et investissements \u00e0 faible intensit\u00e9 de carbone"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0003"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-52"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "580512",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport co\u00fbt-efficacit\u00e9 des r\u00e9ductions d'\u00e9missions et investissements \u00e0 faible intensit\u00e9 de carbone</title><label>Rapport: Ian Duncan (A8-0003/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0148",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8",
+            "type": "Activity",
+            "activity_date": "2017-02-15",
+            "activity_id": "MTG-PL-2017-02-15-VOT-ITM-580855-8",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 105(3): normes techniques de r\u00e9glementation relatives \u00e0 l'application de limites aux positions en instruments d\u00e9riv\u00e9s sur mati\u00e8res premi\u00e8res"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0147",
+                "eli/dl/doc/B-8-2017-0148",
+                "eli/dl/doc/B-8-2017-0139"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-15-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-15-VOT-ITM-008"
+            ],
+            "notation_dlvId": "580855",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 105(3): normes techniques de r\u00e9glementation relatives \u00e0 l'application de limites aux positions en instruments d\u00e9riv\u00e9s sur mati\u00e8res premi\u00e8res</title><label>Proposition de r\u00e9solutions: B8-0139/2017, B8-0147/2017, B8-0148/2017 (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-5",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580506-1",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-6",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580852-2",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580507-3",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580511-4",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580514-10",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580513-9",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580516-14",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580515-13",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582079-11",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580858-15",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-582075-12",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580512-7",
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3017",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-15-VOT-ITM-580855-8"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

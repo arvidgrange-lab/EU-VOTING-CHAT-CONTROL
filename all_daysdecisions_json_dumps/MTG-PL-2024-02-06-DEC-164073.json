@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-02-06-DEC-164073",
+            "type": "Vote",
+            "activity_date": "2024-02-06",
+            "activity_id": "MTG-PL-2024-02-06-DEC-164073",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "164073",
+            "referenceText": {
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7\u03c2",
+                "es": "Propuesta de Decisi\u00f3n",
+                "nl": "Ontwerpbesluit",
+                "da": "Forslag til afg\u00f8relse",
+                "hr": "Prijedlog odluke",
+                "lt": "Pasi\u016blymas d\u0117l sprendimo",
+                "en": "Proposal for a decision",
+                "sl": "predlog sklepa",
+                "fr": "Proposition de d\u00e9cision",
+                "de": "Vorschlag f\u00fcr einen Beschluss",
+                "pt": "Proposta de decis\u00e3o",
+                "mt": "Proposta g\u0127al de\u010bi\u017cjoni",
+                "lv": "l\u0113muma priek\u0161likums",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+                "pl": "Projekt decyzji",
+                "et": "Otsuse ettepanek",
+                "it": "Proposta di decisione",
+                "fi": "P\u00e4\u00e4t\u00f6sehdotus",
+                "hu": "Hat\u00e1rozatra ir\u00e1nyul\u00f3 javaslat",
+                "cs": "n\u00e1vrh rozhodnut\u00ed",
+                "ro": "Propunere de decizie",
+                "sk": "N\u00e1vrh rozhodnutia",
+                "sv": "F\u00f6rslag till beslut",
+                "ga": "Togra le haghaidh cinnidh"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

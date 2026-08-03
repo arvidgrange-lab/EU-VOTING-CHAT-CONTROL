@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939507",
+            "activity_label": {
+                "fr": "Protection des travailleurs contre l'amiante",
+                "mul": "Protection des travailleurs contre l'amiante - Protection of workers from asbestos - Schutz der Arbeitnehmer vor Asbest"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0160"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-39",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939507",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des travailleurs contre l'amiante</title><label>Rapport: V\u00e9ronique Trillet-Lenoir (A9-0160/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,406 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939506",
+            "activity_label": {
+                "fr": "Syst\u00e8mes de transport routier intelligents",
+                "mul": "Syst\u00e8mes de transport routier intelligents - Intelligent Road Transport Systems - Intelligente Stra\u00dfenverkehrssysteme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0265"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-34",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939506",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8mes de transport routier intelligents</title><label>Rapport: Rovana Plumb (A9-0265/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939505",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939522",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939524",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939518"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0419",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939505",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939505",
+            "activity_label": {
+                "fr": "Coercition \u00e9conomique exerc\u00e9e par des pays tiers",
+                "mul": "Coercition \u00e9conomique exerc\u00e9e par des pays tiers - Economic coercion by third countries   - Wirtschaftlicher Zwang durch Drittl\u00e4nder"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0246"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-35",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939505",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coercition \u00e9conomique exerc\u00e9e par des pays tiers</title><label>Rapport: Bernd Lange (A9-0246/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939505",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939522",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939524",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939518"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0406",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939505"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939507",
+            "activity_label": {
+                "fr": "Protection des travailleurs contre l'amiante",
+                "mul": "Protection des travailleurs contre l'amiante - Protection of workers from asbestos - Schutz der Arbeitnehmer vor Asbest"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0160"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-39",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939507",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des travailleurs contre l'amiante</title><label>Rapport: V\u00e9ronique Trillet-Lenoir (A9-0160/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939505",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939522",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939524",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939518"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0298",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939522",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939522",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MIR162",
+                "mul": "Objection conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MIR162 - Objection pursuant to Rule 112(2) and (3): Genetically modified maize MIR162  - Einwand gem\u00e4\u00df Artikel 112 Abs\u00e4tze 2 und 3 GO: genetisch ver\u00e4nderter Mais der Sorte MIR162"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0388"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-86",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939522",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MIR162</title><label>Proposition de r\u00e9solution: B9-0388/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939505",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939522",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939524",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939518"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2810",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939522"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939520",
+            "activity_label": {
+                "mul": "Des transports europ\u00e9ens qui fonctionnent pour les femmes - Ensuring European transportation works for women - Schaffung eines europ\u00e4ischen Verkehrswesens, das den Bed\u00fcrfnissen von Frauen gerecht wird",
+                "fr": "Des transports europ\u00e9ens qui fonctionnent pour les femmes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0239"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-57",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939520",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Des transports europ\u00e9ens qui fonctionnent pour les femmes</title><label>Rapport: El\u017cbieta Katarzyna \u0141ukacijewska (A9-0239/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939505",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939522",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939524",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939518"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2140",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939524",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939524",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 89034 \u00d7 1507 \u00d7 MIR162 \u00d7 NK603 \u00d7 DAS-40278-9 et neuf sous-combinaisons",
+                "mul": "Objection conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 89034 \u00d7 1507 \u00d7 MIR162 \u00d7 NK603 \u00d7 DAS-40278-9 et neuf sous-combinaisons - Objection pursuant to Rule 112(2) and (3): Genetically modified maize MON 89034 \u00d7 1507 \u00d7 MIR162 \u00d7 NK603 \u00d7 DAS-40278-9 and nine sub-combinations - Einwand gem\u00e4\u00df Artikel 112 Abs\u00e4tze 2 und 3 GO: genetisch ver\u00e4nderter Mais der Sorte MON 89034 \u00d7 1507 \u00d7 MIR162 \u00d7 NK603 \u00d7 DAS-40278-9 und neun Unterkombinationen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0387"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-87",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939524",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 89034 \u00d7 1507 \u00d7 MIR162 \u00d7 NK603 \u00d7 DAS-40278-9 et neuf sous-combinaisons</title><label>Proposition de r\u00e9solution: B9-0387/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939505",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939522",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939524",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939518"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2809",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939524"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939511",
+            "activity_label": {
+                "mul": "L\u00e9gislation europ\u00e9enne sur la libert\u00e9 des m\u00e9dias  - European Media Freedom Act - Europ\u00e4isches Medienfreiheitsgesetz",
+                "fr": "L\u00e9gislation europ\u00e9enne sur la libert\u00e9 des m\u00e9dias"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0264"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-20",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939511",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u00e9gislation europ\u00e9enne sur la libert\u00e9 des m\u00e9dias </title><label>Rapport: Sabine Verheyen (A9-0264/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939505",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939522",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939524",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939518"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0277",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939509",
+            "activity_label": {
+                "fr": "Rapport int\u00e9rimaire sur la proposition de r\u00e9vision \u00e0 mi-parcours du cadre financier pluriannuel 2021-2027",
+                "mul": "Rapport int\u00e9rimaire sur la proposition de r\u00e9vision \u00e0 mi-parcours du cadre financier pluriannuel 2021-2027 - Interim report on the proposal for a mid-term revision of the Multiannual Financial Framework 2021-2027 - Zwischenbericht \u00fcber den Vorschlag f\u00fcr eine Halbzeitrevision des Mehrj\u00e4hrigen Finanzrahmens 2021-2027"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0273"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-50",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939509",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport int\u00e9rimaire sur la proposition de r\u00e9vision \u00e0 mi-parcours du cadre financier pluriannuel 2021-2027</title><label>Rapport int\u00e9rimaire: Jan Olbrycht, Margarida Marques (A9-0273/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939505",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939522",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939524",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939518"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0201R",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939518",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939518",
+            "activity_label": {
+                "fr": "Nomination du pr\u00e9sident du conseil de surveillance de la Banque centrale europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0272"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-69",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination du pr\u00e9sident du conseil de surveillance de la Banque centrale europ\u00e9enne</title><label>Rapport: Irene Tinagli (A9-0272/2023) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939505",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939507",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939522",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939524",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509",
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939518"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0901",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939518"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

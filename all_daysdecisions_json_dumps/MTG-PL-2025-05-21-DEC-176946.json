@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-05-21-DEC-176946",
+            "type": "Vote",
+            "activity_date": "2025-05-21",
+            "activity_id": "MTG-PL-2025-05-21-DEC-176946",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC",
+            "decision_outcome": "def/ep-statuses/REJECTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 489,
+            "number_of_votes_abstention": 21,
+            "number_of_votes_against": 264,
+            "number_of_votes_favor": 204,
+            "comment": {
+                "pl": "ge",
+                "sk": "EH",
+                "cs": "EH",
+                "et": "EH",
+                "fi": "K\u00c4",
+                "sl": "EG",
+                "lt": "EB",
+                "lv": "EB",
+                "hr": "VE",
+                "pt": "VE",
+                "fr": "VE",
+                "es": "VE",
+                "ro": "VE",
+                "it": "VE",
+                "mt": "VE",
+                "sv": "EO",
+                "hu": "ESz",
+                "bg": "\u0415\u0413",
+                "nl": "ES",
+                "el": "\u0397\u03a8"
+            },
+            "notation_votingId": "176946",
+            "referenceText": {
+                "nl": "Verzoek van de Renew-Fractie",
+                "pt": "Pedido do Grupo Renew",
+                "ro": "Cerere din partea Grupului Renew",
+                "it": "Richiesta del gruppo Renew",
+                "fi": "Renew-ryhm\u00e4n pyynt\u00f6",
+                "es": "Solicitud del Grupo Renew",
+                "mt": "Talba tal-Grupp Renew",
+                "et": "Fraktsiooni Renew taotlus",
+                "cs": "\u017d\u00e1dost skupiny Renew",
+                "fr": "Demande du groupe Renew",
+                "lt": "RENEW frakcijos pra\u0161ymas",
+                "sv": "Beg\u00e4ran fr\u00e5n Renew-gruppen",
+                "hr": "Zahtjev Kluba zastupnika Renew",
+                "sl": "Zahteva skupine Renew",
+                "sk": "\u017diados\u0165 skupiny Renew",
+                "hu": "A Renew k\u00e9pvisel\u0151csoport k\u00e9relme",
+                "bg": "\u0418\u0441\u043a\u0430\u043d\u0435 \u043d\u0430 \u0433\u0440\u0443\u043f\u0430\u0442\u0430 Renew",
+                "el": "\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u039f\u03bc\u03ac\u03b4\u03b1\u03c2 Renew",
+                "pl": "Wniosek grupy Renew",
+                "lv": "Grupas \u201cRenew\u201d piepras\u012bjums"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

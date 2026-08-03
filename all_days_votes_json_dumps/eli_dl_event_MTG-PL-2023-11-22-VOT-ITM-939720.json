@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939720",
+            "activity_label": {
+                "fr": "Utilisation des produits phytopharmaceutiques compatible avec le d\u00e9veloppement durable",
+                "mul": "Utilisation des produits phytopharmaceutiques compatible avec le d\u00e9veloppement durable - Sustainable use of plant protection products - Nachhaltige Verwendung von Pflanzenschutzmitteln"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0339"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939720",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Utilisation des produits phytopharmaceutiques compatible avec le d\u00e9veloppement durable </title><label>Rapport: Sarah Wiener (A9-0339/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

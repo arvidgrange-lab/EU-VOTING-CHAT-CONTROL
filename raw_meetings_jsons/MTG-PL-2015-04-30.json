@@ -1,0 +1,630 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-423806-12",
+            "activity_label": {
+                "fr": "Incarc\u00e9ration de militants des droits de l'homme et des travailleurs en Alg\u00e9rie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0420",
+                "eli/dl/doc/B-8-2015-0424",
+                "eli/dl/doc/B-8-2015-0423",
+                "eli/dl/doc/B-8-2015-0419",
+                "eli/dl/doc/B-8-2015-0418",
+                "eli/dl/doc/B-8-2015-0422",
+                "eli/dl/doc/B-8-2015-0421"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-196"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-012"
+            ],
+            "notation_dlvId": "423806",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Incarc\u00e9ration de militants des droits de l'homme et des travailleurs en Alg\u00e9rie</title><label>Propositions de r\u00e9solution: B8-0418/2015, B8-0419/2015, B8-0420/2015, B8-0421/2015, B8-0422/2015, B8-0423/2015, B8-0424/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2665",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-423971-4",
+            "activity_label": {
+                "fr": "Situation aux Maldives"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0399",
+                "eli/dl/doc/B-8-2015-0402",
+                "eli/dl/doc/B-8-2015-0404",
+                "eli/dl/doc/B-8-2015-0395",
+                "eli/dl/doc/B-8-2015-0401",
+                "eli/dl/doc/B-8-2015-0392",
+                "eli/dl/doc/B-8-2015-0397"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-193"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-004"
+            ],
+            "notation_dlvId": "423971",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation aux Maldives</title><label>Propositions de r\u00e9solution: B8-0392/2015, B8-0395/2015, B8-0397/2015, B8-0399/2015, B8-0401/2015, B8-0402/2015, B8-0404/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2662",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-422879-8",
+            "activity_label": {
+                "fr": "Exposition universelle 2015 \u00e0 Milan: nourrir la plan\u00e8te, \u00e9nergie pour la vie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0360"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-99"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-008"
+            ],
+            "notation_dlvId": "422879",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Exposition universelle 2015 \u00e0 Milan: nourrir la plan\u00e8te, \u00e9nergie pour la vie</title><label>Question orale: B8-0360/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2574",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-422865-7",
+            "activity_label": {
+                "fr": "Banque europ\u00e9enne d'investissement - rapport annuel 2013"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0057"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-129"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-007"
+            ],
+            "notation_dlvId": "422865",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Banque europ\u00e9enne d'investissement - rapport annuel 2013</title><label>Rapport: Ernest Urtasun (A8-0057/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2156",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-423961-2",
+            "activity_label": {
+                "fr": "Pers\u00e9cution des chr\u00e9tiens dans le monde, en liaison avec le meurtre d'\u00e9tudiants au Kenya par le groupe terroriste Al-Shabaab"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0369",
+                "eli/dl/doc/B-8-2015-0387",
+                "eli/dl/doc/B-8-2015-0382",
+                "eli/dl/doc/B-8-2015-0385",
+                "eli/dl/doc/B-8-2015-0383",
+                "eli/dl/doc/B-8-2015-0386",
+                "eli/dl/doc/B-8-2015-0388"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-192"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-002"
+            ],
+            "notation_dlvId": "423961",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pers\u00e9cution des chr\u00e9tiens dans le monde, en liaison avec le meurtre d'\u00e9tudiants au Kenya par le groupe terroriste Al-Shabaab</title><label>Propositions de r\u00e9solution: B8-0369/2015, B8-0382/2015, B8-0383/2015, B8-0385/2015, B8-0386/2015, B8-0387/2015, B8-0388/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2661",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-422863-6",
+            "activity_label": {
+                "fr": "Rapport de suivi 2014 concernant la Bosnie-Herz\u00e9govine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0359"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-006"
+            ],
+            "notation_dlvId": "422863",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport de suivi 2014 concernant la Bosnie-Herz\u00e9govine</title><label>Proposition de r\u00e9solution: B8-0359/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2952",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-422862-5",
+            "activity_label": {
+                "fr": "Rapport de suivi 2014 concernant l'Albanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0358"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-72"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-005"
+            ],
+            "notation_dlvId": "422862",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport de suivi 2014 concernant l'Albanie</title><label>Proposition de r\u00e9solution: B8-0358/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2951",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-422869-9",
+            "activity_label": {
+                "fr": "Situation au Nig\u00e9ria"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0128",
+                "eli/dl/doc/B-8-2015-0396",
+                "eli/dl/doc/B-8-2015-0400",
+                "eli/dl/doc/B-8-2015-0394",
+                "eli/dl/doc/B-8-2015-0129",
+                "eli/dl/doc/B-8-2015-0371",
+                "eli/dl/doc/B-8-2015-0370",
+                "eli/dl/doc/B-8-2015-0398",
+                "eli/dl/doc/B-8-2015-0374"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-128"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-009"
+            ],
+            "notation_dlvId": "422869",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation au Nig\u00e9ria</title><label>Propositions de r\u00e9solution: B8-0128/2015, B8-0129/2015, B8-0370/2015, B8-0371/2015, B8-0374/2015, B8-0394/2015, B8-0396/2015, B8-0398/2015, B8-0400/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2520",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-422858-1",
+            "activity_label": {
+                "fr": "Suspension des mesures commerciales exceptionnelles en ce qui concerne la Bosnie-Herz\u00e9govine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0060"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-109"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-001"
+            ],
+            "notation_dlvId": "422858",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Suspension des mesures commerciales exceptionnelles en ce qui concerne la Bosnie-Herz\u00e9govine</title><label>Rapport: Goffredo Maria Bettini (A8-0060/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0197",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-423969-3",
+            "activity_label": {
+                "fr": "Destruction de sites culturels par le groupe \u00c9tat islamique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0375",
+                "eli/dl/doc/B-8-2015-0393",
+                "eli/dl/doc/B-8-2015-0389",
+                "eli/dl/doc/B-8-2015-0403",
+                "eli/dl/doc/B-8-2015-0405",
+                "eli/dl/doc/B-8-2015-0391",
+                "eli/dl/doc/B-8-2015-0390"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-190"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-003"
+            ],
+            "notation_dlvId": "423969",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Destruction de sites culturels par le groupe \u00c9tat islamique</title><label>Questions orales: B8-0375/2015, B8-0389/2015, B8-0390/2015, B8-0391/2015, B8-0393/2015, B8-0403/2015, B8-0405/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2649",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-423803-10",
+            "activity_label": {
+                "fr": "Le cas de Nadiya Savchenko"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0407",
+                "eli/dl/doc/B-8-2015-0409",
+                "eli/dl/doc/B-8-2015-0406",
+                "eli/dl/doc/B-8-2015-0417",
+                "eli/dl/doc/B-8-2015-0411",
+                "eli/dl/doc/B-8-2015-0413"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-194"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-010"
+            ],
+            "notation_dlvId": "423803",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le cas de Nadiya Savchenko</title><label>Propositions de r\u00e9solution: B8-0406/2015, B8-0407/2015, B8-0409/2015, B8-0411/2015, B8-0413/2015, B8-0417/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2663",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11",
+            "type": "Activity",
+            "activity_date": "2015-04-30",
+            "activity_id": "MTG-PL-2015-04-30-VOT-ITM-423805-11",
+            "activity_label": {
+                "fr": "Situation du camp de r\u00e9fugi\u00e9s de Yarmouk en Syrie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0410",
+                "eli/dl/doc/B-8-2015-0373",
+                "eli/dl/doc/B-8-2015-0415",
+                "eli/dl/doc/B-8-2015-0416",
+                "eli/dl/doc/B-8-2015-0414",
+                "eli/dl/doc/B-8-2015-0408",
+                "eli/dl/doc/B-8-2015-0412"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-30-OJ-ITM-V-195"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-30-VOT-ITM-011"
+            ],
+            "notation_dlvId": "423805",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation du camp de r\u00e9fugi\u00e9s de Yarmouk en Syrie</title><label>Propositions de r\u00e9solution: B8-0373/2015, B8-0408/2015, B8-0410/2015, B8-0412/2015, B8-0414/2015, B8-0415/2015, B8-0416/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423806-12",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423971-4",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422879-8",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422865-7",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423961-2",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422863-6",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422862-5",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422869-9",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-422858-1",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423969-3",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423803-10",
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2664",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-30-VOT-ITM-423805-11"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

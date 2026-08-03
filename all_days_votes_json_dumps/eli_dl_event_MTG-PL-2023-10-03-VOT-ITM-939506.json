@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939506",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939506",
+            "activity_label": {
+                "fr": "Syst\u00e8mes de transport routier intelligents",
+                "mul": "Syst\u00e8mes de transport routier intelligents - Intelligent Road Transport Systems - Intelligente Stra\u00dfenverkehrssysteme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0265"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-34",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939506",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8mes de transport routier intelligents</title><label>Rapport: Rovana Plumb (A9-0265/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

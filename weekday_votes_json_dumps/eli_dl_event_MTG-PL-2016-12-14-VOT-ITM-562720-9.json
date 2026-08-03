@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562720-9",
+            "activity_label": {
+                "fr": "Normalisation des comptes des entreprises de chemin de fer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0368"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "562720",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normalisation des comptes des entreprises de chemin de fer</title><label>Recommandation pour la deuxi\u00e8me lecture: Merja Kyll\u00f6nen (A8-0368/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

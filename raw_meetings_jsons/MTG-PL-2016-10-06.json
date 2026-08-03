@@ -1,0 +1,667 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562120-4",
+            "activity_label": {
+                "fr": "Normes internationales d'information financi\u00e8re: norme IFRS 9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1060"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-76"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-004"
+            ],
+            "notation_dlvId": "562120",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normes internationales d'information financi\u00e8re: norme IFRS 9</title><label>Proposition de r\u00e9solution: B8-1060/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2898",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562092-7",
+            "activity_label": {
+                "fr": "Mise en oeuvre du r\u00e8glement concernant les mat\u00e9riaux destin\u00e9s \u00e0 entrer en contact avec des denr\u00e9es alimentaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0237"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-007"
+            ],
+            "notation_dlvId": "562092",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en oeuvre du r\u00e8glement concernant les mat\u00e9riaux destin\u00e9s \u00e0 entrer en contact avec des denr\u00e9es alimentaires </title><label>Rapport: Christel Schaldemose (A8-0237/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2259",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562188-5",
+            "activity_label": {
+                "fr": "Situation en Syrie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1089",
+                "eli/dl/doc/B-8-2016-1090"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-005"
+            ],
+            "notation_dlvId": "562188",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Syrie</title><label>Propositions de r\u00e9solution: B8-1089/2016, B8-1090/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2894",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562114-13",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 106: mise sur le march\u00e9 du coton g\u00e9n\u00e9tiquement modifi\u00e9 281-24-236 \u00d7 3006-210-23 \u00d7 MON 88913"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1088"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-013"
+            ],
+            "notation_dlvId": "562114",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 106: mise sur le march\u00e9 du coton g\u00e9n\u00e9tiquement modifi\u00e9 281-24-236 \u00d7 3006-210-23 \u00d7 MON 88913</title><label>Proposition de r\u00e9solution: B8-1088/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2923",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562093-8",
+            "activity_label": {
+                "fr": "Rapport annuel 2014 sur le contr\u00f4le de l'application du droit de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0262"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-008"
+            ],
+            "notation_dlvId": "562093",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel 2014 sur le contr\u00f4le de l'application du droit de l'Union </title><label>Rapport: Heidi Hautala (A8-0262/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2326",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562117-2",
+            "activity_label": {
+                "fr": "Soudan"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1080",
+                "eli/dl/doc/B-8-2016-1074",
+                "eli/dl/doc/B-8-2016-1078",
+                "eli/dl/doc/B-8-2016-1062",
+                "eli/dl/doc/B-8-2016-1070",
+                "eli/dl/doc/B-8-2016-1071",
+                "eli/dl/doc/B-8-2016-1067"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-002"
+            ],
+            "notation_dlvId": "562117",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Soudan</title><label>Propositions de r\u00e9solution: B8-1062/2016, B8-1067/2016, B8-1070/2016, B8-1071/2016, B8-1074/2016, B8-1078/2016, B8-1080/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2911",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562115-1",
+            "activity_label": {
+                "fr": "Rwanda: l'affaire Victoire Ingabire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1066",
+                "eli/dl/doc/B-8-2016-1076",
+                "eli/dl/doc/B-8-2016-1075",
+                "eli/dl/doc/B-8-2016-1065",
+                "eli/dl/doc/B-8-2016-1061",
+                "eli/dl/doc/B-8-2016-1073",
+                "eli/dl/doc/B-8-2016-1064"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-001"
+            ],
+            "notation_dlvId": "562115",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rwanda: l'affaire Victoire Ingabire</title><label>Propositions de r\u00e9solution: B8-1061/2016, B8-1064/2016, B8-1065/2016, B8-1066/2016, B8-1073/2016, B8-1075/2016, B8-1076/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2910",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562119-3",
+            "activity_label": {
+                "fr": "Tha\u00eflande, en particulier l'affaire Andy Hall"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1082",
+                "eli/dl/doc/B-8-2016-1068",
+                "eli/dl/doc/B-8-2016-1072",
+                "eli/dl/doc/B-8-2016-1079",
+                "eli/dl/doc/B-8-2016-1081",
+                "eli/dl/doc/B-8-2016-1069",
+                "eli/dl/doc/B-8-2016-1077"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-003"
+            ],
+            "notation_dlvId": "562119",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Tha\u00eflande, en particulier l'affaire Andy Hall</title><label>Propositions de r\u00e9solution: B8-1068/2016, B8-1069/2016, B8-1072/2016, B8-1077/2016, B8-1079/2016, B8-1081/2016, B8-1082/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2912",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562111-10",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 106: mise sur le march\u00e9 de semences de ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 1507"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1085"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-010"
+            ],
+            "notation_dlvId": "562111",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 106: mise sur le march\u00e9 de semences de ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 1507</title><label>Proposition de r\u00e9solution: B8-1085/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2920",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562110-9",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 106: mise sur le march\u00e9 de semences de ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 Bt11"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1083"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-87"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-009"
+            ],
+            "notation_dlvId": "562110",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 106: mise sur le march\u00e9 de semences de ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 Bt11</title><label>Proposition de r\u00e9solution: B8-1083/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2919",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562122-6",
+            "activity_label": {
+                "fr": "Conf\u00e9rence des Nations unies sur les changements climatiques de 2016 (COP22) \u00e0 Marrakech (Maroc)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1043"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-006"
+            ],
+            "notation_dlvId": "562122",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conf\u00e9rence des Nations unies sur les changements climatiques de 2016 (COP22) \u00e0 Marrakech (Maroc)</title><label>Proposition de r\u00e9solution: B8-1043/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2814",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562113-12",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 106: renouvellement de l'autorisation de produits du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 810"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1084"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-90"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-012"
+            ],
+            "notation_dlvId": "562113",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 106: renouvellement de l'autorisation de produits du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 810</title><label>Proposition de r\u00e9solution: B8-1084/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2922",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11",
+            "type": "Activity",
+            "activity_date": "2016-10-06",
+            "activity_id": "MTG-PL-2016-10-06-VOT-ITM-562112-11",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 106: renouvellement de l'autorisation de semences de ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 810"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1086"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-06-OJ-ITM-V-89"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-06-VOT-ITM-011"
+            ],
+            "notation_dlvId": "562112",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 106: renouvellement de l'autorisation de semences de ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 810</title><label>Proposition de r\u00e9solution: B8-1086/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562120-4",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562092-7",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562188-5",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562114-13",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562093-8",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562117-2",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562115-1",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562119-3",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562111-10",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562110-9",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562122-6",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562113-12",
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2921",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-06-VOT-ITM-562112-11"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

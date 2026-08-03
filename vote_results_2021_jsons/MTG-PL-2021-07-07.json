@@ -1,0 +1,268 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935264",
+            "type": "Activity",
+            "activity_date": "2021-07-07",
+            "activity_id": "MTG-PL-2021-07-07-VOT-ITM-935264",
+            "activity_label": {
+                "fr": "Gestion des avoirs de la CECA en liquidation et du Fonds de recherche du charbon et de l'acier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0228"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-07-07-OJ-ITM-V-55",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-07-07-VOT-ITM-003"
+            ],
+            "notation_dlvId": "935264",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gestion des avoirs de la CECA en liquidation et du Fonds de recherche du charbon et de l'acier</title><label>Rapport: Johan Van Overtveldt (A9-0228/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-07-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935264",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935227",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935244",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935228",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935263",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935284",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935188"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935227",
+            "type": "Activity",
+            "activity_date": "2021-07-07",
+            "activity_id": "MTG-PL-2021-07-07-VOT-ITM-935227",
+            "activity_label": {
+                "fr": "Syst\u00e8me d'information sur les visas (VIS): traitement des visas"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0207"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-07-07-OJ-ITM-V-91",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-07-07-VOT-ITM-004"
+            ],
+            "notation_dlvId": "935227",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8me d'information sur les visas (VIS): traitement des visas</title><label>Recommandation pour la deuxi\u00e8me lecture: Paulo Rangel (A9-0207/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-07-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935264",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935227",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935244",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935228",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935263",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935284",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935188"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935244",
+            "type": "Activity",
+            "activity_date": "2021-07-07",
+            "activity_id": "MTG-PL-2021-07-07-VOT-ITM-935244",
+            "activity_label": {
+                "fr": "\u00c9laboration de lignes directrices relatives \u00e0 l\u2019application du r\u00e9gime g\u00e9n\u00e9ral de conditionnalit\u00e9 pour la protection du budget de l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0226"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-07-07-OJ-ITM-V-53",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-07-07-VOT-ITM-006"
+            ],
+            "notation_dlvId": "935244",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9laboration de lignes directrices relatives \u00e0 l\u2019application du r\u00e9gime g\u00e9n\u00e9ral de conditionnalit\u00e9 pour la protection du budget de l\u2019Union</title><label>Rapport: Eider Gardiazabal Rubial, Petri Sarvamaa (A9-0226/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-07-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935264",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935227",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935244",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935228",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935263",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935284",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935188"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2071",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935244"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935228",
+            "type": "Activity",
+            "activity_date": "2021-07-07",
+            "activity_id": "MTG-PL-2021-07-07-VOT-ITM-935228",
+            "activity_label": {
+                "fr": "Syst\u00e8me d'information sur les visas (VIS): conditions d\u2019acc\u00e8s aux autres syst\u00e8mes d\u2019information de l\u2019UE aux fins du VIS"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0208"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-07-07-OJ-ITM-V-92",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-07-07-VOT-ITM-005"
+            ],
+            "notation_dlvId": "935228",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8me d'information sur les visas (VIS): conditions d\u2019acc\u00e8s aux autres syst\u00e8mes d\u2019information de l\u2019UE aux fins du VIS</title><label>Recommandation pour la deuxi\u00e8me lecture: Paulo Rangel (A9-0208/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-07-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935264",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935227",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935244",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935228",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935263",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935284",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935188"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935263",
+            "type": "Activity",
+            "activity_date": "2021-07-07",
+            "activity_id": "MTG-PL-2021-07-07-VOT-ITM-935263",
+            "activity_label": {
+                "fr": "Dispositions n\u00e9cessaires \u00e0 la mise en \u0153uvre du protocole relatif aux cons\u00e9quences financi\u00e8res de l\u2019expiration du trait\u00e9 CECA et au Fonds de recherche du charbon et de l\u2019acier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0229"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-07-07-OJ-ITM-V-54",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-07-07-VOT-ITM-002"
+            ],
+            "notation_dlvId": "935263",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Dispositions n\u00e9cessaires \u00e0 la mise en \u0153uvre du protocole relatif aux cons\u00e9quences financi\u00e8res de l\u2019expiration du trait\u00e9 CECA et au Fonds de recherche du charbon et de l\u2019acier</title><label>Recommandation: Johan Van Overtveldt (A9-0229/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-07-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935264",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935227",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935244",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935228",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935263",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935284",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935188"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935284",
+            "type": "Activity",
+            "activity_date": "2021-07-07",
+            "activity_id": "MTG-PL-2021-07-07-VOT-ITM-935284",
+            "activity_label": {
+                "fr": "R\u00e9gime mondial de sanctions de l'UE en mati\u00e8re de droits de l'homme (loi Magnitsky de l\u2019Union)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0371"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-07-07-OJ-ITM-V-47",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-07-07-VOT-ITM-007"
+            ],
+            "notation_dlvId": "935284",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9gime mondial de sanctions de l'UE en mati\u00e8re de droits de l'homme (loi Magnitsky de l\u2019Union)</title><label>Propositions de r\u00e9solution: B9-0371/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-07-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935264",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935227",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935244",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935228",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935263",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935284",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935188"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935188",
+            "type": "Activity",
+            "activity_date": "2021-07-07",
+            "activity_id": "MTG-PL-2021-07-07-VOT-ITM-935188",
+            "activity_label": {
+                "fr": "Rapport annuel sur le fonctionnement de l'espace Schengen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0183"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-07-07-OJ-ITM-V-68",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-07-07-VOT-ITM-009"
+            ],
+            "notation_dlvId": "935188",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur le fonctionnement de l'espace Schengen</title><label>Rapport: Tanja Fajon (A9-0183/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-07-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935264",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935227",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935244",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935228",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935263",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935284",
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935188"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2196",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-07-07-VOT-ITM-935188"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

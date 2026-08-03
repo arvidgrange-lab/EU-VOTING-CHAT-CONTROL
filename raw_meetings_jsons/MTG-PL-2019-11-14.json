@@ -1,0 +1,365 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839712",
+            "type": "Activity",
+            "activity_date": "2019-11-14",
+            "activity_id": "MTG-PL-2019-11-14-VOT-ITM-839712",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 Bt11 \u00d7 MIR162 \u00d7 MIR604 \u00d7 1507 \u00d7 5307 \u00d7 GA21 ou ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 combinant deux, trois, quatre ou cinq des \u00e9v\u00e9nements uniques Bt11, MIR162, MIR604, 1507, 5307 et GA21"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0172"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-14-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "839712",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 Bt11 \u00d7 MIR162 \u00d7 MIR604 \u00d7 1507 \u00d7 5307 \u00d7 GA21 ou ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 combinant deux, trois, quatre ou cinq des \u00e9v\u00e9nements uniques Bt11, MIR162, MIR604, 1507, 5307 et GA21</title><label>Proposition de r\u00e9solution: B9-0172/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839712",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839711",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839707",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840883",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839709",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839708",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840660",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839705"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2860",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839712"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839711",
+            "type": "Activity",
+            "activity_date": "2019-11-14",
+            "activity_id": "MTG-PL-2019-11-14-VOT-ITM-839711",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 89034 \u00d7 1507 \u00d7 NK603 \u00d7 DAS-40278-9 et sous-combinaisons MON 89034 \u00d7 NK603 \u00d7 DAS-40278-9, 1507 \u00d7 NK603 \u00d7 DAS-40278-9 and NK603 \u00d7 DAS-40278-9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0171"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-14-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "839711",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 89034 \u00d7 1507 \u00d7 NK603 \u00d7 DAS-40278-9 et sous-combinaisons MON 89034 \u00d7 NK603 \u00d7 DAS-40278-9, 1507 \u00d7 NK603 \u00d7 DAS-40278-9 and NK603 \u00d7 DAS-40278-9</title><label>Proposition de r\u00e9solution: B9-0171/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839712",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839711",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839707",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840883",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839709",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839708",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840660",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839705"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2859",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839711"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839707",
+            "type": "Activity",
+            "activity_date": "2019-11-14",
+            "activity_id": "MTG-PL-2019-11-14-VOT-ITM-839707",
+            "activity_label": {
+                "fr": "Criminalisation de l'\u00e9ducation sexuelle en Pologne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0167",
+                "eli/dl/doc/B-9-2019-0168",
+                "eli/dl/doc/B-9-2019-0166"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-14-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "839707",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Criminalisation de l'\u00e9ducation sexuelle en Pologne</title><label>Propositions de r\u00e9solution: B9-0166/2019, B9-0167/2019, B9-0168/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839712",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839711",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839707",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840883",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839709",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839708",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840660",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839705"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2891",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839707"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840883",
+            "type": "Activity",
+            "activity_date": "2019-11-14",
+            "activity_id": "MTG-PL-2019-11-14-VOT-ITM-840883",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Jos\u00e9 Manuel Fernandes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0023"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-14-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "840883",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Jos\u00e9 Manuel Fernandes </title><label>Rapport: Ib\u00e1n Garcia Del Blanco (A9-0023/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839712",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839711",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839707",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840883",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839709",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839708",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840660",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839705"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2005",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840883"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839709",
+            "type": "Activity",
+            "activity_date": "2019-11-14",
+            "activity_id": "MTG-PL-2019-11-14-VOT-ITM-839709",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e en vertu de l\u2019article 112: soja g\u00e9n\u00e9tiquement modifi\u00e9 MON 89788 (MON-89788-1)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0169"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-14-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "839709",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e en vertu de l\u2019article 112: soja g\u00e9n\u00e9tiquement modifi\u00e9 MON 89788 (MON-89788-1)</title><label>Proposition de r\u00e9solution: B9-0169/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839712",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839711",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839707",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840883",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839709",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839708",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840660",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839705"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2857",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839709"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839708",
+            "type": "Activity",
+            "activity_date": "2019-11-14",
+            "activity_id": "MTG-PL-2019-11-14-VOT-ITM-839708",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e en vertu de l\u2019article 112: coton g\u00e9n\u00e9tiquement modifi\u00e9 LLCotton25 (ACS-GH\u00d8\u00d81-3)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0170"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-14-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "839708",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e en vertu de l\u2019article 112: coton g\u00e9n\u00e9tiquement modifi\u00e9 LLCotton25 (ACS-GH\u00d8\u00d81-3)</title><label>Proposition de r\u00e9solution: B9-0170/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839712",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839711",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839707",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840883",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839709",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839708",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840660",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839705"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2856",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839708"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840660",
+            "type": "Activity",
+            "activity_date": "2019-11-14",
+            "activity_id": "MTG-PL-2019-11-14-VOT-ITM-840660",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation - EGF/2019/001 BE/Carrefour - Belgique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0021"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-14-OJ-ITM-V-5"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "840660",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation - EGF/2019/001 BE/Carrefour - Belgique</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A9-0021/2019) (Majorit\u00e9 des membres qui composent le Parlement et 3/5 des suffrages exprim\u00e9s requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839712",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839711",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839707",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840883",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839709",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839708",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840660",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839705"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2114",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840660"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839705",
+            "type": "Activity",
+            "activity_date": "2019-11-14",
+            "activity_id": "MTG-PL-2019-11-14-VOT-ITM-839705",
+            "activity_label": {
+                "fr": "Ventes \u00e0 distance de biens et certaines livraisons int\u00e9rieures de biens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0019"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-14-OJ-ITM-V-18"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "839705",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ventes \u00e0 distance de biens et certaines livraisons int\u00e9rieures de biens</title><label>Rapport: Ond\u0159ej Kova\u0159\u00edk (A9-0019/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839712",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839711",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839707",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840883",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839709",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839708",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-840660",
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839705"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0415",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-14-VOT-ITM-839705"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-14-VOT-ITM-939486",
+            "type": "Activity",
+            "activity_date": "2023-09-14",
+            "activity_id": "MTG-PL-2023-09-14-VOT-ITM-939486",
+            "activity_label": {
+                "fr": "Cadre permettant d\u2019assurer un approvisionnement durable et s\u00fbr en mati\u00e8res premi\u00e8res critiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0260"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-14-OJ-ITM-V-53",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939486",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre permettant d\u2019assurer un approvisionnement durable et s\u00fbr en mati\u00e8res premi\u00e8res critiques</title><label>Rapport: Nicola Beer (A9-0260/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

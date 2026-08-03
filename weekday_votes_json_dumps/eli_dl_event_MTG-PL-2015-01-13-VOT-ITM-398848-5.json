@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-01-13-VOT-ITM-398848-5",
+            "type": "Activity",
+            "activity_date": "2015-01-13",
+            "activity_id": "MTG-PL-2015-01-13-VOT-ITM-398848-5",
+            "activity_label": {
+                "fr": "Possibilit\u00e9 pour les \u00c9tats membres de restreindre ou d\u2019interdire la culture d'OGM sur leur territoire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0038"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-01-13-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-01-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "398848",
+            "epvoc:amendmentsAdoptedCommittee": 1,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledCommittee": 52,
+            "epvoc:amendmentsTabledTotal": 52,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Possibilit\u00e9 pour les \u00c9tats membres de restreindre ou d\u2019interdire la culture d'OGM sur leur territoire</title><label>Recommandation pour la deuxi\u00e8me lecture: Fr\u00e9d\u00e9rique Ries (A8-0038/2014) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

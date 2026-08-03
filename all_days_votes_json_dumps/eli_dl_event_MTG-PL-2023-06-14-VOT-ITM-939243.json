@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-14-VOT-ITM-939243",
+            "type": "Activity",
+            "activity_date": "2023-06-14",
+            "activity_id": "MTG-PL-2023-06-14-VOT-ITM-939243",
+            "activity_label": {
+                "fr": "L\u00e9gislation sur l\u2019intelligence artificielle"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0188"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-14-OJ-ITM-V-58",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939243",
+            "epvoc:amendmentsAdoptedCommittee": 99,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 99,
+            "epvoc:amendmentsTabledCommittee": 99,
+            "epvoc:amendmentsTabledMEP": 3,
+            "epvoc:amendmentsTabledPoliticalGroup": 33,
+            "epvoc:amendmentsTabledTotal": 135,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u00e9gislation sur l\u2019intelligence artificielle</title><label>Rapport: Brando Benifei, Drago\u015f Tudorache (A9-0188/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

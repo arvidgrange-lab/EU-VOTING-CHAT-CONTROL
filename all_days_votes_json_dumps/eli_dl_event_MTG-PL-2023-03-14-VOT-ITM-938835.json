@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-14-VOT-ITM-938835",
+            "type": "Activity",
+            "activity_date": "2023-03-14",
+            "activity_id": "MTG-PL-2023-03-14-VOT-ITM-938835",
+            "activity_label": {
+                "fr": "Activit\u00e9s du M\u00e9diateur europ\u00e9en - rapport annuel 2021"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0054"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-14-OJ-ITM-V-51",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "938835",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 3,
+            "epvoc:amendmentsTabledTotal": 3,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Activit\u00e9s du M\u00e9diateur europ\u00e9en - rapport annuel 2021</title><label>Rapport: Anne-Sophie Pelletier (A9-0054/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

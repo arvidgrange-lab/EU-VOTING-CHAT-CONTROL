@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938508",
+            "type": "Activity",
+            "activity_date": "2023-01-18",
+            "activity_id": "MTG-PL-2023-01-18-VOT-ITM-938508",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre de la politique \u00e9trang\u00e8re et de s\u00e9curit\u00e9 commune \u2013 rapport annuel 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0292"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-18-OJ-ITM-V-17",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-18-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938508",
+            "epvoc:amendmentsAdoptedMEP": 15,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 42,
+            "epvoc:amendmentsAdoptedTotal": 57,
+            "epvoc:amendmentsTabledMEP": 48,
+            "epvoc:amendmentsTabledPoliticalGroup": 60,
+            "epvoc:amendmentsTabledTotal": 108,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de la politique \u00e9trang\u00e8re et de s\u00e9curit\u00e9 commune \u2013 rapport annuel 2022</title><label>Rapport: David McAllister (A9-0292/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

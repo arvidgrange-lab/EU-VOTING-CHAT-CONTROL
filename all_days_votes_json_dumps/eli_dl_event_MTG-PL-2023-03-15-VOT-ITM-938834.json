@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-15-VOT-ITM-938834",
+            "type": "Activity",
+            "activity_date": "2023-03-15",
+            "activity_id": "MTG-PL-2023-03-15-VOT-ITM-938834",
+            "activity_label": {
+                "fr": "Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques 2023"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0044"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-15-OJ-ITM-V-31",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "938834",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 6,
+            "epvoc:amendmentsTabledTotal": 6,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques 2023</title><label>Rapport: Irene Tinagli (A9-0044/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

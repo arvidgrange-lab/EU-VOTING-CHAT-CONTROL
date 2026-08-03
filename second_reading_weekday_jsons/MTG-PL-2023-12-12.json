@@ -1,0 +1,1034 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939847",
+            "activity_label": {
+                "fr": "Constitution des d\u00e9l\u00e9gations \u00e0 l'Assembl\u00e9e parlementaire paritaire OEACP-UE, \u00e0 l'Assembl\u00e9e parlementaire Afrique-UE, \u00e0 l'Assembl\u00e9e parlementaire Cara\u00efbes-UE et \u00e0 l'Assembl\u00e9e parlementaire Pacifique-UE, et d\u00e9finition de leur composition num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0497"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-105",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939847",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Constitution des d\u00e9l\u00e9gations \u00e0 l'Assembl\u00e9e parlementaire paritaire OEACP-UE, \u00e0 l'Assembl\u00e9e parlementaire Afrique-UE, \u00e0 l'Assembl\u00e9e parlementaire Cara\u00efbes-UE et \u00e0 l'Assembl\u00e9e parlementaire Pacifique-UE, et d\u00e9finition de leur composition num\u00e9rique</title><label>Proposition de d\u00e9cision: B9-0497/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-3028",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939833",
+            "activity_label": {
+                "fr": "Petits r\u00e9acteurs modulaires",
+                "mul": "Petits r\u00e9acteurs modulaires - Small modular reactors - Kleine modulare Reaktoren"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0408"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-63",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939833",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Petits r\u00e9acteurs modulaires</title><label>Rapport: Franc Bogovi\u010d (A9-0408/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2109",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939809",
+            "activity_label": {
+                "mul": "Aliments destin\u00e9s \u00e0 la consommation humaine: modification de certaines des directives \"petit-d\u00e9jeuner\" - Foodstuffs for human consumption: amending certain 'Breakfast' Directives - Lebensmittel f\u00fcr die menschliche Ern\u00e4hrung: \u00c4nderung bestimmter \u201eFr\u00fchst\u00fccksrichtlinien\u201c",
+                "fr": "Aliments destin\u00e9s \u00e0 la consommation humaine: modification de certaines des directives dites \"petit-d\u00e9jeuner\""
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0385"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-74",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939809",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Aliments destin\u00e9s \u00e0 la consommation humaine: modification de certaines des directives dites \"petit-d\u00e9jeuner\"</title><label>Rapport: Alexander Bernhuber (A9-0385/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0105",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939836",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Jo\u00e3o Le\u00e3o"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0391"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-71",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939836",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Jo\u00e3o Le\u00e3o</title><label>Rapport: Mikul\u00e1\u0161 Peksa (A9-0391/2023) (Vote au scrutin secret (article 129, paragraphe 3, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0814",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939820",
+            "activity_label": {
+                "fr": "Autorisation octroy\u00e9e \u00e0 la France de n\u00e9gocier un accord bilat\u00e9ral avec l\u2019Alg\u00e9rie sur des questions li\u00e9es \u00e0 la coop\u00e9ration judiciaire en mati\u00e8re civile et commerciale",
+                "mul": "Autorisation octroy\u00e9e \u00e0 la France de n\u00e9gocier un accord bilat\u00e9ral avec l\u2019Alg\u00e9rie sur des questions li\u00e9es \u00e0 la coop\u00e9ration judiciaire en mati\u00e8re civile et commerciale - Authorisation empowering France to negotiate a bilateral agreement with Algeria concerning judicial cooperation in civil and commercial matters - Erm\u00e4chtigung Frankreichs zur Aushandlung eines bilateralen Abkommens mit Algerien \u00fcber die justizielle Zusammenarbeit in Zivil- und Handelssachen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0356"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-56",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939820",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Autorisation octroy\u00e9e \u00e0 la France de n\u00e9gocier un accord bilat\u00e9ral avec l\u2019Alg\u00e9rie sur des questions li\u00e9es \u00e0 la coop\u00e9ration judiciaire en mati\u00e8re civile et commerciale</title><label>Rapport: Ilana Cicurel (A9-0356/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0028",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939826",
+            "activity_label": {
+                "fr": "Red\u00e9finition du futur cadre des fonds structurels de l\u2019Union visant \u00e0 soutenir les r\u00e9gions particuli\u00e8rement touch\u00e9es par les d\u00e9fis li\u00e9s aux transitions \u00e9cologique, num\u00e9rique et du secteur automobile",
+                "mul": "Red\u00e9finition du futur cadre des fonds structurels de l\u2019Union visant \u00e0 soutenir les r\u00e9gions particuli\u00e8rement touch\u00e9es par les d\u00e9fis li\u00e9s aux transitions \u00e9cologique, num\u00e9rique et du secteur automobile - Reshaping the future framework of EU structural funds to support regions particularly affected by challenges related to the automotive, green and digital transitions - Umgestaltung des k\u00fcnftigen Rahmens der EU-Strukturfonds zur Unterst\u00fctzung der besonders von den Herausforderungen im Zusammenhang mit dem \u00dcbergang in der Automobilindustrie sowie dem \u00f6kologischen und dem digitalen Wandel betroffenen Regionen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0326"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-46",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-019"
+            ],
+            "notation_dlvId": "939826",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Red\u00e9finition du futur cadre des fonds structurels de l\u2019Union visant \u00e0 soutenir les r\u00e9gions particuli\u00e8rement touch\u00e9es par les d\u00e9fis li\u00e9s aux transitions \u00e9cologique, num\u00e9rique et du secteur automobile</title><label>Rapport: Susana Sol\u00eds P\u00e9rez (A9-0326/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2061",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939828",
+            "activity_label": {
+                "mul": "Cadre permettant d\u2019assurer un approvisionnement durable et s\u00fbr en mati\u00e8res premi\u00e8res critiques - Framework for ensuring a secure and sustainable supply of critical raw materials - Rahmen zur Gew\u00e4hrleistung einer sicheren und nachhaltigen Versorgung mit kritischen Rohstoffen",
+                "fr": "Cadre permettant d\u2019assurer un approvisionnement durable et s\u00fbr en mati\u00e8res premi\u00e8res critiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0260"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-75",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939828",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre permettant d\u2019assurer un approvisionnement durable et s\u00fbr en mati\u00e8res premi\u00e8res critiques</title><label>Rapport: Nicola Beer (A9-0260/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0079",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939834",
+            "activity_label": {
+                "mul": "Conception addictive des services en ligne et protection des consommateurs sur le march\u00e9 unique de l\u2019UE - Addictive design of online services and consumer protection in the EU single market - Suchterzeugende Gestaltung von Online-Diensten und Verbraucherschutz im EU-Binnenmarkt",
+                "fr": "Conception addictive des services en ligne et protection des consommateurs sur le march\u00e9 unique de l\u2019UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0340"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-36",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-016"
+            ],
+            "notation_dlvId": "939834",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conception addictive des services en ligne et protection des consommateurs sur le march\u00e9 unique de l\u2019UE</title><label>Rapport: Kim Van Sparrentak (A9-0340/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2043",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939831",
+            "activity_label": {
+                "fr": "Poursuite de la r\u00e9forme des r\u00e8gles d\u2019imposition des soci\u00e9t\u00e9s",
+                "mul": "Poursuite de la r\u00e9forme des r\u00e8gles d\u2019imposition des soci\u00e9t\u00e9s - Further reform of corporate taxation rules - Eine weitere Reform der Vorschriften zur Unternehmensbesteuerung"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0359"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-31",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-018"
+            ],
+            "notation_dlvId": "939831",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Poursuite de la r\u00e9forme des r\u00e8gles d\u2019imposition des soci\u00e9t\u00e9s</title><label>Rapport: Isabel Benjumea Benjumea (A9-0359/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2146",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939817",
+            "activity_label": {
+                "mul": "Exigences minimales relatives aux dur\u00e9es minimales des pauses et des temps de repos journaliers et hebdomadaires dans le secteur du transport occasionnel de voyageurs - Minimum requirements on minimum breaks and daily and weekly rest periods in the occasional passenger transport sector - Mindestanforderungen an Mindestfahrtunterbrechungen sowie die t\u00e4glichen und w\u00f6chentlichen Mindestruhezeiten im Sektor des Personengelegenheitsverkehrs",
+                "fr": "Exigences minimales relatives aux dur\u00e9es minimales des pauses et des temps de repos journaliers et hebdomadaires dans le secteur du transport occasionnel de voyageurs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0370"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-72",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939817",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Exigences minimales relatives aux dur\u00e9es minimales des pauses et des temps de repos journaliers et hebdomadaires dans le secteur du transport occasionnel de voyageurs</title><label>Rapport: Henna Virkkunen (A9-0370/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0155",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939807",
+            "activity_label": {
+                "mul": "Mise en \u0153uvre de l'instrument de voisinage, de coop\u00e9ration au d\u00e9veloppement et de coop\u00e9ration internationale - Europe dans le monde - Implementation of the Neighbourhood, Development and International Cooperation Instrument \u2013 Global Europe - Umsetzung des Instruments f\u00fcr Nachbarschaft, Entwicklungszusammenarbeit und internationale Zusammenarbeit \u2013 Europa in der Welt",
+                "fr": "Mise en \u0153uvre de l'instrument de voisinage, de coop\u00e9ration au d\u00e9veloppement et de coop\u00e9ration internationale - Europe dans le monde"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0374"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-35",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-015"
+            ],
+            "notation_dlvId": "939807",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de l'instrument de voisinage, de coop\u00e9ration au d\u00e9veloppement et de coop\u00e9ration internationale - Europe dans le monde</title><label>Rapport: Tomas Tob\u00e9, Pedro Marques, Charles Goerens, Michael Gahler (A9-0374/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2029",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939837",
+            "activity_label": {
+                "fr": "Accord de partenariat dans le secteur de la p\u00eache CE/Kiribati (2023-2028). Protocole de mise en \u0153uvre",
+                "mul": "accord de partenariat dans le secteur de la p\u00eache CE/Kiribati (2023-2028). Protocole de mise en \u0153uvre - EC/Kiribati Fisheries Partnership Agreement (2023-2028). Implementation Protocol - Partnerschaftliches Fischereiabkommen EG-Kiribati (2023-2028). Durchf\u00fchrungsprotokoll"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0380"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-68",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939837",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat dans le secteur de la p\u00eache CE/Kiribati (2023-2028). Protocole de mise en \u0153uvre</title><label>Recommandation: Jo\u00e3o Pimenta Lopes (A9-0380/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0147",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939821",
+            "activity_label": {
+                "mul": "Autorisation octroy\u00e9e \u00e0 la France de n\u00e9gocier un accord bilat\u00e9ral avec l\u2019Alg\u00e9rie sur des questions li\u00e9es \u00e0 la coop\u00e9ration judiciaire en mati\u00e8re de droit de la famille - Authorisation empowering France to negotiate a bilateral agreement with Algeria concerning judicial cooperation in civil matters related to family law - Erm\u00e4chtigung Frankreichs zur Aushandlung eines bilateralen Abkommens mit Algerien \u00fcber die justizielle Zusammenarbeit in Zivilsachen im Zusammenhang mit dem Familienrecht",
+                "fr": "Autorisation octroy\u00e9e \u00e0 la France de n\u00e9gocier un accord bilat\u00e9ral avec l\u2019Alg\u00e9rie sur des questions li\u00e9es \u00e0 la coop\u00e9ration judiciaire en mati\u00e8re de droit de la famille"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0355"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-57",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939821",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Autorisation octroy\u00e9e \u00e0 la France de n\u00e9gocier un accord bilat\u00e9ral avec l\u2019Alg\u00e9rie sur des questions li\u00e9es \u00e0 la coop\u00e9ration judiciaire en mati\u00e8re de droit de la famille</title><label>Rapport: Ilana Cicurel (A9-0355/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0027",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939829",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Hans Lindblad"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0390"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-67",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939829",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Hans Lindblad</title><label>Rapport: Angelika Winzig (A9-0390/2023) (Vote au scrutin secret (article 129, paragraphe 3, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0813",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939827",
+            "activity_label": {
+                "fr": "Redevances et droits dus \u00e0 l\u2019Agence europ\u00e9enne des m\u00e9dicaments",
+                "mul": "Redevances et droits dus \u00e0 l\u2019Agence europ\u00e9enne des m\u00e9dicaments - Fees and charges payable to the European Medicines Agency - An die Europ\u00e4ische Arzneimittel-Agentur zu entrichtende Geb\u00fchren und Entgelte"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0224"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-70",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939827",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Redevances et droits dus \u00e0 l\u2019Agence europ\u00e9enne des m\u00e9dicaments</title><label>Rapport: Cristian-Silviu Bu\u015foi (A9-0224/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0417",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939832",
+            "activity_label": {
+                "fr": "Sant\u00e9 mentale",
+                "mul": "Sant\u00e9 mentale - Mental health - Psychische Gesundheit"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0367"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-49",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-014"
+            ],
+            "notation_dlvId": "939832",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Sant\u00e9 mentale</title><label>Rapport: Sara Cerdas (A9-0367/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2074",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939818",
+            "activity_label": {
+                "mul": "Reconnaissance des qualifications professionnelles des infirmiers responsables de soins g\u00e9n\u00e9raux form\u00e9s en Roumanie - Recognition of professional qualifications: nurses responsible for general care trained in Romania - Anerkennung der Berufsqualifikationen: in Rum\u00e4nien ausgebildete Krankenschwestern und Krankenpfleger f\u00fcr die allgemeine Pflege",
+                "fr": "Reconnaissance des qualifications professionnelles des infirmiers responsables de soins g\u00e9n\u00e9raux form\u00e9s en Roumanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0381"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-65",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939818",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Reconnaissance des qualifications professionnelles des infirmiers responsables de soins g\u00e9n\u00e9raux form\u00e9s en Roumanie</title><label>Rapport: Adam Bielan (A9-0381/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0307",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939808",
+            "activity_label": {
+                "mul": "Le r\u00f4le de la politique fiscale en temps de crise - Role of tax policy in times of crisis - Die Rolle der Steuerpolitik in Krisenzeiten",
+                "fr": "Le r\u00f4le de la politique fiscale en temps de crise"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0336"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-17",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-017"
+            ],
+            "notation_dlvId": "939808",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le r\u00f4le de la politique fiscale en temps de crise</title><label>Rapport: Kira Marie Peter-Hansen (A9-0336/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2058",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939816",
+            "activity_label": {
+                "fr": "Les \u00e9lections europ\u00e9ennes 2024",
+                "mul": "Les \u00e9lections europ\u00e9ennes 2024 - The European Elections 2024 - Europawahl 2024"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0332"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-29",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939816",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les \u00e9lections europ\u00e9ennes 2024</title><label>Rapport: Dom\u00e8nec Ruiz Devesa, Sven Simon (A9-0332/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939847",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939833",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939809",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939836",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939820",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939834",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939831",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939817",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939837",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939821",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939829",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939827",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939832",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939818",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939808",
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2016",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939816"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

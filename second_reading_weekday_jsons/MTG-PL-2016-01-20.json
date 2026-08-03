@@ -1,0 +1,369 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496527-6",
+            "type": "Activity",
+            "activity_date": "2016-01-20",
+            "activity_id": "MTG-PL-2016-01-20-VOT-ITM-496527-6",
+            "activity_label": {
+                "fr": "Objection \u00e0 un acte d\u00e9l\u00e9gu\u00e9 sur un sch\u00e9ma de pr\u00e9f\u00e9rences tarifaires g\u00e9n\u00e9ralis\u00e9es"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0044"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-20-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-20-VOT-ITM-006"
+            ],
+            "notation_dlvId": "496527",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection \u00e0 un acte d\u00e9l\u00e9gu\u00e9 sur un sch\u00e9ma de pr\u00e9f\u00e9rences tarifaires g\u00e9n\u00e9ralis\u00e9es</title><label>Proposition de r\u00e9solution: B8-0044/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496527-6",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496529-8",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496528-7",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495660-5",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495659-4",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495658-3",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495657-2",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495655-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2995",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496527-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496529-8",
+            "type": "Activity",
+            "activity_date": "2016-01-20",
+            "activity_id": "MTG-PL-2016-01-20-VOT-ITM-496529-8",
+            "activity_label": {
+                "fr": "Processus de paix en Colombie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0062",
+                "eli/dl/doc/B-8-2016-0061",
+                "eli/dl/doc/B-8-2016-0055",
+                "eli/dl/doc/B-8-2016-0053",
+                "eli/dl/doc/B-8-2016-0041",
+                "eli/dl/doc/B-8-2016-0042",
+                "eli/dl/doc/B-8-2016-0054"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-20-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-20-VOT-ITM-008"
+            ],
+            "notation_dlvId": "496529",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Processus de paix en Colombie</title><label>Propositions de r\u00e9solution: B8-0042/2016, B8-0053/2016, B8-0054/2016, B8-0055/2016, B8-0061/2016, B8-0062/2016, B8-0041/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496527-6",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496529-8",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496528-7",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495660-5",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495659-4",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495658-3",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495657-2",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495655-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-3033",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496529-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496528-7",
+            "type": "Activity",
+            "activity_date": "2016-01-20",
+            "activity_id": "MTG-PL-2016-01-20-VOT-ITM-496528-7",
+            "activity_label": {
+                "fr": "Objection \u00e0 un acte d\u00e9l\u00e9gu\u00e9 sur les exigences sp\u00e9cifiques en mati\u00e8re de composition et d'information applicables aux pr\u00e9parations \u00e0 base de c\u00e9r\u00e9ales et aux denr\u00e9es alimentaires pour b\u00e9b\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0067"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-20-OJ-ITM-V-90"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-20-VOT-ITM-007"
+            ],
+            "notation_dlvId": "496528",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection \u00e0 un acte d\u00e9l\u00e9gu\u00e9 sur les exigences sp\u00e9cifiques en mati\u00e8re de composition et d'information applicables aux pr\u00e9parations \u00e0 base de c\u00e9r\u00e9ales et aux denr\u00e9es alimentaires pour b\u00e9b\u00e9s </title><label>Proposition de r\u00e9solution: B8-0067/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496527-6",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496529-8",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496528-7",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495660-5",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495659-4",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495658-3",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495657-2",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495655-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2863",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496528-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495660-5",
+            "type": "Activity",
+            "activity_date": "2016-01-20",
+            "activity_id": "MTG-PL-2016-01-20-VOT-ITM-495660-5",
+            "activity_label": {
+                "fr": "Installations \u00e0 c\u00e2bles"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0063"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-20-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-20-VOT-ITM-005"
+            ],
+            "notation_dlvId": "495660",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Installations \u00e0 c\u00e2bles</title><label>Rapport: Antonio L\u00f3pez-Ist\u00fariz White (A8-0063/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496527-6",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496529-8",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496528-7",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495660-5",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495659-4",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495658-3",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495657-2",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495655-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0107",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495660-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495659-4",
+            "type": "Activity",
+            "activity_date": "2016-01-20",
+            "activity_id": "MTG-PL-2016-01-20-VOT-ITM-495659-4",
+            "activity_label": {
+                "fr": "Appareils \u00e0 gaz"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0147"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-20-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-20-VOT-ITM-004"
+            ],
+            "notation_dlvId": "495659",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Appareils \u00e0 gaz</title><label>Rapport: Catherine Stihler (A8-0147/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496527-6",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496529-8",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496528-7",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495660-5",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495659-4",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495658-3",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495657-2",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495655-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0136",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495659-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495658-3",
+            "type": "Activity",
+            "activity_date": "2016-01-20",
+            "activity_id": "MTG-PL-2016-01-20-VOT-ITM-495658-3",
+            "activity_label": {
+                "fr": "\u00c9quipements de protection individuelle"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0148"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-20-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-20-VOT-ITM-003"
+            ],
+            "notation_dlvId": "495658",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9quipements de protection individuelle</title><label>Rapport: Vicky Ford (A8-0148/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496527-6",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496529-8",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496528-7",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495660-5",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495659-4",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495658-3",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495657-2",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495655-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0108",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495658-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495657-2",
+            "type": "Activity",
+            "activity_date": "2016-01-20",
+            "activity_id": "MTG-PL-2016-01-20-VOT-ITM-495657-2",
+            "activity_label": {
+                "fr": "Pr\u00e9somption d'innocence et droit d'assister \u00e0 son proc\u00e8s dans le cadre des proc\u00e9dures p\u00e9nales"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0133"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-20-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-20-VOT-ITM-002"
+            ],
+            "notation_dlvId": "495657",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pr\u00e9somption d'innocence et droit d'assister \u00e0 son proc\u00e8s dans le cadre des proc\u00e9dures p\u00e9nales</title><label>Rapport: Nathalie Griesbeck (A8-0133/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496527-6",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496529-8",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496528-7",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495660-5",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495659-4",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495658-3",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495657-2",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495655-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0407",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495657-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495655-1",
+            "type": "Activity",
+            "activity_date": "2016-01-20",
+            "activity_id": "MTG-PL-2016-01-20-VOT-ITM-495655-1",
+            "activity_label": {
+                "fr": "\u00c9change automatis\u00e9 de donn\u00e9es relatives \u00e0 l'immatriculation des v\u00e9hicules en Lettonie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0370"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-20-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-20-VOT-ITM-001"
+            ],
+            "notation_dlvId": "495655",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change automatis\u00e9 de donn\u00e9es relatives \u00e0 l'immatriculation des v\u00e9hicules en Lettonie</title><label>Rapport: Claude Moraes (A8-0370/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-20",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496527-6",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496529-8",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-496528-7",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495660-5",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495659-4",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495658-3",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495657-2",
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495655-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0813",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-20-VOT-ITM-495655-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

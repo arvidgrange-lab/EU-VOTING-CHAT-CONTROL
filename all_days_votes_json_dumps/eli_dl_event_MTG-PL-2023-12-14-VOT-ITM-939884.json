@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-14-VOT-ITM-939884",
+            "type": "Activity",
+            "activity_date": "2023-12-14",
+            "activity_id": "MTG-PL-2023-12-14-VOT-ITM-939884",
+            "activity_label": {
+                "mul": "Absence d'informations sur la situation de Mikala\u00ef Statkevitch et r\u00e9centes attaques contre des membres de la famille de personnalit\u00e9s politiques et de militants bi\u00e9lorusses - The unknown status of Mikalai Statkevich and the recent attacks on Belarusian politicians\u2019 and activists\u2019 family members - Ungewissheit \u00fcber den Verbleib von Mikalaj Statkewitsch und die j\u00fcngsten \u00dcbergriffe gegen Familienangeh\u00f6rige von belarussischen Politikern und Aktivisten",
+                "fr": "Absence d'informations sur la situation de Mikala\u00ef Statkevitch et r\u00e9centes attaques contre des membres de la famille de personnalit\u00e9s politiques et de militants bi\u00e9lorusses"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0507",
+                "eli/dl/doc/B-9-2023-0515",
+                "eli/dl/doc/B-9-2023-0509",
+                "eli/dl/doc/B-9-2023-0520",
+                "eli/dl/doc/B-9-2023-0514",
+                "eli/dl/doc/B-9-2023-0516"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-14-OJ-ITM-V-95",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939884",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Absence d'informations sur la situation de Mikala\u00ef Statkevitch et r\u00e9centes attaques contre des membres de la famille de personnalit\u00e9s politiques et de militants bi\u00e9lorusses</title><label>Propositions de r\u00e9solution: RC-B9-0509/2023, B9-0507/2023, B9-0509/2023, B9-0514/2023, B9-0515/2023, B9-0516/2023, B9-0520/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

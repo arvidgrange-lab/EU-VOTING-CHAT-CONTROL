@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938884",
+            "type": "Activity",
+            "activity_date": "2023-03-16",
+            "activity_id": "MTG-PL-2023-03-16-VOT-ITM-938884",
+            "activity_label": {
+                "fr": "Cambodge: le cas du chef de l'opposition Kem Sokha"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0174",
+                "eli/dl/doc/B-9-2023-0176",
+                "eli/dl/doc/RC-9-2023-0169",
+                "eli/dl/doc/B-9-2023-0184",
+                "eli/dl/doc/B-9-2023-0178",
+                "eli/dl/doc/B-9-2023-0169",
+                "eli/dl/doc/B-9-2023-0186"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-16-OJ-ITM-V-69",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-16-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938884",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cambodge: le cas du chef de l'opposition Kem Sokha</title><label>Propositions de r\u00e9solutions: RC-B9-0169/2023, B9-0169/2023, B9-0174/2023, B9-0176/2023, B9-0178/2023, B9-0184/2023, B9-0186/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

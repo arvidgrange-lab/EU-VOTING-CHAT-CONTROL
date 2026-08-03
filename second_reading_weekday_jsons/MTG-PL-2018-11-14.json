@@ -1,0 +1,529 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+            "type": "Activity",
+            "activity_date": "2018-11-14",
+            "activity_id": "MTG-PL-2018-11-14-VOT-ITM-746805-2",
+            "activity_label": {
+                "fr": "R\u00e8gles en mati\u00e8re d'aides d'\u00c9tat: nouvelles cat\u00e9gories d'aides d'\u00c9tat"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0315"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-14-OJ-ITM-V-64"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "746805",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8gles en mati\u00e8re d'aides d'\u00c9tat: nouvelles cat\u00e9gories d'aides d'\u00c9tat</title><label>Rapport: Sander Loones (A8-0315/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0222",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+            "type": "Activity",
+            "activity_date": "2018-11-14",
+            "activity_id": "MTG-PL-2018-11-14-VOT-ITM-746806-4",
+            "activity_label": {
+                "fr": "Doter les autorit\u00e9s de concurrence des \u00c9tats membres des moyens n\u00e9cessaires et garantir le bon fonctionnement du march\u00e9 int\u00e9rieur"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0057"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-14-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "746806",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Doter les autorit\u00e9s de concurrence des \u00c9tats membres des moyens n\u00e9cessaires et garantir le bon fonctionnement du march\u00e9 int\u00e9rieur</title><label>Rapport: Andreas Schwab (A8-0057/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0063",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+            "type": "Activity",
+            "activity_date": "2018-11-14",
+            "activity_id": "MTG-PL-2018-11-14-VOT-ITM-746817-11",
+            "activity_label": {
+                "fr": "Visas humanitaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0328"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-14-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "746817",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Visas humanitaires</title><label>Rapport: Juan Fernando L\u00f3pez Aguilar (A8-0328/2018) (majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2270",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+            "type": "Activity",
+            "activity_date": "2018-11-14",
+            "activity_id": "MTG-PL-2018-11-14-VOT-ITM-746807-5",
+            "activity_label": {
+                "fr": "Code des communications \u00e9lectroniques europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0318"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-14-OJ-ITM-V-18"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "746807",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Code des communications \u00e9lectroniques europ\u00e9en</title><label>Rapport: Pilar del Castillo Vera (A8-0318/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0288",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+            "type": "Activity",
+            "activity_date": "2018-11-14",
+            "activity_id": "MTG-PL-2018-11-14-VOT-ITM-746811-7",
+            "activity_label": {
+                "fr": "Normes applicables aux \u00e9missions de CO2 des v\u00e9hicules utilitaires lourds neufs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0354"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-14-OJ-ITM-V-63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "746811",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normes applicables aux \u00e9missions de CO2 des v\u00e9hicules utilitaires lourds neufs</title><label>Rapport: Bas Eickhout (A8-0354/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0143",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+            "type": "Activity",
+            "activity_date": "2018-11-14",
+            "activity_id": "MTG-PL-2018-11-14-VOT-ITM-746809-6",
+            "activity_label": {
+                "fr": "Organe des r\u00e9gulateurs europ\u00e9ens des communications \u00e9lectroniques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0305"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-14-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "746809",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Organe des r\u00e9gulateurs europ\u00e9ens des communications \u00e9lectroniques</title><label>Rapport: Ev\u017een To\u0161enovsk\u00fd (A8-0305/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0286",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+            "type": "Activity",
+            "activity_date": "2018-11-14",
+            "activity_id": "MTG-PL-2018-11-14-VOT-ITM-748167-8",
+            "activity_label": {
+                "fr": "N\u00e9cessit\u00e9 d\u2019un m\u00e9canisme approfondi pour la d\u00e9mocratie, l\u2019\u00e9tat de droit et les droits fondamentaux"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0524",
+                "eli/dl/doc/B-8-2018-0523"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-14-OJ-ITM-V-65"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "748167",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>N\u00e9cessit\u00e9 d\u2019un m\u00e9canisme approfondi pour la d\u00e9mocratie, l\u2019\u00e9tat de droit et les droits fondamentaux</title><label>Propositions de r\u00e9solution: B8-0523/2018, B8-0524/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2886",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+            "type": "Activity",
+            "activity_date": "2018-11-14",
+            "activity_id": "MTG-PL-2018-11-14-VOT-ITM-746814-10",
+            "activity_label": {
+                "fr": "Mise en oeuvre de l'accord d'association de l'UE avec la Moldavie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0322"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-14-OJ-ITM-V-58"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "746814",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en oeuvre de l'accord d'association de l'UE avec la Moldavie</title><label>Rapport: Petras Au\u0161trevi\u010dius (A8-0322/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2281",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+            "type": "Activity",
+            "activity_date": "2018-11-14",
+            "activity_id": "MTG-PL-2018-11-14-VOT-ITM-746812-9",
+            "activity_label": {
+                "fr": "Mise en oeuvre de l'accord d'association de l'UE avec la G\u00e9orgie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0320"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-14-OJ-ITM-V-57"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "746812",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en oeuvre de l'accord d'association de l'UE avec la G\u00e9orgie</title><label>Rapport: Andrejs Mamikins (A8-0320/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2282",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+            "type": "Activity",
+            "activity_date": "2018-11-14",
+            "activity_id": "MTG-PL-2018-11-14-VOT-ITM-747150-1",
+            "activity_label": {
+                "fr": "Rapport int\u00e9rimaire sur le cadre financier pluriannuel 2021-2027 - Position du Parlement en vue d'un accord"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0358"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-14-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "747150",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport int\u00e9rimaire sur le cadre financier pluriannuel 2021-2027 - Position du Parlement en vue d'un accord</title><label>Rapport int\u00e9rimaire: Jan Olbrycht,  Isabelle Thomas,  Janusz Lewandowski et  G\u00e9rard Deprez (A8-0358/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0166R",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3",
+            "type": "Activity",
+            "activity_date": "2018-11-14",
+            "activity_id": "MTG-PL-2018-11-14-VOT-ITM-746805-3",
+            "activity_label": {
+                "fr": "Exportation d\u2019armements: mise en \u0153uvre de la position commune 2008/944/PESC"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0335"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-14-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "746805",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Exportation d\u2019armements: mise en \u0153uvre de la position commune 2008/944/PESC</title><label>Rapport: Sabine L\u00f6sing (A8-0335/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-2",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746806-4",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746817-11",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746807-5",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746811-7",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746809-6",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-748167-8",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746814-10",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746812-9",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-747150-1",
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2157",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-14-VOT-ITM-746805-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

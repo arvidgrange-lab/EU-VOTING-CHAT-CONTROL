@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-15-VOT-ITM-938664",
+            "type": "Activity",
+            "activity_date": "2023-03-15",
+            "activity_id": "MTG-PL-2023-03-15-VOT-ITM-938664",
+            "activity_label": {
+                "fr": "Un revenu minimum ad\u00e9quat pour garantir une inclusion active"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0099",
+                "eli/dl/doc/B-9-2023-0116"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-15-OJ-ITM-V-61",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "938664",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 5,
+            "epvoc:amendmentsTabledTotal": 5,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Un revenu minimum ad\u00e9quat pour garantir une inclusion active</title><label>Propositions de r\u00e9solutions: B9-0099/2023, B9-0116/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

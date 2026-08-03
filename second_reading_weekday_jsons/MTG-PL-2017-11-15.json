@@ -1,0 +1,713 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655588-10",
+            "activity_label": {
+                "fr": "L'\u00e9tat de droit \u00e0 Malte"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0596",
+                "eli/dl/doc/B-8-2017-0597"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-61"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-010"
+            ],
+            "notation_dlvId": "655588",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'\u00e9tat de droit \u00e0 Malte</title><label>Propositions de r\u00e9solution: B8-0596/2017, B8-0597/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2935",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655655-9",
+            "activity_label": {
+                "fr": "D\u00e9fense contre les importations qui font l\u2019objet d\u2019un dumping ou qui font l\u2019objet de subventions de la part de pays non membres de l\u2019UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0236"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-36"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-009"
+            ],
+            "notation_dlvId": "655655",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9fense contre les importations qui font l\u2019objet d\u2019un dumping ou qui font l\u2019objet de subventions de la part de pays non membres de l\u2019UE</title><label>Rapport: Salvatore Cicu (A8-0236/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0351",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655580-4",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Hannu Takkula"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0338"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "655580",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Hannu Takkula</title><label>Rapport: Indrek Tarand (A8-0338/2017) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0814",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655580-1",
+            "activity_label": {
+                "fr": "P\u00e9riode pr\u00e9vue pour l\u2019adoption d\u2019actes d\u00e9l\u00e9gu\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0332"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "655580",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>P\u00e9riode pr\u00e9vue pour l\u2019adoption d\u2019actes d\u00e9l\u00e9gu\u00e9s</title><label>Rapport: Gesine Meissner (A8-0332/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0060",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655580-7",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Jo\u00e3o Alexandre Tavares Gon\u00e7alves de Figueiredo"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0343"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "655580",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Jo\u00e3o Alexandre Tavares Gon\u00e7alves de Figueiredo</title><label>Rapport: Indrek Tarand (A8-0343/2017) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0817",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655580-5",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Baudilio Tom\u00e9 Muguruza"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0342"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-005"
+            ],
+            "notation_dlvId": "655580",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Baudilio Tom\u00e9 Muguruza </title><label>Rapport: Indrek Tarand (A8-0342/2017) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0815",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655580-2",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Karel Pinxten"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0336"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-002"
+            ],
+            "notation_dlvId": "655580",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Karel Pinxten</title><label>Rapport: Indrek Tarand (A8-0336/2017) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0812",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655580-3",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Pietro Russo"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0337"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "655580",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Pietro Russo</title><label>Rapport: Indrek Tarand (A8-0337/2017) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0813",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655586-14",
+            "activity_label": {
+                "fr": "La situation de l'\u00e9tat de droit et de la d\u00e9mocratie en Pologne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0595",
+                "eli/dl/doc/B-8-2017-0594"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-58"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-014"
+            ],
+            "notation_dlvId": "655586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La situation de l'\u00e9tat de droit et de la d\u00e9mocratie en Pologne</title><label>Propositions de r\u00e9solution: B8-0594/2017, B8-0595/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2931",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655909-13",
+            "activity_label": {
+                "fr": "Plan d'action pour le milieu naturel, la population et l'\u00e9conomie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0589"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-013"
+            ],
+            "notation_dlvId": "655909",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Plan d'action pour le milieu naturel, la population et l'\u00e9conomie</title><label>Proposition de r\u00e9solution: B8-0589/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2819",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655587-12",
+            "activity_label": {
+                "fr": "Partenariat oriental: sommet de novembre 2017"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0308"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-012"
+            ],
+            "notation_dlvId": "655587",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Partenariat oriental: sommet de novembre 2017</title><label>Rapport: Laima Liucija Andrikien\u0117 et  Knut Fleckenstein (A8-0308/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2130",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655580-8",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Iliana Ivanova"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0344"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-008"
+            ],
+            "notation_dlvId": "655580",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Iliana Ivanova</title><label>Rapport: Indrek Tarand (A8-0344/2017) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0818",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655580-6",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Bettina Jakobsen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0341"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "655580",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Bettina Jakobsen </title><label>Rapport: Indrek Tarand (A8-0341/2017) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0816",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11",
+            "type": "Activity",
+            "activity_date": "2017-11-15",
+            "activity_id": "MTG-PL-2017-11-15-VOT-ITM-655585-11",
+            "activity_label": {
+                "fr": "N\u00e9gociations multilat\u00e9rales en vue de la onzi\u00e8me conf\u00e9rence minist\u00e9rielle de l\u2019OMC"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0593"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-11-15-OJ-ITM-V-56"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-11-15-VOT-ITM-011"
+            ],
+            "notation_dlvId": "655585",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>N\u00e9gociations multilat\u00e9rales en vue de la onzi\u00e8me conf\u00e9rence minist\u00e9rielle de l\u2019OMC</title><label>Proposition de r\u00e9solution: B8-0593/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-11-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655588-10",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655655-9",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-4",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-1",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-7",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-5",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-2",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-3",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655586-14",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655909-13",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655587-12",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-8",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655580-6",
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2861",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-11-15-VOT-ITM-655585-11"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

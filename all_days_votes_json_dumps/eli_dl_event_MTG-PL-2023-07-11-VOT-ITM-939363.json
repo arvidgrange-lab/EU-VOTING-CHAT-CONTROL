@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939363",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939363",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre des clauses \u00abpasserelles\u00bb dans les trait\u00e9s de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0208"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-23",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-020"
+            ],
+            "notation_dlvId": "939363",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 11,
+            "epvoc:amendmentsTabledTotal": 11,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre des clauses \u00abpasserelles\u00bb dans les trait\u00e9s de l\u2019Union europ\u00e9enne</title><label>Rapport: Giuliano Pisapia (A9-0208/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

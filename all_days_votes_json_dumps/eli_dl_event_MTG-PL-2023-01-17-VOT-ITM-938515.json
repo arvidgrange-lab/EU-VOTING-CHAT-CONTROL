@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-17-VOT-ITM-938515",
+            "type": "Activity",
+            "activity_date": "2023-01-17",
+            "activity_id": "MTG-PL-2023-01-17-VOT-ITM-938515",
+            "activity_label": {
+                "fr": "Modifications du r\u00e8glement int\u00e9rieur du Parlement concernant l'article 7 relatif \u00e0 la d\u00e9fense des privil\u00e8ges et immunit\u00e9s et l'article 9 relatif aux proc\u00e9dures relatives \u00e0 l'immunit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0001"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-17-OJ-ITM-V-59",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-17-VOT-ITM-005"
+            ],
+            "notation_dlvId": "938515",
+            "epvoc:amendmentsAdoptedCommittee": 7,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 7,
+            "epvoc:amendmentsTabledCommittee": 7,
+            "epvoc:amendmentsTabledTotal": 7,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modifications du r\u00e8glement int\u00e9rieur du Parlement concernant l'article 7 relatif \u00e0 la d\u00e9fense des privil\u00e8ges et immunit\u00e9s et l'article 9 relatif aux proc\u00e9dures relatives \u00e0 l'immunit\u00e9</title><label>Rapport: Gabriele Bischoff (A9-0001/2023) (Majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

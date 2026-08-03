@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939717",
+            "activity_label": {
+                "fr": "TVA: accords de coop\u00e9ration administrative \u00e0 l\u2019\u00e8re du num\u00e9rique",
+                "mul": "TVA: accords de coop\u00e9ration administrative \u00e0 l\u2019\u00e8re du num\u00e9rique - VAT: administrative cooperation arrangements for the digital age - MwSt \u2013 f\u00fcr das digitale Zeitalter erforderliche Regelungen f\u00fcr die Zusammenarbeit der Verwaltungsbeh\u00f6rden"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0324"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939717",
+            "epvoc:amendmentsAdoptedCommittee": 63,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 63,
+            "epvoc:amendmentsTabledCommittee": 63,
+            "epvoc:amendmentsTabledTotal": 63,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>TVA: accords de coop\u00e9ration administrative \u00e0 l\u2019\u00e8re du num\u00e9rique</title><label>Rapport: Olivier Chastel (A9-0324/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

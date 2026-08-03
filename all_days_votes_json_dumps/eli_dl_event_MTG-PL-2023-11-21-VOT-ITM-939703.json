@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939703",
+            "activity_label": {
+                "fr": "Programme de documentation des captures de thon rouge",
+                "mul": "Programme de documentation des captures de thon rouge - Catch documentation programme for bluefin tuna - Fangdokumentationsregelung f\u00fcr Roten Thun (Thunnus thynnus)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0172"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-48",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939703",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Programme de documentation des captures de thon rouge</title><label>Rapport: Gabriel Mato (A9-0172/2021)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

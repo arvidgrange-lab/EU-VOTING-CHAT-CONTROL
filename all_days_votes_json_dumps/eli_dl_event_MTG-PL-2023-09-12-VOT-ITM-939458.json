@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-12-VOT-ITM-939458",
+            "type": "Activity",
+            "activity_date": "2023-09-12",
+            "activity_id": "MTG-PL-2023-09-12-VOT-ITM-939458",
+            "activity_label": {
+                "fr": "Plan pluriannuel de gestion du thon rouge dans l\u2019Atlantique Est et la mer M\u00e9diterran\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0243"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-12-OJ-ITM-V-73",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-12-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939458",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Plan pluriannuel de gestion du thon rouge dans l\u2019Atlantique Est et la mer M\u00e9diterran\u00e9e</title><label>Recommandation pour la deuxi\u00e8me lecture: Clara Aguilera (A9-0243/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

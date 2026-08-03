@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-05-VOT-ITM-939565",
+            "type": "Activity",
+            "activity_date": "2023-10-05",
+            "activity_id": "MTG-PL-2023-10-05-VOT-ITM-939565",
+            "activity_label": {
+                "fr": "Le point sur la progression de la Moldavie sur la voie de l\u2019adh\u00e9sion \u00e0 l\u2019Union europ\u00e9enne",
+                "mul": "Le point sur la progression de la Moldavie sur la voie de l\u2019adh\u00e9sion \u00e0 l\u2019Union europ\u00e9enne - Taking stock of Moldova's path to the EU - Bestandsaufnahme des Wegs Moldaus in die EU"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0407",
+                "eli/dl/doc/B-9-2023-0411",
+                "eli/dl/doc/B-9-2023-0420",
+                "eli/dl/doc/B-9-2023-0408",
+                "eli/dl/doc/B-9-2023-0417",
+                "eli/dl/doc/B-9-2023-0410"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-05-OJ-ITM-V-60",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-05-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939565",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le point sur la progression de la Moldavie sur la voie de l\u2019adh\u00e9sion \u00e0 l\u2019Union europ\u00e9enne</title><label>Propositions de r\u00e9solution: RC-B9-0408/2023, B9-0407/2023, B9-0408/2023, B9-0410/2023, B9-0411/2023, B9-0417/2023, B9-0420/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-03-11-DEC-172113",
+            "type": "Vote",
+            "activity_date": "2025-03-11",
+            "activity_id": "MTG-PL-2025-03-11-DEC-172113",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 645,
+            "number_of_votes_abstention": 29,
+            "number_of_votes_against": 46,
+            "number_of_votes_favor": 570,
+            "comment": {
+                "sl": "TG",
+                "cs": "TAJ",
+                "da": "SEC",
+                "fr": "SEC",
+                "hr": "SEC",
+                "ro": "SEC",
+                "fi": "SEC",
+                "pt": "SEC",
+                "it": "SEC",
+                "es": "SEC",
+                "en": "SEC",
+                "pl": "taj",
+                "et": "SH",
+                "de": "geh.",
+                "nl": "Geh. S",
+                "sv": "sluten",
+                "lv": "AIZKL",
+                "lt": "SB",
+                "sk": "TH",
+                "ga": "BR",
+                "hu": "TITK.",
+                "el": "\u039c\u03a8",
+                "mt": "SIG",
+                "bg": "\u0422\u0413"
+            },
+            "notation_votingId": "172113",
+            "referenceText": {
+                "da": "Udn\u00e6vnelse af Miguel Carca\u00f1o Saenz Cenzano",
+                "ga": "Ceapach\u00e1n Miguel Carca\u00f1o Saenz Cenzano",
+                "es": "Nombramiento de Miguel Carca\u00f1o Saenz Cenzano",
+                "hr": "Imenovanje Miguela Carca\u00f1a Saenza Cenzana",
+                "cs": "jmenov\u00e1n\u00ed Miguela Carca\u00f1a Saenze Cenzana",
+                "de": "Ernennung von Miguel Carca\u00f1o Saenz Cenzano",
+                "lt": "Miguelio Carca\u00f1o Saenzo Cenzano skyrimas",
+                "lv": "Miguel Carca\u00f1o Saenz Cenzano iecel\u0161ana",
+                "sv": "Utn\u00e4mning av Miguel Carca\u00f1o Saenz Cenzano",
+                "nl": "Benoeming van Miguel Carca\u00f1o Saenz Cenzano",
+                "bg": "\u041d\u043e\u043c\u0438\u043d\u0438\u0440\u0430\u043d\u0435 \u043d\u0430 \u041c\u0438\u0433\u0435\u043b \u041a\u0430\u0440\u043a\u0430\u043d\u044c\u043e \u0421\u0430\u0435\u043d\u0441 \u0421\u0435\u043d\u0441\u0430\u043d\u043e",
+                "en": "Appointment of Miguel Carca\u00f1o Saenz Cenzano",
+                "fi": "Miguel Carca\u00f1o Saenz Cenzanon nimitt\u00e4minen",
+                "mt": "\u0126atra ta\u2019 Miguel Carca\u00f1o Saenz Cenzano",
+                "et": "Miguel Carca\u00f1o Saenz Cenzano ametisse nimetamine",
+                "pt": "Nomea\u00e7\u00e3o de Miguel Carca\u00f1o Saenz Cenzano",
+                "fr": "Nomination de Miguel Carca\u00f1o Saenz Cenzano",
+                "ro": "Numirea lui Miguel Carca\u00f1o Saenz Cenzano",
+                "pl": "Mianowanie Miguela Carca\u00f1a Saenza Cenzana",
+                "it": "Nomina di Miguel Carca\u00f1o Saenz Cenzano",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 Miguel Carca\u00f1o Saenz Cenzano",
+                "sl": "imenovanje Miguela Carca\u00f1a Saenza Cenzane",
+                "hu": "Miguel Carca\u00f1o Saenz Cenzano jel\u00f6l\u00e9se",
+                "sk": "Vymenovanie Miguela Carca\u00f1a Saenza Cenzana"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

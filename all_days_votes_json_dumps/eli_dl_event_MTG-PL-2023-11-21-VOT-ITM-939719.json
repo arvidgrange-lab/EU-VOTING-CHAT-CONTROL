@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939719",
+            "activity_label": {
+                "mul": "Possibilit\u00e9s d\u2019am\u00e9lioration de la fiabilit\u00e9 des audits et des contr\u00f4les r\u00e9alis\u00e9s par les autorit\u00e9s nationales dans le cadre de la gestion partag\u00e9e - Possibilities to increase the reliability of audits and controls by national authorities in shared management - Optionen zur Verbesserung der Zuverl\u00e4ssigkeit von Pr\u00fcfungen und Kontrollen der nationalen Beh\u00f6rden bei geteilter Mittelverwaltung",
+                "fr": "Possibilit\u00e9s d\u2019am\u00e9lioration de la fiabilit\u00e9 des audits et des contr\u00f4les r\u00e9alis\u00e9s par les autorit\u00e9s nationales dans le cadre de la gestion partag\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0297"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-38",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939719",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Possibilit\u00e9s d\u2019am\u00e9lioration de la fiabilit\u00e9 des audits et des contr\u00f4les r\u00e9alis\u00e9s par les autorit\u00e9s nationales dans le cadre de la gestion partag\u00e9e</title><label>Rapport: Monika Hohlmeier (A9-0297/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

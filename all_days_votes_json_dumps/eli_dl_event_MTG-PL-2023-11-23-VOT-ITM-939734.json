@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939734",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939734",
+            "activity_label": {
+                "fr": "Strat\u00e9gie d'aide humanitaire innovante: coup de projecteur sur les crises actuelles et oubli\u00e9es",
+                "mul": "Strat\u00e9gie d'aide humanitaire innovante: coup de projecteur sur les crises actuelles et oubli\u00e9es - Innovative humanitarian aid strategy: spotlight on current and forgotten crises - Innovative Strategie f\u00fcr humanit\u00e4re Hilfe \u2013 Blick auf aktuelle und vergessene Krisen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0321"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939734",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie d'aide humanitaire innovante: coup de projecteur sur les crises actuelles et oubli\u00e9es</title><label>Rapport: Carlos Zorrinho (A9-0321/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

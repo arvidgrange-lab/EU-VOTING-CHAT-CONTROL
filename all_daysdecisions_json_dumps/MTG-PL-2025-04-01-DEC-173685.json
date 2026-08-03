@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-04-01-DEC-173685",
+            "type": "Vote",
+            "activity_date": "2025-04-01",
+            "activity_id": "MTG-PL-2025-04-01-DEC-173685",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 657,
+            "number_of_votes_abstention": 92,
+            "number_of_votes_against": 128,
+            "number_of_votes_favor": 437,
+            "comment": {
+                "da": "SEC",
+                "fr": "SEC",
+                "hr": "SEC",
+                "es": "SEC",
+                "en": "SEC",
+                "ro": "SEC",
+                "fi": "SEC",
+                "pt": "SEC",
+                "it": "SEC",
+                "et": "SH",
+                "ga": "BR",
+                "bg": "\u0421\u0435\u043a.",
+                "cs": "TAJ",
+                "lv": "AIZKL",
+                "sv": "sluten",
+                "nl": "Geh. S",
+                "hu": "TITK.",
+                "sl": "TG",
+                "sk": "TH",
+                "de": "geh.",
+                "el": "\u039c\u03a8",
+                "mt": "SIG",
+                "lt": "SB",
+                "pl": "taj"
+            },
+            "notation_votingId": "173685",
+            "referenceText": {
+                "pt": "Nomea\u00e7\u00e3o de Lucian Roma\u0219canu",
+                "sl": "Imenovanje Luciana Roma\u0219canuja",
+                "lt": "Luciano Roma\u0219canu skyrimas",
+                "pl": "Mianowanie Luciana Roma\u0219canu",
+                "sk": "vymenovanie Luciana Roma\u0219cana",
+                "da": "Udn\u00e6vnelse af Lucian Roma\u0219canu",
+                "hu": "Lucian Roma\u0219canu kinevez\u00e9se",
+                "sv": "Utn\u00e4mning av Lucian Roma\u0219canu",
+                "cs": "jmenov\u00e1n\u00ed Luciana Roma\u0219canua",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 Lucian Roma\u0219canu",
+                "fi": "Lucian Roma\u0219canun nimitt\u00e4mien",
+                "hr": "Imenovanje Luciana Roma\u0219canua",
+                "es": "Nombramiento de Lucian Roma\u0219canu",
+                "nl": "Voordracht van Lucian Roma\u0219canu",
+                "bg": "\u041d\u0430\u0437\u043d\u0430\u0447\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u041b\u0443\u0447\u0438\u0430\u043d \u0420\u043e\u043c\u0430\u0448\u043a\u0430\u043d\u0443 ",
+                "lv": "Lucian Roma\u0219canu iecel\u0161ana",
+                "de": "Ernennung von Lucian Roma\u0219canu",
+                "en": "Nomination of Lucian Roma\u0219canu",
+                "ga": "Ainmni\u00fa Lucian Roma\u0219canu",
+                "fr": "Nomination de Lucian Roma\u0219canu",
+                "ro": "Numirea lui Lucian Roma\u0219canu",
+                "it": "Nomina di Lucian Roma\u0219canu",
+                "et": "Lucian Roma\u0219canu ametisse nimetamine",
+                "mt": "\u0126atra ta\u2019 Lucian Roma\u0219canu"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

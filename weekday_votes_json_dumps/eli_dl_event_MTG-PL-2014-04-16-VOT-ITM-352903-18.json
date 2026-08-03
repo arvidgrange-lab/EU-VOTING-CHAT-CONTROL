@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-04-16-VOT-ITM-352903-18",
+            "type": "Activity",
+            "activity_date": "2014-04-16",
+            "activity_id": "MTG-PL-2014-04-16-VOT-ITM-352903-18",
+            "activity_label": {
+                "fr": "Captures accidentelles de c\u00e9tac\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0272"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-04-16-OJ-ITM-V-173"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-04-16-VOT-ITM-018"
+            ],
+            "notation_dlvId": "352903",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Captures accidentelles de c\u00e9tac\u00e9s</title><label>Recommandation pour la deuxi\u00e8me lecture: Ra\u00fcl Romeva i Rueda (A7-0272/2014)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

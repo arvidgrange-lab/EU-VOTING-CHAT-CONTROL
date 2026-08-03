@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939393",
+            "activity_label": {
+                "fr": "Relations avec l'Autorit\u00e9 palestinienne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0226"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939393",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations avec l'Autorit\u00e9 palestinienne</title><label>Rapport: Evin Incir (A9-0226/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

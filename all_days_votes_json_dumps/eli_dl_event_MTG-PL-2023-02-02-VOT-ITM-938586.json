@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-02-VOT-ITM-938586",
+            "type": "Activity",
+            "activity_date": "2023-02-02",
+            "activity_id": "MTG-PL-2023-02-02-VOT-ITM-938586",
+            "activity_label": {
+                "fr": "Pr\u00e9paration du sommet UE-Ukraine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0095",
+                "eli/dl/doc/B-9-2023-0092",
+                "eli/dl/doc/B-9-2023-0094",
+                "eli/dl/doc/B-9-2023-0096",
+                "eli/dl/doc/B-9-2023-0093"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-02-OJ-ITM-V-17",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-02-VOT-ITM-010"
+            ],
+            "notation_dlvId": "938586",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 10,
+            "epvoc:amendmentsAdoptedTotal": 10,
+            "epvoc:amendmentsTabledPoliticalGroup": 16,
+            "epvoc:amendmentsTabledTotal": 16,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pr\u00e9paration du sommet UE-Ukraine</title><label>Propositions de r\u00e9solutions: B9-0092/2023, B9-0093/2023, B9-0094/2023, B9-0095/2023, B9-0096/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

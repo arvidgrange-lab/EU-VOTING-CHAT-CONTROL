@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938959",
+            "activity_label": {
+                "fr": "Cycles durables du carbone"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0066"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-27",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-009"
+            ],
+            "notation_dlvId": "938959",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cycles durables du carbone</title><label>Rapport: Alexander Bernhuber (A9-0066/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

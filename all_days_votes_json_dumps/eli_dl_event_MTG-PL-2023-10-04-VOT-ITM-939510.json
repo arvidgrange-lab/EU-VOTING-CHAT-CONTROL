@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-04-VOT-ITM-939510",
+            "type": "Activity",
+            "activity_date": "2023-10-04",
+            "activity_id": "MTG-PL-2023-10-04-VOT-ITM-939510",
+            "activity_label": {
+                "fr": "Harmonisation des droits des personnes autistes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0390"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-10-04-OJ-ITM-V_47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-04-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939510",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Harmonisation des droits des personnes autistes</title><label>Proposition de r\u00e9solution: B9-0390/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,502 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2",
+            "type": "Activity",
+            "activity_date": "2015-10-08",
+            "activity_id": "MTG-PL-2015-10-08-VOT-ITM-467407-2",
+            "activity_label": {
+                "fr": "Situation en Tha\u00eflande"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1018",
+                "eli/dl/doc/B-8-2015-1021",
+                "eli/dl/doc/B-8-2015-1002",
+                "eli/dl/doc/B-8-2015-1017",
+                "eli/dl/doc/B-8-2015-1012",
+                "eli/dl/doc/B-8-2015-1015",
+                "eli/dl/doc/B-8-2015-1013"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-08-OJ-ITM-V-89"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-08-VOT-ITM-002"
+            ],
+            "notation_dlvId": "467407",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Tha\u00eflande</title><label>Propositions de r\u00e9solution: B8-1002/2015, B8-1012/2015, B8-1013/2015, B8-1015/2015, B8-1017/2015, B8-1018/2015, B8-1021/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2875",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5",
+            "type": "Activity",
+            "activity_date": "2015-10-08",
+            "activity_id": "MTG-PL-2015-10-08-VOT-ITM-467514-5",
+            "activity_label": {
+                "fr": "Services de paiement dans le march\u00e9 int\u00e9rieur"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0266"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-08-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-08-VOT-ITM-005"
+            ],
+            "notation_dlvId": "467514",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Services de paiement dans le march\u00e9 int\u00e9rieur</title><label>Rapport compl\u00e9mentaire: Antonio Tajani (A8-0266/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0264",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1",
+            "type": "Activity",
+            "activity_date": "2015-10-08",
+            "activity_id": "MTG-PL-2015-10-08-VOT-ITM-467405-1",
+            "activity_label": {
+                "fr": "R\u00e9publique centrafricaine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1011",
+                "eli/dl/doc/B-8-2015-1000",
+                "eli/dl/doc/B-8-2015-1009",
+                "eli/dl/doc/B-8-2015-1010",
+                "eli/dl/doc/B-8-2015-1016",
+                "eli/dl/doc/B-8-2015-1014",
+                "eli/dl/doc/B-8-2015-1019"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-08-OJ-ITM-V-88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-08-VOT-ITM-001"
+            ],
+            "notation_dlvId": "467405",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9publique centrafricaine</title><label>Propositions de r\u00e9solution: B8-1000/2015, B8-1009/2015, B8-1010/2015, B8-1011/2015, B8-1014/2015, B8-1016/2015, B8-1019/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2874",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10",
+            "type": "Activity",
+            "activity_date": "2015-10-08",
+            "activity_id": "MTG-PL-2015-10-08-VOT-ITM-467131-10",
+            "activity_label": {
+                "fr": "\u00c9galit\u00e9 des chances et \u00e9galit\u00e9 de traitement entre hommes et femmes en mati\u00e8re d'emploi et de travail"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0213"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-08-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-08-VOT-ITM-010"
+            ],
+            "notation_dlvId": "467131",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9galit\u00e9 des chances et \u00e9galit\u00e9 de traitement entre hommes et femmes en mati\u00e8re d'emploi et de travail</title><label>Rapport: Anna Z\u00e1borsk\u00e1 (A8-0213/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2160",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4",
+            "type": "Activity",
+            "activity_date": "2015-10-08",
+            "activity_id": "MTG-PL-2015-10-08-VOT-ITM-467495-4",
+            "activity_label": {
+                "fr": "Le cas de Ali Mohammed al-Nimr"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1004",
+                "eli/dl/doc/B-8-2015-1022",
+                "eli/dl/doc/B-8-2015-1028",
+                "eli/dl/doc/B-8-2015-1026",
+                "eli/dl/doc/B-8-2015-1032",
+                "eli/dl/doc/B-8-2015-0997",
+                "eli/dl/doc/B-8-2015-1025",
+                "eli/dl/doc/B-8-2015-1030"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-08-OJ-ITM-V-97"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-08-VOT-ITM-004"
+            ],
+            "notation_dlvId": "467495",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le cas de Ali Mohammed al-Nimr</title><label>Propositions de r\u00e9solution: B8-0997/2015, B8-1004/2015, B8-1022/2015, B8-1025/2015, B8-1026/2015, B8-1028/2015, B8-1030/2015, B8-1032/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2883",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8",
+            "type": "Activity",
+            "activity_date": "2015-10-08",
+            "activity_id": "MTG-PL-2015-10-08-VOT-ITM-467414-8",
+            "activity_label": {
+                "fr": "Enseignements tir\u00e9s de la catastrophe des boues rouges, cinq ans apr\u00e8s l'accident survenu en Hongrie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0989"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-08-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-08-VOT-ITM-008"
+            ],
+            "notation_dlvId": "467414",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Enseignements tir\u00e9s de la catastrophe des boues rouges, cinq ans apr\u00e8s l'accident survenu en Hongrie</title><label>Proposition de r\u00e9solution: B8-0989/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2801",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7",
+            "type": "Activity",
+            "activity_date": "2015-10-08",
+            "activity_id": "MTG-PL-2015-10-08-VOT-ITM-467413-7",
+            "activity_label": {
+                "fr": "Peine de mort"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0999",
+                "eli/dl/doc/B-8-2015-1008",
+                "eli/dl/doc/B-8-2015-1005",
+                "eli/dl/doc/B-8-2015-1006",
+                "eli/dl/doc/B-8-2015-1001",
+                "eli/dl/doc/B-8-2015-1007",
+                "eli/dl/doc/B-8-2015-0998"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-08-OJ-ITM-V-93"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-08-VOT-ITM-007"
+            ],
+            "notation_dlvId": "467413",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Peine de mort</title><label>Propositions de r\u00e9solution: B8-0998/2015, B8-0999/2015, B8-1001/2015, B8-1005/2015, B8-1006/2015, B8-1007/2015, B8-1008/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2879",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9",
+            "type": "Activity",
+            "activity_date": "2015-10-08",
+            "activity_id": "MTG-PL-2015-10-08-VOT-ITM-467415-9",
+            "activity_label": {
+                "fr": "Renouvellement du plan d'action de l'Union europ\u00e9enne sur l'\u00e9galit\u00e9 des sexes et l'\u00e9mancipation des femmes dans le cadre de la coop\u00e9ration au d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0988"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-08-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-08-VOT-ITM-009"
+            ],
+            "notation_dlvId": "467415",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renouvellement du plan d'action de l'Union europ\u00e9enne sur l'\u00e9galit\u00e9 des sexes et l'\u00e9mancipation des femmes dans le cadre de la coop\u00e9ration au d\u00e9veloppement</title><label>Proposition de r\u00e9solution: B8-0988/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2754",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6",
+            "type": "Activity",
+            "activity_date": "2015-10-08",
+            "activity_id": "MTG-PL-2015-10-08-VOT-ITM-467412-6",
+            "activity_label": {
+                "fr": "L\u00e9gislation sur les hypoth\u00e8ques et instruments financiers \u00e0 risque dans l'Union europ\u00e9enne: le cas de l'Espagne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0987"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-08-OJ-ITM-V-84"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-08-VOT-ITM-006"
+            ],
+            "notation_dlvId": "467412",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u00e9gislation sur les hypoth\u00e8ques et instruments financiers \u00e0 risque dans l'Union europ\u00e9enne: le cas de l'Espagne</title><label>Question orale: B8-0987/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2740",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3",
+            "type": "Activity",
+            "activity_date": "2015-10-08",
+            "activity_id": "MTG-PL-2015-10-08-VOT-ITM-467411-3",
+            "activity_label": {
+                "fr": "D\u00e9placement d'un tr\u00e8s grand nombre d'enfants au Nigeria \u00e0 cause des attaques de Boko Haram"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1020",
+                "eli/dl/doc/B-8-2015-1029",
+                "eli/dl/doc/B-8-2015-1031",
+                "eli/dl/doc/B-8-2015-1003",
+                "eli/dl/doc/B-8-2015-1023",
+                "eli/dl/doc/B-8-2015-1027",
+                "eli/dl/doc/B-8-2015-1024"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-08-OJ-ITM-V-90"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-08-VOT-ITM-003"
+            ],
+            "notation_dlvId": "467411",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9placement d'un tr\u00e8s grand nombre d'enfants au Nigeria \u00e0 cause des attaques de Boko Haram</title><label>Propositions de r\u00e9solution: B8-1003/2015, B8-1020/2015, B8-1023/2015, B8-1024/2015, B8-1027/2015, B8-1029/2015, B8-1031/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467407-2",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467514-5",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467405-1",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467131-10",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467495-4",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467414-8",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467413-7",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467415-9",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467412-6",
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2876",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-08-VOT-ITM-467411-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

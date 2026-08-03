@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-13-VOT-ITM-939230",
+            "type": "Activity",
+            "activity_date": "2023-06-13",
+            "activity_id": "MTG-PL-2023-06-13-VOT-ITM-939230",
+            "activity_label": {
+                "fr": "Grands projets d\u2019infrastructures de transport dans l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0181"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-13-OJ-ITM-V-44",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-13-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939230",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Grands projets d\u2019infrastructures de transport dans l'UE</title><label>Rapport: Andrey Novakov (A9-0181/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

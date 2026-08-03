@@ -1,0 +1,183 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843490",
+            "type": "Activity",
+            "activity_date": "2019-11-27",
+            "activity_id": "MTG-PL-2019-11-27-VOT-ITM-843490",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0036"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-27-VOT-ITM-004"
+            ],
+            "notation_dlvId": "843490",
+            "structuredLabel": {
+                "fr": "<structuredLabel><label>Rapport: Monika Hohlmeier (Majorit\u00e9 des membres qui composent le Parlement et 3/5 des suffrages exprim\u00e9s requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843490",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842561",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842566",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843491",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843487"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2027",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843490"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842561",
+            "type": "Activity",
+            "activity_date": "2019-11-27",
+            "activity_id": "MTG-PL-2019-11-27-VOT-ITM-842561",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0035"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-27-VOT-ITM-005"
+            ],
+            "notation_dlvId": "842561",
+            "structuredLabel": {
+                "fr": "<structuredLabel><label>Monika Hohlmeier, Eider Gardiazabal Rubial</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843490",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842561",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842566",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843491",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843487"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2028",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842561"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842566",
+            "type": "Activity",
+            "activity_date": "2019-11-27",
+            "activity_id": "MTG-PL-2019-11-27-VOT-ITM-842566",
+            "activity_label": {
+                "fr": "\u00c9lection de la Commission"
+            },
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-27-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-27-VOT-ITM-001"
+            ],
+            "notation_dlvId": "842566",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9lection de la Commission</title><label></label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843490",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842561",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842566",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843491",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843487"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843491",
+            "type": "Activity",
+            "activity_date": "2019-11-27",
+            "activity_id": "MTG-PL-2019-11-27-VOT-ITM-843491",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0039"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-27-VOT-ITM-003"
+            ],
+            "notation_dlvId": "843491",
+            "structuredLabel": {
+                "fr": "<structuredLabel><label>Rapport: Monika Hohlmeier (Majorit\u00e9 des membres qui composent le Parlement et 3/5 des suffrages exprim\u00e9s requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843490",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842561",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842566",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843491",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843487"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2026",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843491"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843487",
+            "type": "Activity",
+            "activity_date": "2019-11-27",
+            "activity_id": "MTG-PL-2019-11-27-VOT-ITM-843487",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0040"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-27-VOT-ITM-002"
+            ],
+            "notation_dlvId": "843487",
+            "structuredLabel": {
+                "fr": "<structuredLabel><label>Rapport: Eva Kaili (Majorit\u00e9 des membres qui composent le Parlement et 3/5 des suffrages exprim\u00e9s requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843490",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842561",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-842566",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843491",
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843487"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2137",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-27-VOT-ITM-843487"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

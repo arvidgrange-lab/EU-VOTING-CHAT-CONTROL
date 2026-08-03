@@ -1,0 +1,538 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934415",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0133"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-154",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-014"
+            ],
+            "notation_dlvId": "934415",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934607",
+            "activity_label": {
+                "fr": "La Russie, le cas d\u2019Alexe\u00ef Navalny, le d\u00e9ploiement militaire \u00e0 la fronti\u00e8re ukrainienne et l'attaque russe en R\u00e9publique tch\u00e8que"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0235"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-177",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-005"
+            ],
+            "notation_dlvId": "934607",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La Russie, le cas d\u2019Alexe\u00ef Navalny, le d\u00e9ploiement militaire \u00e0 la fronti\u00e8re ukrainienne et l'attaque russe en R\u00e9publique tch\u00e8que</title><label>Propositions de r\u00e9solution: B9-0235/2021, B9-0236/2021, B9-0237/2021, B9-0250/2021, B9-0251/2021, B9-0252/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934624",
+            "activity_label": {
+                "fr": "La Bolivie et l'arrestation de l'ancienne pr\u00e9sidente Jeanine A\u00f1ez ainsi que d'autres personnalit\u00e9s politiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0244"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-184",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-002"
+            ],
+            "notation_dlvId": "934624",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La Bolivie et l'arrestation de l'ancienne pr\u00e9sidente Jeanine A\u00f1ez ainsi que d'autres personnalit\u00e9s politiques</title><label>Propositions de r\u00e9solution: B9-0244/2021, B9-0245/2021, B9-0245/2021, B9-0246/2021, B9-0247/2021, B9-0248/2021, B9-0249/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934581",
+            "activity_label": {
+                "fr": "\u00c9tat pr\u00e9visionnel des recettes et des d\u00e9penses pour l\u2019exercice 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0145"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-34",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-004"
+            ],
+            "notation_dlvId": "934581",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tat pr\u00e9visionnel des recettes et des d\u00e9penses pour l\u2019exercice 2022</title><label>Rapport: Damian Boeselager (A9-0145/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934414",
+            "activity_label": {
+                "fr": "Fonds europ\u00e9en de la d\u00e9fense"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0120"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-153",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-010"
+            ],
+            "notation_dlvId": "934414",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds europ\u00e9en de la d\u00e9fense</title><label>Recommandation pour la deuxi\u00e8me lecture: Zdzis\u0142aw Krasnod\u0119bski (A9-0120/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934417",
+            "activity_label": {
+                "fr": "Droits et obligations des voyageurs ferroviaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0045"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-60",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-009"
+            ],
+            "notation_dlvId": "934417",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits et obligations des voyageurs ferroviaires</title><label>Recommandation pour la deuxi\u00e8me lecture: Bogus\u0142aw Liberadzki (A9-0045/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934403",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0126"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-149",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-015"
+            ],
+            "notation_dlvId": "934403",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934627",
+            "activity_label": {
+                "fr": "Coop\u00e9ration administrative dans le domaine des droits d\u2019accise en ce qui concerne le contenu des registres \u00e9lectroniques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0121"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-160",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-011"
+            ],
+            "notation_dlvId": "934627",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coop\u00e9ration administrative dans le domaine des droits d\u2019accise en ce qui concerne le contenu des registres \u00e9lectroniques</title><label>Rapport: Irene Tinagli (A9-0121/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934603",
+            "activity_label": {
+                "fr": "L\u2019accessibilit\u00e9 et le caract\u00e8re abordable des tests de d\u00e9pistage de la COVID-19"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0233"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-237",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-008"
+            ],
+            "notation_dlvId": "934603",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u2019accessibilit\u00e9 et le caract\u00e8re abordable des tests de d\u00e9pistage de la COVID-19</title><label>Propositions de r\u00e9solution: B9-0233/2021, B9-0234/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934626",
+            "activity_label": {
+                "fr": "Cinqui\u00e8me anniversaire de l'accord de paix en Colombie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0227"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-178",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-006"
+            ],
+            "notation_dlvId": "934626",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cinqui\u00e8me anniversaire de l'accord de paix en Colombie</title><label>Propositions de r\u00e9solution: B9-0227/2021, B9-0228/2021, B9-0229/2021, B9-0230/2021, B9-0231/2021, B9-0232/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934608",
+            "activity_label": {
+                "fr": "Lois sur le blasph\u00e8me au Pakistan, en particulier le cas de Shagufta Kausar et de Shafqat Emmanuel"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0253"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-185",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-003"
+            ],
+            "notation_dlvId": "934608",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lois sur le blasph\u00e8me au Pakistan, en particulier le cas de Shagufta Kausar et de Shafqat Emmanuel</title><label>Propositions de r\u00e9solution: B9-0253/2021, B9-0254/2021, B9-0255/2021, B9-0256/2021, B9-0257/2021, B9-0258/2021, B9-0259/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934506",
+            "activity_label": {
+                "fr": "Garantie europ\u00e9enne pour l\u2019enfance"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0220"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-176",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-007"
+            ],
+            "notation_dlvId": "934506",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Garantie europ\u00e9enne pour l\u2019enfance</title><label>Propositions de r\u00e9solution: B9-0220/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2605",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623",
+            "type": "Activity",
+            "activity_date": "2021-04-29",
+            "activity_id": "MTG-PL-2021-04-29-VOT-ITM-934623",
+            "activity_label": {
+                "fr": "La pand\u00e9mie de COVID-19 en Am\u00e9rique latine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0238"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-29-OJ-ITM-V-183",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-29-VOT-ITM-001"
+            ],
+            "notation_dlvId": "934623",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La pand\u00e9mie de COVID-19 en Am\u00e9rique latine</title><label>Propositions de r\u00e9solution: B9-0238/2021, B9-0239/2021, B9-0240/2021, B9-0241/2021, B9-0242/2021, B9-0243/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-29",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934415",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934607",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934624",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934581",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934414",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934417",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934403",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934627",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934603",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934626",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934608",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934506",
+                        "eli/dl/event/MTG-PL-2021-04-29-VOT-ITM-934623"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

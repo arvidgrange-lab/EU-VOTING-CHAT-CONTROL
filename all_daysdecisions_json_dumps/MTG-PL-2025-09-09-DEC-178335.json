@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-09-09-DEC-178335",
+            "type": "Vote",
+            "activity_date": "2025-09-09",
+            "activity_id": "MTG-PL-2025-09-09-DEC-178335",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 616,
+            "number_of_votes_abstention": 25,
+            "number_of_votes_against": 129,
+            "number_of_votes_favor": 462,
+            "comment": {
+                "sl": "TG",
+                "sv": "sluten",
+                "lv": "AIZKL",
+                "sk": "TH",
+                "nl": "Geh. S",
+                "el": "\u039c\u03a8",
+                "ga": "BR",
+                "mt": "Seg.",
+                "lt": "SB",
+                "cs": "TAJ",
+                "de": "geh.",
+                "bg": "SEC",
+                "it": "SEC",
+                "pt": "SEC",
+                "fi": "SEC",
+                "ro": "SEC",
+                "en": "SEC",
+                "hu": "TITK.",
+                "es": "SEC",
+                "hr": "SEC",
+                "fr": "SEC",
+                "da": "SEC",
+                "pl": "taj",
+                "et": "SH"
+            },
+            "notation_votingId": "178335",
+            "referenceText": {
+                "hu": "Stef Blok jel\u00f6l\u00e9se",
+                "sl": "Imenovanje Stefa Bloka",
+                "hr": "Imenovanje Stefa Bloka",
+                "it": "Nomina di Stef Blok",
+                "da": "Udn\u00e6vnelse af Stef Blok",
+                "nl": "Benoeming van Stef Blok",
+                "cs": "jmenov\u00e1n\u00ed Stefa Bloka",
+                "fi": "Stef Blokin nimitt\u00e4minen",
+                "es": "Nombramiento de Stef Blok",
+                "ga": "Ainmni\u00fach\u00e1n Stef Blok",
+                "lt": "Stef Blok skyrimas",
+                "pt": "Nomea\u00e7\u00e3o de Stef Blok",
+                "pl": "Mianowanie Stefa Bloka",
+                "et": "Stef Bloki nimetamine",
+                "ro": "Desemnarea lui Stef Blok",
+                "sk": "Vymenovanie Stefa Bloka",
+                "en": "Nomination of Stef Blok",
+                "mt": "\u0126atra proposta ta\u2019 Stef Blok",
+                "de": "Ernennung von Stef Blok",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 Stef Blok",
+                "fr": "Nomination de Stef Blok",
+                "lv": "Stef Blok iecel\u0161ana",
+                "bg": "\u041d\u0430\u0437\u043d\u0430\u0447\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0421\u0442\u0435\u0444 \u0411\u043b\u043e\u043a",
+                "sv": "Utn\u00e4mning av Stef Blok"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

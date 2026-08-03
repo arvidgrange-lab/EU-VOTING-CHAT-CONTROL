@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939789",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939789",
+            "activity_label": {
+                "mul": "Derni\u00e8res attaques contre les femmes et les d\u00e9fenseurs des droits des femmes et d\u00e9tention arbitraire de citoyens europ\u00e9ens en Iran - Latest attacks against women and women's rights defenders in Iran, and Iran's arbitrary detention of EU nationals - J\u00fcngste Angriffe auf Frauen und auf Menschen, die sich f\u00fcr die Rechte der Frauen einsetzen, sowie die willk\u00fcrliche Inhaftierung von Staatsangeh\u00f6rigen der Mitgliedstaaten der Union in Iran",
+                "fr": "Derni\u00e8res attaques contre les femmes et les d\u00e9fenseurs des droits des femmes et d\u00e9tention arbitraire de citoyens europ\u00e9ens en Iran"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0480",
+                "eli/dl/doc/B-9-2023-0482",
+                "eli/dl/doc/B-9-2023-0481",
+                "eli/dl/doc/B-9-2023-0477",
+                "eli/dl/doc/B-9-2023-0478",
+                "eli/dl/doc/B-9-2023-0479"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_100"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939789",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 2,
+            "epvoc:amendmentsTabledTotal": 2,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Derni\u00e8res attaques contre les femmes et les d\u00e9fenseurs des droits des femmes et d\u00e9tention arbitraire de citoyens europ\u00e9ens en Iran</title><label>Propositions de r\u00e9solution: RC-B9-0477/2023, B9-0477/2023, B9-0478/2023, B9-0479/2023, B9-0480/2023, B9-0481/2023, B9-0482/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

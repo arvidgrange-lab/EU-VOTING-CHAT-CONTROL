@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939723",
+            "activity_label": {
+                "mul": "Mesures destin\u00e9es \u00e0 assurer un niveau \u00e9lev\u00e9 commun de cybers\u00e9curit\u00e9 dans les institutions, organes et organismes de l\u2019Union - High common level of cybersecurity at the institutions, bodies, offices and agencies of the Union - Hohes gemeinsames Cybersicherheitsniveau in den Organen, Einrichtungen und sonstigen Stellen der Union",
+                "fr": "Mesures destin\u00e9es \u00e0 assurer un niveau \u00e9lev\u00e9 commun de cybers\u00e9curit\u00e9 dans les institutions, organes et organismes de l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0064"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-46",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939723",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures destin\u00e9es \u00e0 assurer un niveau \u00e9lev\u00e9 commun de cybers\u00e9curit\u00e9 dans les institutions, organes et organismes de l\u2019Union</title><label>Rapport: Henna Virkkunen (A9-0064/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

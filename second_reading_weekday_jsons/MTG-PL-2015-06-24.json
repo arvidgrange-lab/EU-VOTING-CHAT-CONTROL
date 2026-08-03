@@ -1,0 +1,216 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441119-2",
+            "type": "Activity",
+            "activity_date": "2015-06-24",
+            "activity_id": "MTG-PL-2015-06-24-VOT-ITM-441119-2",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 parlementaire d'Udo Voigt"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0192"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-06-24-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-06-24-VOT-ITM-002"
+            ],
+            "notation_dlvId": "441119",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 parlementaire d'Udo Voigt</title><label>Rapport: Tadeusz Zwiefka (A8-0192/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-06-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441119-2",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441117-1",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439810-4",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439809-5",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439635-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2072",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441119-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441117-1",
+            "type": "Activity",
+            "activity_date": "2015-06-24",
+            "activity_id": "MTG-PL-2015-06-24-VOT-ITM-441117-1",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 parlementaire de Sotirios Zarianopoulos"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0191"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-06-24-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-06-24-VOT-ITM-001"
+            ],
+            "notation_dlvId": "441117",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 parlementaire de Sotirios Zarianopoulos</title><label>Rapport: Laura Ferrara (A8-0191/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-06-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441119-2",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441117-1",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439810-4",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439809-5",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439635-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2015",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441117-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439810-4",
+            "type": "Activity",
+            "activity_date": "2015-06-24",
+            "activity_id": "MTG-PL-2015-06-24-VOT-ITM-439810-4",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: dossier EGF/2015/000 TA 2015 - Assistance technique sur l'initiative de la Commission"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0185"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-06-24-OJ-ITM-V-7"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-06-24-VOT-ITM-004"
+            ],
+            "notation_dlvId": "439810",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: dossier EGF/2015/000 TA 2015 - Assistance technique sur l'initiative de la Commission</title><label>Rapport: G\u00e9rard Deprez (A8-0185/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-06-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441119-2",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441117-1",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439810-4",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439809-5",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439635-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2076",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439810-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439809-5",
+            "type": "Activity",
+            "activity_date": "2015-06-24",
+            "activity_id": "MTG-PL-2015-06-24-VOT-ITM-439809-5",
+            "activity_label": {
+                "fr": "Examen du cadre de gouvernance \u00e9conomique: bilan et enjeux"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0190"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-06-24-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-06-24-VOT-ITM-005"
+            ],
+            "notation_dlvId": "439809",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Examen du cadre de gouvernance \u00e9conomique: bilan et enjeux</title><label>Rapport: Pervenche Ber\u00e8s (A8-0190/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-06-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441119-2",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441117-1",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439810-4",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439809-5",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439635-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2145",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439809-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439635-3",
+            "type": "Activity",
+            "activity_date": "2015-06-24",
+            "activity_id": "MTG-PL-2015-06-24-VOT-ITM-439635-3",
+            "activity_label": {
+                "fr": "Fonds europ\u00e9en pour les investissements strat\u00e9giques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0139"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-06-24-OJ-ITM-V-1"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-06-24-VOT-ITM-003"
+            ],
+            "notation_dlvId": "439635",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds europ\u00e9en pour les investissements strat\u00e9giques</title><label>Rapport: Jos\u00e9 Manuel Fernandes et  Udo Bullmann (A8-0139/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-06-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441119-2",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-441117-1",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439810-4",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439809-5",
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439635-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0009",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-24-VOT-ITM-439635-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

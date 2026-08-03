@@ -1,0 +1,506 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859",
+            "type": "Activity",
+            "activity_date": "2019-10-24",
+            "activity_id": "MTG-PL-2019-10-24-VOT-ITM-834859",
+            "activity_label": {
+                "fr": "Situation des personnes LGBTI en Ouganda"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0142",
+                "eli/dl/doc/B-9-2019-0135",
+                "eli/dl/doc/B-9-2019-0140",
+                "eli/dl/doc/B-9-2019-0134",
+                "eli/dl/doc/B-9-2019-0137"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-24-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-24-VOT-ITM-001"
+            ],
+            "notation_dlvId": "834859",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation des personnes LGBTI en Ouganda</title><label>B9-0134/2019, B9-0135/2019, B9-0137/2019, B9-0140/2019, B9-0142/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2879",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886",
+            "type": "Activity",
+            "activity_date": "2019-10-24",
+            "activity_id": "MTG-PL-2019-10-24-VOT-ITM-834886",
+            "activity_label": {
+                "fr": "Aide financi\u00e8re aux \u00c9tats membres en vue de faire face \u00e0 la lourde charge financi\u00e8re occasionn\u00e9e \u00e0 la suite du retrait du Royaume-Uni de l\u2019Union sans accord"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0020"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-24-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-24-VOT-ITM-004"
+            ],
+            "notation_dlvId": "834886",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Aide financi\u00e8re aux \u00c9tats membres en vue de faire face \u00e0 la lourde charge financi\u00e8re occasionn\u00e9e \u00e0 la suite du retrait du Royaume-Uni de l\u2019Union sans accord</title><label>Rapport: Younous Omarjee (A9-0020/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0183",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627",
+            "type": "Activity",
+            "activity_date": "2019-10-24",
+            "activity_id": "MTG-PL-2019-10-24-VOT-ITM-834627",
+            "activity_label": {
+                "fr": "Cons\u00e9quences de la faillite du groupe Thomas Cook"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0120",
+                "eli/dl/doc/B-9-2019-0119",
+                "eli/dl/doc/B-9-2019-0121",
+                "eli/dl/doc/B-9-2019-0122",
+                "eli/dl/doc/B-9-2019-0124",
+                "eli/dl/doc/B-9-2019-0118"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-24-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-24-VOT-ITM-006"
+            ],
+            "notation_dlvId": "834627",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cons\u00e9quences de la faillite du groupe Thomas Cook</title><label>Propositions de r\u00e9solution: B9-0118/2019, B9-0119/2019, B9-0120/2019, B9-0121/2019, B9-0122/2019, B9-0124/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2854",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863",
+            "type": "Activity",
+            "activity_date": "2019-10-24",
+            "activity_id": "MTG-PL-2019-10-24-VOT-ITM-834863",
+            "activity_label": {
+                "fr": "Le nouveau code p\u00e9nal propos\u00e9 en Indon\u00e9sie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0145",
+                "eli/dl/doc/B-9-2019-0148",
+                "eli/dl/doc/B-9-2019-0147",
+                "eli/dl/doc/B-9-2019-0150",
+                "eli/dl/doc/B-9-2019-0152",
+                "eli/dl/doc/B-9-2019-0153",
+                "eli/dl/doc/B-9-2019-0146"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-24-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-24-VOT-ITM-003"
+            ],
+            "notation_dlvId": "834863",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le nouveau code p\u00e9nal propos\u00e9 en Indon\u00e9sie</title><label>Propositions de r\u00e9solution: B9-0145/2019, B9-0146/2019, B9-0147/2019, B9-0148/2019, B9-0150/2019, B9-0152/2019, B9-0153/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2881",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231",
+            "type": "Activity",
+            "activity_date": "2019-10-24",
+            "activity_id": "MTG-PL-2019-10-24-VOT-ITM-836231",
+            "activity_label": {
+                "fr": "Ouverture des n\u00e9gociations d'adh\u00e9sion avec la Mac\u00e9doine du Nord et l'Albanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0160",
+                "eli/dl/doc/B-9-2019-0159",
+                "eli/dl/doc/B-9-2019-0155",
+                "eli/dl/doc/B-9-2019-0157",
+                "eli/dl/doc/B-9-2019-0158",
+                "eli/dl/doc/B-9-2019-0161",
+                "eli/dl/doc/B-9-2019-0156"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-24-OJ-ITM-V-43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-24-VOT-ITM-010"
+            ],
+            "notation_dlvId": "836231",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ouverture des n\u00e9gociations d'adh\u00e9sion avec la Mac\u00e9doine du Nord et l'Albanie</title><label>Proposition de r\u00e9solution: B9-0155/2019, B9-0156/2019, B9-0157/2019, B9-0158/2019, B9-0159/2019, B9-0160/2019, B9-0161/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2883",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630",
+            "type": "Activity",
+            "activity_date": "2019-10-24",
+            "activity_id": "MTG-PL-2019-10-24-VOT-ITM-834630",
+            "activity_label": {
+                "fr": "Op\u00e9rations de recherche et de sauvetage en M\u00e9diterran\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0130",
+                "eli/dl/doc/B-9-2019-0154",
+                "eli/dl/doc/B-9-2019-0131",
+                "eli/dl/doc/B-9-2019-0132"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-24-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-24-VOT-ITM-009"
+            ],
+            "notation_dlvId": "834630",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Op\u00e9rations de recherche et de sauvetage en M\u00e9diterran\u00e9e</title><label>Propositions de r\u00e9solution: B9-0130/2019, B9-0131/2019, B9-0132/2019, B9-0154/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2755",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629",
+            "type": "Activity",
+            "activity_date": "2019-10-24",
+            "activity_id": "MTG-PL-2019-10-24-VOT-ITM-834629",
+            "activity_label": {
+                "fr": "Op\u00e9rations militaires de la Turquie dans le nord-est de la Syrie et leurs r\u00e9percussions"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0125",
+                "eli/dl/doc/B-9-2019-0128",
+                "eli/dl/doc/B-9-2019-0133",
+                "eli/dl/doc/B-9-2019-0123",
+                "eli/dl/doc/B-9-2019-0129",
+                "eli/dl/doc/B-9-2019-0126",
+                "eli/dl/doc/B-9-2019-0127"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-24-OJ-ITM-V-40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-24-VOT-ITM-008"
+            ],
+            "notation_dlvId": "834629",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Op\u00e9rations militaires de la Turquie dans le nord-est de la Syrie et leurs r\u00e9percussions</title><label>Propositions de r\u00e9solution: B9-0123/2019, B9-0125/2019, B9-0126/2019, B9-0127/2019, B9-0128/2019, B9-0129/2019, B9-0133/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2886",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628",
+            "type": "Activity",
+            "activity_date": "2019-10-24",
+            "activity_id": "MTG-PL-2019-10-24-VOT-ITM-834628",
+            "activity_label": {
+                "fr": "\u00c9tat des lieux de la communication, par certaines entreprises et succursales, d'informations relatives \u00e0 l'imp\u00f4t sur les b\u00e9n\u00e9fices - d\u00e9clarations publiques par pays"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0117"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-24-OJ-ITM-V-36"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-24-VOT-ITM-007"
+            ],
+            "notation_dlvId": "834628",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tat des lieux de la communication, par certaines entreprises et succursales, d'informations relatives \u00e0 l'imp\u00f4t sur les b\u00e9n\u00e9fices - d\u00e9clarations publiques par pays</title><label>Proposition de r\u00e9solution: B9-0117/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2882",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864",
+            "type": "Activity",
+            "activity_date": "2019-10-24",
+            "activity_id": "MTG-PL-2019-10-24-VOT-ITM-834864",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e au titre de l\u2019article 112: octroi partiel d'une autorisation pour une utilisation du trioxyde de chrome (Cromomed S.A. et autres)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0151"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-24-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-24-VOT-ITM-005"
+            ],
+            "notation_dlvId": "834864",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e au titre de l\u2019article 112: octroi partiel d'une autorisation pour une utilisation du trioxyde de chrome (Cromomed S.A. et autres)</title><label>Proposition de r\u00e9solution: B9-0151/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2844",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861",
+            "type": "Activity",
+            "activity_date": "2019-10-24",
+            "activity_id": "MTG-PL-2019-10-24-VOT-ITM-834861",
+            "activity_label": {
+                "fr": "\u00c9gypte"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0136",
+                "eli/dl/doc/B-9-2019-0138",
+                "eli/dl/doc/B-9-2019-0141",
+                "eli/dl/doc/B-9-2019-0144",
+                "eli/dl/doc/B-9-2019-0139",
+                "eli/dl/doc/B-9-2019-0143"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-24-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-24-VOT-ITM-002"
+            ],
+            "notation_dlvId": "834861",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9gypte</title><label>B9-0136/2019, B9-0138/2019, B9-0139/2019, B9-0141/2019, B9-0143/2019, B9-0144/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834859",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834886",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834627",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834863",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-836231",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834630",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834629",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834628",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834864",
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2880",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-24-VOT-ITM-834861"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

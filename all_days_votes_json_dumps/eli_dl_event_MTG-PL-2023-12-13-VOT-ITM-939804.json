@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939804",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939804",
+            "activity_label": {
+                "mul": "Espace europ\u00e9en des donn\u00e9es de sant\u00e9 - European Health Data Space - Europ\u00e4ischer Raum f\u00fcr Gesundheitsdaten",
+                "fr": "Espace europ\u00e9en des donn\u00e9es de sant\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0395"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-64",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939804",
+            "epvoc:amendmentsAdoptedCommittee": 543,
+            "epvoc:amendmentsAdoptedMEP": 1,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 544,
+            "epvoc:amendmentsTabledCommittee": 543,
+            "epvoc:amendmentsTabledMEP": 6,
+            "epvoc:amendmentsTabledPoliticalGroup": 8,
+            "epvoc:amendmentsTabledTotal": 557,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Espace europ\u00e9en des donn\u00e9es de sant\u00e9</title><label>Rapport: Tomislav Sokol, Annalisa Tardino (A9-0395/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-09-17-VOT-ITM-463619-1",
+            "type": "Activity",
+            "activity_date": "2015-09-17",
+            "activity_id": "MTG-PL-2015-09-17-VOT-ITM-463619-1",
+            "activity_label": {
+                "fr": "D\u00e9cision du Conseil instituant des mesures provisoires en mati\u00e8re de protection internationale au profit de l'Italie\t de la Gr\u00e8ce et de la Hongrie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/C-8-2015-0271"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-09-17-VOT-ITM-001"
+            ],
+            "notation_dlvId": "463619",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9cision du Conseil instituant des mesures provisoires en mati\u00e8re de protection internationale au profit de l'Italie\t de la Gr\u00e8ce et de la Hongrie</title><label>Proposition de la commission\u00a0: COM(2015)0451 - C8-0271/2015 - 2015/0209(NLE)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-09-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-17-VOT-ITM-463619-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0209",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-17-VOT-ITM-463619-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-02-VOT-ITM-938603",
+            "type": "Activity",
+            "activity_date": "2023-02-02",
+            "activity_id": "MTG-PL-2023-02-02-VOT-ITM-938603",
+            "activity_label": {
+                "fr": "Transparence et ciblage de la publicit\u00e9 \u00e0 caract\u00e8re politique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0009"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-02-OJ-ITM-V-14",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-02-VOT-ITM-008"
+            ],
+            "notation_dlvId": "938603",
+            "epvoc:amendmentsAdoptedCommittee": 217,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 217,
+            "epvoc:amendmentsTabledCommittee": 217,
+            "epvoc:amendmentsTabledPoliticalGroup": 12,
+            "epvoc:amendmentsTabledTotal": 229,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Transparence et ciblage de la publicit\u00e9 \u00e0 caract\u00e8re politique</title><label>Rapport: Sandro Gozi (A9-0009/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

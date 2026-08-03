@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939708",
+            "activity_label": {
+                "fr": "TVA: assujettis, r\u00e9gimes particuliers concernant les ventes \u00e0 distance de biens import\u00e9s et la d\u00e9claration et le paiement de la TVA \u00e0 l'importation",
+                "mul": "TVA: assujettis, r\u00e9gimes particuliers concernant les ventes \u00e0 distance de biens import\u00e9s et la d\u00e9claration et le paiement de la TVA \u00e0 l'importation - VAT: taxable persons, special scheme and special arrangements for declaration and payment relating to distance sales of imported goods - MwSt\u00a0\u2013 Steuerpflichtige und Sonderregelungen f\u00fcr die Erkl\u00e4rung und Entrichtung bei Fernverk\u00e4ufen von eingef\u00fchrten Gegenst\u00e4nden"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0320"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939708",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>TVA: assujettis, r\u00e9gimes particuliers concernant les ventes \u00e0 distance de biens import\u00e9s et la d\u00e9claration et le paiement de la TVA \u00e0 l'importation</title><label>Rapport: Olivier Chastel (A9-0320/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

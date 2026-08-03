@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-14-VOT-ITM-939835",
+            "type": "Activity",
+            "activity_date": "2023-12-14",
+            "activity_id": "MTG-PL-2023-12-14-VOT-ITM-939835",
+            "activity_label": {
+                "fr": "R\u00e9solution du Parlement europ\u00e9en sur Frontex s\u2019appuyant sur l\u2019enqu\u00eate du groupe de travail LIBE sur le contr\u00f4le de Frontex",
+                "mul": "Frontex: construire sur la base de l\u2019enqu\u00eate du groupe de travail LIBE sur le contr\u00f4le de Frontex - Frontex, building on the fact-finding investigation of the LIBE Working Group for Frontex Scrutiny - Frontex auf der Grundlage der Untersuchung der Frontex-Kontrollgruppe des LIBE-Ausschusses"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0499"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-14-OJ-ITM-V-92",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939835",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 16,
+            "epvoc:amendmentsTabledTotal": 16,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9solution du Parlement europ\u00e9en sur Frontex s\u2019appuyant sur l\u2019enqu\u00eate du groupe de travail LIBE sur le contr\u00f4le de Frontex</title><label>Propositions de r\u00e9solution: B9-0499/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,579 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-684334-5",
+            "activity_label": {
+                "fr": "Assistance macrofinanci\u00e8re suppl\u00e9mentaire \u00e0 la G\u00e9orgie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0028"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "684334",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Assistance macrofinanci\u00e8re suppl\u00e9mentaire \u00e0 la G\u00e9orgie</title><label>Rapport: Hannu Takkula (A8-0028/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0242",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-685612-6",
+            "activity_label": {
+                "fr": "Objection au r\u00e8glement d\u00e9l\u00e9gu\u00e9 de la Commission modifiant le r\u00e8glement (UE) n\u00ba\u00a0347/2013 en ce qui concerne la liste des projets d\u2019int\u00e9r\u00eat commun de l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0136"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "685612",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection au r\u00e8glement d\u00e9l\u00e9gu\u00e9 de la Commission modifiant le r\u00e8glement (UE) n\u00ba\u00a0347/2013 en ce qui concerne la liste des projets d\u2019int\u00e9r\u00eat commun de l\u2019Union</title><label>Proposition de r\u00e9solution: B8-0136/2018 (majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2990",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-685719-1",
+            "activity_label": {
+                "fr": "Lignes directrices sur le cadre des futures relations Union europ\u00e9enne-Royaume-Uni"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0135",
+                "eli/dl/doc/B-8-2018-0134"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "685719",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lignes directrices sur le cadre des futures relations Union europ\u00e9enne-Royaume-Uni</title><label>Propositions de r\u00e9solution: B8-0134/2018, B8-0135/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2573",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-684239-2",
+            "activity_label": {
+                "fr": "Statistiques des transports par chemin de fer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0038"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "684239",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Statistiques des transports par chemin de fer</title><label>Rapport: Karima Delli (A8-0038/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0146",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-684239-3",
+            "activity_label": {
+                "fr": "Nomination du vice-pr\u00e9sident de la Banque centrale europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0056"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "684239",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination du vice-pr\u00e9sident de la Banque centrale europ\u00e9enne</title><label>Rapport: Roberto Gualtieri (A8-0056/2018) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0804",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-684240-4",
+            "activity_label": {
+                "fr": "Mesures de lutte contre la maladie de Newcastle"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0026"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "684240",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures de lutte contre la maladie de Newcastle</title><label>Rapport: Adina-Ioana V\u0103lean (A8-0026/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0329",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-684241-9",
+            "activity_label": {
+                "fr": "Le prochain CFP: pr\u00e9paration de la position du Parlement sur le CFP post-2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0048"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-56"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "684241",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le prochain CFP: pr\u00e9paration de la position du Parlement sur le CFP post-2020</title><label>Rapport: Jan Olbrycht et  Isabelle Thomas (A8-0048/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2052",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-684829-7",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2017/008\u00a0DE/Goodyear"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0061"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-82"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "684829",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2017/008\u00a0DE/Goodyear</title><label>Rapport: Ingeborg Gr\u00e4\u00dfle (A8-0061/2018) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2025",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-684246-12",
+            "activity_label": {
+                "fr": "Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: emploi et aspects sociaux dans le cadre de l\u2019examen annuel de la croissance 2018"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0052"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-012"
+            ],
+            "notation_dlvId": "684246",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: emploi et aspects sociaux dans le cadre de l\u2019examen annuel de la croissance 2018</title><label>Rapport: Krzysztof Hetman (A8-0052/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2260",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-684244-11",
+            "activity_label": {
+                "fr": "Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: examen annuel de la croissance 2018"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0047"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "684244",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: examen annuel de la croissance 2018</title><label>Rapport: Hugues Bayet (A8-0047/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2226",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-686070-8",
+            "activity_label": {
+                "fr": "Composition nominative de la commission sp\u00e9ciale sur la criminalit\u00e9 financi\u00e8re, l'\u00e9vasion fiscale et la fraude fiscale"
+            },
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "686070",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Composition nominative de la commission sp\u00e9ciale sur la criminalit\u00e9 financi\u00e8re, l'\u00e9vasion fiscale et la fraude fiscale</title><label>Composition nominative de la commission sp\u00e9ciale sur la criminalit\u00e9 financi\u00e8re, l'\u00e9vasion fiscale et la fraude fiscale : </label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10",
+            "type": "Activity",
+            "activity_date": "2018-03-14",
+            "activity_id": "MTG-PL-2018-03-14-VOT-ITM-684242-10",
+            "activity_label": {
+                "fr": "R\u00e9forme du syst\u00e8me de ressources propres de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0041"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-14-OJ-ITM-V-55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "684242",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9forme du syst\u00e8me de ressources propres de l\u2019Union europ\u00e9enne</title><label>Rapport: G\u00e9rard Deprez et  Janusz Lewandowski (A8-0041/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684334-5",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685612-6",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-685719-1",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-2",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684239-3",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684240-4",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684241-9",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684829-7",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684246-12",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684244-11",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-686070-8",
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2053",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-14-VOT-ITM-684242-10"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

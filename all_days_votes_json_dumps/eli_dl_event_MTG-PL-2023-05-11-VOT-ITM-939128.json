@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-11-VOT-ITM-939128",
+            "type": "Activity",
+            "activity_date": "2023-05-11",
+            "activity_id": "MTG-PL-2023-05-11-VOT-ITM-939128",
+            "activity_label": {
+                "fr": "Feuille de route pour une Europe sociale: deux ans apr\u00e8s Porto"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0235",
+                "eli/dl/doc/B-9-2023-0236"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-11-OJ-ITM-V-146",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-11-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939128",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Feuille de route pour une Europe sociale: deux ans apr\u00e8s Porto</title><label>Propositions de r\u00e9solution: B9-0235/2023, B9-0236/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

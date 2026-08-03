@@ -1,0 +1,727 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561907-12",
+            "activity_label": {
+                "fr": "Comment tirer le meilleur parti du potentiel de cr\u00e9ation d'emplois des PME?"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0248"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-012"
+            ],
+            "notation_dlvId": "561907",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Comment tirer le meilleur parti du potentiel de cr\u00e9ation d'emplois des PME?</title><label>Rapport: Zdzis\u0142aw Krasnod\u0119bski (A8-0248/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2320",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561908-13",
+            "activity_label": {
+                "fr": "Application de la directive sur l'\u00e9galit\u00e9 en mati\u00e8re d'emploi"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0225"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-013"
+            ],
+            "notation_dlvId": "561908",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Application de la directive sur l'\u00e9galit\u00e9 en mati\u00e8re d'emploi</title><label>Rapport: Renate Weber (A8-0225/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2116",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561903-8",
+            "activity_label": {
+                "fr": "Lignes directrices pour les politiques de l'emploi des \u00c9tats membres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0247"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-008"
+            ],
+            "notation_dlvId": "561903",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lignes directrices pour les politiques de l'emploi des \u00c9tats membres</title><label>Rapport: Laura Agea (A8-0247/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0043",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561906-11",
+            "activity_label": {
+                "fr": "Acc\u00e8s des PME au financement et renforcement de la diversit\u00e9 des financements aux PME dans une union des march\u00e9s de capitaux"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0222"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-011"
+            ],
+            "notation_dlvId": "561906",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Acc\u00e8s des PME au financement et renforcement de la diversit\u00e9 des financements aux PME dans une union des march\u00e9s de capitaux</title><label>Rapport: Othmar Karas (A8-0222/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2032",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561905-10",
+            "activity_label": {
+                "fr": "Application de la directive sur les services postaux"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0254"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-010"
+            ],
+            "notation_dlvId": "561905",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Application de la directive sur les services postaux</title><label>Rapport: Markus Ferber (A8-0254/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2010",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561993-2",
+            "activity_label": {
+                "fr": "Philippines"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0994",
+                "eli/dl/doc/B-8-2016-0992",
+                "eli/dl/doc/B-8-2016-1008",
+                "eli/dl/doc/B-8-2016-0999",
+                "eli/dl/doc/B-8-2016-1004",
+                "eli/dl/doc/B-8-2016-0990",
+                "eli/dl/doc/B-8-2016-1002"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-108"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-002"
+            ],
+            "notation_dlvId": "561993",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Philippines</title><label>Propositions de r\u00e9solution: B8-0990/2016, B8-0992/2016, B8-0994/2016, B8-0999/2016, B8-1002/2016, B8-1004/2016, B8-1008/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2880",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561994-3",
+            "activity_label": {
+                "fr": "Somalie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0993",
+                "eli/dl/doc/B-8-2016-0989",
+                "eli/dl/doc/B-8-2016-0991",
+                "eli/dl/doc/B-8-2016-1003",
+                "eli/dl/doc/B-8-2016-1007",
+                "eli/dl/doc/B-8-2016-1001",
+                "eli/dl/doc/B-8-2016-0998"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-109"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "561994",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Somalie</title><label>Propositions de r\u00e9solution: B8-0989/2016, B8-0991/2016, B8-0993/2016, B8-0998/2016, B8-1001/2016, B8-1003/2016, B8-1007/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2881",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561900-7",
+            "activity_label": {
+                "fr": "Asile: mesures provisoires au profit de l'Italie et de la Gr\u00e8ce"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0236"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-36"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "561900",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Asile: mesures provisoires au profit de l'Italie et de la Gr\u00e8ce</title><label>Rapport: Ska Keller (A8-0236/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0089",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-562068-1",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Commission europ\u00e9enne - Sir Julian King"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/C-8-2016-0339"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "562068",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Commission europ\u00e9enne - Sir Julian King</title><label> (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0812",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561992-9",
+            "activity_label": {
+                "fr": "Objectifs cl\u00e9s pour la 17e conf\u00e9rence des parties \u00e0 la CITES \u00e0 Johannesburg"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0987"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-100"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-009"
+            ],
+            "notation_dlvId": "561992",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objectifs cl\u00e9s pour la 17e conf\u00e9rence des parties \u00e0 la CITES \u00e0 Johannesburg</title><label>Proposition de r\u00e9solution: B8-0987/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2664",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561996-4",
+            "activity_label": {
+                "fr": "Zimbabwe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1009",
+                "eli/dl/doc/B-8-2016-0996",
+                "eli/dl/doc/B-8-2016-0995",
+                "eli/dl/doc/B-8-2016-1010",
+                "eli/dl/doc/B-8-2016-1005",
+                "eli/dl/doc/B-8-2016-0997",
+                "eli/dl/doc/B-8-2016-1006",
+                "eli/dl/doc/B-8-2016-1000"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-110"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "561996",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Zimbabwe</title><label>Propositions de r\u00e9solution: B8-0995/2016, B8-0996/2016, B8-0997/2016, B8-1000/2016, B8-1005/2016, B8-1006/2016, B8-1009/2016, B8-1010/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2882",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561901-5",
+            "activity_label": {
+                "fr": "Document de voyage destin\u00e9 au retour des ressortissants de pays tiers en s\u00e9jour irr\u00e9gulier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0201"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-005"
+            ],
+            "notation_dlvId": "561901",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Document de voyage destin\u00e9 au retour des ressortissants de pays tiers en s\u00e9jour irr\u00e9gulier</title><label>Rapport: Jussi Halla-aho (A8-0201/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0306",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561911-6",
+            "activity_label": {
+                "fr": "Prospectus \u00e0 publier en cas d'offre au public de valeurs mobili\u00e8res ou en vue de l'admission de valeurs mobili\u00e8res \u00e0 la n\u00e9gociation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0238"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-103"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "561911",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Prospectus \u00e0 publier en cas d'offre au public de valeurs mobili\u00e8res ou en vue de l'admission de valeurs mobili\u00e8res \u00e0 la n\u00e9gociation</title><label>Rapport: Petr Je\u017eek (A8-0238/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0268",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14",
+            "type": "Activity",
+            "activity_date": "2016-09-15",
+            "activity_id": "MTG-PL-2016-09-15-VOT-ITM-561947-14",
+            "activity_label": {
+                "fr": "Les activit\u00e9s, l'incidence et la valeur ajout\u00e9e du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation entre 2007 et 2014"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0227"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-15-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-15-VOT-ITM-014"
+            ],
+            "notation_dlvId": "561947",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les activit\u00e9s, l'incidence et la valeur ajout\u00e9e du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation entre 2007 et 2014</title><label>Rapport: Marian Harkin (A8-0227/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561907-12",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561908-13",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561903-8",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561906-11",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561905-10",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561993-2",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561994-3",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561900-7",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-562068-1",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561992-9",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561996-4",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561901-5",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561911-6",
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2284",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-15-VOT-ITM-561947-14"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

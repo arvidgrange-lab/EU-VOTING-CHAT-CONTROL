@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-13-VOT-ITM-939385",
+            "type": "Activity",
+            "activity_date": "2023-07-13",
+            "activity_id": "MTG-PL-2023-07-13-VOT-ITM-939385",
+            "activity_label": {
+                "fr": "Recommandations pour la r\u00e9forme des r\u00e8gles du Parlement europ\u00e9en en mati\u00e8re de transparence, d\u2019int\u00e9grit\u00e9, de responsabilit\u00e9 et de lutte contre la corruption"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0215"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-13-OJ-ITM-V-39",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939385",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Recommandations pour la r\u00e9forme des r\u00e8gles du Parlement europ\u00e9en en mati\u00e8re de transparence, d\u2019int\u00e9grit\u00e9, de responsabilit\u00e9 et de lutte contre la corruption</title><label>Rapport: Vladim\u00edr Bil\u010d\u00edk, Nathalie Loiseau (A9-0215/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

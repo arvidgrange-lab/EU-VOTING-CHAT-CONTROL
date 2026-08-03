@@ -1,0 +1,648 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422745-6",
+            "activity_label": {
+                "fr": "\u00c9missions de dioxyde de carbone du secteur des transports maritimes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0122"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-125"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-006"
+            ],
+            "notation_dlvId": "422745",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9missions de dioxyde de carbone du secteur des transports maritimes</title><label>Recommandation pour la deuxi\u00e8me lecture: Jos\u00e9 In\u00e1cio Faria (A8-0122/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0224",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-423690-1",
+            "activity_label": {
+                "fr": "Convention internationale sur les normes applicables au personnel des navires de p\u00eache"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0064"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-001"
+            ],
+            "notation_dlvId": "423690",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Convention internationale sur les normes applicables au personnel des navires de p\u00eache</title><label>Recommandation: Sofia Ribeiro (A8-0064/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0285",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422732-11",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre du processus de Bologne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0121"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-97"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-011"
+            ],
+            "notation_dlvId": "422732",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du processus de Bologne</title><label>Rapport: Krystyna \u0141ybacka (A8-0121/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2039",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-423690-2",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00ba 2/2015: r\u00e9vision du CFP pour la p\u00e9riode 2014-2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0138"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-101"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-002"
+            ],
+            "notation_dlvId": "423690",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00ba 2/2015: r\u00e9vision du CFP pour la p\u00e9riode 2014-2020</title><label>Rapport: Eider Gardiazabal Rubial (A8-0138/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2013",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422733-12",
+            "activity_label": {
+                "fr": "Le cin\u00e9ma europ\u00e9en \u00e0 l'\u00e8re num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0123"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-012"
+            ],
+            "notation_dlvId": "422733",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le cin\u00e9ma europ\u00e9en \u00e0 l'\u00e8re num\u00e9rique</title><label>Rapport: Bogdan Brunon Wenta (A8-0123/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2148",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422744-5",
+            "activity_label": {
+                "fr": "R\u00e9duire la consommation de sacs en plastique l\u00e9gers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0130"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-122"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-005"
+            ],
+            "notation_dlvId": "422744",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9duire la consommation de sacs en plastique l\u00e9gers</title><label>Recommandation pour la deuxi\u00e8me lecture: Margrete Auken (A8-0130/2015) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0371",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422730-8",
+            "activity_label": {
+                "fr": "Plan pluriannuel pour les stocks de cabillaud, de hareng et de sprat de la mer Baltique et les p\u00eacheries exploitant ces stocks"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0128"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-119"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-008"
+            ],
+            "notation_dlvId": "422730",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Plan pluriannuel pour les stocks de cabillaud, de hareng et de sprat de la mer Baltique et les p\u00eacheries exploitant ces stocks</title><label>Rapport: Jaros\u0142aw Wa\u0142\u0119sa (A8-0128/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0285",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422725-3",
+            "activity_label": {
+                "fr": "D\u00e9ploiement du syst\u00e8me eCall embarqu\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0053"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-118"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-003"
+            ],
+            "notation_dlvId": "422725",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9ploiement du syst\u00e8me eCall embarqu\u00e9</title><label>Recommandation pour la deuxi\u00e8me lecture: Olga Sehnalov\u00e1 (A8-0053/2015) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0165",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422746-10",
+            "activity_label": {
+                "fr": "Protocole \u00e0 l'accord de partenariat et de coop\u00e9ration \u00e9tablissant un partenariat CE-Russie, visant \u00e0 tenir compte de l'adh\u00e9sion de la Croatie \u00e0 l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0129"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-104"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-010"
+            ],
+            "notation_dlvId": "422746",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protocole \u00e0 l'accord de partenariat et de coop\u00e9ration \u00e9tablissant un partenariat CE-Russie, visant \u00e0 tenir compte de l'adh\u00e9sion de la Croatie \u00e0 l'UE</title><label>Recommandation: Gabrielius Landsbergis (A8-0129/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0052",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-423770-7",
+            "activity_label": {
+                "fr": "Statistiques europ\u00e9ennes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0137"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-184"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-007"
+            ],
+            "notation_dlvId": "423770",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Statistiques europ\u00e9ennes</title><label>Recommandation pour la deuxi\u00e8me lecture: Hugues Bayet (A8-0137/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0084",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422743-13",
+            "activity_label": {
+                "fr": "Nouvelle strat\u00e9gie de l'UE pour les for\u00eats"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0126"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-107"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-013"
+            ],
+            "notation_dlvId": "422743",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nouvelle strat\u00e9gie de l'UE pour les for\u00eats</title><label>Rapport: Elisabeth K\u00f6stinger (A8-0126/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2223",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422726-9",
+            "activity_label": {
+                "fr": "Obligation de d\u00e9barquement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0060"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-009"
+            ],
+            "notation_dlvId": "422726",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Obligation de d\u00e9barquement</title><label>Rapport: Alain Cadec (A8-0060/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0436",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422841-4",
+            "activity_label": {
+                "fr": "Directive sur la qualit\u00e9 du carburant et directive sur les \u00e9nergies renouvelables"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0025"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-123"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-004"
+            ],
+            "notation_dlvId": "422841",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Directive sur la qualit\u00e9 du carburant et directive sur les \u00e9nergies renouvelables</title><label>Recommandation pour la deuxi\u00e8me lecture: Nils Torvalds (A8-0025/2015) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-1",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422732-11",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423690-2",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422733-12",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422744-5",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422730-8",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422725-3",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422746-10",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-423770-7",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422743-13",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422726-9",
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0288",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

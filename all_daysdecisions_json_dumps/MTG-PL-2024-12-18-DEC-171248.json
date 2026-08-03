@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-12-18-DEC-171248",
+            "type": "Vote",
+            "activity_date": "2024-12-18",
+            "activity_id": "MTG-PL-2024-12-18-DEC-171248",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 650,
+            "number_of_votes_abstention": 61,
+            "number_of_votes_against": 20,
+            "number_of_votes_favor": 569,
+            "comment": {
+                "fi": "SEC",
+                "fr": "SEC",
+                "hr": "SEC",
+                "es": "SEC",
+                "en": "SEC",
+                "ro": "SEC",
+                "pt": "SEC",
+                "it": "SEC",
+                "da": "SEC",
+                "sl": "TG",
+                "lv": "AIZKL",
+                "mt": "SIG",
+                "bg": "\u0422\u0413",
+                "el": "\u039c\u03a8",
+                "nl": "Geh. S",
+                "de": "geh.",
+                "hu": "TITK.",
+                "et": "SH",
+                "pl": "taj",
+                "ga": "BR",
+                "sk": "TH",
+                "lt": "SB",
+                "sv": "sluten",
+                "cs": "TAJ"
+            },
+            "notation_votingId": "171248",
+            "referenceText": {
+                "it": "Nomina di Bruna Szego",
+                "da": "Udn\u00e6vnelse af Bruna Szego",
+                "nl": "Benoeming van Bruna Szego",
+                "mt": "\u0126atra ta\u2019 Bruna Szego",
+                "fr": "Nomination de Bruna Szego",
+                "pl": "Mianowanie Bruny Szego",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03b7\u03c2 Bruna Szego",
+                "de": "Ernennung von Bruna Szego",
+                "pt": "Nomea\u00e7\u00e3o de Bruna Szego",
+                "es": "Nombramiento de Bruna Szego",
+                "hr": "Imenovanje Brune Szego",
+                "sl": "Imenovanje Brune Szego",
+                "sk": "n\u00e1vrh na vymenovanie Bruny Szegovej",
+                "en": "Appointment of Bruna Szego",
+                "ga": "Ceapach\u00e1n Bruna Szego",
+                "bg": "\u041d\u0430\u0437\u043d\u0430\u0447\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0411\u0440\u0443\u043d\u0430 \u0421\u0435\u0433\u043e",
+                "lv": "Bruna Szego iecel\u0161ana",
+                "hu": "Bruna Szego kinevez\u00e9se",
+                "sv": "Utn\u00e4mning av Bruna Szego",
+                "lt": "Brunos Szego skyrimas",
+                "et": "Bruna Szego ametissenimetamine",
+                "ro": "Numirea dnei Bruna Szego",
+                "fi": "Bruna Szegon nimitt\u00e4minen",
+                "cs": "jmenov\u00e1n\u00ed Bruny Szegov\u00e9"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

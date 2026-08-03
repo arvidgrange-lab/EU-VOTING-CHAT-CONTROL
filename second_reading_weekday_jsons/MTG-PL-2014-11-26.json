@@ -1,0 +1,128 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389740-3",
+            "type": "Activity",
+            "activity_date": "2014-11-26",
+            "activity_id": "MTG-PL-2014-11-26-VOT-ITM-389740-3",
+            "activity_label": {
+                "fr": "Conf\u00e9rence des Nations unies sur le changement climatique 2014 - CdP 20 \u00e0 Lima, P\u00e9rou (du 1er au 12 d\u00e9cembre 2014)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0251"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-11-26-OJ-ITM-V-11"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-11-26-VOT-ITM-003"
+            ],
+            "notation_dlvId": "389740",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conf\u00e9rence des Nations unies sur le changement climatique 2014 - CdP 20 \u00e0 Lima, P\u00e9rou (du 1er au 12 d\u00e9cembre 2014)</title><label>Propositions de r\u00e9solution: B8-0251/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-11-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389740-3",
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389722-1",
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389357-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2777",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389740-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389722-1",
+            "type": "Activity",
+            "activity_date": "2014-11-26",
+            "activity_id": "MTG-PL-2014-11-26-VOT-ITM-389722-1",
+            "activity_label": {
+                "fr": "Collecte d'informations statistiques par la Banque centrale europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0027"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-11-26-OJ-ITM-V-18"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-11-26-VOT-ITM-001"
+            ],
+            "notation_dlvId": "389722",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Collecte d'informations statistiques par la Banque centrale europ\u00e9enne</title><label>Rapport: Roberto Gualtieri (A8-0027/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-11-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389740-3",
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389722-1",
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389357-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0808",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389722-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389357-2",
+            "type": "Activity",
+            "activity_date": "2014-11-26",
+            "activity_id": "MTG-PL-2014-11-26-VOT-ITM-389357-2",
+            "activity_label": {
+                "fr": "Les pouvoirs de la Banque centrale europ\u00e9enne en mati\u00e8re de sanctions"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0028"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-11-26-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-11-26-VOT-ITM-002"
+            ],
+            "notation_dlvId": "389357",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les pouvoirs de la Banque centrale europ\u00e9enne en mati\u00e8re de sanctions \n</title><label>Rapport: Kay Swinburne (A8-0028/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-11-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389740-3",
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389722-1",
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389357-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0807",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-11-26-VOT-ITM-389357-2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

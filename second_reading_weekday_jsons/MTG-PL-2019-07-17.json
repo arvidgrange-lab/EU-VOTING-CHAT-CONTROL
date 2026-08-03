@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-07-17-VOT-ITM-809190-1",
+            "type": "Activity",
+            "activity_date": "2019-07-17",
+            "activity_id": "MTG-PL-2019-07-17-VOT-ITM-809190-1",
+            "activity_label": {
+                "fr": "Effectif des d\u00e9l\u00e9gations interparlementaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0005"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-07-17-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-07-17-VOT-ITM-001"
+            ],
+            "notation_dlvId": "809190",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Effectif des d\u00e9l\u00e9gations interparlementaires</title><label>Proposition de d\u00e9cision: B9-0005/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-07-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-17-VOT-ITM-809190-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2719",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-07-17-VOT-ITM-809190-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-14-VOT-ITM-522221-1",
+            "type": "Activity",
+            "activity_date": "2016-04-14",
+            "activity_id": "MTG-PL-2016-04-14-VOT-ITM-522221-1",
+            "activity_label": {
+                "fr": "Protection des personnes physiques \u00e0 l'\u00e9gard du traitement des donn\u00e9es \u00e0 caract\u00e8re personnel"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0139"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-14-OJ-ITM-V-110"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "522221",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des personnes physiques \u00e0 l'\u00e9gard du traitement des donn\u00e9es \u00e0 caract\u00e8re personnel</title><label>Recommandation pour la deuxi\u00e8me lecture: Jan Philipp Albrecht (A8-0139/2016)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

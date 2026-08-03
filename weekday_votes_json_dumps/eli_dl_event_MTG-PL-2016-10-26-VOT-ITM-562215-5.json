@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-26-VOT-ITM-562215-5",
+            "type": "Activity",
+            "activity_date": "2016-10-26",
+            "activity_id": "MTG-PL-2016-10-26-VOT-ITM-562215-5",
+            "activity_label": {
+                "fr": "Accessibilit\u00e9 des sites internet et des applications mobiles des organismes du secteur public"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0269"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-26-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-26-VOT-ITM-005"
+            ],
+            "notation_dlvId": "562215",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accessibilit\u00e9 des sites internet et des applications mobiles des organismes du secteur public</title><label>Recommandation pour la deuxi\u00e8me lecture: Dita Charanzov\u00e1 (A8-0269/2016)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

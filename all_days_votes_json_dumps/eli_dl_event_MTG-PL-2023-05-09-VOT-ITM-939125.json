@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-09-VOT-ITM-939125",
+            "type": "Activity",
+            "activity_date": "2023-05-09",
+            "activity_id": "MTG-PL-2023-05-09-VOT-ITM-939125",
+            "activity_label": {
+                "fr": "\u00c9tablissement de l'action de soutien \u00e0 la production de munitions"
+            },
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-09-OJ-ITM-V-156",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-09-VOT-ITM-000"
+            ],
+            "notation_dlvId": "939125",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement de l'action de soutien \u00e0 la production de munitions</title><label>Vote sur la demande d'urgence (article 163 du r\u00e8glement int\u00e9rieur)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

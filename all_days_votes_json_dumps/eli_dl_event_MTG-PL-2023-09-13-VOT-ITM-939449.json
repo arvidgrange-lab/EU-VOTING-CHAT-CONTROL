@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939449",
+            "activity_label": {
+                "fr": "Rapport 2022 concernant la Turquie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0247"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-16",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939449",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 12,
+            "epvoc:amendmentsAdoptedTotal": 12,
+            "epvoc:amendmentsTabledOthers": 4,
+            "epvoc:amendmentsTabledPoliticalGroup": 24,
+            "epvoc:amendmentsTabledTotal": 28,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2022 concernant la Turquie</title><label>Rapport: Nacho S\u00e1nchez Amor (A9-0247/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

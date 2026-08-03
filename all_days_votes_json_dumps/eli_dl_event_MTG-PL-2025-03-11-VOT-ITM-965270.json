@@ -1,0 +1,91 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-03-11-VOT-ITM-965270",
+            "type": "Activity",
+            "activity_date": "2025-03-11",
+            "activity_id": "MTG-PL-2025-03-11-VOT-ITM-965270",
+            "activity_label": {
+                "hr": "Procjena provedbe programa Obzor Europa s obzirom na njegovu privremenu evaluaciju i preporuke za 10. okvirni program za istra\u017eivanje",
+                "en": "Assessment of the implementation of Horizon Europe in view of its interim evaluation and recommendations for the 10th Research Framework Programme",
+                "et": "Programmi \u201eEuroopa horisont\u201c rakendamise hindamine, pidades silmas selle vahehindamist ja soovitusi 10. teadusuuringute raamprogrammi jaoks",
+                "lt": "Programos \u201eEuropos horizontas\u201c \u012fgyvendinimo vertinimas atsi\u017evelgiant \u012f jos tarpin\u012f vertinim\u0105 ir rekomendacijas d\u0117l 10-osios bendrosios mokslini\u0173 tyrim\u0173 programos",
+                "nl": "Beoordeling van de uitvoering van Horizon Europa met het oog op de tussentijdse evaluatie ervan en aanbevelingen voor het tiende kaderprogramma voor onderzoek",
+                "sk": "Pos\u00fadenie vykon\u00e1vania programu Horizont Eur\u00f3pa so zrete\u013eom na jeho predbe\u017en\u00e9 hodnotenie a odpor\u00fa\u010dania pre 10.\u00a0r\u00e1mcov\u00fd program pre v\u00fdskum",
+                "lv": "Pamatprogrammas \u201cApv\u0101rsnis Eiropa\u201d \u012bsteno\u0161anas nov\u0113rt\u0113jums, \u0146emot v\u0113r\u0101 t\u0101s starpposma nov\u0113rt\u0113jumu un ieteikumus 10. p\u0113tniec\u012bbas pamatprogrammai",
+                "pt": "Avalia\u00e7\u00e3o da aplica\u00e7\u00e3o do Horizonte Europa \u00e0 luz da sua avalia\u00e7\u00e3o intercalar e recomenda\u00e7\u00f5es para o 10.\u00ba Programa-Quadro de Investiga\u00e7\u00e3o",
+                "cs": "Posouzen\u00ed prov\u00e1d\u011bn\u00ed programu Horizont Evropa s ohledem na jeho pr\u016fb\u011b\u017en\u00e9 hodnocen\u00ed a doporu\u010den\u00ed pro 10. r\u00e1mcov\u00fd program pro v\u00fdzkum",
+                "sl": "Ocena izvajanja programa Obzorje Evropa ob upo\u0161tevanju njegove vmesne ocene in priporo\u010dil za deseti okvirni program za raziskave",
+                "mul": "\u00c9valuation de la mise en \u0153uvre d\u2019Horizon Europe en vue de son \u00e9valuation interm\u00e9diaire et des recommandations concernant le dixi\u00e8me programme-cadre de recherche - Assessment of the implementation of Horizon Europe in view of its interim evaluation and recommendations for the 10th Research Framework Programme - Bewertung der Umsetzung des Programms Horizont Europa im Hinblick auf seine Zwischenbewertung und Empfehlungen f\u00fcr das Zehnte Forschungsrahmenprogramm",
+                "mt": "Valutazzjoni tal-implimentazzjoni ta\u2019 Orizzont Ewropa fid-dawl tal-evalwazzjoni interim tieg\u0127u u rakkomandazzjonijiet g\u0127all-10 Programm Qafas g\u0127ar-Ri\u010berka",
+                "sv": "Bed\u00f6mning av genomf\u00f6randet av Horisont Europa inf\u00f6r halvtidsutv\u00e4rderingen och rekommendationerna f\u00f6r det 10:e ramprogrammet f\u00f6r forskning",
+                "el": "\u0391\u03be\u03b9\u03bf\u03bb\u03cc\u03b3\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c5\u03bb\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u00ab\u039f\u03c1\u03af\u03b6\u03c9\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u00bb \u03bc\u03b5 \u03b3\u03bd\u03ce\u03bc\u03bf\u03bd\u03b1 \u03c4\u03b7\u03bd \u03b5\u03bd\u03b4\u03b9\u03ac\u03bc\u03b5\u03c3\u03b7 \u03b1\u03be\u03b9\u03bf\u03bb\u03cc\u03b3\u03b7\u03c3\u03ae \u03c4\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03c3\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf 10\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1-\u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03bf \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1\u03c2",
+                "es": "Evaluaci\u00f3n de la ejecuci\u00f3n de Horizonte Europa con vistas a su evaluaci\u00f3n intermedia y recomendaciones para el 10.\u00ba Programa Marco de Investigaci\u00f3n",
+                "hu": "A Horizont Eur\u00f3pa v\u00e9grehajt\u00e1s\u00e1nak \u00e9rt\u00e9kel\u00e9se a program id\u0151k\u00f6zi \u00e9rt\u00e9kel\u00e9se \u00e9s a 10. kutat\u00e1si keretprogramra ir\u00e1nyul\u00f3 aj\u00e1nl\u00e1sai tekintet\u00e9ben",
+                "pl": "Ocena realizacji programu \u201eHoryzont Europa\u201d w \u015bwietle jego oceny \u015br\u00f3dokresowej i zalece\u0144 dotycz\u0105cych 10. programu ramowego bada\u0144 naukowych",
+                "fi": "Horisontti Eurooppa -puiteohjelman t\u00e4yt\u00e4nt\u00f6\u00f6npanon arviointi, kun otetaan huomioon sen v\u00e4liarviointi ja suositukset kymmenenteen tutkimuspuiteohjelmaan",
+                "fr": "\u00c9valuation de la mise en \u0153uvre d\u2019Horizon Europe en vue de son \u00e9valuation interm\u00e9diaire et des recommandations concernant le dixi\u00e8me programme-cadre de recherche",
+                "ro": "Evaluarea implement\u0103rii programului Orizont Europa \u00een vederea evalu\u0103rii intermediare a acestuia \u0219i recomand\u0103ri privind cel de al zecelea program-cadru pentru cercetare",
+                "it": "Valutazione dell'attuazione di Orizzonte Europa in vista del suo riesame intermedio e raccomandazioni per il decimo programma quadro per la ricerca",
+                "da": "Vurdering af gennemf\u00f8relsen af Horisont Europa med henblik p\u00e5 dets midtvejsevaluering og henstillinger til det 10. rammeprogram for forskning",
+                "de": "Bewertung der Umsetzung des Programms Horizont Europa im Hinblick auf seine Zwischenbewertung und Empfehlungen f\u00fcr das Zehnte Forschungsrahmenprogramm",
+                "ga": "An meas\u00fan\u00fa ar chur chun feidhme F\u00eds Eorpach i bhfianaise na meast\u00f3ireachta eatramha\u00ed uirthi agus na molta\u00ed don 10\u00fa Cl\u00e1r R\u00e9ime um Thaighde",
+                "bg": "\u041e\u0446\u0435\u043d\u043a\u0430 \u0437\u0430 \u0438\u0437\u043f\u044a\u043b\u043d\u0435\u043d\u0438\u0435\u0442\u043e \u043d\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0430 \u201e\u0425\u043e\u0440\u0438\u0437\u043e\u043d\u0442 \u0415\u0432\u0440\u043e\u043f\u0430\u201c \u0441 \u043e\u0433\u043b\u0435\u0434 \u043d\u0430 \u043c\u0435\u0436\u0434\u0438\u043d\u043d\u0430\u0442\u0430 \u045d \u043e\u0446\u0435\u043d\u043a\u0430 \u0438 \u043f\u0440\u0435\u043f\u043e\u0440\u044a\u043a\u0438 \u0437\u0430 10-\u0430\u0442\u0430 \u0440\u0430\u043c\u043a\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0430 \u0437\u0430 \u043d\u0430\u0443\u0447\u043d\u0438 \u0438\u0437\u0441\u043b\u0435\u0434\u0432\u0430\u043d\u0438\u044f"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2025-0021"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2025-03-11-DEC-172135",
+                "eli/dl/event/MTG-PL-2025-03-11-DEC-172133",
+                "eli/dl/event/MTG-PL-2025-03-11-DEC-172134",
+                "eli/dl/event/MTG-PL-2025-03-11-DEC-172132",
+                "eli/dl/event/MTG-PL-2025-03-11-DEC-172136"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2025-03-11-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2025-03-11-VOT-ITM-008"
+            ],
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2025-03-11-VOT-ITM-965270-RCV-1"
+            ],
+            "notation_dlvId": "965270",
+            "structuredLabel": {
+                "sv": "<structuredLabel><title>Bed\u00f6mning av genomf\u00f6randet av Horisont Europa inf\u00f6r halvtidsutv\u00e4rderingen och rekommendationerna f\u00f6r det 10:e ramprogrammet f\u00f6r forskning</title><label>Bet\u00e4nkande: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Procjena provedbe programa Obzor Europa s obzirom na njegovu privremenu evaluaciju i preporuke za 10. okvirni program za istra\u017eivanje</title><label>Izvje\u0161\u0107e: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>An meas\u00fan\u00fa ar chur chun feidhme F\u00eds Eorpach i bhfianaise na meast\u00f3ireachta eatramha\u00ed uirthi agus na molta\u00ed don 10\u00fa Cl\u00e1r R\u00e9ime um Thaighde</title><label>Tuarasc\u00e1il: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Pos\u00fadenie vykon\u00e1vania programu Horizont Eur\u00f3pa so zrete\u013eom na jeho predbe\u017en\u00e9 hodnotenie a odpor\u00fa\u010dania pre 10.\u00a0r\u00e1mcov\u00fd program pre v\u00fdskum</title><label>Spr\u00e1va: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Valutazzjoni tal-implimentazzjoni ta\u2019 Orizzont Ewropa fid-dawl tal-evalwazzjoni interim tieg\u0127u u rakkomandazzjonijiet g\u0127all-10 Programm Qafas g\u0127ar-Ri\u010berka</title><label>Rapport: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Avalia\u00e7\u00e3o da aplica\u00e7\u00e3o do Horizonte Europa \u00e0 luz da sua avalia\u00e7\u00e3o intercalar e recomenda\u00e7\u00f5es para o 10.\u00ba Programa-Quadro de Investiga\u00e7\u00e3o</title><label>Relat\u00f3rio: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0391\u03be\u03b9\u03bf\u03bb\u03cc\u03b3\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c5\u03bb\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u00ab\u039f\u03c1\u03af\u03b6\u03c9\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u00bb \u03bc\u03b5 \u03b3\u03bd\u03ce\u03bc\u03bf\u03bd\u03b1 \u03c4\u03b7\u03bd \u03b5\u03bd\u03b4\u03b9\u03ac\u03bc\u03b5\u03c3\u03b7 \u03b1\u03be\u03b9\u03bf\u03bb\u03cc\u03b3\u03b7\u03c3\u03ae \u03c4\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03c3\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf 10\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1-\u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03bf \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1\u03c2</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Bewertung der Umsetzung des Programms Horizont Europa im Hinblick auf seine Zwischenbewertung und Empfehlungen f\u00fcr das Zehnte Forschungsrahmenprogramm</title><label>Bericht: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Horisontti Eurooppa -puiteohjelman t\u00e4yt\u00e4nt\u00f6\u00f6npanon arviointi, kun otetaan huomioon sen v\u00e4liarviointi ja suositukset kymmenenteen tutkimuspuiteohjelmaan</title><label>Mietint\u00f6: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Pamatprogrammas \u201cApv\u0101rsnis Eiropa\u201d \u012bsteno\u0161anas nov\u0113rt\u0113jums, \u0146emot v\u0113r\u0101 t\u0101s starpposma nov\u0113rt\u0113jumu un ieteikumus 10. p\u0113tniec\u012bbas pamatprogrammai</title><label>Zi\u0146ojums: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Evaluaci\u00f3n de la ejecuci\u00f3n de Horizonte Europa con vistas a su evaluaci\u00f3n intermedia y recomendaciones para el 10.\u00ba Programa Marco de Investigaci\u00f3n</title><label>Informe: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Valutazione dell'attuazione di Orizzonte Europa in vista del suo riesame intermedio e raccomandazioni per il decimo programma quadro per la ricerca</title><label>Relazione: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Programos \u201eEuropos horizontas\u201c \u012fgyvendinimo vertinimas atsi\u017evelgiant \u012f jos tarpin\u012f vertinim\u0105 ir rekomendacijas d\u0117l 10-osios bendrosios mokslini\u0173 tyrim\u0173 programos</title><label>Prane\u0161imas: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Ocena izvajanja programa Obzorje Evropa ob upo\u0161tevanju njegove vmesne ocene in priporo\u010dil za deseti okvirni program za raziskave</title><label>Poro\u010dilo: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Vurdering af gennemf\u00f8relsen af Horisont Europa med henblik p\u00e5 dets midtvejsevaluering og henstillinger til det 10. rammeprogram for forskning</title><label>Bet\u00e6nkning: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u041e\u0446\u0435\u043d\u043a\u0430 \u0437\u0430 \u0438\u0437\u043f\u044a\u043b\u043d\u0435\u043d\u0438\u0435\u0442\u043e \u043d\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0430 \u201e\u0425\u043e\u0440\u0438\u0437\u043e\u043d\u0442 \u0415\u0432\u0440\u043e\u043f\u0430\u201c \u0441 \u043e\u0433\u043b\u0435\u0434 \u043d\u0430 \u043c\u0435\u0436\u0434\u0438\u043d\u043d\u0430\u0442\u0430 \u045d \u043e\u0446\u0435\u043d\u043a\u0430 \u0438 \u043f\u0440\u0435\u043f\u043e\u0440\u044a\u043a\u0438 \u0437\u0430 10-\u0430\u0442\u0430 \u0440\u0430\u043c\u043a\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0430 \u0437\u0430 \u043d\u0430\u0443\u0447\u043d\u0438 \u0438\u0437\u0441\u043b\u0435\u0434\u0432\u0430\u043d\u0438\u044f</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Beoordeling van de uitvoering van Horizon Europa met het oog op de tussentijdse evaluatie ervan en aanbevelingen voor het tiende kaderprogramma voor onderzoek</title><label>Verslag: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Evaluarea implement\u0103rii programului Orizont Europa \u00een vederea evalu\u0103rii intermediare a acestuia \u0219i recomand\u0103ri privind cel de al zecelea program-cadru pentru cercetare</title><label>Raport: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Ocena realizacji programu \u201eHoryzont Europa\u201d w \u015bwietle jego oceny \u015br\u00f3dokresowej i zalece\u0144 dotycz\u0105cych 10. programu ramowego bada\u0144 naukowych</title><label>Sprawozdanie: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Programmi \u201eEuroopa horisont\u201c rakendamise hindamine, pidades silmas selle vahehindamist ja soovitusi 10. teadusuuringute raamprogrammi jaoks</title><label>Raport: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Posouzen\u00ed prov\u00e1d\u011bn\u00ed programu Horizont Evropa s ohledem na jeho pr\u016fb\u011b\u017en\u00e9 hodnocen\u00ed a doporu\u010den\u00ed pro 10. r\u00e1mcov\u00fd program pro v\u00fdzkum</title><label>Zpr\u00e1va: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Assessment of the implementation of Horizon Europe in view of its interim evaluation and recommendations for the 10th Research Framework Programme</title><label>Report: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>A Horizont Eur\u00f3pa v\u00e9grehajt\u00e1s\u00e1nak \u00e9rt\u00e9kel\u00e9se a program id\u0151k\u00f6zi \u00e9rt\u00e9kel\u00e9se \u00e9s a 10. kutat\u00e1si keretprogramra ir\u00e1nyul\u00f3 aj\u00e1nl\u00e1sai tekintet\u00e9ben</title><label>Jelent\u00e9s: Christian Ehler (A10-0021/2025)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>\u00c9valuation de la mise en \u0153uvre d\u2019Horizon Europe en vue de son \u00e9valuation interm\u00e9diaire et des recommandations concernant le dixi\u00e8me programme-cadre de recherche</title><label>Rapport: Christian Ehler (A10-0021/2025)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

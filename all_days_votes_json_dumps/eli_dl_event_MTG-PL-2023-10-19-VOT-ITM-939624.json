@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-19-VOT-ITM-939624",
+            "type": "Activity",
+            "activity_date": "2023-10-19",
+            "activity_id": "MTG-PL-2023-10-19-VOT-ITM-939624",
+            "activity_label": {
+                "fr": "Les attaques terroristes abjectes du Hamas contre Isra\u00ebl, le droit d'Isra\u00ebl \u00e0 se d\u00e9fendre conform\u00e9ment au droit humanitaire et international et la situation humanitaire \u00e0 Gaza",
+                "mul": "Les attaques terroristes abjectes du Hamas contre Isra\u00ebl, le droit d'Isra\u00ebl \u00e0 se d\u00e9fendre conform\u00e9ment au droit humanitaire et international et la situation humanitaire \u00e0 Gaza - The despicable terrorist attacks by Hamas against Israel, Israel\u2019s right to defend itself in line with humanitarian and international law and the humanitarian situation in Gaza - Die abscheulichen Terrorangriffe der Hamas auf Israel, das Recht Israels, sich im Einklang mit dem V\u00f6lkerrecht und dem humanit\u00e4ren V\u00f6lkerrecht zu verteidigen, und die humanit\u00e4re Lage in Gaza"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0447",
+                "eli/dl/doc/B-9-2023-0448",
+                "eli/dl/doc/B-9-2023-0442",
+                "eli/dl/doc/B-9-2023-0436",
+                "eli/dl/doc/B-9-2023-0444",
+                "eli/dl/doc/B-9-2023-0438",
+                "eli/dl/doc/B-9-2023-0445"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-19-OJ-ITM-V-73",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-19-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939624",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 4,
+            "epvoc:amendmentsAdoptedTotal": 4,
+            "epvoc:amendmentsTabledPoliticalGroup": 79,
+            "epvoc:amendmentsTabledTotal": 79,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les attaques terroristes abjectes du Hamas contre Isra\u00ebl, le droit d'Isra\u00ebl \u00e0 se d\u00e9fendre conform\u00e9ment au droit humanitaire et international et la situation humanitaire \u00e0 Gaza</title><label>Propositions de r\u00e9solution: RC-B9-0436/2023, B9-0436/2023, B9-0438/2023, B9-0442/2023, B9-0444/2023, B9-0445/2023, B9-0447/2023, B9-0448/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,836 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472896-14",
+            "activity_label": {
+                "fr": "D\u00e9charge 2013: budget g\u00e9n\u00e9ral de l'UE - Conseil europ\u00e9en et Conseil"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0269"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-014"
+            ],
+            "notation_dlvId": "472896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2013: budget g\u00e9n\u00e9ral de l'UE - Conseil europ\u00e9en et Conseil </title><label>Deuxi\u00e8me rapport: Ryszard Czarnecki (A8-0269/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2079",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472886-3",
+            "activity_label": {
+                "fr": "Fiscalit\u00e9 des revenus de l'\u00e9pargne sous forme de paiements d'int\u00e9r\u00eats: abrogation de la directive sur la fiscalit\u00e9 de l\u2019\u00e9pargne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0299"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-003"
+            ],
+            "notation_dlvId": "472886",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fiscalit\u00e9 des revenus de l'\u00e9pargne sous forme de paiements d'int\u00e9r\u00eats: abrogation de la directive sur la fiscalit\u00e9 de l\u2019\u00e9pargne</title><label>Rapport: Molly Scott Cato (A8-0299/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0065",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472886-2",
+            "activity_label": {
+                "fr": "Accord UE - Suisse sur l'\u00e9change automatique d'informations relatives aux comptes financiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0271"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-002"
+            ],
+            "notation_dlvId": "472886",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE - Suisse sur l'\u00e9change automatique d'informations relatives aux comptes financiers </title><label>Rapport: Jeppe Kofod (A8-0271/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0076",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472895-13",
+            "activity_label": {
+                "fr": "D\u00e9charge 2013: entreprise commune ENIAC"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0285"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-013"
+            ],
+            "notation_dlvId": "472895",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2013: entreprise commune ENIAC</title><label>Deuxi\u00e8me rapport: Ryszard Czarnecki (A8-0285/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2135",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472894-12",
+            "activity_label": {
+                "fr": "D\u00e9charge 2013: Institut europ\u00e9en d'innovation et de technologie (EIT)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0282"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-012"
+            ],
+            "notation_dlvId": "472894",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2013: Institut europ\u00e9en d'innovation et de technologie (EIT)</title><label>Deuxi\u00e8me rapport: Ryszard Czarnecki (A8-0282/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2125",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-473460-16",
+            "activity_label": {
+                "fr": "Mesures des \u00e9missions dans le secteur de l'automobile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1077",
+                "eli/dl/doc/B-8-2015-1076",
+                "eli/dl/doc/B-8-2015-1075",
+                "eli/dl/doc/B-8-2015-1080",
+                "eli/dl/doc/B-8-2015-1078",
+                "eli/dl/doc/B-8-2015-1079"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-016"
+            ],
+            "notation_dlvId": "473460",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures des \u00e9missions dans le secteur de l'automobile</title><label>B8-1075/2015, B8-1078/2015, B8-1079/2015, B8-1080/2015, B8-1076/2015, B8-1077/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2865",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472888-7",
+            "activity_label": {
+                "fr": "Voyages \u00e0 forfait et prestations de voyage assist\u00e9es"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0297"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-82"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-007"
+            ],
+            "notation_dlvId": "472888",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Voyages \u00e0 forfait et prestations de voyage assist\u00e9es</title><label>Recommandation pour la deuxi\u00e8me lecture: Birgit Collin-Langen (A8-0297/2015) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472893-11",
+            "activity_label": {
+                "fr": "D\u00e9charge 2013: entreprise commune Artemis"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0283"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-011"
+            ],
+            "notation_dlvId": "472893",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2013: entreprise commune Artemis</title><label>Deuxi\u00e8me rapport: Ryszard Czarnecki (A8-0283/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2132",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472903-15",
+            "activity_label": {
+                "fr": "Crise du virus Ebola: les le\u00e7ons \u00e0 long terme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0281"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-015"
+            ],
+            "notation_dlvId": "472903",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Crise du virus Ebola: les le\u00e7ons \u00e0 long terme</title><label>Rapport: Charles Goerens (A8-0281/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2204",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472886-6",
+            "activity_label": {
+                "fr": "\u00c9change automatis\u00e9 de donn\u00e9es relatif aux donn\u00e9es dactyloscopiques en Pologne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0302"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-006"
+            ],
+            "notation_dlvId": "472886",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change automatis\u00e9 de donn\u00e9es relatif aux donn\u00e9es dactyloscopiques en Pologne</title><label>Rapport: Monika Fla\u0161\u00edkov\u00e1 Be\u0148ov\u00e1 (A8-0302/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0806",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-473264-10",
+            "activity_label": {
+                "fr": "\u00c9change automatique et obligatoire d'informations dans le domaine fiscal"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0306"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-60"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-010"
+            ],
+            "notation_dlvId": "473264",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change automatique et obligatoire d'informations dans le domaine fiscal</title><label>Rapport: Markus Ferber (A8-0306/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0068",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472886-5",
+            "activity_label": {
+                "fr": "\u00c9change automatis\u00e9 de donn\u00e9es relatif aux donn\u00e9es dactyloscopiques en Belgique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0303"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-005"
+            ],
+            "notation_dlvId": "472886",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change automatis\u00e9 de donn\u00e9es relatif aux donn\u00e9es dactyloscopiques en Belgique</title><label>Rapport: Monika Fla\u0161\u00edkov\u00e1 Be\u0148ov\u00e1 (A8-0303/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0805",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472892-8",
+            "activity_label": {
+                "fr": "March\u00e9 unique europ\u00e9en des communications \u00e9lectroniques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0300"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-008"
+            ],
+            "notation_dlvId": "472892",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>March\u00e9 unique europ\u00e9en des communications \u00e9lectroniques</title><label>Recommandation pour la deuxi\u00e8me lecture: Pilar del Castillo Vera (A8-0300/2015) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472886-1",
+            "activity_label": {
+                "fr": "Politique agricole commune (PAC): abrogation des actes obsol\u00e8tes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0255"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-001"
+            ],
+            "notation_dlvId": "472886",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politique agricole commune (PAC): abrogation des actes obsol\u00e8tes</title><label>Rapport: Czes\u0142aw Adam Siekierski (A8-0255/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0090",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-473263-9",
+            "activity_label": {
+                "fr": "Commerce de certains biens susceptibles d'\u00eatre utilis\u00e9s en vue d'infliger la peine capitale, la torture ou d'autres peines ou traitements cruels"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0267"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-89"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-009"
+            ],
+            "notation_dlvId": "473263",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Commerce de certains biens susceptibles d'\u00eatre utilis\u00e9s en vue d'infliger la peine capitale, la torture ou d'autres peines ou traitements cruels</title><label>Rapport: Marietje Schaake (A8-0267/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0005",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4",
+            "type": "Activity",
+            "activity_date": "2015-10-27",
+            "activity_id": "MTG-PL-2015-10-27-VOT-ITM-472886-4",
+            "activity_label": {
+                "fr": "\u00c9change automatis\u00e9 de donn\u00e9es relatif aux donn\u00e9es dactyloscopiques en Su\u00e8de"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0304"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-27-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-27-VOT-ITM-004"
+            ],
+            "notation_dlvId": "472886",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change automatis\u00e9 de donn\u00e9es relatif aux donn\u00e9es dactyloscopiques en Su\u00e8de</title><label>Rapport: Monika Fla\u0161\u00edkov\u00e1 Be\u0148ov\u00e1 (A8-0304/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472896-14",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-3",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-2",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472895-13",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472894-12",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473460-16",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472888-7",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472893-11",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472903-15",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-6",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473264-10",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-5",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472892-8",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-1",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-473263-9",
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0804",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-27-VOT-ITM-472886-4"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

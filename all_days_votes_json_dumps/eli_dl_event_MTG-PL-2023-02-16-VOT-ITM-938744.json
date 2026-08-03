@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-16-VOT-ITM-938744",
+            "type": "Activity",
+            "activity_date": "2023-02-16",
+            "activity_id": "MTG-PL-2023-02-16-VOT-ITM-938744",
+            "activity_label": {
+                "fr": "Un an d'invasion et de guerre d'agression lanc\u00e9es par la Russie contre l'Ukraine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0123",
+                "eli/dl/doc/B-9-2023-0126",
+                "eli/dl/doc/B-9-2023-0132",
+                "eli/dl/doc/B-9-2023-0131",
+                "eli/dl/doc/B-9-2023-0134",
+                "eli/dl/doc/B-9-2023-0139"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-16-OJ-ITM-V-68",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-16-VOT-ITM-008"
+            ],
+            "notation_dlvId": "938744",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Un an d'invasion et de guerre d'agression lanc\u00e9es par la Russie contre l'Ukraine</title><label>Propositions de r\u00e9solutions: B9-0123/2023, B9-0126/2023, B9-0131/2023, B9-0132/2023, B9-0134/2023, B9-0139/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

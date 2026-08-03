@@ -1,0 +1,216 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595008-3",
+            "type": "Activity",
+            "activity_date": "2017-04-04",
+            "activity_id": "MTG-PL-2017-04-04-VOT-ITM-595008-3",
+            "activity_label": {
+                "fr": "Huile de palme et d\u00e9forestation des for\u00eats tropicales humides"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0066"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-04-OJ-ITM-V-52"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-04-VOT-ITM-003"
+            ],
+            "notation_dlvId": "595008",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Huile de palme et d\u00e9forestation des for\u00eats tropicales humides</title><label>Rapport: Kate\u0159ina Kone\u010dn\u00e1 (A8-0066/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-04",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595008-3",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595007-2",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595010-5",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595009-4",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595006-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2222",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595008-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595007-2",
+            "type": "Activity",
+            "activity_date": "2017-04-04",
+            "activity_id": "MTG-PL-2017-04-04-VOT-ITM-595007-2",
+            "activity_label": {
+                "fr": "R\u00e9ception et surveillance du march\u00e9 des v\u00e9hicules \u00e0 moteur et de leurs remorques, ainsi que des syst\u00e8mes, composants et entit\u00e9s techniques distinctes destin\u00e9s \u00e0 ces v\u00e9hicules"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0048"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-04-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-04-VOT-ITM-002"
+            ],
+            "notation_dlvId": "595007",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9ception et surveillance du march\u00e9 des v\u00e9hicules \u00e0 moteur et de leurs remorques, ainsi que des syst\u00e8mes, composants et entit\u00e9s techniques distinctes destin\u00e9s \u00e0 ces v\u00e9hicules</title><label>Rapport: Daniel Dalton (A8-0048/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-04",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595008-3",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595007-2",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595010-5",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595009-4",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595006-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0014",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595007-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595010-5",
+            "type": "Activity",
+            "activity_date": "2017-04-04",
+            "activity_id": "MTG-PL-2017-04-04-VOT-ITM-595010-5",
+            "activity_label": {
+                "fr": "Projet de recommandations \u00e0 la suite de l'enqu\u00eate sur la mesure des \u00e9missions dans le secteur de l'automobile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0177"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-04-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-04-VOT-ITM-005"
+            ],
+            "notation_dlvId": "595010",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de recommandations \u00e0 la suite de l'enqu\u00eate sur la mesure des \u00e9missions dans le secteur de l'automobile</title><label>Projet de recommandation: B8-0177/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-04",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595008-3",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595007-2",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595010-5",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595009-4",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595006-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2908",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595010-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595009-4",
+            "type": "Activity",
+            "activity_date": "2017-04-04",
+            "activity_id": "MTG-PL-2017-04-04-VOT-ITM-595009-4",
+            "activity_label": {
+                "fr": "Les femmes et leurs r\u00f4les dans les zones rurales"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0058"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-04-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-04-VOT-ITM-004"
+            ],
+            "notation_dlvId": "595009",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les femmes et leurs r\u00f4les dans les zones rurales</title><label>Rapport: Marijana Petir et  Maria Lidia Senra Rodr\u00edguez (A8-0058/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-04",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595008-3",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595007-2",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595010-5",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595009-4",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595006-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2204",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595009-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595006-1",
+            "type": "Activity",
+            "activity_date": "2017-04-04",
+            "activity_id": "MTG-PL-2017-04-04-VOT-ITM-595006-1",
+            "activity_label": {
+                "fr": "Caract\u00e9ristiques des navires de p\u00eache"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0376"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-04-OJ-ITM-V-26"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-04-VOT-ITM-001"
+            ],
+            "notation_dlvId": "595006",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Caract\u00e9ristiques des navires de p\u00eache</title><label>Rapport: Werner Kuhn (A8-0376/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-04",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595008-3",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595007-2",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595010-5",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595009-4",
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595006-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0145",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-04-VOT-ITM-595006-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

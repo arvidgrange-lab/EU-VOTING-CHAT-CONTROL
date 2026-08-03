@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-04-28-DEC-190543",
+            "type": "Vote",
+            "activity_date": "2026-04-28",
+            "activity_id": "MTG-PL-2026-04-28-DEC-190543",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 641,
+            "number_of_votes_abstention": 7,
+            "number_of_votes_against": 150,
+            "number_of_votes_favor": 484,
+            "comment": {
+                "hu": "ESz",
+                "lt": "EB",
+                "lv": "EB",
+                "pl": "ge",
+                "de": "EA",
+                "bg": "\u0415\u0413",
+                "el": "\u0397\u03a8",
+                "nl": "ES",
+                "sv": "EO",
+                "pt": "VE",
+                "fr": "VE",
+                "es": "VE",
+                "ro": "VE",
+                "da": "VE",
+                "it": "VE",
+                "mt": "VE",
+                "hr": "VE",
+                "fi": "K\u00c4",
+                "ga": "VL",
+                "et": "EH",
+                "cs": "EH",
+                "sk": "EH",
+                "en": "EV",
+                "sl": "EG"
+            },
+            "notation_votingId": "190543",
+            "referenceText": {
+                "cs": "n\u00e1vrh rozhodnut\u00ed",
+                "pl": "Projekt decyzji",
+                "hr": "Prijedlog odluke",
+                "hu": "Hat\u00e1rozatra ir\u00e1nyul\u00f3 javaslat",
+                "nl": "Ontwerpbesluit",
+                "sv": "F\u00f6rslag till beslut",
+                "sk": "N\u00e1vrh rozhodnutia",
+                "de": "Vorschlag f\u00fcr einen Beschluss",
+                "da": "Forslag til afg\u00f8relse",
+                "lt": "Pasi\u016blymas d\u0117l sprendimo",
+                "ro": "Propunere de decizie",
+                "ga": "Togra le haghaidh cinneadh",
+                "en": "Proposal for a decision",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7\u03c2",
+                "fr": "Proposition de d\u00e9cision",
+                "es": "Propuesta de Decisi\u00f3n",
+                "pt": "Proposta de decis\u00e3o",
+                "mt": "Proposta g\u0127al de\u010bi\u017cjoni",
+                "sl": "predlog sklepa",
+                "et": "Ettepanek vastu v\u00f5tta otsus",
+                "lv": "L\u0113muma priek\u0161likums",
+                "it": "Proposta di decisione",
+                "fi": "p\u00e4\u00e4t\u00f6sehdotus",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

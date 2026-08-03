@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939651",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939651",
+            "activity_label": {
+                "mul": "Discipline en mati\u00e8re de r\u00e8glement, la prestation transfrontali\u00e8re de services, la coop\u00e9ration en mati\u00e8re de surveillance, la fourniture de services accessoires de type bancaire et les exigences relatives aux d\u00e9positaires centraux de titres de pays tiers - Settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories - Abwicklungsdisziplin, grenz\u00fcberschreitende Erbringung von Dienstleistungen, aufsichtliche Zusammenarbeit, Erbringung bankartiger Nebendienstleistungen und Anforderungen an Zentralverwahrer in Drittl\u00e4ndern",
+                "fr": "Discipline en mati\u00e8re de r\u00e8glement, la prestation transfrontali\u00e8re de services, la coop\u00e9ration en mati\u00e8re de surveillance, la fourniture de services accessoires de type bancaire et les exigences relatives aux d\u00e9positaires centraux de titres de pays tiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0047"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-13",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939651",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Discipline en mati\u00e8re de r\u00e8glement, la prestation transfrontali\u00e8re de services, la coop\u00e9ration en mati\u00e8re de surveillance, la fourniture de services accessoires de type bancaire et les exigences relatives aux d\u00e9positaires centraux de titres de pays tiers</title><label>Rapport: Johan Van Overtveldt (A9-0047/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939840",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939840",
+            "activity_label": {
+                "fr": "Maladies non transmissibles",
+                "mul": "Maladies non transmissibles - Non-communicable diseases - Nicht\u00fcbertragbare Krankheiten"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0366"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-48",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939840",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Maladies non transmissibles</title><label>Rapport: Erik Poulsen (A9-0366/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

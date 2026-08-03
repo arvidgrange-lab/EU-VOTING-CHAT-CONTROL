@@ -1,0 +1,1056 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561889-14",
+            "activity_label": {
+                "fr": "Vers une nouvelle organisation du march\u00e9 de l'\u00e9nergie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0214"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-014"
+            ],
+            "notation_dlvId": "561889",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Vers une nouvelle organisation du march\u00e9 de l'\u00e9nergie</title><label>Rapport: Werner Langen (A8-0214/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2322",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561967-11",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Leo Brincat"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0257"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-011"
+            ],
+            "notation_dlvId": "561967",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Leo Brincat</title><label>Rapport: Igor \u0160oltes (A8-0257/2016) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0806",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561896-6",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Sotirios Zarianopoulos"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0233"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-98"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "561896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Sotirios Zarianopoulos</title><label>Rapport: Gilles Lebreton (A8-0233/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2083",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561892-19",
+            "activity_label": {
+                "fr": "Mise en place, sur le march\u00e9 du travail, de conditions favorisant l'\u00e9quilibre entre la vie professionnelle et la vie priv\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0253"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-92"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-019"
+            ],
+            "notation_dlvId": "561892",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en place, sur le march\u00e9 du travail, de conditions favorisant l'\u00e9quilibre entre la vie professionnelle et la vie priv\u00e9e</title><label>Rapport: Tatjana \u017ddanoka et  Vilija Blinkevi\u010di\u016bt\u0117 (A8-0253/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2017",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561891-15",
+            "activity_label": {
+                "fr": "Strat\u00e9gie de l'UE en mati\u00e8re de chauffage et de refroidissement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0232"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-015"
+            ],
+            "notation_dlvId": "561891",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie de l'UE en mati\u00e8re de chauffage et de refroidissement</title><label>Rapport: Adam Gierek (A8-0232/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2058",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561896-7",
+            "activity_label": {
+                "fr": "Accord UE-Chine concernant l'adh\u00e9sion de la Croatie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0231"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-66"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-007"
+            ],
+            "notation_dlvId": "561896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Chine concernant l'adh\u00e9sion de la Croatie</title><label>Recommandation: Iuliu Winkler (A8-0231/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0298",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561896-4",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 d'Istv\u00e1n Ujhelyi"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0229"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-96"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "561896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 d'Istv\u00e1n Ujhelyi </title><label>Rapport: Tadeusz Zwiefka (A8-0229/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2237",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561896-2",
+            "activity_label": {
+                "fr": "Coop\u00e9ration territoriale europ\u00e9enne - bonnes pratiques et mesures in\u00e9dites"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0202"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-002"
+            ],
+            "notation_dlvId": "561896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coop\u00e9ration territoriale europ\u00e9enne - bonnes pratiques et mesures in\u00e9dites</title><label>Rapport: Iskra Mihaylova (A8-0202/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2280",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561890-18",
+            "activity_label": {
+                "fr": "Fonds d'affectation sp\u00e9ciale de l'UE pour l'Afrique: implications pour l'aide au d\u00e9veloppement et l'aide humanitaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0221"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-018"
+            ],
+            "notation_dlvId": "561890",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds d'affectation sp\u00e9ciale de l'UE pour l'Afrique: implications pour l'aide au d\u00e9veloppement et l'aide humanitaire</title><label>Rapport: Ignazio Corrao (A8-0221/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2341",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561896-5",
+            "activity_label": {
+                "fr": "Demande de d\u00e9fense des privil\u00e8ges et immunit\u00e9s de Rosario Crocetta"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0230"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-97"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "561896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de d\u00e9fense des privil\u00e8ges et immunit\u00e9s de Rosario Crocetta</title><label>Rapport: Heidi Hautala (A8-0230/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2015",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561896-8",
+            "activity_label": {
+                "fr": "Accord UE-Uruguay concernant l'adh\u00e9sion de la Croatie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0241"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-93"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-008"
+            ],
+            "notation_dlvId": "561896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Uruguay concernant l'adh\u00e9sion de la Croatie</title><label>Recommandation: Pablo Zalba Bidegain (A8-0241/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0058",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561896-3",
+            "activity_label": {
+                "fr": "Enqu\u00eate sur la mesure des \u00e9missions dans le secteur de l'automobile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0246"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-72"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-003"
+            ],
+            "notation_dlvId": "561896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Enqu\u00eate sur la mesure des \u00e9missions dans le secteur de l'automobile</title><label>Rapport: Pablo Zalba Bidegain et  Gerben-Jan Gerbrandy (A8-0246/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2090",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561896-9",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Lazaros Stavrou Lazarou"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0258"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-82"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-009"
+            ],
+            "notation_dlvId": "561896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Lazaros Stavrou Lazarou</title><label>Rapport: Igor \u0160oltes (A8-0258/2016) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0807",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561888-17",
+            "activity_label": {
+                "fr": "Strat\u00e9gie de l'Union europ\u00e9enne pour la r\u00e9gion alpine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0226"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-017"
+            ],
+            "notation_dlvId": "561888",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie de l'Union europ\u00e9enne pour la r\u00e9gion alpine</title><label>Rapport: Mercedes Bresso (A8-0226/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2324",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561895-12",
+            "activity_label": {
+                "fr": "Statistiques relatives au commerce ext\u00e9rieur avec les pays tiers (pouvoirs d\u00e9l\u00e9gu\u00e9s et comp\u00e9tences d'ex\u00e9cution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0240"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-86"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-012"
+            ],
+            "notation_dlvId": "561895",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Statistiques relatives au commerce ext\u00e9rieur avec les pays tiers (pouvoirs d\u00e9l\u00e9gu\u00e9s et comp\u00e9tences d'ex\u00e9cution)</title><label>Recommandation pour la deuxi\u00e8me lecture: Bernd Lange (A8-0240/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0279",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561893-13",
+            "activity_label": {
+                "fr": "Statistiques sur les prix du gaz et de l'\u00e9lectricit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0184"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-013"
+            ],
+            "notation_dlvId": "561893",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Statistiques sur les prix du gaz et de l'\u00e9lectricit\u00e9</title><label>Rapport: Barbara Kappel (A8-0184/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0239",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561896-1",
+            "activity_label": {
+                "fr": "La politique de coh\u00e9sion et les strat\u00e9gies de recherche et d'innovation pour la sp\u00e9cialisation intelligente (RIS3)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0159"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "561896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La politique de coh\u00e9sion et les strat\u00e9gies de recherche et d'innovation pour la sp\u00e9cialisation intelligente (RIS3)</title><label>Rapport: Ram\u00f3n Luis Valc\u00e1rcel Siso (A8-0159/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2278",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561896-10",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Jo\u00e3o Figueiredo"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0259"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-95"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-010"
+            ],
+            "notation_dlvId": "561896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Jo\u00e3o Figueiredo</title><label>Rapport: Igor \u0160oltes (A8-0259/2016) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0809",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16",
+            "type": "Activity",
+            "activity_date": "2016-09-13",
+            "activity_id": "MTG-PL-2016-09-13-VOT-ITM-561887-16",
+            "activity_label": {
+                "fr": "Renforcement de la comp\u00e9titivit\u00e9 des PME"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0162"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-09-13-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-09-13-VOT-ITM-016"
+            ],
+            "notation_dlvId": "561887",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renforcement de la comp\u00e9titivit\u00e9 des PME</title><label>Rapport: Rosa D'Amato (A8-0162/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561889-14",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561967-11",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-6",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561892-19",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561891-15",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-7",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-4",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-2",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561890-18",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-5",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-8",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-3",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-9",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561888-17",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561895-12",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561893-13",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-1",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561896-10",
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2282",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-09-13-VOT-ITM-561887-16"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

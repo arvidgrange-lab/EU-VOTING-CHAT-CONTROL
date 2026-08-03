@@ -1,0 +1,914 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-681952-16",
+            "activity_label": {
+                "fr": "Couper les sources de revenus des djihadistes - cibler le financement du terrorisme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0035"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-016"
+            ],
+            "notation_dlvId": "681952",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Couper les sources de revenus des djihadistes - cibler le financement du terrorisme</title><label>Rapport: Javier Nart (A8-0035/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2203",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680759-7",
+            "activity_label": {
+                "fr": "\u00c9change automatique et obligatoire d'informations dans le domaine fiscal"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0016"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-007"
+            ],
+            "notation_dlvId": "680759",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change automatique et obligatoire d'informations dans le domaine fiscal</title><label>Rapport: Emmanuel Maurel (A8-0016/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0138",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680795-17",
+            "activity_label": {
+                "fr": "Priorit\u00e9s de l\u2019Union europ\u00e9enne pour la soixante-deuxi\u00e8me session de la commission de la condition de la femme des Nations unies"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0022"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-5"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-017"
+            ],
+            "notation_dlvId": "680795",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Priorit\u00e9s de l\u2019Union europ\u00e9enne pour la soixante-deuxi\u00e8me session de la commission de la condition de la femme des Nations unies</title><label>Rapport: Izaskun Bilbao Barandica et  \u00c1ngela Vallina (A8-0022/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2194",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-682121-8",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e en vertu de l'article 106: autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 59122 (DAS-59122-7)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0122"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-008"
+            ],
+            "notation_dlvId": "682121",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e en vertu de l'article 106: autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 59122 (DAS-59122-7)</title><label>Proposition de r\u00e9solution: B8-0122/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2568",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-682094-11",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2017/007\u00a0SE/Ericsson"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0032"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-011"
+            ],
+            "notation_dlvId": "682094",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2017/007\u00a0SE/Ericsson</title><label>Rapport: Urmas Paet (A8-0032/2018) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2012",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680793-14",
+            "activity_label": {
+                "fr": "Perspectives et enjeux du secteur apicole de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0014"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-014"
+            ],
+            "notation_dlvId": "680793",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Perspectives et enjeux du secteur apicole de l'Union europ\u00e9enne</title><label>Rapport: Norbert Erd\u0151s (A8-0014/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2115",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680755-5",
+            "activity_label": {
+                "fr": "Constitution, attributions, composition num\u00e9rique et dur\u00e9e de mandat d'une commission sp\u00e9ciale sur les d\u00e9lits financiers, l'\u00e9vasion fiscale et la fraude fiscale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0125"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-36"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-005"
+            ],
+            "notation_dlvId": "680755",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Constitution, attributions, composition num\u00e9rique et dur\u00e9e de mandat d'une commission sp\u00e9ciale sur les d\u00e9lits financiers, l'\u00e9vasion fiscale et la fraude fiscale</title><label>Proposition de d\u00e9cision: B8-0125/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2574",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680748-1",
+            "activity_label": {
+                "fr": "Distribution d'assurances: date d\u2019application des mesures de transposition des \u00c9tats membres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0024"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-18"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-001"
+            ],
+            "notation_dlvId": "680748",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Distribution d'assurances: date d\u2019application des mesures de transposition des \u00c9tats membres</title><label>Rapport: Werner Langen (A8-0024/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0350",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680748-4",
+            "activity_label": {
+                "fr": "Nomination d'un membre du Conseil de r\u00e9solution unique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0030"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-004"
+            ],
+            "notation_dlvId": "680748",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre du Conseil de r\u00e9solution unique</title><label>Rapport: Roberto Gualtieri (A8-0030/2018) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0901",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-681963-10",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation - demande EGF/2017/006\u00a0ES/Galicia apparel"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0033"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-010"
+            ],
+            "notation_dlvId": "681963",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation - demande EGF/2017/006\u00a0ES/Galicia apparel</title><label>Rapport: Esteban Gonz\u00e1lez Pons (A8-0033/2018) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2014",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680761-12",
+            "activity_label": {
+                "fr": "D\u00e9cision de la Commission d'activer l'article 7, paragraphe 1, du trait\u00e9 UE eu \u00e9gard \u00e0 la situation en Pologne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0121",
+                "eli/dl/doc/B-8-2018-0119",
+                "eli/dl/doc/B-8-2018-0120"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-012"
+            ],
+            "notation_dlvId": "680761",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9cision de la Commission d'activer l'article 7, paragraphe 1, du trait\u00e9 UE eu \u00e9gard \u00e0 la situation en Pologne</title><label>Propositions de r\u00e9solution: B8-0119/2018, B8-0120/2018, B8-0121/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2541",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-682122-9",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e en vertu de l'article 106: autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 87427 \u00d7 MON 89034 \u00d7 NK603 et du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 combinant deux des \u00e9v\u00e9nements MON 87427, MON 89034 et NK603"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0124"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-009"
+            ],
+            "notation_dlvId": "682122",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e en vertu de l'article 106: autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 87427 \u00d7 MON 89034 \u00d7 NK603 et du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 combinant deux des \u00e9v\u00e9nements MON 87427, MON 89034 et NK603</title><label>Proposition de r\u00e9solution: B8-0124/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2569",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680756-6",
+            "activity_label": {
+                "fr": "D\u00e9finition, pr\u00e9sentation et \u00e9tiquetage des boissons spiritueuses, ainsi que protection des indications g\u00e9ographiques relatives \u00e0 celles-ci"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0021"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-006"
+            ],
+            "notation_dlvId": "680756",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9finition, pr\u00e9sentation et \u00e9tiquetage des boissons spiritueuses, ainsi que protection des indications g\u00e9ographiques relatives \u00e0 celles-ci</title><label>Rapport: Pilar Ayuso (A8-0021/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0392",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680792-13",
+            "activity_label": {
+                "fr": "Situation des droits fondamentaux dans l'Union europ\u00e9enne en 2016"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0025"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-11"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-013"
+            ],
+            "notation_dlvId": "680792",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation des droits fondamentaux dans l'Union europ\u00e9enne en 2016</title><label>Rapport: Frank Engel (A8-0025/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2125",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680748-3",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Annemie Turtelboom"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0027"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-003"
+            ],
+            "notation_dlvId": "680748",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Annemie Turtelboom</title><label>Rapport: Indrek Tarand (A8-0027/2018) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0801",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680794-15",
+            "activity_label": {
+                "fr": "Union bancaire - Rapport annuel 2017"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0019"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-4"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-015"
+            ],
+            "notation_dlvId": "680794",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Union bancaire - Rapport annuel 2017</title><label>Rapport: Sander Loones (A8-0019/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2072",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2",
+            "type": "Activity",
+            "activity_date": "2018-03-01",
+            "activity_id": "MTG-PL-2018-03-01-VOT-ITM-680748-2",
+            "activity_label": {
+                "fr": "Accord bilat\u00e9ral entre l\u2019Union europ\u00e9enne et les \u00c9tats-Unis d\u2019Am\u00e9rique sur des mesures prudentielles concernant l\u2019assurance et la r\u00e9assurance"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0008"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-03-01-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-03-01-VOT-ITM-002"
+            ],
+            "notation_dlvId": "680748",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord bilat\u00e9ral entre l\u2019Union europ\u00e9enne et les \u00c9tats-Unis d\u2019Am\u00e9rique sur des mesures prudentielles concernant l\u2019assurance et la r\u00e9assurance</title><label>Recommandation: Roberto Gualtieri (A8-0008/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-03-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681952-16",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680759-7",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680795-17",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682121-8",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682094-11",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680793-14",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680755-5",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-1",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-4",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-681963-10",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680761-12",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-682122-9",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680756-6",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680792-13",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-3",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680794-15",
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0075",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-03-01-VOT-ITM-680748-2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939307",
+            "activity_label": {
+                "fr": "Adh\u00e9sion de l'Ukraine \u00e0 la convention du 2 juillet 2019 sur la reconnaissance et l'ex\u00e9cution des jugements \u00e9trangers en mati\u00e8re civile ou commerciale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0267"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-73",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939307",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion de l'Ukraine \u00e0 la convention du 2 juillet 2019 sur la reconnaissance et l'ex\u00e9cution des jugements \u00e9trangers en mati\u00e8re civile ou commerciale</title><label>Propositions de r\u00e9solution: B9-0267/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

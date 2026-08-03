@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-10-VOT-ITM-939118",
+            "type": "Activity",
+            "activity_date": "2023-05-10",
+            "activity_id": "MTG-PL-2023-05-10-VOT-ITM-939118",
+            "activity_label": {
+                "fr": "D\u00e9charge 2021: Centre europ\u00e9en de pr\u00e9vention et de contr\u00f4le des maladies"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0146"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-10-OJ-ITM-V-133",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-10-VOT-ITM-025"
+            ],
+            "notation_dlvId": "939118",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2021: Centre europ\u00e9en de pr\u00e9vention et de contr\u00f4le des maladies</title><label>Rapport: Katalin Cseh (A9-0146/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

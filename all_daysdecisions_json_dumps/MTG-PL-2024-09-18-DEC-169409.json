@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-09-18-DEC-169409",
+            "type": "Vote",
+            "activity_date": "2024-09-18",
+            "activity_id": "MTG-PL-2024-09-18-DEC-169409",
+            "activity_order": "2.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "169409",
+            "headingLabel": {
+                "pt": "Proposta de decis\u00e3o B10-0019/2024 (Confer\u00eancia dos Presidentes)",
+                "pl": "Projekt decyzji B10-0019/2024 \n(Konferencja Przewodnicz\u0105cych)",
+                "fr": "Proposition de d\u00e9cision B10-0019/2024\n(Conf\u00e9rence des pr\u00e9sidents)",
+                "it": "Proposta di decisione B10-0019/2024\n(Conferenza dei presidenti)",
+                "fi": "p\u00e4\u00e4t\u00f6sehdotus B10-0019/2024 \n(puheenjohtajakokous)",
+                "de": "Vorschlag f\u00fcr einen Beschluss B10-0019/2024\n(Konferenz der Pr\u00e4sidenten)",
+                "da": "Forslag til afg\u00f8relse B10-0019/2024\n(Formandskonferencen)",
+                "lv": "L\u0113muma priek\u0161likums B10-0019/2024\n(Priek\u0161s\u0113d\u0113t\u0101ju konference)",
+                "sk": "N\u00e1vrh rozhodnutia B10-0019/2024\n(Konferencia predsedov)",
+                "hr": "Prijedlog odluke B10-0019/2024 (Konferencija predsjednika)",
+                "nl": "Ontwerpbesluit B10-0019/2024\n(Conferentie van voorzitters)",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435 B10-0019/2024 \n(\u041f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u0441\u043a\u0438 \u0441\u044a\u0432\u0435\u0442)",
+                "sl": "Predlog sklepa B10-0019/2024\n(konferenca predsednikov)",
+                "ro": "Propunere de decizie B10-0019/2024 \n(Conferin\u021ba pre\u0219edin\u021bilor)",
+                "ga": "Togra le haghaidh Cinnidh B10-0019/2024\n(Comhdh\u00e1il na nUachtar\u00e1n)",
+                "lt": "Pasi\u016blymas d\u0117l sprendimo B10-0019/2024 \n(Pirminink\u0173 sueiga)",
+                "et": "Ettepanek v\u00f5tta vastu otsus B10-0019/2024\n(esimeeste konverents)",
+                "sv": "F\u00f6rslag till beslut B10-0019/2024 (talmanskonferensen)",
+                "cs": "N\u00e1vrh rozhodnut\u00ed B10-0019/2024\n(Konference p\u0159edsed\u016f)",
+                "hu": "B10-0019/2024 sz. hat\u00e1rozatra ir\u00e1nyul\u00f3 javaslat\n(Eln\u00f6k\u00f6k \u00c9rtekezlete)",
+                "mt": "Proposta g\u0127al de\u010bi\u017cjoni B10-0019/2024\n(Konferenza tal-Presidenti)",
+                "en": "Proposal for a decision B10-0019/2024\n(Conference of Presidents)",
+                "es": "Propuesta de Decisi\u00f3n B10-0019/2024\n(Conferencia de Presidentes)",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7\u03c2 B10-0019/2024\n(\u0394\u03b9\u03ac\u03c3\u03ba\u03b5\u03c8\u03b7 \u03c4\u03c9\u03bd \u03a0\u03c1\u03bf\u03ad\u03b4\u03c1\u03c9\u03bd)"
+            },
+            "referenceText": {
+                "da": "Forslag til afg\u00f8relse",
+                "cs": "n\u00e1vrh rozhodnut\u00ed",
+                "en": "Proposal for a decision",
+                "sk": "N\u00e1vrh rozhodnutia",
+                "hu": "Hat\u00e1rozatra ir\u00e1nyul\u00f3 javaslat",
+                "et": "Ettepanek v\u00f5tta vastu otsus",
+                "mt": "Proposta g\u0127al de\u010bi\u017cjoni",
+                "hr": "Prijedlog odluke",
+                "sl": "Predlog sklepa",
+                "lt": "Pasi\u016blymas d\u0117l sprendimo",
+                "sv": "F\u00f6rslag till beslut",
+                "fr": "Proposition de d\u00e9cision",
+                "fi": "p\u00e4\u00e4t\u00f6sehdotus",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+                "de": "Vorschlag f\u00fcr einen Beschluss",
+                "nl": "Ontwerpbesluit",
+                "ga": "Togra le haghaidh Cinnidh",
+                "pt": "Proposta de decis\u00e3o",
+                "it": "Proposta di decisione",
+                "lv": "L\u0113muma priek\u0161likums",
+                "ro": "Propunere de decizie",
+                "es": "Propuesta de Decisi\u00f3n",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7\u03c2",
+                "pl": "Projekt decyzji"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939223",
+            "activity_label": {
+                "fr": "Enqu\u00eate sur l'utilisation de Pegasus et de logiciels espions de surveillance \u00e9quivalents (recommandation)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0260"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-35",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939223",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Enqu\u00eate sur l'utilisation de Pegasus et de logiciels espions de surveillance \u00e9quivalents (recommandation)</title><label>Projet de recommandation: B9-0260/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-14-VOT-ITM-938812",
+            "type": "Activity",
+            "activity_date": "2023-03-14",
+            "activity_id": "MTG-PL-2023-03-14-VOT-ITM-938812",
+            "activity_label": {
+                "fr": "Navires rouliers \u00e0 passagers: prescriptions de stabilit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0255"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-14-OJ-ITM-V-27",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "938812",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Navires rouliers \u00e0 passagers: prescriptions de stabilit\u00e9</title><label>Rapport: Roberts Z\u012ble (A9-0255/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

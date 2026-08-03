@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422745-6",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422745-6",
+            "activity_label": {
+                "fr": "\u00c9missions de dioxyde de carbone du secteur des transports maritimes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0122"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-125"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-006"
+            ],
+            "notation_dlvId": "422745",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9missions de dioxyde de carbone du secteur des transports maritimes</title><label>Recommandation pour la deuxi\u00e8me lecture: Jos\u00e9 In\u00e1cio Faria (A8-0122/2015)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

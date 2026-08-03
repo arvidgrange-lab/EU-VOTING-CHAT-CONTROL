@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-05-VOT-ITM-939549",
+            "type": "Activity",
+            "activity_date": "2023-10-05",
+            "activity_id": "MTG-PL-2023-10-05-VOT-ITM-939549",
+            "activity_label": {
+                "fr": "Approbation de l'attribution de nouvelles responsabilit\u00e9s au vice-pr\u00e9sident ex\u00e9cutif de la Commission Maro\u0161 \u0160ef\u010dovi\u010d"
+            },
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-05-OJ-ITM-V-88",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-05-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939549",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Approbation de l'attribution de nouvelles responsabilit\u00e9s au vice-pr\u00e9sident ex\u00e9cutif de la Commission Maro\u0161 \u0160ef\u010dovi\u010d</title><label> (Vote au scrutin secret (article 191 du r\u00e8glement))</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,416 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736231-4",
+            "type": "Activity",
+            "activity_date": "2018-10-03",
+            "activity_id": "MTG-PL-2018-10-03-VOT-ITM-736231-4",
+            "activity_label": {
+                "fr": "Evaluation des technologies de la sant\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0289"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-03-OJ-ITM-V-74"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-03-VOT-ITM-004"
+            ],
+            "notation_dlvId": "736231",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Evaluation des technologies de la sant\u00e9</title><label>Rapport: Soledad Cabez\u00f3n Ruiz (A8-0289/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736231-4",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-3",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736140-6",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736139-5",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-2",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-1",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737486-8",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737485-7",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737487-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0018",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736231-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-3",
+            "type": "Activity",
+            "activity_date": "2018-10-03",
+            "activity_id": "MTG-PL-2018-10-03-VOT-ITM-736133-3",
+            "activity_label": {
+                "fr": "Coop\u00e9ration administrative dans le domaine des droits d'accises en ce qui concerne le contenu du registre \u00e9lectronique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0285"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-03-OJ-ITM-V-63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-03-VOT-ITM-003"
+            ],
+            "notation_dlvId": "736133",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coop\u00e9ration administrative dans le domaine des droits d'accises en ce qui concerne le contenu du registre \u00e9lectronique</title><label>Rapport: Ivana Maleti\u0107 (A8-0285/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736231-4",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-3",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736140-6",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736139-5",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-2",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-1",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737486-8",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737485-7",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737487-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0181",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736140-6",
+            "type": "Activity",
+            "activity_date": "2018-10-03",
+            "activity_id": "MTG-PL-2018-10-03-VOT-ITM-736140-6",
+            "activity_label": {
+                "fr": "Taux de taxe sur la valeur ajout\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0279"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-03-OJ-ITM-V-11"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-03-VOT-ITM-006"
+            ],
+            "notation_dlvId": "736140",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Taux de taxe sur la valeur ajout\u00e9e</title><label>Rapport: Tibor Szanyi (A8-0279/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736231-4",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-3",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736140-6",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736139-5",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-2",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-1",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737486-8",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737485-7",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737487-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0005",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736140-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736139-5",
+            "type": "Activity",
+            "activity_date": "2018-10-03",
+            "activity_id": "MTG-PL-2018-10-03-VOT-ITM-736139-5",
+            "activity_label": {
+                "fr": "Normes de performance en mati\u00e8re d'\u00e9missions pour les voitures particuli\u00e8res neuves et pour les v\u00e9hicules utilitaires l\u00e9gers neufs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0287"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-03-OJ-ITM-V-66"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-03-VOT-ITM-005"
+            ],
+            "notation_dlvId": "736139",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normes de performance en mati\u00e8re d'\u00e9missions pour les voitures particuli\u00e8res neuves et pour les v\u00e9hicules utilitaires l\u00e9gers neufs</title><label>Rapport: Miriam Dalli (A8-0287/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736231-4",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-3",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736140-6",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736139-5",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-2",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-1",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737486-8",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737485-7",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737487-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0293",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736139-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-2",
+            "type": "Activity",
+            "activity_date": "2018-10-03",
+            "activity_id": "MTG-PL-2018-10-03-VOT-ITM-736133-2",
+            "activity_label": {
+                "fr": "TVA: p\u00e9riode d\u2019application du m\u00e9canisme d\u2019autoliquidation et du m\u00e9canisme de r\u00e9action rapide"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0283"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-03-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-03-VOT-ITM-002"
+            ],
+            "notation_dlvId": "736133",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>TVA: p\u00e9riode d\u2019application du m\u00e9canisme d\u2019autoliquidation et du m\u00e9canisme de r\u00e9action rapide </title><label>Rapport: Sirpa Pietik\u00e4inen (A8-0283/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736231-4",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-3",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736140-6",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736139-5",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-2",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-1",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737486-8",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737485-7",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737487-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0150",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-1",
+            "type": "Activity",
+            "activity_date": "2018-10-03",
+            "activity_id": "MTG-PL-2018-10-03-VOT-ITM-736133-1",
+            "activity_label": {
+                "fr": "Harmoniser et simplifier certaines r\u00e8gles dans le syst\u00e8me de TVA"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0280"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-03-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-03-VOT-ITM-001"
+            ],
+            "notation_dlvId": "736133",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Harmoniser et simplifier certaines r\u00e8gles dans le syst\u00e8me de TVA</title><label>Rapport: Jeppe Kofod (A8-0280/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736231-4",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-3",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736140-6",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736139-5",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-2",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-1",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737486-8",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737485-7",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737487-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0251",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737486-8",
+            "type": "Activity",
+            "activity_date": "2018-10-03",
+            "activity_id": "MTG-PL-2018-10-03-VOT-ITM-737486-8",
+            "activity_label": {
+                "fr": "Technologies des registres distribu\u00e9s et cha\u00eenes de blocs: renforcer la confiance par la d\u00e9sinterm\u00e9diation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0397"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-03-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-03-VOT-ITM-008"
+            ],
+            "notation_dlvId": "737486",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Technologies des registres distribu\u00e9s et cha\u00eenes de blocs: renforcer la confiance par la d\u00e9sinterm\u00e9diation</title><label>Propositions de r\u00e9solution: B8-0397/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736231-4",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-3",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736140-6",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736139-5",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-2",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-1",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737486-8",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737485-7",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737487-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2772",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737486-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737485-7",
+            "type": "Activity",
+            "activity_date": "2018-10-03",
+            "activity_id": "MTG-PL-2018-10-03-VOT-ITM-737485-7",
+            "activity_label": {
+                "fr": "Normes internationales d'information financi\u00e8re: IFRS 17 Contrats d'assurance"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0442"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-03-OJ-ITM-V-84"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-03-VOT-ITM-007"
+            ],
+            "notation_dlvId": "737485",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normes internationales d'information financi\u00e8re: IFRS 17 Contrats d'assurance</title><label>Proposition de r\u00e9solution: B8-0442/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736231-4",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-3",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736140-6",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736139-5",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-2",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-1",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737486-8",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737485-7",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737487-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2689",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737485-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737487-9",
+            "type": "Activity",
+            "activity_date": "2018-10-03",
+            "activity_id": "MTG-PL-2018-10-03-VOT-ITM-737487-9",
+            "activity_label": {
+                "fr": "Programme de l\u2019Union europ\u00e9enne pour les r\u00e9gions rurales, montagneuses et isol\u00e9es"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0399"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-03-OJ-ITM-V-86"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-03-VOT-ITM-009"
+            ],
+            "notation_dlvId": "737487",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Programme de l\u2019Union europ\u00e9enne pour les r\u00e9gions rurales, montagneuses et isol\u00e9es</title><label>Proposition de r\u00e9solution: B8-0399/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736231-4",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-3",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736140-6",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736139-5",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-2",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-736133-1",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737486-8",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737485-7",
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737487-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2720",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-03-VOT-ITM-737487-9"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

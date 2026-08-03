@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-13-VOT-ITM-939409",
+            "type": "Activity",
+            "activity_date": "2023-07-13",
+            "activity_id": "MTG-PL-2023-07-13-VOT-ITM-939409",
+            "activity_label": {
+                "fr": "D\u00e9ch\u00e9ances des droits politiques au Venezuela"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0351",
+                "eli/dl/doc/B-9-2023-0343",
+                "eli/dl/doc/B-9-2023-0330",
+                "eli/dl/doc/B-9-2023-0350",
+                "eli/dl/doc/B-9-2023-0331"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-13-OJ-ITM-V-97",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939409",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9ch\u00e9ances des droits politiques au Venezuela </title><label>Propositions de r\u00e9solution: RC-B9-0331/2023, B9-0330/2023, B9-0331/2023, B9-0343/2023, B9-0350/2023, B9-0351/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

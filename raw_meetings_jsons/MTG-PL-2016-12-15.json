@@ -1,0 +1,436 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563019-7",
+            "type": "Activity",
+            "activity_date": "2016-12-15",
+            "activity_id": "MTG-PL-2016-12-15-VOT-ITM-563019-7",
+            "activity_label": {
+                "fr": "M\u00e9dicaments p\u00e9diatriques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1340"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-15-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "563019",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>M\u00e9dicaments p\u00e9diatriques</title><label>Propositions de r\u00e9solution: B8-1340/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563019-7",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563018-6",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563017-9",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563015-3",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563013-2",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563010-5",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-562723-8",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563962-4",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563011-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2902",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563019-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563018-6",
+            "type": "Activity",
+            "activity_date": "2016-12-15",
+            "activity_id": "MTG-PL-2016-12-15-VOT-ITM-563018-6",
+            "activity_label": {
+                "fr": "Soutien aux victimes du thalidomide"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1343",
+                "eli/dl/doc/B-8-2016-1341"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-15-OJ-ITM-V-94"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "563018",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Soutien aux victimes du thalidomide</title><label>Propositions de r\u00e9solution: B8-1341/2016, B8-1343/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563019-7",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563018-6",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563017-9",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563015-3",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563013-2",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563010-5",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-562723-8",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563962-4",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563011-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3029",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563018-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563017-9",
+            "type": "Activity",
+            "activity_date": "2016-12-15",
+            "activity_id": "MTG-PL-2016-12-15-VOT-ITM-563017-9",
+            "activity_label": {
+                "fr": "Accords internationaux en mati\u00e8re d'aviation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1339",
+                "eli/dl/doc/B-8-2016-1337",
+                "eli/dl/doc/B-8-2016-1338"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-15-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-15-VOT-ITM-009"
+            ],
+            "notation_dlvId": "563017",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accords internationaux en mati\u00e8re d'aviation</title><label>Propositions de r\u00e9solution: B8-1337/2016, B8-1338/2016, B8-1339/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563019-7",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563018-6",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563017-9",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563015-3",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563013-2",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563010-5",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-562723-8",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563962-4",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563011-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2961",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563017-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563015-3",
+            "type": "Activity",
+            "activity_date": "2016-12-15",
+            "activity_id": "MTG-PL-2016-12-15-VOT-ITM-563015-3",
+            "activity_label": {
+                "fr": "Charniers en Iraq"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1355",
+                "eli/dl/doc/B-8-2016-1358",
+                "eli/dl/doc/B-8-2016-1362",
+                "eli/dl/doc/B-8-2016-1349",
+                "eli/dl/doc/B-8-2016-1351",
+                "eli/dl/doc/B-8-2016-1347",
+                "eli/dl/doc/B-8-2016-1344"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-15-OJ-ITM-V-93"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "563015",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Charniers en Iraq</title><label>Propositions de r\u00e9solution : B8-1344/2016, B8-1347/2016, B8-1349/2016, B8-1351/2016, B8-1355/2016, B8-1358/2016, B8-1362/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563019-7",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563018-6",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563017-9",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563015-3",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563013-2",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563010-5",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-562723-8",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563962-4",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563011-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3028",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563015-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563013-2",
+            "type": "Activity",
+            "activity_date": "2016-12-15",
+            "activity_id": "MTG-PL-2016-12-15-VOT-ITM-563013-2",
+            "activity_label": {
+                "fr": "La situation de la minorit\u00e9 Rohingya au Myanmar/en Birmanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1357",
+                "eli/dl/doc/B-8-2016-1345",
+                "eli/dl/doc/B-8-2016-1348",
+                "eli/dl/doc/B-8-2016-1354",
+                "eli/dl/doc/B-8-2016-1352",
+                "eli/dl/doc/B-8-2016-1360",
+                "eli/dl/doc/B-8-2016-1363"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-15-OJ-ITM-V-92"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-15-VOT-ITM-002"
+            ],
+            "notation_dlvId": "563013",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La situation de la minorit\u00e9 Rohingya au Myanmar/en Birmanie</title><label>Propositions de r\u00e9solution : B8-1345/2016, B8-1348/2016, B8-1352/2016, B8-1354/2016, B8-1357/2016, B8-1360/2016, B8-1363/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563019-7",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563018-6",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563017-9",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563015-3",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563013-2",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563010-5",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-562723-8",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563962-4",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563011-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3027",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563013-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563010-5",
+            "type": "Activity",
+            "activity_date": "2016-12-15",
+            "activity_id": "MTG-PL-2016-12-15-VOT-ITM-563010-5",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e en vertu de l'article 106: mesures de protection contre l'introduction dans la Communaut\u00e9 d'organismes nuisibles aux v\u00e9g\u00e9taux ou aux produits v\u00e9g\u00e9taux et contre leur propagation \u00e0 l'int\u00e9rieur de la Communaut\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1334"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-15-OJ-ITM-V-88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-15-VOT-ITM-005"
+            ],
+            "notation_dlvId": "563010",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e en vertu de l'article 106: mesures de protection contre l'introduction dans la Communaut\u00e9 d'organismes nuisibles aux v\u00e9g\u00e9taux ou aux produits v\u00e9g\u00e9taux et contre leur propagation \u00e0 l'int\u00e9rieur de la Communaut\u00e9</title><label>Proposition de r\u00e9solution: B8-1334/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563019-7",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563018-6",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563017-9",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563015-3",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563013-2",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563010-5",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-562723-8",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563962-4",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563011-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3010",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563010-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-562723-8",
+            "type": "Activity",
+            "activity_date": "2016-12-15",
+            "activity_id": "MTG-PL-2016-12-15-VOT-ITM-562723-8",
+            "activity_label": {
+                "fr": "Activit\u00e9s de la commission des p\u00e9titions au cours de l'ann\u00e9e 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0366"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-15-OJ-ITM-V-52"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-15-VOT-ITM-008"
+            ],
+            "notation_dlvId": "562723",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Activit\u00e9s de la commission des p\u00e9titions au cours de l'ann\u00e9e 2015</title><label>Rapport: \u00c1ngela Vallina (A8-0366/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563019-7",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563018-6",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563017-9",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563015-3",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563013-2",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563010-5",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-562723-8",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563962-4",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563011-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2146",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-562723-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563962-4",
+            "type": "Activity",
+            "activity_date": "2016-12-15",
+            "activity_id": "MTG-PL-2016-12-15-VOT-ITM-563962-4",
+            "activity_label": {
+                "fr": "Pays tiers dont les ressortissants sont soumis \u00e0 l\u2019obligation de visa ou exempt\u00e9s de cette obligation: r\u00e9vision du m\u00e9canisme de suspension"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0235"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-15-OJ-ITM-V-101"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "563962",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pays tiers dont les ressortissants sont soumis \u00e0 l\u2019obligation de visa ou exempt\u00e9s de cette obligation: r\u00e9vision du m\u00e9canisme de suspension</title><label>Rapport: Agust\u00edn D\u00edaz de Mera Garc\u00eda Consuegra (A8-0235/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563019-7",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563018-6",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563017-9",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563015-3",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563013-2",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563010-5",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-562723-8",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563962-4",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563011-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0142",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563962-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563011-1",
+            "type": "Activity",
+            "activity_date": "2016-12-15",
+            "activity_id": "MTG-PL-2016-12-15-VOT-ITM-563011-1",
+            "activity_label": {
+                "fr": "Les cas de l'acad\u00e9mie bouddhiste tib\u00e9taine Larung Gar et d'Ilham Tohti"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1356",
+                "eli/dl/doc/B-8-2016-1346",
+                "eli/dl/doc/B-8-2016-1361",
+                "eli/dl/doc/B-8-2016-1350",
+                "eli/dl/doc/B-8-2016-1353",
+                "eli/dl/doc/B-8-2016-1359"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-15-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "563011",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les cas de l'acad\u00e9mie bouddhiste tib\u00e9taine Larung Gar et d'Ilham Tohti</title><label>Propositions de r\u00e9solution : B8-1346/2016, B8-1350/2016, B8-1353/2016, B8-1356/2016, B8-1359/2016, B8-1361/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563019-7",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563018-6",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563017-9",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563015-3",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563013-2",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563010-5",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-562723-8",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563962-4",
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563011-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3026",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-15-VOT-ITM-563011-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-11-25-DEC-181706",
+            "type": "Vote",
+            "activity_date": "2025-11-25",
+            "activity_id": "MTG-PL-2025-11-25-DEC-181706",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 642,
+            "number_of_votes_abstention": 25,
+            "number_of_votes_against": 206,
+            "number_of_votes_favor": 411,
+            "comment": {
+                "de": "geh.",
+                "cs": "TAJ",
+                "sv": "Sluten",
+                "hu": "TITK.",
+                "ga": "BR",
+                "mt": "SIG",
+                "da": "SEC",
+                "fr": "SEC",
+                "hr": "SEC",
+                "es": "SEC",
+                "en": "SEC",
+                "ro": "SEC",
+                "fi": "SEC",
+                "pt": "SEC",
+                "it": "SEC",
+                "lt": "SEC",
+                "nl": "Geh. S",
+                "el": "\u039c\u03a8",
+                "et": "SH",
+                "sk": "TH",
+                "pl": "taj",
+                "sl": "TG",
+                "bg": "\u0422\u0413",
+                "lv": "AIZKL"
+            },
+            "notation_votingId": "181706",
+            "note": {
+                "sl": "411, 206 in 25."
+            },
+            "referenceText": {
+                "pt": "Nomea\u00e7\u00e3o de Daniel Caspary",
+                "ga": "Ainmni\u00fa Daniel Caspary",
+                "pl": "Powo\u0142anie Daniela Caspary\u2019ego",
+                "lt": "Danielio Caspary skyrimas",
+                "de": "Ernennung von Daniel Caspary",
+                "fr": "Nomination de Daniel Caspary",
+                "cs": "jmenov\u00e1n\u00ed Daniela Casparyho",
+                "da": "Udn\u00e6vnelse af Daniel Caspary",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 Daniel Caspary",
+                "bg": "\u041d\u0430\u0437\u043d\u0430\u0447\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0414\u0430\u043d\u0438\u0435\u043b \u041a\u0430\u0441\u043f\u0430\u0440\u0438",
+                "sv": "Utn\u00e4mning av Daniel Caspary",
+                "lv": "Daniel Caspary iecel\u0161ana",
+                "sk": "Vymenovanie Daniela Casparyho",
+                "fi": "Daniel Casparyn nimitt\u00e4minen",
+                "hr": "Imenovanje Daniela Casparyja",
+                "sl": "Imenovanje Daniela Casparyja",
+                "it": "Nomina di Daniel Caspary",
+                "es": "Nombramiento de Daniel Caspary",
+                "hu": "Daniel Caspary kinevez\u00e9se",
+                "ro": "Numirea lui Daniel Caspary",
+                "mt": "\u0126atra ta\u2019 Daniel Caspary",
+                "et": "Daniel Caspary nimetamine",
+                "en": "Nomination of Daniel Caspary",
+                "nl": "Benoeming van Daniel Caspary"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

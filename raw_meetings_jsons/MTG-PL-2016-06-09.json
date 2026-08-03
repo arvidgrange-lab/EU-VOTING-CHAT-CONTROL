@@ -1,0 +1,329 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540116-7",
+            "type": "Activity",
+            "activity_date": "2016-06-09",
+            "activity_id": "MTG-PL-2016-06-09-VOT-ITM-540116-7",
+            "activity_label": {
+                "fr": "Comp\u00e9titivit\u00e9 de l\u2019industrie europ\u00e9enne de l\u2019\u00e9quipement ferroviaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0677"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-09-OJ-ITM-V-65"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-09-VOT-ITM-007"
+            ],
+            "notation_dlvId": "540116",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Comp\u00e9titivit\u00e9 de l\u2019industrie europ\u00e9enne de l\u2019\u00e9quipement ferroviaire</title><label>Proposition de r\u00e9solution: B8-0677/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540116-7",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542340-2",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542339-1",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540103-5",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542341-3",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540102-4",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540115-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2887",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540116-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542340-2",
+            "type": "Activity",
+            "activity_date": "2016-06-09",
+            "activity_id": "MTG-PL-2016-06-09-VOT-ITM-542340-2",
+            "activity_label": {
+                "fr": "Tadjikistan, situation des prisonniers d'opinion"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0758",
+                "eli/dl/doc/B-8-2016-0762",
+                "eli/dl/doc/B-8-2016-0760",
+                "eli/dl/doc/B-8-2016-0766",
+                "eli/dl/doc/B-8-2016-0770",
+                "eli/dl/doc/B-8-2016-0769",
+                "eli/dl/doc/B-8-2016-0755"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-09-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-09-VOT-ITM-002"
+            ],
+            "notation_dlvId": "542340",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Tadjikistan, situation des prisonniers d'opinion</title><label>B8-0758/2016, B8-0760/2016, B8-0762/2016, B8-0766/2016, B8-0769/2016, B8-0770/2016, B8-0755/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540116-7",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542340-2",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542339-1",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540103-5",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542341-3",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540102-4",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540115-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2754",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542340-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542339-1",
+            "type": "Activity",
+            "activity_date": "2016-06-09",
+            "activity_id": "MTG-PL-2016-06-09-VOT-ITM-542339-1",
+            "activity_label": {
+                "fr": "Cambodge"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0768",
+                "eli/dl/doc/B-8-2016-0772",
+                "eli/dl/doc/B-8-2016-0771",
+                "eli/dl/doc/B-8-2016-0764",
+                "eli/dl/doc/B-8-2016-0759",
+                "eli/dl/doc/B-8-2016-0756",
+                "eli/dl/doc/B-8-2016-0753"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-09-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-09-VOT-ITM-001"
+            ],
+            "notation_dlvId": "542339",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cambodge</title><label>B8-0756/2016, B8-0759/2016, B8-0764/2016, B8-0768/2016, B8-0771/2016, B8-0772/2016, B8-0753/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540116-7",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542340-2",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542339-1",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540103-5",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542341-3",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540102-4",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540115-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2753",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542339-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540103-5",
+            "type": "Activity",
+            "activity_date": "2016-06-09",
+            "activity_id": "MTG-PL-2016-06-09-VOT-ITM-540103-5",
+            "activity_label": {
+                "fr": "Transfert au Tribunal de l'Union europ\u00e9enne de la comp\u00e9tence pour statuer, en premi\u00e8re instance, sur les litiges entre l'Union et ses agents"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0167"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-09-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-09-VOT-ITM-005"
+            ],
+            "notation_dlvId": "540103",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Transfert au Tribunal de l'Union europ\u00e9enne de la comp\u00e9tence pour statuer, en premi\u00e8re instance, sur les litiges entre l'Union et ses agents</title><label>Rapport: Mady Delvaux (A8-0167/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540116-7",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542340-2",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542339-1",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540103-5",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542341-3",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540102-4",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540115-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0906",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540103-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542341-3",
+            "type": "Activity",
+            "activity_date": "2016-06-09",
+            "activity_id": "MTG-PL-2016-06-09-VOT-ITM-542341-3",
+            "activity_label": {
+                "fr": "Vi\u00eat Nam"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0757",
+                "eli/dl/doc/B-8-2016-0763",
+                "eli/dl/doc/B-8-2016-0761",
+                "eli/dl/doc/B-8-2016-0754",
+                "eli/dl/doc/B-8-2016-0767",
+                "eli/dl/doc/B-8-2016-0765"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-09-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-09-VOT-ITM-003"
+            ],
+            "notation_dlvId": "542341",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Vi\u00eat Nam</title><label>B8-0757/2016, B8-0761/2016, B8-0763/2016, B8-0765/2016, B8-0767/2016, B8-0754/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540116-7",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542340-2",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542339-1",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540103-5",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542341-3",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540102-4",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540115-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2755",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542341-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540102-4",
+            "type": "Activity",
+            "activity_date": "2016-06-09",
+            "activity_id": "MTG-PL-2016-06-09-VOT-ITM-540102-4",
+            "activity_label": {
+                "fr": "Favoriser la libre circulation en simplifiant l'acceptation de certains documents publics"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0156"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-09-OJ-ITM-V-55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-09-VOT-ITM-004"
+            ],
+            "notation_dlvId": "540102",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Favoriser la libre circulation en simplifiant l'acceptation de certains documents publics</title><label>Recommandation pour la deuxi\u00e8me lecture: Mady Delvaux (A8-0156/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540116-7",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542340-2",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542339-1",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540103-5",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542341-3",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540102-4",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540115-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0119",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540102-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540115-6",
+            "type": "Activity",
+            "activity_date": "2016-06-09",
+            "activity_id": "MTG-PL-2016-06-09-VOT-ITM-540115-6",
+            "activity_label": {
+                "fr": "Un r\u00e8glement pour une administration ouverte, efficace et ind\u00e9pendante pour l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0685"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-09-OJ-ITM-V-40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-09-VOT-ITM-006"
+            ],
+            "notation_dlvId": "540115",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Un r\u00e8glement pour une administration ouverte, efficace et ind\u00e9pendante pour l'Union europ\u00e9enne</title><label>Proposition de r\u00e9solution: B8-0685/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540116-7",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542340-2",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542339-1",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540103-5",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-542341-3",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540102-4",
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540115-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2610",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540115-6"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

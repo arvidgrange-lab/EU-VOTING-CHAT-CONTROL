@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-13-VOT-ITM-939241",
+            "type": "Activity",
+            "activity_date": "2023-06-13",
+            "activity_id": "MTG-PL-2023-06-13-VOT-ITM-939241",
+            "activity_label": {
+                "fr": "R\u00e8glement sur les preuves \u00e9lectroniques:  injonctions europ\u00e9ennes de production et de conservation de preuves \u00e9lectroniques en mati\u00e8re p\u00e9nale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2020-0256"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-13-OJ-ITM-V-33",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939241",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8glement sur les preuves \u00e9lectroniques:  injonctions europ\u00e9ennes de production et de conservation de preuves \u00e9lectroniques en mati\u00e8re p\u00e9nale</title><label>Rapport: Birgit Sippel (A9-0256/2020)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

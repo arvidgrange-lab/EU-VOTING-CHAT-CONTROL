@@ -1,0 +1,697 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939746",
+            "activity_label": {
+                "mul": "Conf\u00e9rence des Nations unies sur le changement climatique 2023, Duba\u00ef, \u00c9mirats arabes unis (COP28) - UN Climate Change Conference 2023 in Dubai, United Arab Emirates (COP28) - Klimakonferenz 2023 der Vereinten Nationen in Dubai, Vereinigte Arabische Emirate (COP 28)",
+                "fr": "Conf\u00e9rence des Nations unies sur le changement climatique 2023, Duba\u00ef, \u00c9mirats arabes unis (COP28)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0458"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-16",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939746",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conf\u00e9rence des Nations unies sur le changement climatique 2023, Duba\u00ef, \u00c9mirats arabes unis (COP28)</title><label>Proposition de r\u00e9solution: B9-0458/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2636",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939723",
+            "activity_label": {
+                "mul": "Mesures destin\u00e9es \u00e0 assurer un niveau \u00e9lev\u00e9 commun de cybers\u00e9curit\u00e9 dans les institutions, organes et organismes de l\u2019Union - High common level of cybersecurity at the institutions, bodies, offices and agencies of the Union - Hohes gemeinsames Cybersicherheitsniveau in den Organen, Einrichtungen und sonstigen Stellen der Union",
+                "fr": "Mesures destin\u00e9es \u00e0 assurer un niveau \u00e9lev\u00e9 commun de cybers\u00e9curit\u00e9 dans les institutions, organes et organismes de l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0064"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-46",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939723",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures destin\u00e9es \u00e0 assurer un niveau \u00e9lev\u00e9 commun de cybers\u00e9curit\u00e9 dans les institutions, organes et organismes de l\u2019Union</title><label>Rapport: Henna Virkkunen (A9-0064/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0085",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939703",
+            "activity_label": {
+                "fr": "Programme de documentation des captures de thon rouge",
+                "mul": "Programme de documentation des captures de thon rouge - Catch documentation programme for bluefin tuna - Fangdokumentationsregelung f\u00fcr Roten Thun (Thunnus thynnus)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0172"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-48",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939703",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Programme de documentation des captures de thon rouge</title><label>Rapport: Gabriel Mato (A9-0172/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-0302",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939728",
+            "activity_label": {
+                "mul": "Mise en \u0153uvre du principe de la primaut\u00e9 du droit de l\u2019Union europ\u00e9enne - Implementation of the principle of the primacy of EU law - Umsetzung des Grundsatzes des Vorrangs des EU-Rechts",
+                "fr": "Mise en \u0153uvre du principe de la primaut\u00e9 du droit de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0341"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-71",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939728",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du principe de la primaut\u00e9 du droit de l\u2019Union europ\u00e9enne</title><label>Rapport: Yana Toom, Cyrus Engerer (A9-0341/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2143",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939709",
+            "activity_label": {
+                "fr": "Renforcement des normes de performance en mati\u00e8re d\u2019\u00e9missions de CO2 pour les v\u00e9hicules utilitaires lourds neufs",
+                "mul": "Renforcement des normes de performance en mati\u00e8re d\u2019\u00e9missions de CO2 pour les v\u00e9hicules utilitaires lourds neufs - Strengthening the CO2 emission performance targets for new heavy-duty vehicles - Versch\u00e4rfung der CO2-Emissionsnormen f\u00fcr neue schwere Nutzfahrzeuge"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0313"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-25",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939709",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renforcement des normes de performance en mati\u00e8re d\u2019\u00e9missions de CO2 pour les v\u00e9hicules utilitaires lourds neufs</title><label>Rapport: Bas Eickhout (A9-0313/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0042",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939704",
+            "activity_label": {
+                "fr": "Mise en oeuvre du r\u00e8glement instituant des mesures de reconstitution du stock d\u2019anguilles europ\u00e9ennes",
+                "mul": "Mise en oeuvre du r\u00e8glement instituant des mesures de reconstitution du stock d\u2019anguilles europ\u00e9ennes - Implementation of the Regulation establishing measures for the recovery of the stock of European eel - Umsetzung der Verordnung mit Ma\u00dfnahmen zur Wiederauff\u00fcllung des Bestands des Europ\u00e4ischen Aals"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0353"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-50",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-014"
+            ],
+            "notation_dlvId": "939704",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en oeuvre du r\u00e8glement instituant des mesures de reconstitution du stock d\u2019anguilles europ\u00e9ennes</title><label>Rapport: Bert-Jan Ruissen (A9-0353/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2030",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939763",
+            "activity_label": {
+                "fr": "Les enfants d\u2019abord \u2013 Renforcer la garantie pour l\u2019enfance deux ans apr\u00e8s son adoption",
+                "mul": "Les enfants d\u2019abord \u2013 Renforcer la garantie pour l\u2019enfance deux ans apr\u00e8s son adoption - Children first - strengthening the Child guarantee, two years on from its adoption - Vorrang f\u00fcr Kinder \u2013 St\u00e4rkung der Garantie f\u00fcr Kinder zwei Jahre nach ihrer Annahme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0462"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-49",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939763",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les enfants d\u2019abord \u2013 Renforcer la garantie pour l\u2019enfance deux ans apr\u00e8s son adoption</title><label>Proposition de r\u00e9solution: B9-0462/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2811",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939719",
+            "activity_label": {
+                "mul": "Possibilit\u00e9s d\u2019am\u00e9lioration de la fiabilit\u00e9 des audits et des contr\u00f4les r\u00e9alis\u00e9s par les autorit\u00e9s nationales dans le cadre de la gestion partag\u00e9e - Possibilities to increase the reliability of audits and controls by national authorities in shared management - Optionen zur Verbesserung der Zuverl\u00e4ssigkeit von Pr\u00fcfungen und Kontrollen der nationalen Beh\u00f6rden bei geteilter Mittelverwaltung",
+                "fr": "Possibilit\u00e9s d\u2019am\u00e9lioration de la fiabilit\u00e9 des audits et des contr\u00f4les r\u00e9alis\u00e9s par les autorit\u00e9s nationales dans le cadre de la gestion partag\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0297"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-38",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939719",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Possibilit\u00e9s d\u2019am\u00e9lioration de la fiabilit\u00e9 des audits et des contr\u00f4les r\u00e9alis\u00e9s par les autorit\u00e9s nationales dans le cadre de la gestion partag\u00e9e</title><label>Rapport: Monika Hohlmeier (A9-0297/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2020",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939731",
+            "activity_label": {
+                "mul": "R\u00e9duire les in\u00e9galit\u00e9s et promouvoir l\u2019inclusion sociale en temps de crise pour les enfants et leurs familles - Reducing inequalities and promoting social inclusion in times of crisis for children and their families - Abbau von Ungleichheiten und F\u00f6rderung der sozialen Eingliederung in Krisenzeiten f\u00fcr Kinder und ihre Familien",
+                "fr": "R\u00e9duire les in\u00e9galit\u00e9s et promouvoir l\u2019inclusion sociale en temps de crise pour les enfants et leurs familles"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0360"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-76",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939731",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9duire les in\u00e9galit\u00e9s et promouvoir l\u2019inclusion sociale en temps de crise pour les enfants et leurs familles</title><label>Rapport: Sandra Pereira (A9-0360/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2066",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939712",
+            "activity_label": {
+                "mul": "Cadre de l\u2019Union pour la situation sociale et professionnelle des artistes et des travailleurs des secteurs de la culture et de la cr\u00e9ation - EU framework for the social and professional situation of artists and workers in the cultural and creative sectors - EU-Rahmen f\u00fcr die soziale und berufliche Situation von K\u00fcnstlern und Arbeitnehmern in der Kultur- und Kreativbranche",
+                "fr": "Cadre de l\u2019Union pour la situation sociale et professionnelle des artistes et des travailleurs des secteurs de la culture et de la cr\u00e9ation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0304"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-22",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939712",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre de l\u2019Union pour la situation sociale et professionnelle des artistes et des travailleurs des secteurs de la culture et de la cr\u00e9ation</title><label>Rapport: Antonius Manders, Dom\u00e8nec Ruiz Devesa (A9-0304/2023) (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise pour l'adoption de la proposition de r\u00e9solution)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2051",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939722",
+            "activity_label": {
+                "fr": "Cadre de certification de l\u2019Union relatif aux absorptions de carbone",
+                "mul": "Cadre de certification de l\u2019Union relatif aux absorptions de carbone - Union certification framework for carbon removals - Unionsrahmen f\u00fcr die Zertifizierung von CO2-Entnahmen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0329"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-60",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939722",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre de certification de l\u2019Union relatif aux absorptions de carbone</title><label>Rapport: L\u00eddia Pereira (A9-0329/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0394",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939705",
+            "activity_label": {
+                "fr": "Cadre de mesures en vue de renforcer l\u2019\u00e9cosyst\u00e8me europ\u00e9en de la fabrication de produits de technologie \u00abz\u00e9ro net\u00bb (r\u00e8glement pour une industrie \u00abz\u00e9ro net\u00bb)",
+                "mul": "Cadre de mesures en vue de renforcer l\u2019\u00e9cosyst\u00e8me europ\u00e9en de la fabrication de produits de technologie \u00abz\u00e9ro net\u00bb (r\u00e8glement pour une industrie \u00abz\u00e9ro net\u00bb) - Framework of measures for strengthening Europe\u2019s net-zero technology products manufacturing ecosystem (Net Zero Industry Act) - Rahmen f\u00fcr Ma\u00dfnahmen zur St\u00e4rkung des europ\u00e4ischen \u00d6kosystems der Fertigung von Netto-Null-Technologieprodukten (Netto-Null-Industrie-Verordnung)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0343"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-34",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939705",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre de mesures en vue de renforcer l\u2019\u00e9cosyst\u00e8me europ\u00e9en de la fabrication de produits de technologie \u00abz\u00e9ro net\u00bb (r\u00e8glement pour une industrie \u00abz\u00e9ro net\u00bb)</title><label>Rapport: Christian Ehler (A9-0343/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0081",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939729",
+            "activity_label": {
+                "mul": "R\u00e8gles communes visant \u00e0 promouvoir la r\u00e9paration des biens - Common rules promoting the repair of goods  - Gemeinsame Vorschriften zur F\u00f6rderung der Reparatur von Waren",
+                "fr": "R\u00e8gles communes visant \u00e0 promouvoir la r\u00e9paration des biens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0316"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-52",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939729",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8gles communes visant \u00e0 promouvoir la r\u00e9paration des biens</title><label>Rapport: Ren\u00e9 Repasi (A9-0316/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0083",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939710",
+            "activity_label": {
+                "mul": "Mise en \u0153uvre du programme \"Corps europ\u00e9en de solidarit\u00e9\" 2021-2027 - Implementation of the European Solidarity Corps programme 2021-2027 - Durchf\u00fchrung des Programms f\u00fcr das Europ\u00e4ische Solidarit\u00e4tskorps 2021-2027",
+                "fr": "Mise en \u0153uvre du programme \"Corps europ\u00e9en de solidarit\u00e9\" 2021-2027"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0308"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-65",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939710",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du programme \"Corps europ\u00e9en de solidarit\u00e9\" 2021-2027</title><label>Rapport: Michaela \u0160ojdrov\u00e1 (A9-0308/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939723",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939703",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939709",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939704",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939719",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2018",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

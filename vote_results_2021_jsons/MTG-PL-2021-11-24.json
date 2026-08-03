@@ -1,0 +1,167 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936084",
+            "type": "Activity",
+            "activity_date": "2021-11-24",
+            "activity_id": "MTG-PL-2021-11-24-VOT-ITM-936084",
+            "activity_label": {
+                "fr": "Proc\u00e9dure budg\u00e9taire 2022: projet commun"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0326"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-24-OJ-ITM-V-75",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-24-VOT-ITM-002"
+            ],
+            "notation_dlvId": "936084",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Proc\u00e9dure budg\u00e9taire 2022: projet commun</title><label>Rapport: Karlo Ressler, Damian Boeselager (A9-0326/2021) (Majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936084",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936023",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936043",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936000",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-935983"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936023",
+            "type": "Activity",
+            "activity_date": "2021-11-24",
+            "activity_id": "MTG-PL-2021-11-24-VOT-ITM-936023",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 5/2021: aide humanitaire aux r\u00e9fugi\u00e9s en Turquie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0327"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-24-OJ-ITM-V-94",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-24-VOT-ITM-003"
+            ],
+            "notation_dlvId": "936023",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 5/2021: aide humanitaire aux r\u00e9fugi\u00e9s en Turquie</title><label>Rapport: Pierre Larrouturou (A9-0327/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936084",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936023",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936043",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936000",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-935983"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936043",
+            "type": "Activity",
+            "activity_date": "2021-11-24",
+            "activity_id": "MTG-PL-2021-11-24-VOT-ITM-936043",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00ba 6/2021: doses suppl\u00e9mentaires de vaccin en faveur des pays \u00e0 revenu faible et \u00e0 revenu interm\u00e9diaire de la tranche inf\u00e9rieure, renforcement du MPCU et autres ajustements des d\u00e9penses et des recettes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0329"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-24-OJ-ITM-V-108",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-24-VOT-ITM-004"
+            ],
+            "notation_dlvId": "936043",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00ba 6/2021: doses suppl\u00e9mentaires de vaccin en faveur des pays \u00e0 revenu faible et \u00e0 revenu interm\u00e9diaire de la tranche inf\u00e9rieure, renforcement du MPCU et autres ajustements des d\u00e9penses et des recettes</title><label>Rapport: Pierre Larrouturou (A9-0329/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936084",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936023",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936043",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936000",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-935983"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936000",
+            "type": "Activity",
+            "activity_date": "2021-11-24",
+            "activity_id": "MTG-PL-2021-11-24-VOT-ITM-936000",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0319"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-24-OJ-ITM-V-109",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-24-VOT-ITM-006"
+            ],
+            "notation_dlvId": "936000",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936084",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936023",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936043",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936000",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-935983"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-935983",
+            "type": "Activity",
+            "activity_date": "2021-11-24",
+            "activity_id": "MTG-PL-2021-11-24-VOT-ITM-935983",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0314"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-24-OJ-ITM-V-83",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-24-VOT-ITM-007"
+            ],
+            "notation_dlvId": "935983",
+            "structuredLabel": {
+                "fr": "<structuredLabel><label> (Majorit\u00e9 des membres qui composent le Parlement requise pour l'adoption de la proposition de r\u00e9solution)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936084",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936023",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936043",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-936000",
+                        "eli/dl/event/MTG-PL-2021-11-24-VOT-ITM-935983"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

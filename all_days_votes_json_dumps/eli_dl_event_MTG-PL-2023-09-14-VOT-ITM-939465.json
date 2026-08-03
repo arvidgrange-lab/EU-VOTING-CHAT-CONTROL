@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-14-VOT-ITM-939465",
+            "type": "Activity",
+            "activity_date": "2023-09-14",
+            "activity_id": "MTG-PL-2023-09-14-VOT-ITM-939465",
+            "activity_label": {
+                "fr": "Parlementarisme, citoyennet\u00e9 europ\u00e9enne et d\u00e9mocratie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0249"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-14-OJ-ITM-V-35",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939465",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Parlementarisme, citoyennet\u00e9 europ\u00e9enne et d\u00e9mocratie</title><label>Rapport: Alin Mitu\u021ba, Niklas Nienass (A9-0249/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

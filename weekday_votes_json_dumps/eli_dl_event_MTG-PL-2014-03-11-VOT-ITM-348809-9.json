@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-03-11-VOT-ITM-348809-9",
+            "type": "Activity",
+            "activity_date": "2014-03-11",
+            "activity_id": "MTG-PL-2014-03-11-VOT-ITM-348809-9",
+            "activity_label": {
+                "fr": "L'accord de stabilisation et d'association CE/Serbie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0116"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-03-11-OJ-ITM-V-188"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-03-11-VOT-ITM-009"
+            ],
+            "notation_dlvId": "348809",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'accord de stabilisation et d'association CE/Serbie</title><label>Recommandation pour la deuxi\u00e8me lecture: Iuliu Winkler (A7-0116/2014)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

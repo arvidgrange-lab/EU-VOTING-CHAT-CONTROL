@@ -1,0 +1,592 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-485712-1",
+            "activity_label": {
+                "fr": "Prolongation du mandat du pr\u00e9sident de l'Autorit\u00e9 bancaire europ\u00e9enne (ABE)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0347"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-001"
+            ],
+            "notation_dlvId": "485712",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Prolongation du mandat du pr\u00e9sident de l'Autorit\u00e9 bancaire europ\u00e9enne (ABE)</title><label>Rapport: Roberto Gualtieri (A8-0347/2015) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0903",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-485712-2",
+            "activity_label": {
+                "fr": "Prolongation du mandat du pr\u00e9sident de l'Autorit\u00e9 europ\u00e9enne des assurances et des pensions professionnelles (AEAPP)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0348"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-83"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-002"
+            ],
+            "notation_dlvId": "485712",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Prolongation du mandat du pr\u00e9sident de l'Autorit\u00e9 europ\u00e9enne des assurances et des pensions professionnelles (AEAPP)</title><label>Rapport: Roberto Gualtieri (A8-0348/2015) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0904",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-485723-9",
+            "activity_label": {
+                "fr": "Relations UE-Chine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0350"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-009"
+            ],
+            "notation_dlvId": "485723",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations UE-Chine</title><label>Rapport: Bas Belder (A8-0350/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2003",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-485712-3",
+            "activity_label": {
+                "fr": "Prolongation du mandat du pr\u00e9sident de l'Autorit\u00e9 europ\u00e9enne des march\u00e9s financiers (AEMF)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0346"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-82"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-003"
+            ],
+            "notation_dlvId": "485712",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Prolongation du mandat du pr\u00e9sident de l'Autorit\u00e9 europ\u00e9enne des march\u00e9s financiers (AEMF)</title><label>Rapport: Roberto Gualtieri (A8-0346/2015) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0905",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-486623-12",
+            "activity_label": {
+                "fr": "Situation en Hongrie: suivi de la r\u00e9solution du Parlement europ\u00e9en du 10 juin 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1358",
+                "eli/dl/doc/B-8-2015-1359",
+                "eli/dl/doc/B-8-2015-1349",
+                "eli/dl/doc/B-8-2015-1361",
+                "eli/dl/doc/B-8-2015-1360",
+                "eli/dl/doc/B-8-2015-1351"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-012"
+            ],
+            "notation_dlvId": "486623",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Hongrie: suivi de la r\u00e9solution du Parlement europ\u00e9en du 10 juin 2015</title><label>Propositions de r\u00e9solution: B8-1358/2015, B8-1360/2015, B8-1361/2015, B8-1349/2015, B8-1359/2015, B8-1351/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2935",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-485708-10",
+            "activity_label": {
+                "fr": "Pr\u00e9paration du sommet mondial humanitaire: enjeux et perspectives en mati\u00e8re d'assistance humanitaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0332"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-010"
+            ],
+            "notation_dlvId": "485708",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pr\u00e9paration du sommet mondial humanitaire: enjeux et perspectives en mati\u00e8re d'assistance humanitaire</title><label>Rapport: Enrique Guerrero Salom (A8-0332/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2051",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-479436-11",
+            "activity_label": {
+                "fr": "D\u00e9velopper une industrie europ\u00e9enne durable des m\u00e9taux de base"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0309"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-011"
+            ],
+            "notation_dlvId": "479436",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9velopper une industrie europ\u00e9enne durable des m\u00e9taux de base</title><label>Rapport: Edouard Martin (A8-0309/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2211",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-486620-6",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 106: liste des esp\u00e8ces exotiques envahissantes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1345"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-95"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-006"
+            ],
+            "notation_dlvId": "486620",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 106: liste des esp\u00e8ces exotiques envahissantes</title><label>Proposition de r\u00e9solution: B8-1345/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-3010",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-486607-5",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande de l\u2019Irlande \u2013 EGF/2015/006\u00a0IE/PWA International"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0363"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-005"
+            ],
+            "notation_dlvId": "486607",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande de l\u2019Irlande \u2013 EGF/2015/006\u00a0IE/PWA International</title><label>Rapport: Victor Negrescu (A8-0363/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2295",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-485713-8",
+            "activity_label": {
+                "fr": "Favoriser la transparence, la coordination et la convergence des politiques en mati\u00e8re d'imp\u00f4t sur les soci\u00e9t\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0349"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-008"
+            ],
+            "notation_dlvId": "485713",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Favoriser la transparence, la coordination et la convergence des politiques en mati\u00e8re d'imp\u00f4t sur les soci\u00e9t\u00e9s</title><label>Rapport: Anneliese Dodds et  Lud\u011bk Niedermayer (A8-0349/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2010",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-486621-7",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 106: autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 NK603xT25"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1365"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-92"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-007"
+            ],
+            "notation_dlvId": "486621",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 106: autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 NK603xT25</title><label>Proposition de r\u00e9solution: B8-1365/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-3006",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4",
+            "type": "Activity",
+            "activity_date": "2015-12-16",
+            "activity_id": "MTG-PL-2015-12-16-VOT-ITM-486073-4",
+            "activity_label": {
+                "fr": "Coop\u00e9ration op\u00e9rationnelle et strat\u00e9gique entre la Bosnie-Herz\u00e9govine et Europol"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0352"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-16-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-16-VOT-ITM-004"
+            ],
+            "notation_dlvId": "486073",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coop\u00e9ration op\u00e9rationnelle et strat\u00e9gique entre la Bosnie-Herz\u00e9govine et Europol</title><label>Rapport: Lorenzo Fontana (A8-0352/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-1",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-2",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485723-9",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485712-3",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486623-12",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485708-10",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-479436-11",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486620-6",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486607-5",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-485713-8",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486621-7",
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0808",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-16-VOT-ITM-486073-4"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

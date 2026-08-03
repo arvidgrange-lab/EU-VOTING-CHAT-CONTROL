@@ -1,0 +1,506 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5",
+            "type": "Activity",
+            "activity_date": "2015-03-12",
+            "activity_id": "MTG-PL-2015-03-12-VOT-ITM-409239-5",
+            "activity_label": {
+                "fr": "Rapport annuel de la haute repr\u00e9sentante de l'Union europ\u00e9enne pour les affaires \u00e9trang\u00e8res et la politique de s\u00e9curit\u00e9 au Parlement europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0039"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-12-OJ-ITM-V-66"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-12-VOT-ITM-005"
+            ],
+            "notation_dlvId": "409239",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel de la haute repr\u00e9sentante de l'Union europ\u00e9enne pour les affaires \u00e9trang\u00e8res et la politique de s\u00e9curit\u00e9 au Parlement europ\u00e9en</title><label>Rapport: Elmar Brok (A8-0039/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2219",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2",
+            "type": "Activity",
+            "activity_date": "2015-03-12",
+            "activity_id": "MTG-PL-2015-03-12-VOT-ITM-410091-2",
+            "activity_label": {
+                "fr": "Le Soudan du Sud, y compris les r\u00e9cents enl\u00e8vements d'enfants"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0255",
+                "eli/dl/doc/B-8-2015-0258",
+                "eli/dl/doc/B-8-2015-0260",
+                "eli/dl/doc/B-8-2015-0257",
+                "eli/dl/doc/B-8-2015-0263",
+                "eli/dl/doc/B-8-2015-0241",
+                "eli/dl/doc/B-8-2015-0266"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-12-OJ-ITM-V-76"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-12-VOT-ITM-002"
+            ],
+            "notation_dlvId": "410091",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le Soudan du Sud, y compris les r\u00e9cents enl\u00e8vements d'enfants</title><label>Propositions de r\u00e9solution: B8-0241/2015, B8-0255/2015, B8-0257/2015, B8-0258/2015, B8-0260/2015, B8-0263/2015, B8-0266/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2603",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6",
+            "type": "Activity",
+            "activity_date": "2015-03-12",
+            "activity_id": "MTG-PL-2015-03-12-VOT-ITM-409238-6",
+            "activity_label": {
+                "fr": "Rapport annuel sur les droits de l'homme et la d\u00e9mocratie dans le monde en 2013 et sur la politique de l'Union europ\u00e9enne en la mati\u00e8re"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0023"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-12-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-12-VOT-ITM-006"
+            ],
+            "notation_dlvId": "409238",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur les droits de l'homme et la d\u00e9mocratie dans le monde en 2013 et sur la politique de l'Union europ\u00e9enne en la mati\u00e8re</title><label>Rapport: Pier Antonio Panzeri (A8-0023/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2216",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8",
+            "type": "Activity",
+            "activity_date": "2015-03-12",
+            "activity_id": "MTG-PL-2015-03-12-VOT-ITM-410088-8",
+            "activity_label": {
+                "fr": "Exploitation durable du bar"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0235"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-12-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-12-VOT-ITM-008"
+            ],
+            "notation_dlvId": "410088",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Exploitation durable du bar</title><label>Proposition de r\u00e9solution: B8-0235/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2596",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10",
+            "type": "Activity",
+            "activity_date": "2015-03-12",
+            "activity_id": "MTG-PL-2015-03-12-VOT-ITM-409265-10",
+            "activity_label": {
+                "fr": "Situation au Venezuela"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0245",
+                "eli/dl/doc/B-8-2015-0238",
+                "eli/dl/doc/B-8-2015-0246",
+                "eli/dl/doc/B-8-2015-0237",
+                "eli/dl/doc/B-8-2015-0243",
+                "eli/dl/doc/B-8-2015-0236",
+                "eli/dl/doc/B-8-2015-0244"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-12-OJ-ITM-V-67"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-12-VOT-ITM-010"
+            ],
+            "notation_dlvId": "409265",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation au Venezuela</title><label>Propositions de r\u00e9solution: B8-0236/2015, B8-0237/2015, B8-0238/2015, B8-0243/2015, B8-0244/2015, B8-0245/2015, B8-0246/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2582",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7",
+            "type": "Activity",
+            "activity_date": "2015-03-12",
+            "activity_id": "MTG-PL-2015-03-12-VOT-ITM-409257-7",
+            "activity_label": {
+                "fr": "Relations entre l'Union europ\u00e9enne et la Ligue des \u00c9tats arabes et coop\u00e9ration dans la lutte contre le terrorisme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0215"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-12-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-12-VOT-ITM-007"
+            ],
+            "notation_dlvId": "409257",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations entre l'Union europ\u00e9enne et la Ligue des \u00c9tats arabes et coop\u00e9ration dans la lutte contre le terrorisme</title><label>Propositions de r\u00e9solution: B8-0215/2008, B8-0215/2015, B8-0216/2015, B8-0221/2015, B8-0222/2015, B8-0223/2015, B8-0224/2015, B8-0225/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2573",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9",
+            "type": "Activity",
+            "activity_date": "2015-03-12",
+            "activity_id": "MTG-PL-2015-03-12-VOT-ITM-409256-9",
+            "activity_label": {
+                "fr": "Vingt-huiti\u00e8me session du Conseil des droits de l'homme de l'ONU"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0233",
+                "eli/dl/doc/B-8-2015-0228",
+                "eli/dl/doc/B-8-2015-0230",
+                "eli/dl/doc/B-8-2015-0229",
+                "eli/dl/doc/B-8-2015-0231",
+                "eli/dl/doc/B-8-2015-0232",
+                "eli/dl/doc/B-8-2015-0234"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-12-OJ-ITM-V-65"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-12-VOT-ITM-009"
+            ],
+            "notation_dlvId": "409256",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Vingt-huiti\u00e8me session du Conseil des droits de l'homme de l'ONU</title><label>Propositions de r\u00e9solution: B8-0228/2015, B8-0229/2015, B8-0230/2015, B8-0231/2015, B8-0232/2015, B8-0233/2015, B8-0234/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2572",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1",
+            "type": "Activity",
+            "activity_date": "2015-03-12",
+            "activity_id": "MTG-PL-2015-03-12-VOT-ITM-410089-1",
+            "activity_label": {
+                "fr": "R\u00e9cents attentats et enl\u00e8vements, notamment d'Assyriens, commis par l'EI au Proche-Orient"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0264",
+                "eli/dl/doc/B-8-2015-0256",
+                "eli/dl/doc/B-8-2015-0259",
+                "eli/dl/doc/B-8-2015-0262",
+                "eli/dl/doc/B-8-2015-0254",
+                "eli/dl/doc/B-8-2015-0240",
+                "eli/dl/doc/B-8-2015-0253"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-12-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-12-VOT-ITM-001"
+            ],
+            "notation_dlvId": "410089",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9cents attentats et enl\u00e8vements, notamment d'Assyriens, commis par l'EI au Proche-Orient</title><label>Propositions de r\u00e9solution: B8-0240/2015, B8-0253/2015, B8-0254/2015, B8-0256/2015, B8-0259/2015, B8-0262/2015, B8-0264/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2599",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3",
+            "type": "Activity",
+            "activity_date": "2015-03-12",
+            "activity_id": "MTG-PL-2015-03-12-VOT-ITM-410092-3",
+            "activity_label": {
+                "fr": "Tanzanie, notamment la question de l'accaparement des terres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0242",
+                "eli/dl/doc/B-8-2015-0270",
+                "eli/dl/doc/B-8-2015-0269",
+                "eli/dl/doc/B-8-2015-0265",
+                "eli/dl/doc/B-8-2015-0268",
+                "eli/dl/doc/B-8-2015-0261",
+                "eli/dl/doc/B-8-2015-0267"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-12-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-12-VOT-ITM-003"
+            ],
+            "notation_dlvId": "410092",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Tanzanie, notamment la question de l'accaparement des terres</title><label>Propositions de r\u00e9solution: B8-0242/2015, B8-0261/2015, B8-0265/2015, B8-0267/2015, B8-0268/2015, B8-0269/2015, B8-0270/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2604",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4",
+            "type": "Activity",
+            "activity_date": "2015-03-12",
+            "activity_id": "MTG-PL-2015-03-12-VOT-ITM-411224-4",
+            "activity_label": {
+                "fr": "Assassinat du chef de l'opposition russe Boris Nemtsov et \u00e9tat de la d\u00e9mocratie en Russie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0251",
+                "eli/dl/doc/B-8-2015-0252",
+                "eli/dl/doc/B-8-2015-0250",
+                "eli/dl/doc/B-8-2015-0239",
+                "eli/dl/doc/B-8-2015-0248",
+                "eli/dl/doc/B-8-2015-0247"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-12-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-12-VOT-ITM-004"
+            ],
+            "notation_dlvId": "411224",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Assassinat du chef de l'opposition russe Boris Nemtsov et \u00e9tat de la d\u00e9mocratie en Russie</title><label>Propositions de r\u00e9solution: B8-0239/2015, B8-0247/2015, B8-0248/2015, B8-0250/2015, B8-0251/2015, B8-0252/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409239-5",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410091-2",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409238-6",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410088-8",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409265-10",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409257-7",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-409256-9",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410089-1",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-410092-3",
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2592",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-12-VOT-ITM-411224-4"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

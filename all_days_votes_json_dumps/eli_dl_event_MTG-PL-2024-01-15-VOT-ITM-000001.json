@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-01-15-VOT-ITM-000001",
+            "type": "Activity",
+            "activity_date": "2024-01-15",
+            "activity_id": "MTG-PL-2024-01-15-VOT-ITM-000001",
+            "activity_label": {
+                "bg": "\u0414\u043d\u0435\u0432\u0435\u043d \u0440\u0435\u0434 \u0437\u0430 \u043f\u043e\u043d\u0435\u0434\u0435\u043b\u043d\u0438\u043a- \u0438\u0441\u043a\u0430\u043d\u0435 \u043d\u0430 \u0433\u0440\u0443\u043f\u0438\u0442\u0435 PPE \u0438 Verts/ALE",
+                "sk": "Program pondelkov\u00e9ho rokovania \u2013 \u017eiados\u0165 skup\u00edn PPE a\u00a0Verts/ALE",
+                "sv": "M\u00e5ndagens f\u00f6redragningslista \u2013 beg\u00e4ran fr\u00e5n PPE- och Verts/ALE-grupperna",
+                "ga": "Cl\u00e1r Oibre D\u00e9 Luain - Iarraidh \u00f3 na Gr\u00fapa\u00ed PPE agus Verts/ALE",
+                "lv": "Pirmdienas darba k\u0101rt\u012bba - PPE grupas un Verts/ALE grupas piepras\u012bjums",
+                "de": "Tagesordnung f\u00fcr Montag\u00a0\u2013 Antrag der Fraktionen PPE und Verts/ALE",
+                "en": "Monday\u2019s agenda \u2013 Request by the PPE and Verts/ALE groups",
+                "mul": "Ordre du jour de lundi - Demande des groupes PPE et Verts/ALE",
+                "fr": "Ordre du jour de lundi - Demande des groupes PPE et Verts/ALE",
+                "ro": "Ordinea de zi de luni - Solicitarea grupurilor PPE \u0219i Verts/ALE",
+                "cs": "Pond\u011bln\u00ed po\u0159ad jedn\u00e1n\u00ed \u2013 \u017e\u00e1dost skupin PPE a Verts/ALE",
+                "nl": "Agenda van maandag \u2013 Verzoek van de PPE-Fractie en de Verts/ALE-Fractie",
+                "sl": "Ponedeljkov dnevni red \u2013 zahteva skupin PPE in Verts/ALE",
+                "fi": "Maanantain esityslista \u2013 PPE- ja Verts/ALE-ryhmien pyynt\u00f6",
+                "lt": "Pirmadienio darbotvark\u0117 - PPE ir ALE frakcij\u0173 pra\u0161ymas",
+                "pl": "Porz\u0105dek obrad w poniedzia\u0142ek \u2013 wniosek grup PPE i Verts/ALE",
+                "hu": "H\u00e9tf\u0151i napirend \u2013 a PPE \u00e9s a Verts/ALE k\u00e9pvisel\u0151csoportok k\u00e9relme",
+                "pt": "Ordem do dia de segunda-feira - Pedido dos Grupos PPE e Verts/ALE",
+                "el": "\u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03b1 \u03b4\u03b9\u03ac\u03c4\u03b1\u03be\u03b7 \u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1\u03c2 \u2013 \u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03c4\u03c9\u03bd \u039f\u03bc\u03ac\u03b4\u03c9\u03bd PPE \u03ba\u03b1\u03b9 Verts/ALE",
+                "et": "Esmasp\u00e4eva p\u00e4evakord \u2013 fraktsioonide PPE ja Verts/ALE taotlus",
+                "da": "Dagsorden for mandag - Anmodning fra PPE-Gruppen og Verts/ALE-Gruppen",
+                "es": "Orden del d\u00eda del lunes \u2013 Solicitud de los Grupos PPE y Verts/ALE",
+                "hr": "Dnevni red za ponedjeljak \u2013 Zahtjev klubova zastupnika PPE-a i Verts/ALE-a",
+                "it": "Ordine del giorno di luned\u00ec \u2013 Richiesta dei gruppi PPE e Verts/ALE",
+                "mt": "A\u0121enda tat-Tnejn - Talba tal-Gruppi PPE u Verts/ALE"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-01-15-DEC-163199"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-01-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "000001",
+            "structuredLabel": {
+                "bg": "<structuredLabel><title>\u0414\u043d\u0435\u0432\u0435\u043d \u0440\u0435\u0434 \u0437\u0430 \u043f\u043e\u043d\u0435\u0434\u0435\u043b\u043d\u0438\u043a- \u0438\u0441\u043a\u0430\u043d\u0435 \u043d\u0430 \u0433\u0440\u0443\u043f\u0438\u0442\u0435 PPE \u0438 Verts/ALE</title><label/></structuredLabel>",
+                "fi": "<structuredLabel><title>Maanantain esityslista \u2013 PPE- ja Verts/ALE-ryhmien pyynt\u00f6</title><label/></structuredLabel>",
+                "et": "<structuredLabel><title>Esmasp\u00e4eva p\u00e4evakord \u2013 fraktsioonide PPE ja Verts/ALE taotlus</title><label/></structuredLabel>",
+                "hr": "<structuredLabel><title>Dnevni red za ponedjeljak \u2013 Zahtjev klubova zastupnika PPE-a i Verts/ALE-a</title><label/></structuredLabel>",
+                "de": "<structuredLabel><title>Tagesordnung f\u00fcr Montag\u00a0\u2013 Antrag der Fraktionen PPE und Verts/ALE</title><label/></structuredLabel>",
+                "mt": "<structuredLabel><title>A\u0121enda tat-Tnejn - Talba tal-Gruppi PPE u Verts/ALE</title><label/></structuredLabel>",
+                "hu": "<structuredLabel><title>H\u00e9tf\u0151i napirend \u2013 a PPE \u00e9s a Verts/ALE k\u00e9pvisel\u0151csoportok k\u00e9relme</title><label/></structuredLabel>",
+                "el": "<structuredLabel><title>\u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03b1 \u03b4\u03b9\u03ac\u03c4\u03b1\u03be\u03b7 \u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1\u03c2 \u2013 \u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03c4\u03c9\u03bd \u039f\u03bc\u03ac\u03b4\u03c9\u03bd PPE \u03ba\u03b1\u03b9 Verts/ALE</title><label/></structuredLabel>",
+                "nl": "<structuredLabel><title>Agenda van maandag \u2013 Verzoek van de PPE-Fractie en de Verts/ALE-Fractie</title><label/></structuredLabel>",
+                "pl": "<structuredLabel><title>Porz\u0105dek obrad w poniedzia\u0142ek \u2013 wniosek grup PPE i Verts/ALE</title><label/></structuredLabel>",
+                "sv": "<structuredLabel><title>M\u00e5ndagens f\u00f6redragningslista \u2013 beg\u00e4ran fr\u00e5n PPE- och Verts/ALE-grupperna</title><label/></structuredLabel>",
+                "pt": "<structuredLabel><title>Ordem do dia de segunda-feira - Pedido dos Grupos PPE e Verts/ALE</title><label/></structuredLabel>",
+                "es": "<structuredLabel><title>Orden del d\u00eda del lunes \u2013 Solicitud de los Grupos PPE y Verts/ALE</title><label/></structuredLabel>",
+                "fr": "<structuredLabel><title>Ordre du jour de lundi - Demande des groupes PPE et Verts/ALE</title><label/></structuredLabel>",
+                "lv": "<structuredLabel><title>Pirmdienas darba k\u0101rt\u012bba - PPE grupas un Verts/ALE grupas piepras\u012bjums</title><label/></structuredLabel>",
+                "en": "<structuredLabel><title>Monday\u2019s agenda \u2013 Request by the PPE and Verts/ALE groups</title><label/></structuredLabel>",
+                "it": "<structuredLabel><title>Ordine del giorno di luned\u00ec \u2013 Richiesta dei gruppi PPE e Verts/ALE</title><label/></structuredLabel>",
+                "sk": "<structuredLabel><title>Program pondelkov\u00e9ho rokovania \u2013 \u017eiados\u0165 skup\u00edn PPE a\u00a0Verts/ALE</title><label/></structuredLabel>",
+                "sl": "<structuredLabel><title>Ponedeljkov dnevni red \u2013 zahteva skupin PPE in Verts/ALE</title><label/></structuredLabel>",
+                "ro": "<structuredLabel><title>Ordinea de zi de luni - Solicitarea grupurilor PPE \u0219i Verts/ALE</title><label/></structuredLabel>",
+                "ga": "<structuredLabel><title>Cl\u00e1r Oibre D\u00e9 Luain - Iarraidh \u00f3 na Gr\u00fapa\u00ed PPE agus Verts/ALE</title><label/></structuredLabel>",
+                "da": "<structuredLabel><title>Dagsorden for mandag - Anmodning fra PPE-Gruppen og Verts/ALE-Gruppen</title><label/></structuredLabel>",
+                "lt": "<structuredLabel><title>Pirmadienio darbotvark\u0117 - PPE ir ALE frakcij\u0173 pra\u0161ymas</title><label/></structuredLabel>",
+                "cs": "<structuredLabel><title>Pond\u011bln\u00ed po\u0159ad jedn\u00e1n\u00ed \u2013 \u017e\u00e1dost skupin PPE a Verts/ALE</title><label/></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

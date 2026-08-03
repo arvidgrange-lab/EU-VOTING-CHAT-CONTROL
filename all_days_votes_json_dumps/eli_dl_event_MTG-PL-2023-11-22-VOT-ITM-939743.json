@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939743",
+            "activity_label": {
+                "mul": "N\u00e9gociations concernant un accord sur le statut des activit\u00e9s op\u00e9rationnelles men\u00e9es par Frontex en Mauritanie - Negotiations on a status agreement on operational activities carried out by Frontex in Mauritania - Verhandlungen \u00fcber eine Statusvereinbarung \u00fcber operative T\u00e4tigkeiten, die von Frontex in Mauretanien durchgef\u00fchrt werden",
+                "fr": "N\u00e9gociations concernant un accord sur le statut des activit\u00e9s op\u00e9rationnelles men\u00e9es par Frontex en Mauritanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0358"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-017"
+            ],
+            "notation_dlvId": "939743",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 2,
+            "epvoc:amendmentsTabledTotal": 2,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>N\u00e9gociations concernant un accord sur le statut des activit\u00e9s op\u00e9rationnelles men\u00e9es par Frontex en Mauritanie</title><label>Rapport: Tineke Strik (A9-0358/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

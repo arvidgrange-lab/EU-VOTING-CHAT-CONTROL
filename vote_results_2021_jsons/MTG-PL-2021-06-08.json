@@ -1,0 +1,151 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934863",
+            "type": "Activity",
+            "activity_date": "2021-06-08",
+            "activity_id": "MTG-PL-2021-06-08-VOT-ITM-934863",
+            "activity_label": {
+                "fr": "Strat\u00e9gie de l\u2019UE en faveur de la biodiversit\u00e9 \u00e0 l\u2019horizon 2030: Ramener la nature dans nos vies"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0179"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-06-08-OJ-ITM-V-53",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-06-08-VOT-ITM-002"
+            ],
+            "notation_dlvId": "934863",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie de l\u2019UE en faveur de la biodiversit\u00e9 \u00e0 l\u2019horizon 2030: Ramener la nature dans nos vies</title><label>Rapport: C\u00e9sar Luena (A9-0179/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-06-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934863",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934813",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934786",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934811"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2273",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934863"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934813",
+            "type": "Activity",
+            "activity_date": "2021-06-08",
+            "activity_id": "MTG-PL-2021-06-08-VOT-ITM-934813",
+            "activity_label": {
+                "fr": "La dimension de genre dans la politique de coh\u00e9sion"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0154"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-06-08-OJ-ITM-V-16",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-06-08-VOT-ITM-003"
+            ],
+            "notation_dlvId": "934813",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La dimension de genre dans la politique de coh\u00e9sion</title><label>Rapport: Monika Vana (A9-0154/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-06-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934863",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934813",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934786",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934811"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2040",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934813"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934786",
+            "type": "Activity",
+            "activity_date": "2021-06-08",
+            "activity_id": "MTG-PL-2021-06-08-VOT-ITM-934786",
+            "activity_label": {
+                "fr": "Politique de la concurrence - rapport annuel 2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0168"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-06-08-OJ-ITM-V-27",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-06-08-VOT-ITM-001"
+            ],
+            "notation_dlvId": "934786",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politique de la concurrence - rapport annuel 2020</title><label>Rapport: Johan Van Overtveldt (A9-0168/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-06-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934863",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934813",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934786",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934811"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2223",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934786"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934811",
+            "type": "Activity",
+            "activity_date": "2021-06-08",
+            "activity_id": "MTG-PL-2021-06-08-VOT-ITM-934811",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0173"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-06-08-OJ-ITM-V-124",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-06-08-VOT-ITM-006"
+            ],
+            "notation_dlvId": "934811",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-06-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934863",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934813",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934786",
+                        "eli/dl/event/MTG-PL-2021-06-08-VOT-ITM-934811"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

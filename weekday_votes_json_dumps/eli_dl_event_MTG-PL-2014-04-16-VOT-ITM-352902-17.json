@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-04-16-VOT-ITM-352902-17",
+            "type": "Activity",
+            "activity_date": "2014-04-16",
+            "activity_id": "MTG-PL-2014-04-16-VOT-ITM-352902-17",
+            "activity_label": {
+                "fr": "Action de l'Union en faveur des \"capitales europ\u00e9ennes de la culture\" pour les ann\u00e9es 2020 \u00e0 2033"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0275"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-04-16-OJ-ITM-V-206"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-04-16-VOT-ITM-017"
+            ],
+            "notation_dlvId": "352902",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Action de l'Union en faveur des \"capitales europ\u00e9ennes de la culture\" pour les ann\u00e9es 2020 \u00e0 2033</title><label>Recommandation pour la deuxi\u00e8me lecture: Marco Scurria (A7-0275/2014) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939583",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939583",
+            "activity_label": {
+                "mul": "Espace Schengen: num\u00e9risation de la proc\u00e9dure de visa - Schengen area: digitalisation of the visa procedure - Schengen-Raum: Digitalisierung des Visumverfahrens",
+                "fr": "Espace Schengen: num\u00e9risation de la proc\u00e9dure de visa"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0025"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-47",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939583",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Espace Schengen: num\u00e9risation de la proc\u00e9dure de visa</title><label>Rapport: Matja\u017e Nemec (A9-0025/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

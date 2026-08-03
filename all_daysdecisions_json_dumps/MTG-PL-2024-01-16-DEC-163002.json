@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-01-16-DEC-163002",
+            "type": "Vote",
+            "activity_date": "2024-01-16",
+            "activity_id": "MTG-PL-2024-01-16-DEC-163002",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/REJECTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "163002",
+            "referenceText": {
+                "fr": "Demande d'application de la proc\u00e9dure d'urgence",
+                "es": "Solicitud de aplicaci\u00f3n del procedimiento de urgencia",
+                "hu": "Szavaz\u00e1s s\u00fcrg\u0151ss\u00e9gi elj\u00e1r\u00e1s alkalmaz\u00e1s\u00e1ra ir\u00e1nyul\u00f3 k\u00e9relemr\u0151l",
+                "hr": "Zahtjev za hitni postupak",
+                "lv": "piepras\u012bjums r\u012bkot steidzamu apsprie\u0161anu",
+                "it": "Richiesta di applicazione della procedura di urgenza",
+                "fi": "Kiireellist\u00e4 k\u00e4sittely\u00e4 koskeva pyynt\u00f6",
+                "cs": "\u017e\u00e1dost o pou\u017eit\u00ed postupu pro nal\u00e9hav\u00e9 p\u0159\u00edpady",
+                "bg": "\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u043d\u0435\u043e\u0442\u043b\u043e\u0436\u043d\u0430 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u0430",
+                "pl": "Wniosek o zastosowanie trybu pilnego",
+                "ga": "Iarraidh ar n\u00f3s imeachta pr\u00e1inne",
+                "nl": "verzoek om toepassing van de urgentieprocedure",
+                "lt": "Pra\u0161ymas taikyti skubos proced\u016br\u0105",
+                "de": "Antrag auf Anwendung des Dringlichkeitsverfahrens",
+                "en": "Request for urgent procedure",
+                "et": "Kiireloomulise menetluse kohaldamise taotlus",
+                "sk": "\u017diados\u0165 o naliehav\u00fd postup",
+                "ro": "Cerere de aplicare a procedurii de urgen\u021b\u0103",
+                "sl": "Zahteva za nujni postopek",
+                "sv": "Beg\u00e4ran om till\u00e4mpning av br\u00e5dskande f\u00f6rfarande",
+                "el": "\u0391\u03af\u03c4\u03b7\u03c3\u03b7 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03af\u03b1\u03c2 \u03ba\u03b1\u03c4\u03b5\u03c0\u03b5\u03af\u03b3\u03bf\u03bd\u03c4\u03bf\u03c2",
+                "pt": "Pedido de aplica\u00e7\u00e3o do processo de urg\u00eancia",
+                "mt": "Talba g\u0127all-applikazzjoni tal-pro\u010bedura ta\u2019 ur\u0121enza",
+                "da": "Anmodning om anvendelse af hasteproceduren"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

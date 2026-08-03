@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-14-VOT-ITM-939844",
+            "type": "Activity",
+            "activity_date": "2023-12-14",
+            "activity_id": "MTG-PL-2023-12-14-VOT-ITM-939844",
+            "activity_label": {
+                "mul": "Objection conform\u00e9ment \u00e0 l\u2019article 112, paragraphes 2 et 3 ainsi que 4, point c): limites maximales applicables aux r\u00e9sidus de fipronil - Objection pursuant to Rule 112(2) and (3), and (4)(c): Maximum residue levels for fipronil - Einwand gem\u00e4\u00df Artikel 112 Abs\u00e4tze 2 und 3 und Absatz 4 Buchstabe c GO: H\u00f6chstgehalte an R\u00fcckst\u00e4nden von Fipronil",
+                "fr": "Objection conform\u00e9ment \u00e0 l\u2019article 112, paragraphes 2 et 3 ainsi que 4, point c): limites maximales applicables aux r\u00e9sidus de fipronil"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0488"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-14-OJ-ITM-V-100",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939844",
+            "epvoc:amendmentsAdoptedMEP": 6,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 6,
+            "epvoc:amendmentsTabledMEP": 14,
+            "epvoc:amendmentsTabledTotal": 14,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l\u2019article 112, paragraphes 2 et 3 ainsi que 4, point c): limites maximales applicables aux r\u00e9sidus de fipronil</title><label>Proposition de r\u00e9solution: B9-0488/2023 (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise pour l'adoption de la proposition de r\u00e9solution)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

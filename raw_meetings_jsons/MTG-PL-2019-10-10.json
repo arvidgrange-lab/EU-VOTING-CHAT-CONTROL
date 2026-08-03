@@ -1,0 +1,587 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-830920",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112 du r\u00e8glement int\u00e9rieur: soja g\u00e9n\u00e9tiquement modifi\u00e9 A2704-12 (ACS-GM\u00d8\u00d85-3)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0105"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-10-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-008"
+            ],
+            "notation_dlvId": "830920",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112 du r\u00e8glement int\u00e9rieur: soja g\u00e9n\u00e9tiquement modifi\u00e9 A2704-12 (ACS-GM\u00d8\u00d85-3)</title><label>Proposition de r\u00e9solution: B9-0105/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2828",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-830914",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0  l'article 112 du r\u00e8glement int\u00e9rieur: substances actives, y compris la flumioxazine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0103"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-10-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-005"
+            ],
+            "notation_dlvId": "830914",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0  l'article 112 du r\u00e8glement int\u00e9rieur: substances actives, y compris la flumioxazine</title><label>Proposition de r\u00e9solution: B9-0103/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2825",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-20191010001",
+            "activity_label": {
+                "fr": "Demande d\u2019application de la proc\u00e9dure d'urgence: P\u00e9riodes d'application des r\u00e8glements (UE) 2019/501 et (UE) 2019/502 ***I"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/C-9-2019-0108"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-001"
+            ],
+            "notation_dlvId": "20191010001",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande d\u2019application de la proc\u00e9dure d'urgence: P\u00e9riodes d'application des r\u00e8glements (UE) 2019/501 et (UE) 2019/502 ***I</title><label>Demande d\u2019application de la proc\u00e9dure d\u2019urgence\u00a0(C9-0108/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0179",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-830922",
+            "activity_label": {
+                "fr": "Ing\u00e9rence \u00e9lectorale \u00e9trang\u00e8re et d\u00e9sinformation dans les processus d\u00e9mocratiques nationaux et europ\u00e9ens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0111",
+                "eli/dl/doc/B-9-2019-0108"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-10-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-010"
+            ],
+            "notation_dlvId": "830922",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ing\u00e9rence \u00e9lectorale \u00e9trang\u00e8re et d\u00e9sinformation dans les processus d\u00e9mocratiques nationaux et europ\u00e9ens</title><label>Propositions de r\u00e9solution: B9-0108/2019, B9-0111/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2810",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-830911",
+            "activity_label": {
+                "fr": "Modification des fonds mobilis\u00e9s au titre de l'instrument de flexibilit\u00e9 en 2019 pour des questions li\u00e9es \u00e0\u00a0la\u00a0migration, \u00e0\u00a0l'afflux de\u00a0r\u00e9fugi\u00e9s et\u00a0aux menaces pesant sur la\u00a0s\u00e9curit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0013"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-10-OJ-ITM-V-9"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-004"
+            ],
+            "notation_dlvId": "830911",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification des fonds mobilis\u00e9s au titre de l'instrument de flexibilit\u00e9 en 2019 pour des questions li\u00e9es \u00e0\u00a0la\u00a0migration, \u00e0\u00a0l'afflux de\u00a0r\u00e9fugi\u00e9s et\u00a0aux menaces pesant sur la\u00a0s\u00e9curit\u00e9</title><label>Rapport: John Howarth (A9-0013/2019) (majorit\u00e9 des membres qui composent le Parlement et 3/5 des suffrages exprim\u00e9s requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2039",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-830910",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 4/2019 : r\u00e9duction des cr\u00e9dits d'engagement et de paiement \u00e0 la suite de la mise \u00e0 jour des besoins de d\u00e9penses et des recettes (ressources propres)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0012"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-10-OJ-ITM-V-8"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-003"
+            ],
+            "notation_dlvId": "830910",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 4/2019 : r\u00e9duction des cr\u00e9dits d'engagement et de paiement \u00e0 la suite de la mise \u00e0 jour des besoins de d\u00e9penses et des recettes (ressources propres)</title><label>Rapport: John Howarth (A9-0012/2019) (majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2037",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-830918",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112 du r\u00e8glement int\u00e9rieur: substances actives, y compris le chlorotoluron"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0104"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-10-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-006"
+            ],
+            "notation_dlvId": "830918",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112 du r\u00e8glement int\u00e9rieur: substances actives, y compris le chlorotoluron</title><label>Proposition de r\u00e9solution: B9-0104/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2826",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-830907",
+            "activity_label": {
+                "fr": "Accord sur la coop\u00e9ration entre Eurojust et la Serbie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0009"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-10-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-002"
+            ],
+            "notation_dlvId": "830907",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord sur la coop\u00e9ration entre Eurojust et la Serbie</title><label>Rapport: Juan Fernando L\u00f3pez Aguilar (A9-0009/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0807",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-830919",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112 du r\u00e8glement int\u00e9rieur: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MZHG0JG (SYN-\u00d8\u00d8\u00d8JG-2)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0107"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-10-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-007"
+            ],
+            "notation_dlvId": "830919",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112 du r\u00e8glement int\u00e9rieur: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MZHG0JG (SYN-\u00d8\u00d8\u00d8JG-2)</title><label>Proposition de r\u00e9solution: B9-0107/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2830",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-830924",
+            "activity_label": {
+                "fr": "Cadre financier pluriannuel 2021-2027 et ressources propres: il est temps de r\u00e9pondre aux attentes des citoyens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0112",
+                "eli/dl/doc/B-9-2019-0113",
+                "eli/dl/doc/B-9-2019-0110"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-10-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-011"
+            ],
+            "notation_dlvId": "830924",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre financier pluriannuel 2021-2027 et ressources propres: il est temps de r\u00e9pondre aux attentes des citoyens</title><label>Propositions de r\u00e9solution: B9-0110/2019, B9-0112/2019, B9-0113/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2833",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-830913",
+            "activity_label": {
+                "fr": "Emploi et politiques sociales de la zone euro"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0016"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-10-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-012"
+            ],
+            "notation_dlvId": "830913",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Emploi et politiques sociales de la zone euro</title><label>Rapport: Yana Toom (A9-0016/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2111",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921",
+            "type": "Activity",
+            "activity_date": "2019-10-10",
+            "activity_id": "MTG-PL-2019-10-10-VOT-ITM-830921",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 89034 \u00d7 1507 \u00d7 MON 88017 \u00d7 59122 \u00d7 DAS-40278-9 et ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 combinant deux, trois ou quatre des \u00e9v\u00e9nements de transformation MON 89034, 1507, MON 88017, 59122 et DAS-40278-9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0106"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-10-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-10-VOT-ITM-009"
+            ],
+            "notation_dlvId": "830921",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 89034 \u00d7 1507 \u00d7 MON 88017 \u00d7 59122 \u00d7 DAS-40278-9 et ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 combinant deux, trois ou quatre des \u00e9v\u00e9nements de transformation MON 89034, 1507, MON 88017, 59122 et DAS-40278-9</title><label>Proposition de r\u00e9solution: B9-0106/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830920",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830914",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-20191010001",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830922",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830911",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830910",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830918",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830907",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830919",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830924",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830913",
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2829",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-10-VOT-ITM-830921"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,578 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393518-10",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation (demande EGF/2014/013 EL/Odyssefs Fokas)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0063"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-010"
+            ],
+            "notation_dlvId": "393518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation (demande EGF/2014/013 EL/Odyssefs Fokas)</title><label>Rapport: Monika Vana (A8-0063/2014) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2183",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393518-2",
+            "activity_label": {
+                "fr": "Examen scientifique des questions relatives aux denr\u00e9es alimentaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0059"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-002"
+            ],
+            "notation_dlvId": "393518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Examen scientifique des questions relatives aux denr\u00e9es alimentaires</title><label>Rapport: Giovanni La Via (A8-0059/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0132",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393518-11",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation (demande FEM/2013/014 FR/Air France)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0065"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-52"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-011"
+            ],
+            "notation_dlvId": "393518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation (demande FEM/2013/014 FR/Air France)</title><label>Rapport: Marco Zanni (A8-0065/2014) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2185",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393742-1",
+            "activity_label": {
+                "fr": "\u00c9lection du M\u00e9diateur"
+            },
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-001"
+            ],
+            "notation_dlvId": "393742",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9lection du M\u00e9diateur</title><label> (Vote au scrutin secret (article 169, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393518-3",
+            "activity_label": {
+                "fr": "Convention sur le commerce international des esp\u00e8ces de faune et de flore sauvages menac\u00e9es d\u2019extinction (CITES)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0036"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-003"
+            ],
+            "notation_dlvId": "393518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Convention sur le commerce international des esp\u00e8ces de faune et de flore sauvages menac\u00e9es d\u2019extinction (CITES)</title><label>Recommandation: Pilar Ayuso (A8-0036/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0418",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393518-12",
+            "activity_label": {
+                "fr": "Nomination des membres du Conseil de r\u00e9solution unique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0070"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-100"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-012"
+            ],
+            "notation_dlvId": "393518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination des membres du Conseil de r\u00e9solution unique</title><label>Rapport: Roberto Gualtieri (A8-0070/2014) (Vote au scrutin secret (article 169, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0901",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393518-4",
+            "activity_label": {
+                "fr": "Accord de coop\u00e9ration concernant un syst\u00e8me mondial de navigation par satellite (GNSS) avec le Maroc"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0045"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-004"
+            ],
+            "notation_dlvId": "393518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de coop\u00e9ration concernant un syst\u00e8me mondial de navigation par satellite (GNSS) avec le Maroc</title><label>Recommandation: Jerzy Buzek (A8-0045/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0414",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393518-7",
+            "activity_label": {
+                "fr": "R\u00e9gime de l'imp\u00f4t \"octroi de mer\" dans les r\u00e9gions ultrap\u00e9riph\u00e9riques fran\u00e7aises"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0054"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-48"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-007"
+            ],
+            "notation_dlvId": "393518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9gime de l'imp\u00f4t \"octroi de mer\" dans les r\u00e9gions ultrap\u00e9riph\u00e9riques fran\u00e7aises</title><label>Rapport: Iskra Mihaylova (A8-0054/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0308",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393518-8",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation (demande EGF/2014/010 IT/Whirlpool)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0064"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-008"
+            ],
+            "notation_dlvId": "393518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation (demande EGF/2014/010 IT/Whirlpool)</title><label>Rapport: Daniele Viotti (A8-0064/2014) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2170",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393518-9",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation (demande EGF/2013/006 PL/Fiat Auto Poland S.A.)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0062"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-54"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-009"
+            ],
+            "notation_dlvId": "393518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation (demande EGF/2013/006 PL/Fiat Auto Poland S.A.)</title><label>Rapport: Jan Olbrycht (A8-0062/2014) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2181",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393518-5",
+            "activity_label": {
+                "fr": "Renouvellement de l'accord de coop\u00e9ration scientifique et technologique avec l'Ukraine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0039"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-005"
+            ],
+            "notation_dlvId": "393518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renouvellement de l'accord de coop\u00e9ration scientifique et technologique avec l'Ukraine</title><label>Recommandation: Jerzy Buzek (A8-0039/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0154",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6",
+            "type": "Activity",
+            "activity_date": "2014-12-16",
+            "activity_id": "MTG-PL-2014-12-16-VOT-ITM-393518-6",
+            "activity_label": {
+                "fr": "Participation de la Croatie \u00e0 l'Espace \u00e9conomique europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0026"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-12-16-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-12-16-VOT-ITM-006"
+            ],
+            "notation_dlvId": "393518",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Participation de la Croatie \u00e0 l'Espace \u00e9conomique europ\u00e9en</title><label>Recommandation: Alexander Graf Lambsdorff (A8-0026/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-12-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-10",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-2",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-11",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393742-1",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-3",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-12",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-4",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-7",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-8",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-9",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-5",
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0047",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-12-16-VOT-ITM-393518-6"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

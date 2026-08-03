@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-11-25-VOT-ITM-000003",
+            "type": "Activity",
+            "activity_date": "2024-11-25",
+            "activity_id": "MTG-PL-2024-11-25-VOT-ITM-000003",
+            "activity_label": {
+                "lv": "Tre\u0161dienas darba k\u0101rt\u012bba",
+                "el": "\u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03b1 \u03b4\u03b9\u03ac\u03c4\u03b1\u03be\u03b7 \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7\u03c2",
+                "sk": "Program stredaj\u0161ieho rokovania",
+                "es": "Orden del d\u00eda del mi\u00e9rcoles",
+                "cs": "St\u0159ede\u010dn\u00ed po\u0159ad jedn\u00e1n\u00ed",
+                "pl": "Porz\u0105dek obrad w \u015brod\u0119",
+                "de": "Tagesordnung f\u00fcr Mittwoch",
+                "sv": "Onsdagens f\u00f6redragningslista",
+                "sl": "Sredin dnevni red",
+                "et": "Kolmap\u00e4eva p\u00e4evakord",
+                "en": "Wednesday\u2019s agenda",
+                "fr": "Ordre du jour de mercredi",
+                "ga": "Cl\u00e1r Oibre - D\u00e9 C\u00e9adaoin",
+                "it": "Ordine del giorno di mercoled\u00ec",
+                "mt": "A\u0121enda tal-Erbg\u0127a",
+                "pt": "Ordem do dia de quarta-feira",
+                "lt": "Tre\u010diadienio darbotvark\u0117",
+                "bg": "\u0414\u043d\u0435\u0432\u0435\u043d \u0440\u0435\u0434 \u0437\u0430 \u0441\u0440\u044f\u0434\u0430",
+                "mul": "Ordre du jour de mercredi - Wednesday\u2019s Agenda - Tagesordnung f\u00fcr Mittwoch",
+                "da": "Dagsorden for onsdag",
+                "fi": "Keskiviikon esityslista",
+                "hu": "Szerdai napirend",
+                "hr": "Dnevni red za srijedu",
+                "nl": "Agenda van woensdag",
+                "ro": "Ordinea de zi de miercuri"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-11-25-DEC-170667"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2024-11-25-VOT-ITM-003"
+            ],
+            "notation_dlvId": "000003",
+            "structuredLabel": {
+                "sl": "<structuredLabel><title>Sredin dnevni red</title><label/></structuredLabel>",
+                "en": "<structuredLabel><title>Wednesday\u2019s agenda</title><label/></structuredLabel>",
+                "pt": "<structuredLabel><title>Ordem do dia de quarta-feira</title><label/></structuredLabel>",
+                "hu": "<structuredLabel><title>Szerdai napirend</title><label/></structuredLabel>",
+                "lt": "<structuredLabel><title>Tre\u010diadienio darbotvark\u0117</title><label/></structuredLabel>",
+                "mt": "<structuredLabel><title>A\u0121enda tal-Erbg\u0127a</title><label/></structuredLabel>",
+                "pl": "<structuredLabel><title>Porz\u0105dek obrad w \u015brod\u0119</title><label/></structuredLabel>",
+                "nl": "<structuredLabel><title>Agenda van woensdag</title><label/></structuredLabel>",
+                "el": "<structuredLabel><title>\u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03b1 \u03b4\u03b9\u03ac\u03c4\u03b1\u03be\u03b7 \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7\u03c2</title><label/></structuredLabel>",
+                "es": "<structuredLabel><title>Orden del d\u00eda del mi\u00e9rcoles</title><label/></structuredLabel>",
+                "ro": "<structuredLabel><title>Ordinea de zi de miercuri</title><label/></structuredLabel>",
+                "ga": "<structuredLabel><title>Cl\u00e1r Oibre - D\u00e9 C\u00e9adaoin</title><label/></structuredLabel>",
+                "sk": "<structuredLabel><title>Program stredaj\u0161ieho rokovania</title><label/></structuredLabel>",
+                "it": "<structuredLabel><title>Ordine del giorno di mercoled\u00ec</title><label/></structuredLabel>",
+                "hr": "<structuredLabel><title>Dnevni red za srijedu</title><label/></structuredLabel>",
+                "lv": "<structuredLabel><title>Tre\u0161dienas darba k\u0101rt\u012bba</title><label/></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0414\u043d\u0435\u0432\u0435\u043d \u0440\u0435\u0434 \u0437\u0430 \u0441\u0440\u044f\u0434\u0430</title><label/></structuredLabel>",
+                "de": "<structuredLabel><title>Tagesordnung f\u00fcr Mittwoch</title><label/></structuredLabel>",
+                "fr": "<structuredLabel><title>Ordre du jour de mercredi</title><label/></structuredLabel>",
+                "cs": "<structuredLabel><title>St\u0159ede\u010dn\u00ed po\u0159ad jedn\u00e1n\u00ed</title><label/></structuredLabel>",
+                "sv": "<structuredLabel><title>Onsdagens f\u00f6redragningslista</title><label/></structuredLabel>",
+                "da": "<structuredLabel><title>Dagsorden for onsdag</title><label/></structuredLabel>",
+                "fi": "<structuredLabel><title>Keskiviikon esityslista</title><label/></structuredLabel>",
+                "et": "<structuredLabel><title>Kolmap\u00e4eva p\u00e4evakord</title><label/></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

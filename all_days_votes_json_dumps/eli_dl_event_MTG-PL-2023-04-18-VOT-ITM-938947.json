@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938947",
+            "activity_label": {
+                "fr": "Administration en ligne: acc\u00e9l\u00e9rer la transition num\u00e9rique des services publics qui \u00e9tayent le fonctionnement du march\u00e9 int\u00e9rieur"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0065"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-16",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-010"
+            ],
+            "notation_dlvId": "938947",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Administration en ligne: acc\u00e9l\u00e9rer la transition num\u00e9rique des services publics qui \u00e9tayent le fonctionnement du march\u00e9 int\u00e9rieur</title><label>Rapport: Tomislav Sokol (A9-0065/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

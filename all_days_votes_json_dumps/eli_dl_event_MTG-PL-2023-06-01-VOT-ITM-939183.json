@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939183",
+            "activity_label": {
+                "fr": "Strat\u00e9gie de l\u2019Union europ\u00e9enne pour des textiles durables et circulaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0176"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-4",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939183",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie de l\u2019Union europ\u00e9enne pour des textiles durables et circulaires</title><label>Rapport: Delara Burkhardt (A9-0176/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

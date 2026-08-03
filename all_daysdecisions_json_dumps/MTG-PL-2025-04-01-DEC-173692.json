@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-04-01-DEC-173692",
+            "type": "Vote",
+            "activity_date": "2025-04-01",
+            "activity_id": "MTG-PL-2025-04-01-DEC-173692",
+            "activity_order": "2.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "173692",
+            "referenceText": {
+                "nl": "Verzoek om terugverwijzing (artikel\u00a060, lid\u00a04, van het Reglement)",
+                "et": "Tagasisaatmise taotlus (kodukorra artikli 60 l\u00f5ige 4)",
+                "fi": "valiokuntaan palauttamista koskeva pyynt\u00f6 (ty\u00f6j\u00e4rjestyksen 60\u00a0artiklan 4\u00a0kohta)",
+                "lt": "Pra\u0161ymas gr\u0105\u017einti klausim\u0105 atsakingam komitetui (Darbo tvarkos taisykli\u0173 60\u00a0straipsnio 4\u00a0dalis)",
+                "sl": "Zahteva za vrnitev zadeve pristojnemu odboru (\u010dlen 60(4) Poslovnika)",
+                "sv": "Beg\u00e4ran om \u00e5terf\u00f6rvisning (artikel 60.4 i arbetsordningen)",
+                "mt": "Talba g\u0127al riferiment (l-Artikolu 60(4) tar-Regoli ta\u2019 \nPro\u010bedura)",
+                "hr": "Zahtjev za vra\u0107anje predmeta odboru (\u010dlanak 60. stavak 4. Poslovnika)",
+                "pl": "Wniosek o odes\u0142anie (art.\u00a060 ust.\u00a04 Regulaminu)",
+                "en": "Request for referral back (Rule 60(4))",
+                "da": "Anmodning om henvisning til fornyet behandling (forretningsordenens artikel 60, stk. 4)",
+                "bg": "\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u0432\u0440\u044a\u0449\u0430\u043d\u0435 \u0437\u0430 \u043d\u043e\u0432\u043e \u0440\u0430\u0437\u0433\u043b\u0435\u0436\u0434\u0430\u043d\u0435 (\u0447\u043b\u0435\u043d\u00a060, \u043f\u0430\u0440\u0430\u0433\u0440\u0430\u0444\u00a04 \u043e\u0442 \u041f\u0440\u0430\u0432\u0438\u043b\u043d\u0438\u043a\u0430 \u0437\u0430 \u0434\u0435\u0439\u043d\u043e\u0441\u0442\u0442\u0430)",
+                "es": "Solicitud de devoluci\u00f3n a comisi\u00f3n (art\u00edculo\u00a060, apartado\u00a04, del Reglamento interno)",
+                "ro": "Cerere de retrimitere [articolul 60 alineatul (4) din Regulamentul de procedur\u0103]",
+                "ga": "Iarraidh ar tharchur ar ais (Riail\u00a060(4))",
+                "hu": "Visszautal\u00e1sra ir\u00e1nyul\u00f3 k\u00e9relem (az elj\u00e1r\u00e1si szab\u00e1lyzat 60. cikk\u00e9nek (4) bekezd\u00e9se)",
+                "cs": "\u017e\u00e1dost o vr\u00e1cen\u00ed (\u010dl.\u00a060 odst. 4 jednac\u00edho \u0159\u00e1du)",
+                "it": "Richiesta di rinvio\n(articolo\u00a060, paragrafo\u00a04, del regolamento)",
+                "sk": "\u017eiados\u0165 o vr\u00e1tenie (\u010dl\u00e1nok 60 ods. 4 rokovacieho poriadku)",
+                "fr": "Demande de renvoi (article 60, paragraphe 4, du \nr\u00e8glement)",
+                "lv": "Piepras\u012bjums nodot atpaka\u013c (Reglamenta 60.\u00a0panta 4.\u00a0punkts)",
+                "de": "Antrag auf R\u00fcck\u00fcberweisung (Artikel\u00a060 Absatz\u00a04 GO)",
+                "pt": "Pedido de devolu\u00e7\u00e3o (artigo 60.\u00ba, n.\u00ba 4, do\nRegimento)",
+                "el": "\u0391\u03af\u03c4\u03b7\u03c3\u03b7 \u03b1\u03bd\u03b1\u03c0\u03bf\u03bc\u03c0\u03ae\u03c2 (\u03ac\u03c1\u03b8\u03c1\u03bf\u00a060 \u03c0\u03b1\u03c1\u03ac\u03b3\u03c1\u03b1\u03c6\u03bf\u03c2\u00a04 \u03c4\u03bf\u03c5 \u039a\u03b1\u03bd\u03bf\u03bd\u03b9\u03c3\u03bc\u03bf\u03cd)"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

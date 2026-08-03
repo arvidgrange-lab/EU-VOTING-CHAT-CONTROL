@@ -1,0 +1,275 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934579",
+            "type": "Activity",
+            "activity_date": "2021-04-28",
+            "activity_id": "MTG-PL-2021-04-28-VOT-ITM-934579",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0140"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-28-OJ-ITM-V-172",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-28-VOT-ITM-048"
+            ],
+            "notation_dlvId": "934579",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934579",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934578",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934575",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934508",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934577",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934576",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934544",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934491"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934578",
+            "type": "Activity",
+            "activity_date": "2021-04-28",
+            "activity_id": "MTG-PL-2021-04-28-VOT-ITM-934578",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0142"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-28-OJ-ITM-V-173",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-28-VOT-ITM-047"
+            ],
+            "notation_dlvId": "934578",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934579",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934578",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934575",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934508",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934577",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934576",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934544",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934491"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934575",
+            "type": "Activity",
+            "activity_date": "2021-04-28",
+            "activity_id": "MTG-PL-2021-04-28-VOT-ITM-934575",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0141"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-28-OJ-ITM-V-174",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-28-VOT-ITM-044"
+            ],
+            "notation_dlvId": "934575",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934579",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934578",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934575",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934508",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934577",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934576",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934544",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934491"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934508",
+            "type": "Activity",
+            "activity_date": "2021-04-28",
+            "activity_id": "MTG-PL-2021-04-28-VOT-ITM-934508",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0124"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-28-OJ-ITM-V-162",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-28-VOT-ITM-009"
+            ],
+            "notation_dlvId": "934508",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934579",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934578",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934575",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934508",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934577",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934576",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934544",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934491"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934577",
+            "type": "Activity",
+            "activity_date": "2021-04-28",
+            "activity_id": "MTG-PL-2021-04-28-VOT-ITM-934577",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0146"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-28-OJ-ITM-V-171",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-28-VOT-ITM-046"
+            ],
+            "notation_dlvId": "934577",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934579",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934578",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934575",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934508",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934577",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934576",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934544",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934491"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934576",
+            "type": "Activity",
+            "activity_date": "2021-04-28",
+            "activity_id": "MTG-PL-2021-04-28-VOT-ITM-934576",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0144"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-28-OJ-ITM-V-170",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-28-VOT-ITM-045"
+            ],
+            "notation_dlvId": "934576",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934579",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934578",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934575",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934508",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934577",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934576",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934544",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934491"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934544",
+            "type": "Activity",
+            "activity_date": "2021-04-28",
+            "activity_id": "MTG-PL-2021-04-28-VOT-ITM-934544",
+            "activity_label": {
+                "fr": "Fiscalit\u00e9 de l'\u00e9conomie num\u00e9rique: n\u00e9gociations au sein de l\u2019OCDE, r\u00e9sidence fiscale des entreprises num\u00e9riques et une \u00e9ventuelle taxe europ\u00e9enne sur le num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0103"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-28-OJ-ITM-V-79",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-28-VOT-ITM-003"
+            ],
+            "notation_dlvId": "934544",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fiscalit\u00e9 de l'\u00e9conomie num\u00e9rique: n\u00e9gociations au sein de l\u2019OCDE, r\u00e9sidence fiscale des entreprises num\u00e9riques et une \u00e9ventuelle taxe europ\u00e9enne sur le num\u00e9rique</title><label>Rapport: Andreas Schwab, Martin Hlav\u00e1\u010dek (A9-0103/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934579",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934578",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934575",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934508",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934577",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934576",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934544",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934491"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2010",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934544"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934491",
+            "type": "Activity",
+            "activity_date": "2021-04-28",
+            "activity_id": "MTG-PL-2021-04-28-VOT-ITM-934491",
+            "activity_label": {
+                "fr": "Assassinat de Daphne Caruana Galizia et \u00e9tat de droit \u00e0 Malte"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0219"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-04-28-OJ-ITM-V-155",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-04-28-VOT-ITM-004"
+            ],
+            "notation_dlvId": "934491",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Assassinat de Daphne Caruana Galizia et \u00e9tat de droit \u00e0 Malte</title><label>Propositions de r\u00e9solution: B9-0219/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-04-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934579",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934578",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934575",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934508",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934577",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934576",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934544",
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934491"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2611",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-04-28-VOT-ITM-934491"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

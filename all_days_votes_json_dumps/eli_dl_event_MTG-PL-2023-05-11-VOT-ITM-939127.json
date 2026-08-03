@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-11-VOT-ITM-939127",
+            "type": "Activity",
+            "activity_date": "2023-05-11",
+            "activity_id": "MTG-PL-2023-05-11-VOT-ITM-939127",
+            "activity_label": {
+                "fr": "Myanmar/Birmanie, notamment la dissolution de partis politiques d\u00e9mocratiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0246",
+                "eli/dl/doc/B-9-2023-0240",
+                "eli/dl/doc/B-9-2023-0249",
+                "eli/dl/doc/B-9-2023-0247",
+                "eli/dl/doc/B-9-2023-0241"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-11-OJ-ITM-V-150",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-11-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939127",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Myanmar/Birmanie, notamment la dissolution de partis politiques d\u00e9mocratiques</title><label>Propositions de r\u00e9solution: RC-B9-0240/2023, B9-0240/2023, B9-0241/2023, B9-0246/2023, B9-0247/2023, B9-0249/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

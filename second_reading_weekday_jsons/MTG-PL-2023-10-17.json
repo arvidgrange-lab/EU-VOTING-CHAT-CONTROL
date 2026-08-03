@@ -1,0 +1,354 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939595",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939595",
+            "activity_label": {
+                "mul": "\u00c9tablissement de la plateforme Technologies strat\u00e9giques pour l'Europe (\u00abSTEP\u00bb) - Establishing the Strategic Technologies for Europe Platform (\u2018STEP\u2019) - Einrichtung der Plattform \u201eStrategische Technologien f\u00fcr Europa\u201c (STEP)",
+                "fr": "\u00c9tablissement de la plateforme Technologies strat\u00e9giques pour l'Europe (\u00abSTEP\u00bb)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0290"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-69",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939595",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement de la plateforme Technologies strat\u00e9giques pour l'Europe (\u00abSTEP\u00bb)</title><label>Rapport: Jos\u00e9 Manuel Fernandes, Christian Ehler (A9-0290/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939595",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939592",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939587",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939588",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939586",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939596",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939590",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939598"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0199",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939595"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939592",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939592",
+            "activity_label": {
+                "fr": "D\u00e9charge 2021: budget g\u00e9n\u00e9ral de l\u2019UE - Conseil europ\u00e9en et Conseil",
+                "mul": "D\u00e9charge 2021: budget g\u00e9n\u00e9ral de l\u2019UE - Conseil europ\u00e9en et Conseil - Discharge 2021: EU general budget -  European Council and Council - Entlastung 2021: Gesamthaushaltsplan der EU \u2013 Europ\u00e4ischer Rat und Rat"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0274"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-28",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939592",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2021: budget g\u00e9n\u00e9ral de l\u2019UE - Conseil europ\u00e9en et Conseil</title><label>Rapport: Mikul\u00e1\u0161 Peksa (A9-0274/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939595",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939592",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939587",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939588",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939586",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939596",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939590",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939598"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2083",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939592"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939587",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939587",
+            "activity_label": {
+                "mul": "Cr\u00e9ation de la facilit\u00e9 pour l'Ukraine - Establishing the Ukraine Facility - Einrichtung der Fazilit\u00e4t f\u00fcr die Ukraine",
+                "fr": "Cr\u00e9ation de la facilit\u00e9 pour l'Ukraine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0286"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-48",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939587",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation de la facilit\u00e9 pour l'Ukraine </title><label>Rapport: Michael Gahler, Eider Gardiazabal Rubial (A9-0286/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939595",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939592",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939587",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939588",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939586",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939596",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939590",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939598"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0200",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939587"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939588",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939588",
+            "activity_label": {
+                "fr": "M\u00e9canisme de protection civile de l\u2019Union",
+                "mul": "M\u00e9canisme de protection civile de l\u2019Union - Union Civil Protection Mechanism - Katastrophenschutzverfahren der Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0266"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-38",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939588",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>M\u00e9canisme de protection civile de l\u2019Union</title><label>Rapport: Sara Cerdas (A9-0266/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939595",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939592",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939587",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939588",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939586",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939596",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939590",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939598"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0095",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939588"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939586",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939586",
+            "activity_label": {
+                "fr": "R\u00e9seau d\u2019information sur la durabilit\u00e9 des exploitations agricoles",
+                "mul": "R\u00e9seau d\u2019information sur la durabilit\u00e9 des exploitations agricoles - Farm Sustainability Data Network - Datennetz f\u00fcr die Nachhaltigkeit landwirtschaftlicher Betriebe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0075"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-49",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9seau d\u2019information sur la durabilit\u00e9 des exploitations agricoles</title><label>Rapport: J\u00e9r\u00e9my Decerle (A9-0075/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939595",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939592",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939587",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939588",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939586",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939596",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939590",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939598"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0192",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939586"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939596",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939596",
+            "activity_label": {
+                "mul": "Contr\u00f4le des p\u00eaches - Fisheries control - Fischereiaufsicht",
+                "fr": "Contr\u00f4le des p\u00eaches"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0016"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-33",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939596",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contr\u00f4le des p\u00eaches</title><label>Rapport: Clara Aguilera (A9-0016/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939595",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939592",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939587",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939588",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939586",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939596",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939590",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939598"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0193",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939596"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939590",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939590",
+            "activity_label": {
+                "fr": "Implications des activit\u00e9s de p\u00eache chinoises sur les p\u00eacheries de l\u2019Union et la voie \u00e0 suivre",
+                "mul": "Implications des activit\u00e9s de p\u00eache chinoises sur les p\u00eacheries de l\u2019Union et la voie \u00e0 suivre - Implications of Chinese fishing operations for EU fisheries and the way forward - Die Auswirkungen der chinesischen Fischereit\u00e4tigkeiten auf die EU-Fischerei und weiteres Vorgehen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0282"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-56",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939590",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Implications des activit\u00e9s de p\u00eache chinoises sur les p\u00eacheries de l\u2019Union et la voie \u00e0 suivre</title><label>Rapport: Pierre Karleskind (A9-0282/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939595",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939592",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939587",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939588",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939586",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939596",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939590",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939598"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2148",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939590"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939598",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939598",
+            "activity_label": {
+                "fr": "Nomination d'un membre du directoire de la Banque centrale europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0289"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-67",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939598",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre du directoire de la Banque centrale europ\u00e9enne</title><label>Rapport: Irene Tinagli (A9-0289/2023) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939595",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939592",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939587",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939588",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939586",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939596",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939590",
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939598"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0810",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939598"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

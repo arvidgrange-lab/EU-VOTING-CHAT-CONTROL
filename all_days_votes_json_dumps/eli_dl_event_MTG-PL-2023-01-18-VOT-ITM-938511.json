@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938511",
+            "type": "Activity",
+            "activity_date": "2023-01-18",
+            "activity_id": "MTG-PL-2023-01-18-VOT-ITM-938511",
+            "activity_label": {
+                "fr": "Droits de l\u2019homme et d\u00e9mocratie dans le monde et politique de l\u2019Union europ\u00e9enne en la mati\u00e8re \u2013 rapport annuel 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0298"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-18-OJ-ITM-V-19",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-18-VOT-ITM-005"
+            ],
+            "notation_dlvId": "938511",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 23,
+            "epvoc:amendmentsTabledTotal": 23,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits de l\u2019homme et d\u00e9mocratie dans le monde et politique de l\u2019Union europ\u00e9enne en la mati\u00e8re \u2013 rapport annuel 2022</title><label>Rapport: Isabel Wiseler-Lima (A9-0298/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

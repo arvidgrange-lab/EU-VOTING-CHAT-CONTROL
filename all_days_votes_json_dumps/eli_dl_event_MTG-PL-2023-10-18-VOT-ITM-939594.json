@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939594",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939594",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00ba 3 au budget g\u00e9n\u00e9ral 2023 \u2013 Mise \u00e0 jour des recettes (ressources propres) et autres ajustements techniques",
+                "mul": "Projet de budget rectificatif n\u00ba 3 au budget g\u00e9n\u00e9ral 2023 \u2013 Actualisation des recettes (ressources propres) et autres ajustements techniques - Draft amending budget No 3/2023: Update of revenue (own resources) and other technical adjustments - Entwurf des Berichtigungshaushaltsplans Nr. 3 zum Gesamthaushaltsplan 2023 \u2013 Aktualisierung der Einnahmen (Eigenmittel) und sonstige technische Anpassungen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0287"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-40",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939594",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00ba 3 au budget g\u00e9n\u00e9ral 2023 \u2013 Mise \u00e0 jour des recettes (ressources propres) et autres ajustements techniques</title><label>Rapport: Fabienne Keller (A9-0287/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

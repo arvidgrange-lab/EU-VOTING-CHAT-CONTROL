@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-03-10-DEC-186120",
+            "type": "Vote",
+            "activity_date": "2026-03-10",
+            "activity_id": "MTG-PL-2026-03-10-DEC-186120",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 615,
+            "number_of_votes_abstention": 29,
+            "number_of_votes_against": 50,
+            "number_of_votes_favor": 536,
+            "comment": {
+                "sl": "TG",
+                "de": "geh.",
+                "nl": "Geh. S",
+                "mt": "SIG",
+                "da": "SEC",
+                "fr": "SEC",
+                "hr": "SEC",
+                "es": "SEC",
+                "en": "SEC",
+                "ro": "SEC",
+                "fi": "SEC",
+                "pt": "SEC",
+                "it": "SEC",
+                "lt": "SB",
+                "bg": "\u0422\u0413",
+                "et": "SH",
+                "sv": "sluten",
+                "hu": "TITK.",
+                "cs": "TAJ",
+                "el": "\u039c\u03a8",
+                "sk": "TH",
+                "lv": "AIZKL",
+                "ga": "BR",
+                "pl": "taj"
+            },
+            "notation_votingId": "186120",
+            "referenceText": {
+                "ga": "Ceapach\u00e1n Fran\u00e7ois-Louis Michaud",
+                "cs": "jmenov\u00e1n\u00ed Fran\u00e7oise-Louise Michauda",
+                "pl": "Powo\u0142anie Fran\u00e7ois-Louisa Michauda",
+                "sl": "Imenovanje Fran\u00e7ois-Louisa Michauda",
+                "hr": "Imenovanje Fran\u00e7ois-Louisa Michauda",
+                "fi": "Fran\u00e7ois-Louis Michaudin nimitt\u00e4minen",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 Fran\u00e7ois-Louis Michaud",
+                "mt": "Il-\u0127atra ta\u2019 Fran\u00e7ois-Louis Michaud",
+                "pt": "Nomea\u00e7\u00e3o de Fran\u00e7ois-Louis Michaud",
+                "ro": "Numirea lui Fran\u00e7ois-Louis Michaud",
+                "nl": "Benoeming van Fran\u00e7ois-Louis Michaud",
+                "et": "Fran\u00e7ois-Louis Michaud\u2019 ametisse nimetamine",
+                "sv": "Utn\u00e4mning av Fran\u00e7ois-Louis Michaud",
+                "bg": "\u041d\u0430\u0437\u043d\u0430\u0447\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0424\u0440\u0430\u043d\u0441\u043e\u0430-\u041b\u0443\u0438 \u041c\u0438\u0448\u043e",
+                "fr": "Nomination de Fran\u00e7ois-Louis Michaud",
+                "en": "Appointment of Fran\u00e7ois-Louis Michaud",
+                "lv": "Fran\u00e7ois-Louis Michaud iecel\u0161ana",
+                "da": "Udpegelse af Fran\u00e7ois-Louis Michaud",
+                "it": "Nomina di Fran\u00e7ois-Louis Michaud",
+                "lt": "Fran\u00e7ois-Louis Michaud skyrimas",
+                "sk": "Vymenovanie Fran\u00e7oisa-Louisa Michauda",
+                "es": "Nombramiento de Fran\u00e7ois-Louis Michaud",
+                "de": "Ernennung von Fran\u00e7ois-Louis Michaud",
+                "hu": "Fran\u00e7ois-Louis Michaud kinevez\u00e9se"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

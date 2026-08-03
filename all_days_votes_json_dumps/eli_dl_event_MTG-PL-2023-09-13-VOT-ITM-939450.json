@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939450",
+            "activity_label": {
+                "fr": "Relations avec la Bi\u00e9lorussie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0258"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-57",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939450",
+            "epvoc:amendmentsAdoptedMEP": 6,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 6,
+            "epvoc:amendmentsTabledMEP": 6,
+            "epvoc:amendmentsTabledTotal": 6,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations avec la Bi\u00e9lorussie</title><label>Rapport: Petras Au\u0161trevi\u010dius (A9-0258/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

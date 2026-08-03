@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939707",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939707",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre de l\u2019accord de commerce et de coop\u00e9ration UE-Royaume-Uni",
+                "mul": "Mise en \u0153uvre de l\u2019accord de commerce et de coop\u00e9ration UE-Royaume-Uni - Implementation of the EU-UK Trade and Cooperation Agreement - Umsetzung des Abkommens \u00fcber Handel und Zusammenarbeit zwischen der EU und dem Vereinigten K\u00f6nigreich"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0331"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939707",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de l\u2019accord de commerce et de coop\u00e9ration UE-Royaume-Uni</title><label>Rapport: Se\u00e1n Kelly, Andreas Schieder (A9-0331/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

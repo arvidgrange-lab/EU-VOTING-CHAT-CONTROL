@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-09-VOT-ITM-939070",
+            "type": "Activity",
+            "activity_date": "2023-05-09",
+            "activity_id": "MTG-PL-2023-05-09-VOT-ITM-939070",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2022/003 ES/Alu Ib\u00e9rica \u2014 Espagne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0154"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-09-OJ-ITM-V-48",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-09-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939070",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2022/003 ES/Alu Ib\u00e9rica \u2014 Espagne</title><label>Rapport: Eider Gardiazabal Rubial (A9-0154/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

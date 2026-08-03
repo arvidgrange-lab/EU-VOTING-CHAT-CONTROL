@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939810",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939810",
+            "activity_label": {
+                "mul": "Relations UE-Japon - EU-Japan relations - Beziehungen zwischen der EU und Japan",
+                "fr": "Relations UE-Japon"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0373"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-33",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939810",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledMEP": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations UE-Japon</title><label>Rapport: Reinhard B\u00fctikofer (A9-0373/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

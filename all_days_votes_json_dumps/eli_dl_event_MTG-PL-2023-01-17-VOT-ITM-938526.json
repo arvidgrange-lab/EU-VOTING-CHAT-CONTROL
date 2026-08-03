@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-17-VOT-ITM-938526",
+            "type": "Activity",
+            "activity_date": "2023-01-17",
+            "activity_id": "MTG-PL-2023-01-17-VOT-ITM-938526",
+            "activity_label": {
+                "fr": "Accord UE/Nouvelle-Z\u00e9lande: \u00e9change de donn\u00e9es \u00e0 caract\u00e8re personnel entre Europol et la Nouvelle-Z\u00e9lande"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0003"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-17-OJ-ITM-V-43",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-17-VOT-ITM-001"
+            ],
+            "notation_dlvId": "938526",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE/Nouvelle-Z\u00e9lande: \u00e9change de donn\u00e9es \u00e0 caract\u00e8re personnel entre Europol et la Nouvelle-Z\u00e9lande</title><label>Recommandation: Annalisa Tardino (A9-0003/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

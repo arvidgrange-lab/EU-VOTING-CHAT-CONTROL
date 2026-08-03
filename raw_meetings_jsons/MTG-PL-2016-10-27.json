@@ -1,0 +1,495 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3",
+            "type": "Activity",
+            "activity_date": "2016-10-27",
+            "activity_id": "MTG-PL-2016-10-27-VOT-ITM-562224-3",
+            "activity_label": {
+                "fr": "D\u00e9charge 2014: entreprise commune ARTEMIS"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0276"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-27-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-27-VOT-ITM-003"
+            ],
+            "notation_dlvId": "562224",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2014: entreprise commune ARTEMIS</title><label>Deuxi\u00e8me rapport: Marian-Jean Marinescu (A8-0276/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2199",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6",
+            "type": "Activity",
+            "activity_date": "2016-10-27",
+            "activity_id": "MTG-PL-2016-10-27-VOT-ITM-562270-6",
+            "activity_label": {
+                "fr": "Situation des journalistes en Turquie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1168",
+                "eli/dl/doc/B-8-2016-1171",
+                "eli/dl/doc/B-8-2016-1172",
+                "eli/dl/doc/B-8-2016-1162",
+                "eli/dl/doc/B-8-2016-1170",
+                "eli/dl/doc/B-8-2016-1167",
+                "eli/dl/doc/B-8-2016-1158",
+                "eli/dl/doc/B-8-2016-1163"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-27-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-27-VOT-ITM-006"
+            ],
+            "notation_dlvId": "562270",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation des journalistes en Turquie</title><label>Propositions de r\u00e9solution: B8-1158/2016, B8-1162/2016, B8-1163/2016, B8-1167/2016, B8-1168/2016, B8-1170/2016, B8-1171/2016, B8-1172/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2935",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1",
+            "type": "Activity",
+            "activity_date": "2016-10-27",
+            "activity_id": "MTG-PL-2016-10-27-VOT-ITM-562287-1",
+            "activity_label": {
+                "fr": "D\u00e9charge 2014: Budget g\u00e9n\u00e9ral de l'UE \u2013 Conseil europ\u00e9en et Conseil"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0271"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-27-OJ-ITM-V-48"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-27-VOT-ITM-001"
+            ],
+            "notation_dlvId": "562287",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2014: Budget g\u00e9n\u00e9ral de l'UE \u2013 Conseil europ\u00e9en et Conseil</title><label>Deuxi\u00e8me rapport: Ryszard Czarnecki (A8-0271/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2156",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9",
+            "type": "Activity",
+            "activity_date": "2016-10-27",
+            "activity_id": "MTG-PL-2016-10-27-VOT-ITM-562226-9",
+            "activity_label": {
+                "fr": "Strat\u00e9gie de l'Union en faveur de la jeunesse 2013-2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0250"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-27-OJ-ITM-V-54"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-27-VOT-ITM-009"
+            ],
+            "notation_dlvId": "562226",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie de l'Union en faveur de la jeunesse 2013-2015</title><label>Rapport: Andrea Bocskor (A8-0250/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2351",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7",
+            "type": "Activity",
+            "activity_date": "2016-10-27",
+            "activity_id": "MTG-PL-2016-10-27-VOT-ITM-562268-7",
+            "activity_label": {
+                "fr": "S\u00e9curit\u00e9 et non-prolif\u00e9ration nucl\u00e9aires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1132",
+                "eli/dl/doc/B-8-2016-1131",
+                "eli/dl/doc/B-8-2016-1125",
+                "eli/dl/doc/B-8-2016-1130",
+                "eli/dl/doc/B-8-2016-1122",
+                "eli/dl/doc/B-8-2016-1120",
+                "eli/dl/doc/B-8-2016-1129"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-27-OJ-ITM-V-74"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-27-VOT-ITM-007"
+            ],
+            "notation_dlvId": "562268",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>S\u00e9curit\u00e9 et non-prolif\u00e9ration nucl\u00e9aires</title><label>Propositions de r\u00e9solution: B8-1120/2016, B8-1122/2016, B8-1125/2016, B8-1129/2016, B8-1130/2016, B8-1131/2016, B8-1132/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2936",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5",
+            "type": "Activity",
+            "activity_date": "2016-10-27",
+            "activity_id": "MTG-PL-2016-10-27-VOT-ITM-562276-5",
+            "activity_label": {
+                "fr": "Situation dans le nord de l'Iraq et \u00e0 Mossoul"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1160",
+                "eli/dl/doc/B-8-2016-1161",
+                "eli/dl/doc/B-8-2016-1169",
+                "eli/dl/doc/B-8-2016-1166",
+                "eli/dl/doc/B-8-2016-1164",
+                "eli/dl/doc/B-8-2016-1165",
+                "eli/dl/doc/B-8-2016-1159"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-27-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-27-VOT-ITM-005"
+            ],
+            "notation_dlvId": "562276",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation dans le nord de l'Iraq et \u00e0 Mossoul</title><label>Propositions de r\u00e9solution: B8-1159/2016, B8-1160/2016, B8-1161/2016, B8-1164/2016, B8-1165/2016, B8-1166/2016, B8-1169/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2956",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2",
+            "type": "Activity",
+            "activity_date": "2016-10-27",
+            "activity_id": "MTG-PL-2016-10-27-VOT-ITM-562223-2",
+            "activity_label": {
+                "fr": "D\u00e9charge 2014: entreprise commune ENIAC"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0264"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-27-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-27-VOT-ITM-002"
+            ],
+            "notation_dlvId": "562223",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2014: entreprise commune ENIAC</title><label>Deuxi\u00e8me rapport: Marian-Jean Marinescu (A8-0264/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2202",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4",
+            "type": "Activity",
+            "activity_date": "2016-10-27",
+            "activity_id": "MTG-PL-2016-10-27-VOT-ITM-562225-4",
+            "activity_label": {
+                "fr": "D\u00e9charge 2014: entreprise commune pour ITER et le d\u00e9veloppement de l'\u00e9nergie de fusion"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0275"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-27-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-27-VOT-ITM-004"
+            ],
+            "notation_dlvId": "562225",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2014: entreprise commune pour ITER et le d\u00e9veloppement de l'\u00e9nergie de fusion </title><label>Deuxi\u00e8me rapport: Marian-Jean Marinescu (A8-0275/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2196",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8",
+            "type": "Activity",
+            "activity_date": "2016-10-27",
+            "activity_id": "MTG-PL-2016-10-27-VOT-ITM-562274-8",
+            "activity_label": {
+                "fr": "Service volontaire europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1128",
+                "eli/dl/doc/B-8-2016-1135",
+                "eli/dl/doc/B-8-2016-1126",
+                "eli/dl/doc/B-8-2016-1133",
+                "eli/dl/doc/B-8-2016-1127",
+                "eli/dl/doc/B-8-2016-1134"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-27-OJ-ITM-V-55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-27-VOT-ITM-008"
+            ],
+            "notation_dlvId": "562274",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Service volontaire europ\u00e9en</title><label>Propositions de r\u00e9solution: B8-1126/2016, B8-1127/2016, B8-1128/2016, B8-1133/2016, B8-1134/2016, B8-1135/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2872",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10",
+            "type": "Activity",
+            "activity_date": "2016-10-27",
+            "activity_id": "MTG-PL-2016-10-27-VOT-ITM-562212-10",
+            "activity_label": {
+                "fr": "Comment la PAC peut-elle am\u00e9liorer la cr\u00e9ation d'emplois dans les zones rurales?"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0285"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-10-27-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-10-27-VOT-ITM-010"
+            ],
+            "notation_dlvId": "562212",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Comment la PAC peut-elle am\u00e9liorer la cr\u00e9ation d'emplois dans les zones rurales?</title><label>Rapport: Eric Andrieu (A8-0285/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-10-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562224-3",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562270-6",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562287-1",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562226-9",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562268-7",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562276-5",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562223-2",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562225-4",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562274-8",
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2226",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-10-27-VOT-ITM-562212-10"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

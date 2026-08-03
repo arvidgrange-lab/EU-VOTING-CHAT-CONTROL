@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939718",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939718",
+            "activity_label": {
+                "fr": "Cr\u00e9ation d'emplois - transition juste et investissements d'impact",
+                "mul": "Cr\u00e9ation d'emplois - transition juste et investissements d'impact - Job creation  \u2013  the just transition and impact investments - Schaffung von Arbeitspl\u00e4tzen \u2013 gerechter \u00dcbergang und nachhaltiges Investieren"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0342"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939718",
+            "epvoc:amendmentsAdoptedMEP": 1,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledMEP": 5,
+            "epvoc:amendmentsTabledTotal": 5,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation d'emplois - transition juste et investissements d'impact</title><label>Rapport: Sara Matthieu (A9-0342/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

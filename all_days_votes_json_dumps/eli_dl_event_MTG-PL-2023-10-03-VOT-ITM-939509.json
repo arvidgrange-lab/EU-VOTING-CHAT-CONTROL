@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939509",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939509",
+            "activity_label": {
+                "fr": "Rapport int\u00e9rimaire sur la proposition de r\u00e9vision \u00e0 mi-parcours du cadre financier pluriannuel 2021-2027",
+                "mul": "Rapport int\u00e9rimaire sur la proposition de r\u00e9vision \u00e0 mi-parcours du cadre financier pluriannuel 2021-2027 - Interim report on the proposal for a mid-term revision of the Multiannual Financial Framework 2021-2027 - Zwischenbericht \u00fcber den Vorschlag f\u00fcr eine Halbzeitrevision des Mehrj\u00e4hrigen Finanzrahmens 2021-2027"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0273"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-50",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939509",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledMEP": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 20,
+            "epvoc:amendmentsTabledTotal": 21,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport int\u00e9rimaire sur la proposition de r\u00e9vision \u00e0 mi-parcours du cadre financier pluriannuel 2021-2027</title><label>Rapport int\u00e9rimaire: Jan Olbrycht, Margarida Marques (A9-0273/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

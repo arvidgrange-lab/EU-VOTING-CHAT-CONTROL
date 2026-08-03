@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939811",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939811",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre des dispositions du trait\u00e9 relatives aux proc\u00e9dures l\u00e9gislatives sp\u00e9ciales",
+                "mul": "Mise en \u0153uvre des dispositions du trait\u00e9 relatives aux proc\u00e9dures l\u00e9gislatives sp\u00e9ciales - Implementation of the Treaty provisions on special legislative procedures - Anwendung der Vertragsbestimmungen zu besonderen Gesetzgebungsverfahren"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0384"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-26",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939811",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 2,
+            "epvoc:amendmentsTabledTotal": 2,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre des dispositions du trait\u00e9 relatives aux proc\u00e9dures l\u00e9gislatives sp\u00e9ciales</title><label>Rapport: Victor Negrescu (A9-0384/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

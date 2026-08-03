@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939184",
+            "activity_label": {
+                "fr": "Devoir de vigilance des entreprises en mati\u00e8re de durabilit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0184"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-19",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939184",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Devoir de vigilance des entreprises en mati\u00e8re de durabilit\u00e9</title><label>Rapport: Lara Wolters (A9-0184/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

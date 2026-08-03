@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-02-26-VOT-ITM-000008",
+            "type": "Activity",
+            "activity_date": "2024-02-26",
+            "activity_id": "MTG-PL-2024-02-26-VOT-ITM-000008",
+            "activity_label": {
+                "mt": "A\u0121enda tat-Tlieta - Talba tal-Grupp PPE",
+                "pl": "Porz\u0105dek obrad we wtorek \u2013 wniosek grupy PPE",
+                "sv": "Tisdagens f\u00f6redragningslista \u2013 beg\u00e4ran fr\u00e5n The Left-gruppen (\u00e4ndring av titel)",
+                "nl": "Agenda van dinsdag \u2013 Verzoek van de PPE-Fractie",
+                "sl": "Torkov dnevni red \u2013 zahteva skupine PPE",
+                "es": "Orden del d\u00eda del martes \u2013 Solicitud del Grupo PPE",
+                "ro": "Ordinea de zi de mar\u021bi - Cererea Grupului PPE",
+                "de": "Tagesordnung f\u00fcr Dienstag\u00a0\u2013 Antrag der PPE-Fraktion",
+                "bg": "\u0414\u043d\u0435\u0432\u0435\u043d \u0440\u0435\u0434 \u0437\u0430 \u0432\u0442\u043e\u0440\u043d\u0438\u043a \u2013 \u0438\u0441\u043a\u0430\u043d\u0435 \u043d\u0430 \u0433\u0440\u0443\u043f\u0430\u0442\u0430 PPE",
+                "lt": "Antradienio darbotvark\u0117 - PPE frakcijos pra\u0161ymas",
+                "fr": "Ordre du jour de mardi - Demande du groupe PPE",
+                "lv": "Otrdienas darba k\u0101rt\u012bba - PPE grupas piepras\u012bjums",
+                "da": "Dagsorden for tirsdag \u2013 Anmodning fra PPE-Gruppen",
+                "pt": "Ordem do dia de ter\u00e7a-feira - Pedido do Grupo PPE",
+                "en": "Tuesday\u2019s agenda \u2013 PPE Group request",
+                "et": "Teisip\u00e4eva p\u00e4evakord \u2013 fraktsiooni PPE taotlus",
+                "it": "Ordine del giorno di marted\u00ec \u2013 Richiesta del gruppo PPE",
+                "fi": "Tiistain esityslista \u2013 PPE-ryhm\u00e4n pyynt\u00f6"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-02-26-DEC-165183"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-02-26-VOT-ITM-003"
+            ],
+            "notation_dlvId": "000008",
+            "structuredLabel": {
+                "da": "<structuredLabel><title>Dagsorden for tirsdag \u2013 Anmodning fra PPE-Gruppen</title><label/></structuredLabel>",
+                "de": "<structuredLabel><title>Tagesordnung f\u00fcr Dienstag\u00a0\u2013 Antrag der PPE-Fraktion</title><label/></structuredLabel>",
+                "mt": "<structuredLabel><title>A\u0121enda tat-Tlieta - Talba tal-Grupp PPE</title><label/></structuredLabel>",
+                "nl": "<structuredLabel><title>Agenda van dinsdag \u2013 Verzoek van de PPE-Fractie</title><label/></structuredLabel>",
+                "pt": "<structuredLabel><title>Ordem do dia de ter\u00e7a-feira - Pedido do Grupo PPE</title><label/></structuredLabel>",
+                "lv": "<structuredLabel><title>Otrdienas darba k\u0101rt\u012bba - PPE grupas piepras\u012bjums</title><label/></structuredLabel>",
+                "sl": "<structuredLabel><title>Torkov dnevni red \u2013 zahteva skupine PPE</title><label/></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0414\u043d\u0435\u0432\u0435\u043d \u0440\u0435\u0434 \u0437\u0430 \u0432\u0442\u043e\u0440\u043d\u0438\u043a \u2013 \u0438\u0441\u043a\u0430\u043d\u0435 \u043d\u0430 \u0433\u0440\u0443\u043f\u0430\u0442\u0430 PPE</title><label/></structuredLabel>",
+                "es": "<structuredLabel><title>Orden del d\u00eda del martes \u2013 Solicitud del Grupo PPE</title><label/></structuredLabel>",
+                "fi": "<structuredLabel><title>Tiistain esityslista \u2013 PPE-ryhm\u00e4n pyynt\u00f6</title><label/></structuredLabel>",
+                "et": "<structuredLabel><title>Teisip\u00e4eva p\u00e4evakord \u2013 fraktsiooni PPE taotlus</title><label/></structuredLabel>",
+                "fr": "<structuredLabel><title>Ordre du jour de mardi - Demande du groupe PPE</title><label/></structuredLabel>",
+                "sv": "<structuredLabel><title>Tisdagens f\u00f6redragningslista \u2013 beg\u00e4ran fr\u00e5n The Left-gruppen (\u00e4ndring av titel)</title><label/></structuredLabel>",
+                "pl": "<structuredLabel><title>Porz\u0105dek obrad we wtorek \u2013 wniosek grupy PPE</title><label/></structuredLabel>",
+                "ro": "<structuredLabel><title>Ordinea de zi de mar\u021bi - Cererea Grupului PPE</title><label/></structuredLabel>",
+                "en": "<structuredLabel><title>Tuesday\u2019s agenda \u2013 PPE Group request</title><label/></structuredLabel>",
+                "lt": "<structuredLabel><title>Antradienio darbotvark\u0117 - PPE frakcijos pra\u0161ymas</title><label/></structuredLabel>",
+                "it": "<structuredLabel><title>Ordine del giorno di marted\u00ec \u2013 Richiesta del gruppo PPE</title><label/></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

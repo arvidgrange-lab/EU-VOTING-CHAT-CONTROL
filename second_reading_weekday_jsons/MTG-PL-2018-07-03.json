@@ -1,0 +1,587 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713606-10",
+            "activity_label": {
+                "fr": "Mesures de renforcement de la coop\u00e9ration administrative dans le domaine de la taxe sur la valeur ajout\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0215"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-11"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-010"
+            ],
+            "notation_dlvId": "713606",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures de renforcement de la coop\u00e9ration administrative dans le domaine de la taxe sur la valeur ajout\u00e9e</title><label>Rapport: Roberts Z\u012ble (A8-0215/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0248",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713336-2",
+            "activity_label": {
+                "fr": "Reconduction de l'accord de coop\u00e9ration scientifique et technologique entre l\u2019Union europ\u00e9enne et les \u00c9tats-Unis d'Am\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0212"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-002"
+            ],
+            "notation_dlvId": "713336",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Reconduction de l'accord de coop\u00e9ration scientifique et technologique entre l\u2019Union europ\u00e9enne et les \u00c9tats-Unis d'Am\u00e9rique</title><label>Recommandation: Rolandas Paksas (A8-0212/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0067",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713370-7",
+            "activity_label": {
+                "fr": "Programme europ\u00e9en de d\u00e9veloppement industriel dans le domaine de la d\u00e9fense"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0037"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-007"
+            ],
+            "notation_dlvId": "713370",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Programme europ\u00e9en de d\u00e9veloppement industriel dans le domaine de la d\u00e9fense</title><label>Rapport: Fran\u00e7oise Grosset\u00eate (A8-0037/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0125",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713336-6",
+            "activity_label": {
+                "fr": "L'impression en trois dimensions: droits de propri\u00e9t\u00e9 intellectuelle et responsabilit\u00e9 civile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0223"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-60"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-006"
+            ],
+            "notation_dlvId": "713336",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'impression en trois dimensions: droits de propri\u00e9t\u00e9 intellectuelle et responsabilit\u00e9 civile</title><label>Rapport: Jo\u00eblle Bergeron (A8-0223/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2007",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713336-4",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation - demande EGF/2017/009 FR/Air France - France"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0210"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-48"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-004"
+            ],
+            "notation_dlvId": "713336",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation - demande EGF/2017/009 FR/Air France - France</title><label>Rapport: Alain Lamassoure (A8-0210/2018) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2059",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713336-1",
+            "activity_label": {
+                "fr": "Accord de coop\u00e9ration entre l'UE et l\u2019Agence pour la s\u00e9curit\u00e9 de la navigation a\u00e9rienne en Afrique et \u00e0 Madagascar"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0213"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-89"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-001"
+            ],
+            "notation_dlvId": "713336",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de coop\u00e9ration entre l'UE et l\u2019Agence pour la s\u00e9curit\u00e9 de la navigation a\u00e9rienne en Afrique et \u00e0 Madagascar</title><label>Recommandation: Jerzy Buzek (A8-0213/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0104",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713344-12",
+            "activity_label": {
+                "fr": "Diplomatie climatique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0221"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-012"
+            ],
+            "notation_dlvId": "713344",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Diplomatie climatique</title><label>Rapport: Arne Lietz et  Jo Leinen (A8-0221/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2272",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713336-5",
+            "activity_label": {
+                "fr": "Le r\u00f4le des villes au sein du cadre institutionnel de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0203"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-005"
+            ],
+            "notation_dlvId": "713336",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le r\u00f4le des villes au sein du cadre institutionnel de l'Union</title><label>Rapport: Kazimierz Micha\u0142 Ujazdowski (A8-0203/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2037",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713342-9",
+            "activity_label": {
+                "fr": "Communication des projets d\u2019investissement relatifs \u00e0 des infrastructures \u00e9nerg\u00e9tiques dans l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0211"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-009"
+            ],
+            "notation_dlvId": "713342",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Communication des projets d\u2019investissement relatifs \u00e0 des infrastructures \u00e9nerg\u00e9tiques dans l\u2019Union europ\u00e9enne</title><label>Rapport: Barbara Kappel (A8-0211/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0347",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713336-3",
+            "activity_label": {
+                "fr": "Entreprise commune europ\u00e9enne pour le calcul \u00e0 haute performance"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0217"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-003"
+            ],
+            "notation_dlvId": "713336",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Entreprise commune europ\u00e9enne pour le calcul \u00e0 haute performance</title><label>Rapport: Zigmantas Bal\u010dytis (A8-0217/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0003",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713341-8",
+            "activity_label": {
+                "fr": "Statistiques int\u00e9gr\u00e9es sur les exploitations agricoles"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0300"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-008"
+            ],
+            "notation_dlvId": "713341",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Statistiques int\u00e9gr\u00e9es sur les exploitations agricoles</title><label>Rapport: Maria Gabriela Zoan\u0103 (A8-0300/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0389",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11",
+            "type": "Activity",
+            "activity_date": "2018-07-03",
+            "activity_id": "MTG-PL-2018-07-03-VOT-ITM-713343-11",
+            "activity_label": {
+                "fr": "Violation des droits des peuples autochtones dans le monde"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0194"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-07-03-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-07-03-VOT-ITM-011"
+            ],
+            "notation_dlvId": "713343",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Violation des droits des peuples autochtones dans le monde</title><label>Rapport: Francisco Assis (A8-0194/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-07-03",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713606-10",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-2",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713370-7",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-6",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-4",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-1",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713344-12",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-5",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713342-9",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713336-3",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713341-8",
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2206",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-07-03-VOT-ITM-713343-11"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

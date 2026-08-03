@@ -1,0 +1,843 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-4",
+            "activity_label": {
+                "fr": "Accord UE-Bahamas sur l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0304"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-76"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-004"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Bahamas sur l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e</title><label>Recommandation: Emilian Pavel (A8-0304/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0169",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-2",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Manolis Kefalogiannis"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0333"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-102"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-002"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Manolis Kefalogiannis</title><label>Rapport: Jean-Marie Cavada (A8-0333/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2133",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-11",
+            "activity_label": {
+                "fr": "Nomination du directeur ex\u00e9cutif du FEIS"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0314"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-92"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-011"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination du directeur ex\u00e9cutif du FEIS</title><label>Rapport: Jean Arthuis et  Roberto Gualtieri (A8-0314/2018) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0903",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741254-13",
+            "activity_label": {
+                "fr": "Qualit\u00e9 des eaux destin\u00e9es \u00e0 la consommation humaine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0288"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-013"
+            ],
+            "notation_dlvId": "741254",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Qualit\u00e9 des eaux destin\u00e9es \u00e0 la consommation humaine</title><label>Rapport: Michel Dantin (A8-0288/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0332",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741258-14",
+            "activity_label": {
+                "fr": "Ressources affect\u00e9es \u00e0 la coh\u00e9sion \u00e9conomique, sociale et territoriale et ressources affect\u00e9es \u00e0 l\u2019objectif \u00abInvestissement pour la croissance et l'emploi\u00bb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0282"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-014"
+            ],
+            "notation_dlvId": "741258",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ressources affect\u00e9es \u00e0 la coh\u00e9sion \u00e9conomique, sociale et territoriale et ressources affect\u00e9es \u00e0 l\u2019objectif \u00abInvestissement pour la croissance et l'emploi\u00bb</title><label>Rapport: Iskra Mihaylova (A8-0282/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0265",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-5",
+            "activity_label": {
+                "fr": "Accord UE-R\u00e9publique de Maurice relatif \u00e0 l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0303"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-005"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-R\u00e9publique de Maurice relatif \u00e0 l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e</title><label>Recommandation: Emilian Pavel (A8-0303/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0167",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-3",
+            "activity_label": {
+                "fr": "Publication \u00e9lectronique du Journal officiel de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0323"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-86"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-003"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Publication \u00e9lectronique du Journal officiel de l'Union europ\u00e9enne</title><label>Recommandation: Pavel Svoboda (A8-0323/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0039",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-12",
+            "activity_label": {
+                "fr": "Nomination du directeur ex\u00e9cutif adjoint du FEIS"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0312"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-93"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-012"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination du directeur ex\u00e9cutif adjoint du FEIS</title><label>Rapport: Jean Arthuis et  Roberto Gualtieri (A8-0312/2018) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0904",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-8",
+            "activity_label": {
+                "fr": "Accord UE-Barbade relatif \u00e0 l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0301"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-008"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Barbade relatif \u00e0 l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e</title><label>Recommandation: Emilian Pavel (A8-0301/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0179",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-1",
+            "activity_label": {
+                "fr": "Consultation sur l'immunit\u00e9 d'Alfonso Luigi Marra"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0325"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-101"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-001"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Consultation sur l'immunit\u00e9 d'Alfonso Luigi Marra</title><label>Rapport: Gilles Lebreton (A8-0325/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2058",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-6",
+            "activity_label": {
+                "fr": "Accord UE-Antigua-et-Barbuda relatif \u00e0 l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0305"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-006"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Antigua-et-Barbuda relatif \u00e0 l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e</title><label>Recommandation: Emilian Pavel (A8-0305/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0171",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-10",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2018/002 PT/Norte - Centro - Lisboa wearing apparel"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0311"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-010"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2018/002 PT/Norte - Centro - Lisboa wearing apparel</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A8-0311/2018) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2223",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741584-16",
+            "activity_label": {
+                "fr": "Le r\u00f4le de la participation financi\u00e8re des salari\u00e9s dans la cr\u00e9ation d'emplois et le retour des ch\u00f4meurs \u00e0 l'emploi"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0293"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-016"
+            ],
+            "notation_dlvId": "741584",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le r\u00f4le de la participation financi\u00e8re des salari\u00e9s dans la cr\u00e9ation d'emplois et le retour des ch\u00f4meurs \u00e0 l'emploi</title><label>Rapport: Renate Weber (A8-0293/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2053",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-9",
+            "activity_label": {
+                "fr": "Accord UE-Seychelles relatif \u00e0 l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0302"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-009"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Seychelles relatif \u00e0 l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e</title><label>Recommandation: Emilian Pavel (A8-0302/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0168",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741472-15",
+            "activity_label": {
+                "fr": "Alignement des obligations en mati\u00e8re de communication d'informations dans le domaine de la politique environnementale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0324"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-015"
+            ],
+            "notation_dlvId": "741472",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Alignement des obligations en mati\u00e8re de communication d'informations dans le domaine de la politique environnementale</title><label>Rapport: Adina-Ioana V\u0103lean (A8-0324/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0205",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7",
+            "type": "Activity",
+            "activity_date": "2018-10-23",
+            "activity_id": "MTG-PL-2018-10-23-VOT-ITM-741251-7",
+            "activity_label": {
+                "fr": "Accord UE-F\u00e9d\u00e9ration de Saint-Christophe-et-Ni\u00e9v\u00e8s relatif \u00e0 l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0306"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-23-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-23-VOT-ITM-007"
+            ],
+            "notation_dlvId": "741251",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-F\u00e9d\u00e9ration de Saint-Christophe-et-Ni\u00e9v\u00e8s relatif \u00e0 l\u2019exemption de visa pour les s\u00e9jours de courte dur\u00e9e</title><label>Recommandation: Emilian Pavel (A8-0306/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-4",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-2",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-11",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741254-13",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741258-14",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-5",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-3",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-12",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-8",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-1",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-6",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-10",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741584-16",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-9",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741472-15",
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0176",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-23-VOT-ITM-741251-7"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

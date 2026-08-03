@@ -1,0 +1,1637 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562647-9",
+            "activity_label": {
+                "fr": "Avis de la Cour de justice sur la compatibilit\u00e9 avec les trait\u00e9s de l'accord entre les \u00c9tats-Unis d\u2019Am\u00e9rique et l\u2019Union europ\u00e9enne sur la protection des informations \u00e0 caract\u00e8re personnel trait\u00e9es \u00e0 des fins de pr\u00e9vention et de d\u00e9tection des infractions p\u00e9nales, d\u2019enqu\u00eates et de poursuites en la mati\u00e8re"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1304",
+                "eli/dl/doc/B-8-2016-1305"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-52"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-009"
+            ],
+            "notation_dlvId": "562647",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Avis de la Cour de justice sur la compatibilit\u00e9 avec les trait\u00e9s de l'accord entre les \u00c9tats-Unis d\u2019Am\u00e9rique et l\u2019Union europ\u00e9enne sur la protection des informations \u00e0 caract\u00e8re personnel trait\u00e9es \u00e0 des fins de pr\u00e9vention et de d\u00e9tection des infractions p\u00e9nales, d\u2019enqu\u00eates et de poursuites en la mati\u00e8re</title><label>Propositions de r\u00e9solution: B8-1304/2016, B8-1305/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3004",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562611-20",
+            "activity_label": {
+                "fr": "Proc\u00e9dure budg\u00e9taire 2017: projet commun"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0353"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-020"
+            ],
+            "notation_dlvId": "562611",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Proc\u00e9dure budg\u00e9taire 2017: projet commun</title><label>Rapport: Jens Geier et  Indrek Tarand (A8-0353/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2047",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562567-7",
+            "activity_label": {
+                "fr": "Accord UE-\u00celes Marshall relatif \u00e0 l'exemption de visa de court s\u00e9jour"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0335"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-007"
+            ],
+            "notation_dlvId": "562567",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-\u00celes Marshall relatif \u00e0 l'exemption de visa de court s\u00e9jour</title><label>Recommandation: Mariya Gabriel (A8-0335/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0103",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562615-15",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds de solidarit\u00e9 de l\u2019Union europ\u00e9enne pour venir en aide \u00e0 l\u2019Allemagne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0352"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-015"
+            ],
+            "notation_dlvId": "562615",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds de solidarit\u00e9 de l\u2019Union europ\u00e9enne pour venir en aide \u00e0 l\u2019Allemagne</title><label>Rapport: Monika Hohlmeier (A8-0352/2016) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2267",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562567-5",
+            "activity_label": {
+                "fr": "Accord UE-Micron\u00e9sie relatif \u00e0 l'exemption de visa de court s\u00e9jour"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0337"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-36"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-005"
+            ],
+            "notation_dlvId": "562567",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Micron\u00e9sie relatif \u00e0 l'exemption de visa de court s\u00e9jour</title><label>Recommandation: Mariya Gabriel (A8-0337/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0098",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562627-10",
+            "activity_label": {
+                "fr": "Accord entre les \u00c9tats-Unis d'Am\u00e9rique et l'Union europ\u00e9enne sur la protection des informations \u00e0 caract\u00e8re personnel trait\u00e9es en mati\u00e8re d'infractions p\u00e9nales"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0354"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-010"
+            ],
+            "notation_dlvId": "562627",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord entre les \u00c9tats-Unis d'Am\u00e9rique et l'Union europ\u00e9enne sur la protection des informations \u00e0 caract\u00e8re personnel trait\u00e9es en mati\u00e8re d'infractions p\u00e9nales</title><label>Recommandation: Jan Philipp Albrecht (A8-0354/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0126",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562567-6",
+            "activity_label": {
+                "fr": "Accord UE-Tuvalu relatif \u00e0 l'exemption de visa de court s\u00e9jour"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0333"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-006"
+            ],
+            "notation_dlvId": "562567",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Tuvalu relatif \u00e0 l'exemption de visa de court s\u00e9jour</title><label>Recommandation: Mariya Gabriel (A8-0333/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0100",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562567-8",
+            "activity_label": {
+                "fr": "Fonds de solidarit\u00e9 de l'Union europ\u00e9enne: \u00e9valuation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0341"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-008"
+            ],
+            "notation_dlvId": "562567",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds de solidarit\u00e9 de l'Union europ\u00e9enne: \u00e9valuation</title><label>Rapport: Salvatore Cicu (A8-0341/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2045",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562588-21",
+            "activity_label": {
+                "fr": "Situation en Italie apr\u00e8s les s\u00e9ismes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1296",
+                "eli/dl/doc/B-8-2016-1288",
+                "eli/dl/doc/B-8-2016-1284",
+                "eli/dl/doc/B-8-2016-1291",
+                "eli/dl/doc/B-8-2016-1289",
+                "eli/dl/doc/B-8-2016-1285",
+                "eli/dl/doc/B-8-2016-1286",
+                "eli/dl/doc/B-8-2016-1294"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-021"
+            ],
+            "notation_dlvId": "562588",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Italie apr\u00e8s les s\u00e9ismes</title><label>Propositions de r\u00e9solution: B8-1284/2016, B8-1285/2016, B8-1286/2016, B8-1288/2016, B8-1289/2016, B8-1291/2016, B8-1294/2016, B8-1296/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2988",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562465-25",
+            "activity_label": {
+                "fr": "Acc\u00e8s \u00e0 l'\u00e9nergie dans les pays en d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1227"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-025"
+            ],
+            "notation_dlvId": "562465",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Acc\u00e8s \u00e0 l'\u00e9nergie dans les pays en d\u00e9veloppement</title><label>Proposition de r\u00e9solution: B8-1227/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2885",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562567-3",
+            "activity_label": {
+                "fr": "Accord UE-Kiribati relatif \u00e0 l\u2019exemption de visa de court s\u00e9jour"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0334"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-003"
+            ],
+            "notation_dlvId": "562567",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Kiribati relatif \u00e0 l\u2019exemption de visa de court s\u00e9jour</title><label>Recommandation: Mariya Gabriel (A8-0334/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0200",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562608-19",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne aux fins du paiement d'avances dans le cadre du budget g\u00e9n\u00e9ral de l'Union pour 2017"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0323"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-019"
+            ],
+            "notation_dlvId": "562608",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne aux fins du paiement d'avances dans le cadre du budget g\u00e9n\u00e9ral de l'Union pour 2017</title><label>Rapport: Patricija \u0160ulin (A8-0323/2016) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2119",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562567-1",
+            "activity_label": {
+                "fr": "Code des douanes de l\u2019Union: marchandises qui ont temporairement quitt\u00e9 le territoire douanier de l'Union par voie maritime ou a\u00e9rienne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0329"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-001"
+            ],
+            "notation_dlvId": "562567",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Code des douanes de l\u2019Union: marchandises qui ont temporairement quitt\u00e9 le territoire douanier de l'Union par voie maritime ou a\u00e9rienne</title><label>Rapport: Maria Grapini (A8-0329/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0229",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562688-23",
+            "activity_label": {
+                "fr": "Responsabilit\u00e9, indemnisation et garanties financi\u00e8res pour les op\u00e9rations p\u00e9troli\u00e8res et gazi\u00e8res en mer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0308"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-023"
+            ],
+            "notation_dlvId": "562688",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Responsabilit\u00e9, indemnisation et garanties financi\u00e8res pour les op\u00e9rations p\u00e9troli\u00e8res et gazi\u00e8res en mer</title><label>Rapport: Kostas Chrysogonos (A8-0308/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2352",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562567-2",
+            "activity_label": {
+                "fr": "Documents d'informations cl\u00e9s relatifs aux produits d'investissement packag\u00e9s de d\u00e9tail et fond\u00e9s sur l'assurance: date de mise en application du r\u00e8glement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0356"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-002"
+            ],
+            "notation_dlvId": "562567",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Documents d'informations cl\u00e9s relatifs aux produits d'investissement packag\u00e9s de d\u00e9tail et fond\u00e9s sur l'assurance: date de mise en application du r\u00e8glement</title><label>Rapport: Pervenche Ber\u00e8s (A8-0356/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0355",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562567-4",
+            "activity_label": {
+                "fr": "Accord UE-\u00celes Salomon relatif \u00e0 l'exemption de visa de court s\u00e9jour"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0336"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-004"
+            ],
+            "notation_dlvId": "562567",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-\u00celes Salomon relatif \u00e0 l'exemption de visa de court s\u00e9jour</title><label>Recommandation: Mariya Gabriel (A8-0336/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0096",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562570-22",
+            "activity_label": {
+                "fr": "D\u00e9clarations d'int\u00e9r\u00eats des membres de la Commission - lignes directrices"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0315"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-4"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-022"
+            ],
+            "notation_dlvId": "562570",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9clarations d'int\u00e9r\u00eats des membres de la Commission - lignes directrices</title><label>Rapport: Pascal Durand (A8-0315/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2080",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562610-18",
+            "activity_label": {
+                "fr": "Mobilisation de l'instrument de flexibilit\u00e9 aux fins du financement de mesures budg\u00e9taires imm\u00e9diates pour faire face \u00e0 la crise actuelle des migrants, des r\u00e9fugi\u00e9s et de la s\u00e9curit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0351"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-018"
+            ],
+            "notation_dlvId": "562610",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation de l'instrument de flexibilit\u00e9 aux fins du financement de mesures budg\u00e9taires imm\u00e9diates pour faire face \u00e0 la crise actuelle des migrants, des r\u00e9fugi\u00e9s et de la s\u00e9curit\u00e9</title><label>Rapport: Jens Geier (A8-0351/2016) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2120",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562569-11",
+            "activity_label": {
+                "fr": "Accord d'\u00e9tape vers un accord de partenariat \u00e9conomique UE-Ghana"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0328"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-8"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-011"
+            ],
+            "notation_dlvId": "562569",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord d'\u00e9tape vers un accord de partenariat \u00e9conomique UE-Ghana </title><label>Recommandation: Christofer Fjellner (A8-0328/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2008-0137",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562616-16",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00ba 6/2016 accompagnant la proposition de mobilisation du Fonds de solidarit\u00e9 de l\u2019Union europ\u00e9enne pour venir en aide \u00e0 l\u2019Allemagne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0349"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-016"
+            ],
+            "notation_dlvId": "562616",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00ba 6/2016 accompagnant la proposition de mobilisation du Fonds de solidarit\u00e9 de l\u2019Union europ\u00e9enne pour venir en aide \u00e0 l\u2019Allemagne</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A8-0349/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2268",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562612-12",
+            "activity_label": {
+                "fr": "Mobilisation de la marge pour impr\u00e9vus en 2016"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0347"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-012"
+            ],
+            "notation_dlvId": "562612",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation de la marge pour impr\u00e9vus en 2016</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A8-0347/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2256",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562609-17",
+            "activity_label": {
+                "fr": "Mobilisation de la marge pour impr\u00e9vus en 2017"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0346"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-017"
+            ],
+            "notation_dlvId": "562609",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation de la marge pour impr\u00e9vus en 2017</title><label>Rapport: Jens Geier (A8-0346/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2118",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562614-14",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 5/2016: mise en \u0153uvre de la d\u00e9cision 2014/335/UE relative au syst\u00e8me des ressources propres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0348"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-014"
+            ],
+            "notation_dlvId": "562614",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 5/2016: mise en \u0153uvre de la d\u00e9cision 2014/335/UE relative au syst\u00e8me des ressources propres</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A8-0348/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2258",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562668-24",
+            "activity_label": {
+                "fr": "Situation en R\u00e9publique d\u00e9mocratique du Congo"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1319",
+                "eli/dl/doc/B-8-2016-1320",
+                "eli/dl/doc/B-8-2016-1324",
+                "eli/dl/doc/B-8-2016-1310",
+                "eli/dl/doc/B-8-2016-1315",
+                "eli/dl/doc/B-8-2016-1313",
+                "eli/dl/doc/B-8-2016-1316"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-024"
+            ],
+            "notation_dlvId": "562668",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en R\u00e9publique d\u00e9mocratique du Congo</title><label>Propositions de r\u00e9solution: B8-1310/2016, B8-1313/2016, B8-1315/2016, B8-1316/2016, B8-1319/2016, B8-1320/2016, B8-1324/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3001",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562613-13",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00ba 4/2016: actualisation des cr\u00e9dits visant \u00e0 prendre en consid\u00e9ration l'\u00e9volution r\u00e9cente de la situation dans le domaine de la migration et de la s\u00e9curit\u00e9 et la r\u00e9duction des cr\u00e9dits de paiement et d'engagement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0350"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-013"
+            ],
+            "notation_dlvId": "562613",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00ba 4/2016: actualisation des cr\u00e9dits visant \u00e0 prendre en consid\u00e9ration l'\u00e9volution r\u00e9cente de la situation dans le domaine de la migration et de la s\u00e9curit\u00e9 et la r\u00e9duction des cr\u00e9dits de paiement et d'engagement</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A8-0350/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2257",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26",
+            "type": "Activity",
+            "activity_date": "2016-12-01",
+            "activity_id": "MTG-PL-2016-12-01-VOT-ITM-562568-26",
+            "activity_label": {
+                "fr": "Application de la proc\u00e9dure europ\u00e9enne d'injonction de payer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0299"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-01-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-01-VOT-ITM-026"
+            ],
+            "notation_dlvId": "562568",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Application de la proc\u00e9dure europ\u00e9enne d'injonction de payer</title><label>Rapport: Kostas Chrysogonos (A8-0299/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562647-9",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562611-20",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-7",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562615-15",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-5",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562627-10",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-6",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-8",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562588-21",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562465-25",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-3",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562608-19",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-1",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562688-23",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-2",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562567-4",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562570-22",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562610-18",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562569-11",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562616-16",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562612-12",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562609-17",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562614-14",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562668-24",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562613-13",
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2011",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-01-VOT-ITM-562568-26"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-05-VOT-ITM-939517",
+            "type": "Activity",
+            "activity_date": "2023-10-05",
+            "activity_id": "MTG-PL-2023-10-05-VOT-ITM-939517",
+            "activity_label": {
+                "fr": "Obligations vertes europ\u00e9ennes",
+                "mul": "Obligations vertes europ\u00e9ennes - European green bonds - Europ\u00e4ische gr\u00fcne Anleihen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0156"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-05-OJ-ITM-V-26",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-05-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939517",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Obligations vertes europ\u00e9ennes</title><label>Rapport: Paul Tang (A9-0156/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939731",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939731",
+            "activity_label": {
+                "mul": "R\u00e9duire les in\u00e9galit\u00e9s et promouvoir l\u2019inclusion sociale en temps de crise pour les enfants et leurs familles - Reducing inequalities and promoting social inclusion in times of crisis for children and their families - Abbau von Ungleichheiten und F\u00f6rderung der sozialen Eingliederung in Krisenzeiten f\u00fcr Kinder und ihre Familien",
+                "fr": "R\u00e9duire les in\u00e9galit\u00e9s et promouvoir l\u2019inclusion sociale en temps de crise pour les enfants et leurs familles"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0360"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-76",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939731",
+            "epvoc:amendmentsAdoptedMEP": 1,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledMEP": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9duire les in\u00e9galit\u00e9s et promouvoir l\u2019inclusion sociale en temps de crise pour les enfants et leurs familles</title><label>Rapport: Sandra Pereira (A9-0360/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

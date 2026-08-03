@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939263",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre et r\u00e9alisation des objectifs de d\u00e9veloppement durable"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0213"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-30",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939263",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 5,
+            "epvoc:amendmentsTabledTotal": 5,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre et r\u00e9alisation des objectifs de d\u00e9veloppement durable</title><label>Rapport: Udo Bullmann, Petros Kokkalis (A9-0213/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-28-VOT-ITM-520212-9",
+            "type": "Activity",
+            "activity_date": "2016-04-28",
+            "activity_id": "MTG-PL-2016-04-28-VOT-ITM-520212-9",
+            "activity_label": {
+                "fr": "S\u00e9curit\u00e9 ferroviaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0056"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-28-OJ-ITM-V-154"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-28-VOT-ITM-009"
+            ],
+            "notation_dlvId": "520212",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>S\u00e9curit\u00e9 ferroviaire</title><label>Recommandation pour la deuxi\u00e8me lecture: Michael Cramer (A8-0056/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

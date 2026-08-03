@@ -1,0 +1,651 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520543-1",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2015/009 SE/Volvo Trucks"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0077"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "520543",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2015/009 SE/Volvo Trucks</title><label>Rapport: Victor Negrescu (A8-0077/2016) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2022",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520552-12",
+            "activity_label": {
+                "fr": "\u00c9pid\u00e9mie de maladie \u00e0 virus Zika"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0449"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-012"
+            ],
+            "notation_dlvId": "520552",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9pid\u00e9mie de maladie \u00e0 virus Zika</title><label>Proposition de r\u00e9solution: B8-0449/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2584",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-522165-3",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 1/2016: nouvel instrument destin\u00e9 \u00e0 fournir une aide d'urgence au sein de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0130"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-92"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-003"
+            ],
+            "notation_dlvId": "522165",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 1/2016: nouvel instrument destin\u00e9 \u00e0 fournir une aide d'urgence au sein de l'Union</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A8-0130/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2037",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520536-9",
+            "activity_label": {
+                "fr": "Objection en vertu de l'article 106: renouvellement de l'agr\u00e9ment de la substance active glyphosate"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0439"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-93"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-009"
+            ],
+            "notation_dlvId": "520536",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection en vertu de l'article 106: renouvellement de l'agr\u00e9ment de la substance active glyphosate</title><label>Proposition de r\u00e9solution: B8-0439/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2624",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520218-5",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - M. Mihails Kozlovs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0059"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "520218",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - M. Mihails Kozlovs</title><label>Rapport: Igor \u0160oltes (A8-0059/2016) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0814",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520223-11",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre et r\u00e9vision de la strat\u00e9gie de l'UE pour l'Asie centrale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0051"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-011"
+            ],
+            "notation_dlvId": "520223",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre et r\u00e9vision de la strat\u00e9gie de l'UE pour l'Asie centrale</title><label>Rapport: Tam\u00e1s Meszerics (A8-0051/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2220",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520221-8",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - M. Janusz Wojciechowski"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0061"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-008"
+            ],
+            "notation_dlvId": "520221",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - M. Janusz Wojciechowski</title><label>Rapport: Igor \u0160oltes (A8-0061/2016) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0817",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520553-13",
+            "activity_label": {
+                "fr": "Situation en Pologne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0465",
+                "eli/dl/doc/B-8-2016-0464",
+                "eli/dl/doc/B-8-2016-0461",
+                "eli/dl/doc/B-8-2016-0463"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-97"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-013"
+            ],
+            "notation_dlvId": "520553",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Pologne</title><label>Propositions de r\u00e9solutions: B8-0461/2016, B8-0463/2016, B8-0464/2016, B8-0465/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-3031",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520220-7",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - M. Ladislav Balko"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0055"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-007"
+            ],
+            "notation_dlvId": "520220",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - M. Ladislav Balko</title><label>Rapport: Igor \u0160oltes (A8-0055/2016) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0816",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520222-10",
+            "activity_label": {
+                "fr": "L'Union europ\u00e9enne dans un environnement mondial en mutation - Un monde plus connect\u00e9, plus contest\u00e9 et plus complexe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0069"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-58"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-010"
+            ],
+            "notation_dlvId": "520222",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'Union europ\u00e9enne dans un environnement mondial en mutation - Un monde plus connect\u00e9, plus contest\u00e9 et plus complexe</title><label>Rapport: Sandra Kalniete (A8-0069/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2272",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520217-4",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - M. Samo Jereb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0060"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "520217",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - M. Samo Jereb</title><label>Rapport: Bart Staes (A8-0060/2016) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0804",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520543-2",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: EGF/2016/000 TA 2016/Assistance technique sur l'initiative de la Commission"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0078"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-87"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-002"
+            ],
+            "notation_dlvId": "520543",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: EGF/2016/000 TA 2016/Assistance technique sur l'initiative de la Commission</title><label>Rapport: Andrey Novakov (A8-0078/2016) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2025",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6",
+            "type": "Activity",
+            "activity_date": "2016-04-13",
+            "activity_id": "MTG-PL-2016-04-13-VOT-ITM-520219-6",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - M. Jan Gregor"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0057"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-13-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "520219",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - M. Jan Gregor</title><label>Rapport: Igor \u0160oltes (A8-0057/2016) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-04-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-1",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520552-12",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-522165-3",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520536-9",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520218-5",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520223-11",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520221-8",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520553-13",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520220-7",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520222-10",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520217-4",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520543-2",
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0815",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-04-13-VOT-ITM-520219-6"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

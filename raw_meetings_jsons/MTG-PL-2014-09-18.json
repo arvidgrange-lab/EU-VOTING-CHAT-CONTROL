@@ -1,0 +1,463 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373950-1",
+            "type": "Activity",
+            "activity_date": "2014-09-18",
+            "activity_id": "MTG-PL-2014-09-18-VOT-ITM-373950-1",
+            "activity_label": {
+                "fr": "Pers\u00e9cution des d\u00e9fenseurs des droits de l'homme en Azerba\u00efdjan"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0090",
+                "eli/dl/doc/B-8-2014-0098",
+                "eli/dl/doc/B-8-2014-0095",
+                "eli/dl/doc/B-8-2014-0091",
+                "eli/dl/doc/B-8-2014-0099",
+                "eli/dl/doc/B-8-2014-0093",
+                "eli/dl/doc/B-8-2014-0096"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-09-18-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-09-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "373950",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pers\u00e9cution des d\u00e9fenseurs des droits de l'homme en Azerba\u00efdjan</title><label>Propositions de r\u00e9solution: B8-0090/2014, B8-0091/2014, B8-0093/2014, B8-0095/2014, B8-0096/2014, B8-0098/2014, B8-0099/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373950-1",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373955-3",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373952-2",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373980-8",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373721-9",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373946-5",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373945-4",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373951-6",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373949-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2832",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373950-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373955-3",
+            "type": "Activity",
+            "activity_date": "2014-09-18",
+            "activity_id": "MTG-PL-2014-09-18-VOT-ITM-373955-3",
+            "activity_label": {
+                "fr": "Violations des droits de l'homme au Bangladesh"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0101",
+                "eli/dl/doc/B-8-2014-0100",
+                "eli/dl/doc/B-8-2014-0097",
+                "eli/dl/doc/B-8-2014-0103",
+                "eli/dl/doc/B-8-2014-0105",
+                "eli/dl/doc/B-8-2014-0104"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-09-18-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-09-18-VOT-ITM-003"
+            ],
+            "notation_dlvId": "373955",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Violations des droits de l'homme au Bangladesh</title><label>Propositions de r\u00e9solution: B8-0097/2014, B8-0100/2014, B8-0101/2014, B8-0103/2014, B8-0104/2014, B8-0105/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373950-1",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373955-3",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373952-2",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373980-8",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373721-9",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373946-5",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373945-4",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373951-6",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373949-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2834",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373955-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373952-2",
+            "type": "Activity",
+            "activity_date": "2014-09-18",
+            "activity_id": "MTG-PL-2014-09-18-VOT-ITM-373952-2",
+            "activity_label": {
+                "fr": "Burundi, en particulier le cas de Pierre Claver Mbonimpa"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0086",
+                "eli/dl/doc/B-8-2014-0092",
+                "eli/dl/doc/B-8-2014-0089",
+                "eli/dl/doc/B-8-2014-0106",
+                "eli/dl/doc/B-8-2014-0094",
+                "eli/dl/doc/B-8-2014-0088",
+                "eli/dl/doc/B-8-2014-0087"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-09-18-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-09-18-VOT-ITM-002"
+            ],
+            "notation_dlvId": "373952",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Burundi, en particulier le cas de Pierre Claver Mbonimpa</title><label>Propositions de r\u00e9solution: B8-0086/2014, B8-0087/2014, B8-0088/2014, B8-0089/2014, B8-0092/2014, B8-0094/2014, B8-0106/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373950-1",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373955-3",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373952-2",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373980-8",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373721-9",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373946-5",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373945-4",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373951-6",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373949-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2833",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373952-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373980-8",
+            "type": "Activity",
+            "activity_date": "2014-09-18",
+            "activity_id": "MTG-PL-2014-09-18-VOT-ITM-373980-8",
+            "activity_label": {
+                "fr": "Isra\u00ebl et la Palestine apr\u00e8s le conflit \u00e0 Gaza, et r\u00f4le de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0117",
+                "eli/dl/doc/B-8-2014-0141",
+                "eli/dl/doc/B-8-2014-0140",
+                "eli/dl/doc/B-8-2014-0112",
+                "eli/dl/doc/B-8-2014-0113",
+                "eli/dl/doc/B-8-2014-0139",
+                "eli/dl/doc/B-8-2014-0116"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-09-18-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-09-18-VOT-ITM-008"
+            ],
+            "notation_dlvId": "373980",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Isra\u00ebl et la Palestine apr\u00e8s le conflit \u00e0 Gaza, et r\u00f4le de l'Union europ\u00e9enne</title><label>Propositions de r\u00e9solution: B8-0117/2014, B8-0113/2014, B8-0116/2014, B8-0112/2014, B8-0139/2014, B8-0140/2014, B8-0141/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373950-1",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373955-3",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373952-2",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373980-8",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373721-9",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373946-5",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373945-4",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373951-6",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373949-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2845",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373980-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373721-9",
+            "type": "Activity",
+            "activity_date": "2014-09-18",
+            "activity_id": "MTG-PL-2014-09-18-VOT-ITM-373721-9",
+            "activity_label": {
+                "fr": "R\u00e8glement d\u00e9l\u00e9gu\u00e9 (UE) N\u00b0 \u2026/.. de la Commission modifiant l\u2019annexe I du r\u00e8glement (CE) n\u00b0\u00a01528/2007 du Conseil appliquant aux produits originaires de certains \u00c9tats appartenant au groupe des \u00c9tats d\u2019Afrique, des Cara\u00efbes et du Pacifique (ACP) les r\u00e9gimes pr\u00e9vus dans les accords \u00e9tablissant ou conduisant \u00e0 \u00e9tablir des accords de partenariats \u00e9conomiques, modifi\u00e9 par le r\u00e8glement (UE) n\u00b0\u00a0527/2013 du Parlement europ\u00e9en et du Conseil du 21\u00a0mai 2013 modifiant le r\u00e8glement (CE) n\u00b0\u00a01528/2007 du Conseil en vue d\u2019exclure un certain nombre de pays de la liste des r\u00e9gions ou \u00c9tats ayant conclu des n\u00e9gociations"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0081"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-09-18-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-09-18-VOT-ITM-009"
+            ],
+            "notation_dlvId": "373721",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8glement d\u00e9l\u00e9gu\u00e9 (UE) N\u00b0 \u2026/.. de la Commission modifiant l\u2019annexe I du r\u00e8glement (CE) n\u00b0\u00a01528/2007 du Conseil appliquant aux produits originaires de certains \u00c9tats appartenant au groupe des \u00c9tats d\u2019Afrique, des Cara\u00efbes et du Pacifique (ACP) les r\u00e9gimes pr\u00e9vus dans les accords \u00e9tablissant ou conduisant \u00e0 \u00e9tablir des accords de partenariats \u00e9conomiques, modifi\u00e9 par le r\u00e8glement (UE) n\u00b0\u00a0527/2013 du Parlement europ\u00e9en et du Conseil du 21\u00a0mai 2013 modifiant le r\u00e8glement (CE) n\u00b0\u00a01528/2007 du Conseil en vue d\u2019exclure un certain nombre de pays de la liste des r\u00e9gions ou \u00c9tats ayant conclu des n\u00e9gociations</title><label>Proposition de r\u00e9solution: B8-0081/2014 (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373950-1",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373955-3",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373952-2",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373980-8",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373721-9",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373946-5",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373945-4",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373951-6",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373949-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2781",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373721-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373946-5",
+            "type": "Activity",
+            "activity_date": "2014-09-18",
+            "activity_id": "MTG-PL-2014-09-18-VOT-ITM-373946-5",
+            "activity_label": {
+                "fr": "R\u00e9action de l'UE \u00e0 l'\u00e9pid\u00e9mie d'Ebola"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0119",
+                "eli/dl/doc/B-8-2014-0126",
+                "eli/dl/doc/B-8-2014-0115",
+                "eli/dl/doc/B-8-2014-0108",
+                "eli/dl/doc/B-8-2014-0124",
+                "eli/dl/doc/B-8-2014-0107",
+                "eli/dl/doc/B-8-2014-0114"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-09-18-OJ-ITM-V-43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-09-18-VOT-ITM-005"
+            ],
+            "notation_dlvId": "373946",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9action de l'UE \u00e0 l'\u00e9pid\u00e9mie d'Ebola</title><label>Propositions de r\u00e9solution: B8-0107/2014, B8-0108/2014, B8-0114/2014, B8-0115/2014, B8-0119/2014, B8-0124/2014, B8-0126/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373950-1",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373955-3",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373952-2",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373980-8",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373721-9",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373946-5",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373945-4",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373951-6",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373949-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2842",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373946-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373945-4",
+            "type": "Activity",
+            "activity_date": "2014-09-18",
+            "activity_id": "MTG-PL-2014-09-18-VOT-ITM-373945-4",
+            "activity_label": {
+                "fr": "Situation en Ukraine et \u00e9tat des relations entre l'Union europ\u00e9enne et la Russie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0128",
+                "eli/dl/doc/B-8-2014-0123",
+                "eli/dl/doc/B-8-2014-0118",
+                "eli/dl/doc/B-8-2014-0129",
+                "eli/dl/doc/B-8-2014-0127",
+                "eli/dl/doc/B-8-2014-0125",
+                "eli/dl/doc/B-8-2014-0122"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-09-18-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-09-18-VOT-ITM-004"
+            ],
+            "notation_dlvId": "373945",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Ukraine et \u00e9tat des relations entre l'Union europ\u00e9enne et la Russie</title><label>Propositions de r\u00e9solution: B8-0118/2014, B8-0122/2014, B8-0123/2014, B8-0125/2014, B8-0127/2014, B8-0128/2014, B8-0129/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373950-1",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373955-3",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373952-2",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373980-8",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373721-9",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373946-5",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373945-4",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373951-6",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373949-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2841",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373945-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373951-6",
+            "type": "Activity",
+            "activity_date": "2014-09-18",
+            "activity_id": "MTG-PL-2014-09-18-VOT-ITM-373951-6",
+            "activity_label": {
+                "fr": "Situation en Iraq et en Syrie: offensive de l'EIIL et pers\u00e9cution des minorit\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0110",
+                "eli/dl/doc/B-8-2014-0121",
+                "eli/dl/doc/B-8-2014-0109",
+                "eli/dl/doc/B-8-2014-0130",
+                "eli/dl/doc/B-8-2014-0138",
+                "eli/dl/doc/B-8-2014-0134",
+                "eli/dl/doc/B-8-2014-0137"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-09-18-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-09-18-VOT-ITM-006"
+            ],
+            "notation_dlvId": "373951",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Iraq et en Syrie: offensive de l'EIIL et pers\u00e9cution des minorit\u00e9s</title><label>Propositions de r\u00e9solution: B8-0109/2014, B8-0110/2014, B8-0121/2014, B8-0130/2014, B8-0134/2014, B8-0137/2014, B8-0138/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373950-1",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373955-3",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373952-2",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373980-8",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373721-9",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373946-5",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373945-4",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373951-6",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373949-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2843",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373951-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373949-7",
+            "type": "Activity",
+            "activity_date": "2014-09-18",
+            "activity_id": "MTG-PL-2014-09-18-VOT-ITM-373949-7",
+            "activity_label": {
+                "fr": "Situation en Libye"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0131",
+                "eli/dl/doc/B-8-2014-0120",
+                "eli/dl/doc/B-8-2014-0111",
+                "eli/dl/doc/B-8-2014-0132",
+                "eli/dl/doc/B-8-2014-0135",
+                "eli/dl/doc/B-8-2014-0133",
+                "eli/dl/doc/B-8-2014-0136"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-09-18-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-09-18-VOT-ITM-007"
+            ],
+            "notation_dlvId": "373949",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Libye</title><label>Propositions de r\u00e9solution: B8-0111/2014, B8-0120/2014, B8-0131/2014, B8-0132/2014, B8-0133/2014, B8-0135/2014, B8-0136/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373950-1",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373955-3",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373952-2",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373980-8",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373721-9",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373946-5",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373945-4",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373951-6",
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373949-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2844",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-09-18-VOT-ITM-373949-7"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

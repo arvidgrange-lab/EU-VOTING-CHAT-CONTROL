@@ -1,0 +1,212 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929650",
+            "type": "Activity",
+            "activity_date": "2021-03-09",
+            "activity_id": "MTG-PL-2021-03-09-VOT-ITM-929650",
+            "activity_label": {
+                "fr": "Programme InvestEU"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2020-0203"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-09-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-09-VOT-ITM-006"
+            ],
+            "notation_dlvId": "929650",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Programme InvestEU</title><label>Rapport: Jos\u00e9 Manuel Fernandes, Irene Tinagli (A9-0203/2020)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929650",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929647",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929804",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929796",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929655",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929640"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929647",
+            "type": "Activity",
+            "activity_date": "2021-03-09",
+            "activity_id": "MTG-PL-2021-03-09-VOT-ITM-929647",
+            "activity_label": {
+                "fr": "Programme d'action de l'Union dans le domaine de la sant\u00e9 pour la p\u00e9riode 2021-2027 (programme \u00abUE pour la sant\u00e9\u00bb)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2020-0196"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-09-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-09-VOT-ITM-007"
+            ],
+            "notation_dlvId": "929647",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Programme d'action de l'Union dans le domaine de la sant\u00e9 pour la p\u00e9riode 2021-2027 (programme \u00abUE pour la sant\u00e9\u00bb)</title><label>Rapport: Cristian-Silviu Bu\u015foi (A9-0196/2020)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929650",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929647",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929804",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929796",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929655",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929640"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-0102",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929647"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929804",
+            "type": "Activity",
+            "activity_date": "2021-03-09",
+            "activity_id": "MTG-PL-2021-03-09-VOT-ITM-929804",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0015"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-09-OJ-ITM-V-98"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-09-VOT-ITM-003"
+            ],
+            "notation_dlvId": "929804",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929650",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929647",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929804",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929796",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929655",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929640"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929796",
+            "type": "Activity",
+            "activity_date": "2021-03-09",
+            "activity_id": "MTG-PL-2021-03-09-VOT-ITM-929796",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0019"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-09-OJ-ITM-V-97"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-09-VOT-ITM-002"
+            ],
+            "notation_dlvId": "929796",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929650",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929647",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929804",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929796",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929655",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929640"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929655",
+            "type": "Activity",
+            "activity_date": "2021-03-09",
+            "activity_id": "MTG-PL-2021-03-09-VOT-ITM-929655",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0018"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-09-OJ-ITM-V-99"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-09-VOT-ITM-004"
+            ],
+            "notation_dlvId": "929655",
+            "structuredLabel": {
+                "fr": "<structuredLabel><label> (Majorit\u00e9 des membres qui composent le Parlement requise pour l'adoption de la proposition de r\u00e9solution)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929650",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929647",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929804",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929796",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929655",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929640"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929640",
+            "type": "Activity",
+            "activity_date": "2021-03-09",
+            "activity_id": "MTG-PL-2021-03-09-VOT-ITM-929640",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0014"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-03-09-OJ-ITM-V-123"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-09-VOT-ITM-005"
+            ],
+            "notation_dlvId": "929640",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929650",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929647",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929804",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929796",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929655",
+                        "eli/dl/event/MTG-PL-2021-03-09-VOT-ITM-929640"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935909",
+            "activity_label": {
+                "fr": "Agence de l\u2019Union europ\u00e9enne pour l\u2019asile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0392"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-35",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-006"
+            ],
+            "notation_dlvId": "935909",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Agence de l\u2019Union europ\u00e9enne pour l\u2019asile</title><label>Rapport: Elena Yoncheva (A8-0392/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0131",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935911",
+            "activity_label": {
+                "fr": "Communication, par certaines entreprises et succursales, d'informations relatives \u00e0 l'imp\u00f4t sur les b\u00e9n\u00e9fices"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0305"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-54",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-004"
+            ],
+            "notation_dlvId": "935911",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Communication, par certaines entreprises et succursales, d'informations relatives \u00e0 l'imp\u00f4t sur les b\u00e9n\u00e9fices</title><label>Recommandation pour la deuxi\u00e8me lecture:  Evelyn Regner, Ib\u00e1n Garc\u00eda Del Blanco (A9-0305/2021) (Majorit\u00e9 des membres qui composent le Parlement requise pour modifier ou rejeter la position du Conseil) Evelyn Regner, Ib\u00e1n Garc\u00eda Del Blanco (A9-0305/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935943",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Fulvio Martusciello"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0302"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-68",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-001"
+            ],
+            "notation_dlvId": "935943",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Fulvio Martusciello</title><label>Rapport: Manon Aubry (A9-0302/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935903",
+            "activity_label": {
+                "fr": "Renforcer la d\u00e9mocratie ainsi que la libert\u00e9 et le pluralisme des m\u00e9dias dans l\u2019UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0292"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-42",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-009"
+            ],
+            "notation_dlvId": "935903",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renforcer la d\u00e9mocratie ainsi que la libert\u00e9 et le pluralisme des m\u00e9dias dans l\u2019UE</title><label>Rapport: Tiemo W\u00f6lken, Roberta Metsola (A9-0292/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2036",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935944",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Harald Vilimsky"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0303"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-69",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-002"
+            ],
+            "notation_dlvId": "935944",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Harald Vilimsky</title><label>Rapport: Andrzej Halicki (A9-0303/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935904",
+            "activity_label": {
+                "fr": "Statut et financement des partis politiques europ\u00e9ens et des fondations politiques europ\u00e9ennes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0294"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-67",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-012"
+            ],
+            "notation_dlvId": "935904",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Statut et financement des partis politiques europ\u00e9ens et des fondations politiques europ\u00e9ennes</title><label>Rapport: Charles Goerens, Rainer Wieland (A9-0294/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935923",
+            "activity_label": {
+                "fr": "Accord UE/Australie concernant la modification des concessions pour l\u2019ensemble des contingents tarifaires de la liste CLXXV de l\u2019UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0306"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-40",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-008"
+            ],
+            "notation_dlvId": "935923",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE/Australie concernant la modification des concessions pour l\u2019ensemble des contingents tarifaires de la liste CLXXV de l\u2019UE</title><label>Recommandation: Daniel Caspary (A9-0306/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935946",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Nils U\u0161akovs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0304"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-70",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-003"
+            ],
+            "notation_dlvId": "935946",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Nils U\u0161akovs</title><label>Rapport: Andrzej Halicki (A9-0304/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935924",
+            "activity_label": {
+                "fr": "Le premier anniversaire de l'interdiction de fait de l'avortement en Pologne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0543"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-65",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-013"
+            ],
+            "notation_dlvId": "935924",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le premier anniversaire de l'interdiction de fait de l'avortement en Pologne</title><label>Propositions de r\u00e9solution: B9-0543/2021, B9-0544/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935906",
+            "activity_label": {
+                "fr": "Menaces transfronti\u00e8res graves pour la sant\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0247"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-61",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-007"
+            ],
+            "notation_dlvId": "935906",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Menaces transfronti\u00e8res graves pour la sant\u00e9</title><label>Rapport: V\u00e9ronique Trillet-Lenoir (A9-0247/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935907",
+            "activity_label": {
+                "fr": "Un plan d\u2019action en faveur de la propri\u00e9t\u00e9 intellectuelle afin de soutenir la reprise et la r\u00e9silience dans l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0284"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-33",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-011"
+            ],
+            "notation_dlvId": "935907",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Un plan d\u2019action en faveur de la propri\u00e9t\u00e9 intellectuelle afin de soutenir la reprise et la r\u00e9silience dans l\u2019Union europ\u00e9enne</title><label>Rapport: Marion Walsmann (A9-0284/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2007",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935908",
+            "activity_label": {
+                "fr": "L'espace europ\u00e9en de l'\u00e9ducation: une approche globale commune"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0291"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-45",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-010"
+            ],
+            "notation_dlvId": "935908",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'espace europ\u00e9en de l'\u00e9ducation: une approche globale commune</title><label>Rapport: Michaela \u0160ojdrov\u00e1 (A9-0291/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2243",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910",
+            "type": "Activity",
+            "activity_date": "2021-11-11",
+            "activity_id": "MTG-PL-2021-11-11-VOT-ITM-935910",
+            "activity_label": {
+                "fr": "Partenariat europ\u00e9en pour la m\u00e9trologie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0242"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-11-OJ-ITM-V-55",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-11-VOT-ITM-005"
+            ],
+            "notation_dlvId": "935910",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Partenariat europ\u00e9en pour la m\u00e9trologie</title><label>Rapport: Maria da Gra\u00e7a Carvalho (A9-0242/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935909",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935911",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935943",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935903",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935944",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935904",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935923",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935946",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935924",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935906",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935907",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935908",
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0049",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-11-VOT-ITM-935910"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707902-1",
+            "type": "Activity",
+            "activity_date": "2018-06-12",
+            "activity_id": "MTG-PL-2018-06-12-VOT-ITM-707902-1",
+            "activity_label": {
+                "fr": "\u00c9tat des lieux de la p\u00eache de loisir dans l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0191"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-12-OJ-ITM-V-67"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-12-VOT-ITM-001"
+            ],
+            "notation_dlvId": "707902",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tat des lieux de la p\u00eache de loisir dans l'Union europ\u00e9enne</title><label>Rapport: Norica Nicolai (A8-0191/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707902-1",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707905-3",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707904-2",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707934-4",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707909-5",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707908-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2120",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707902-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707905-3",
+            "type": "Activity",
+            "activity_date": "2018-06-12",
+            "activity_id": "MTG-PL-2018-06-12-VOT-ITM-707905-3",
+            "activity_label": {
+                "fr": "R\u00e8gles communes dans le domaine de l'aviation civile et \u00e9tablissement d'une Agence europ\u00e9enne de la s\u00e9curit\u00e9 a\u00e9rienne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0364"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-12-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-12-VOT-ITM-003"
+            ],
+            "notation_dlvId": "707905",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8gles communes dans le domaine de l'aviation civile et \u00e9tablissement d'une Agence europ\u00e9enne de la s\u00e9curit\u00e9 a\u00e9rienne</title><label>Rapport: Marian-Jean Marinescu (A8-0364/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707902-1",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707905-3",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707904-2",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707934-4",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707909-5",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707908-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0277",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707905-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707904-2",
+            "type": "Activity",
+            "activity_date": "2018-06-12",
+            "activity_id": "MTG-PL-2018-06-12-VOT-ITM-707904-2",
+            "activity_label": {
+                "fr": "Obligation de compensation, obligations de d\u00e9claration, techniques d'att\u00e9nuation des risques, r\u00e9f\u00e9rentiels centraux"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0181"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-12-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-12-VOT-ITM-002"
+            ],
+            "notation_dlvId": "707904",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Obligation de compensation, obligations de d\u00e9claration, techniques d'att\u00e9nuation des risques, r\u00e9f\u00e9rentiels centraux</title><label>Rapport: Werner Langen (A8-0181/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707902-1",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707905-3",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707904-2",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707934-4",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707909-5",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707908-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0090",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707904-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707934-4",
+            "type": "Activity",
+            "activity_date": "2018-06-12",
+            "activity_id": "MTG-PL-2018-06-12-VOT-ITM-707934-4",
+            "activity_label": {
+                "fr": "\u00c9missions de CO2 et consommation de carburant des v\u00e9hicules utilitaires lourds neufs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0010"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-12-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-12-VOT-ITM-004"
+            ],
+            "notation_dlvId": "707934",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9missions de CO2 et consommation de carburant des v\u00e9hicules utilitaires lourds neufs</title><label>Rapport: Damiano Zoffoli (A8-0010/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707902-1",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707905-3",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707904-2",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707934-4",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707909-5",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707908-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0111",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707934-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707909-5",
+            "type": "Activity",
+            "activity_date": "2018-06-12",
+            "activity_id": "MTG-PL-2018-06-12-VOT-ITM-707909-5",
+            "activity_label": {
+                "fr": "Modernisation de l'\u00e9ducation dans l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0173"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-12-OJ-ITM-V-11"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-12-VOT-ITM-005"
+            ],
+            "notation_dlvId": "707909",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modernisation de l'\u00e9ducation dans l'Union europ\u00e9enne</title><label>Rapport: Krystyna \u0141ybacka (A8-0173/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707902-1",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707905-3",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707904-2",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707934-4",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707909-5",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707908-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2224",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707909-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707908-6",
+            "type": "Activity",
+            "activity_date": "2018-06-12",
+            "activity_id": "MTG-PL-2018-06-12-VOT-ITM-707908-6",
+            "activity_label": {
+                "fr": "Vers un secteur europ\u00e9en de l'aquaculture durable et comp\u00e9titif"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0186"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-12-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-12-VOT-ITM-006"
+            ],
+            "notation_dlvId": "707908",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Vers un secteur europ\u00e9en de l'aquaculture durable et comp\u00e9titif</title><label>Rapport: Carlos Iturgaiz (A8-0186/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707902-1",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707905-3",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707904-2",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707934-4",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707909-5",
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707908-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2118",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-12-VOT-ITM-707908-6"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939603",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939603",
+            "activity_label": {
+                "mul": "Rapport 2022 de la Commission sur le Mont\u00e9n\u00e9gro - 2022 Report on Montenegro - Bericht 2022 der Kommission \u00fcber Montenegro",
+                "fr": "Rapport 2022 de la Commission sur le Mont\u00e9n\u00e9gro"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0277"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-17",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939603",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 2,
+            "epvoc:amendmentsAdoptedTotal": 2,
+            "epvoc:amendmentsTabledPoliticalGroup": 2,
+            "epvoc:amendmentsTabledTotal": 2,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2022 de la Commission sur le Mont\u00e9n\u00e9gro</title><label>Rapport: Tonino Picula (A9-0277/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,711 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763086-1",
+            "activity_label": {
+                "fr": "Cr\u00e9ation, dans le cadre du Fonds pour la gestion int\u00e9gr\u00e9e des fronti\u00e8res, de l\u2019instrument de soutien financier relatif aux \u00e9quipements de contr\u00f4le douanier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0460"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "763086",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation, dans le cadre du Fonds pour la gestion int\u00e9gr\u00e9e des fronti\u00e8res, de l\u2019instrument de soutien financier relatif aux \u00e9quipements de contr\u00f4le douanier</title><label>Rapport: Ji\u0159\u00ed Posp\u00ed\u0161il (A8-0460/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0258",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763086-5",
+            "activity_label": {
+                "fr": "Les v\u00e9hicules autonomes dans les transports europ\u00e9ens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0425"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-26"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-005"
+            ],
+            "notation_dlvId": "763086",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les v\u00e9hicules autonomes dans les transports europ\u00e9ens</title><label>Rapport: Wim van de Camp (A8-0425/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2089",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763086-4",
+            "activity_label": {
+                "fr": "Accord global entre l\u2019Union europ\u00e9enne et la R\u00e9publique kirghize"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0450"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "763086",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord global entre l\u2019Union europ\u00e9enne et la R\u00e9publique kirghize</title><label>Rapport: Cristian Dan Preda (A8-0450/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2118",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763104-10",
+            "activity_label": {
+                "fr": "Approche int\u00e9gr\u00e9e de l\u2019\u00e9galit\u00e9 des femmes et des hommes au Parlement europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0429"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-010"
+            ],
+            "notation_dlvId": "763104",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Approche int\u00e9gr\u00e9e de l\u2019\u00e9galit\u00e9 des femmes et des hommes au Parlement europ\u00e9en</title><label>Rapport: Angelika Mlinar (A8-0429/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2162",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763108-14",
+            "activity_label": {
+                "fr": "L\u2019\u00e9galit\u00e9 des genres et les politiques fiscales dans l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0416"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-014"
+            ],
+            "notation_dlvId": "763108",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u2019\u00e9galit\u00e9 des genres et les politiques fiscales dans l\u2019Union europ\u00e9enne</title><label>Rapport: Marisa Matias et  Ernest Urtasun (A8-0416/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2095",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763086-3",
+            "activity_label": {
+                "fr": "Protocole \u00e0 l\u2019accord de partenariat et de coop\u00e9ration UE-Kirghizstan (adh\u00e9sion de la Croatie)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0443"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "763086",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protocole \u00e0 l\u2019accord de partenariat et de coop\u00e9ration UE-Kirghizstan (adh\u00e9sion de la Croatie)</title><label>Recommandation: Cristian Dan Preda (A8-0443/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0185",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763107-13",
+            "activity_label": {
+                "fr": "Orientations de l\u2019Union europ\u00e9enne et mandat de l\u2019envoy\u00e9 sp\u00e9cial de l\u2019Union pour la promotion de la libert\u00e9 de religion ou de conviction \u00e0 l\u2019ext\u00e9rieur de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0449"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-013"
+            ],
+            "notation_dlvId": "763107",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Orientations de l\u2019Union europ\u00e9enne et mandat de l\u2019envoy\u00e9 sp\u00e9cial de l\u2019Union pour la promotion de la libert\u00e9 de religion ou de conviction \u00e0 l\u2019ext\u00e9rieur de l\u2019Union europ\u00e9enne</title><label>Rapport: Andrzej Grzyb (A8-0449/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2155",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763097-9",
+            "activity_label": {
+                "fr": "Modification des statuts de la Banque europ\u00e9enne d'investissement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0476"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-57"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-009"
+            ],
+            "notation_dlvId": "763097",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification des statuts de la Banque europ\u00e9enne d'investissement</title><label>Rapport: Danuta Maria H\u00fcbner (A8-0476/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0811",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763106-12",
+            "activity_label": {
+                "fr": "\u00c9valuation de la mani\u00e8re dont le budget de l'Union est utilis\u00e9 pour la r\u00e9forme du secteur public"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0378"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-012"
+            ],
+            "notation_dlvId": "763106",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9valuation de la mani\u00e8re dont le budget de l'Union est utilis\u00e9 pour la r\u00e9forme du secteur public</title><label>Rapport: Brian Hayes (A8-0378/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2086",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763105-11",
+            "activity_label": {
+                "fr": "Entreprise commune europ\u00e9enne pour ITER et le d\u00e9veloppement de l\u2019\u00e9nergie de fusion"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0393"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-011"
+            ],
+            "notation_dlvId": "763105",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Entreprise commune europ\u00e9enne pour ITER et le d\u00e9veloppement de l\u2019\u00e9nergie de fusion</title><label>Rapport: Marian-Jean Marinescu (A8-0393/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2222",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763086-2",
+            "activity_label": {
+                "fr": "Conclusion de l\u2019accord sur le statut UE-Albanie en ce qui concerne les actions men\u00e9es par l\u2019Agence europ\u00e9enne de garde-fronti\u00e8res et de garde-c\u00f4tes en Albanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0463"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-93"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-002"
+            ],
+            "notation_dlvId": "763086",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conclusion de l\u2019accord sur le statut UE-Albanie en ce qui concerne les actions men\u00e9es par l\u2019Agence europ\u00e9enne de garde-fronti\u00e8res et de garde-c\u00f4tes en Albanie</title><label>Recommandation: Bodil Valero (A8-0463/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0241",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763095-8",
+            "activity_label": {
+                "fr": "\u00c9tablissement du programme \u00abDouane\u00bb aux fins de la coop\u00e9ration dans le domaine douanier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0464"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-90"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-008"
+            ],
+            "notation_dlvId": "763095",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement du programme \u00abDouane\u00bb aux fins de la coop\u00e9ration dans le domaine douanier</title><label>Rapport: Maria Grapini (A8-0464/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0232",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763228-6",
+            "activity_label": {
+                "fr": "Utilisation de v\u00e9hicules lou\u00e9s sans chauffeur dans le transport de marchandises par route"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0193"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-56"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "763228",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Utilisation de v\u00e9hicules lou\u00e9s sans chauffeur dans le transport de marchandises par route</title><label>Rapport: Cl\u00e1udia Monteiro de Aguiar (A8-0193/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0113",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7",
+            "type": "Activity",
+            "activity_date": "2019-01-15",
+            "activity_id": "MTG-PL-2019-01-15-VOT-ITM-763093-7",
+            "activity_label": {
+                "fr": "Retrait temporaire des pr\u00e9f\u00e9rences tarifaires dans certains accords conclus entre l\u2019Union europ\u00e9enne et certains pays tiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0330"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-15-OJ-ITM-V-97"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "763093",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Retrait temporaire des pr\u00e9f\u00e9rences tarifaires dans certains accords conclus entre l\u2019Union europ\u00e9enne et certains pays tiers</title><label>Rapport: Christofer Fjellner (A8-0330/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-1",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-5",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-4",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763104-10",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763108-14",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-3",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763107-13",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763097-9",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763106-12",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763105-11",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763086-2",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763095-8",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763228-6",
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0101",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-15-VOT-ITM-763093-7"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

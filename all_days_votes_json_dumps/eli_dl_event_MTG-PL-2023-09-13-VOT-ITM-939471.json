@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939471",
+            "activity_label": {
+                "fr": "Nomination d\u2019un membre de la Cour des comptes - Katar\u00edna Kaszasov\u00e1"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0259"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-66",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939471",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d\u2019un membre de la Cour des comptes - Katar\u00edna Kaszasov\u00e1</title><label>Rapport: Petri Sarvamaa (A9-0259/2023) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

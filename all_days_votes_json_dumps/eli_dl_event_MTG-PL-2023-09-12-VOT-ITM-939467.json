@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-12-VOT-ITM-939467",
+            "type": "Activity",
+            "activity_date": "2023-09-12",
+            "activity_id": "MTG-PL-2023-09-12-VOT-ITM-939467",
+            "activity_label": {
+                "fr": "Adh\u00e9sion \u00e0 l\u2019acte de Gen\u00e8ve de l\u2019arrangement de Lisbonne sur les appellations d\u2019origine et les indications g\u00e9ographiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0237"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-12-OJ-ITM-V-60",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-12-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939467",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion \u00e0 l\u2019acte de Gen\u00e8ve de l\u2019arrangement de Lisbonne sur les appellations d\u2019origine et les indications g\u00e9ographiques</title><label>Recommandation: Marion Walsmann (A9-0237/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

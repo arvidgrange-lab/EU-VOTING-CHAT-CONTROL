@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-14-VOT-ITM-939824",
+            "type": "Activity",
+            "activity_date": "2023-12-14",
+            "activity_id": "MTG-PL-2023-12-14-VOT-ITM-939824",
+            "activity_label": {
+                "mul": "Comp\u00e9tence, loi applicable, reconnaissance des d\u00e9cisions et acceptation d'actes authentiques en mati\u00e8re de parentalit\u00e9 et concernant la cr\u00e9ation d'un certificat europ\u00e9en de parentalit\u00e9 - Jurisdiction, applicable law, recognition of decisions and acceptance of authentic instruments in matters of parenthood and creation of a European Certificate of Parenthood - Zust\u00e4ndigkeit, anzuwendendes Recht, Anerkennung von Entscheidungen und Annahme \u00f6ffentlicher Urkunden in Elternschaftssachen sowie Einf\u00fchrung eines europ\u00e4ischen Elternschaftszertifikats",
+                "fr": "Comp\u00e9tence, loi applicable, reconnaissance des d\u00e9cisions et acceptation d'actes authentiques en mati\u00e8re de parentalit\u00e9 et concernant la cr\u00e9ation d'un certificat europ\u00e9en de parentalit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0368"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-14-OJ-ITM-V-54",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939824",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Comp\u00e9tence, loi applicable, reconnaissance des d\u00e9cisions et acceptation d'actes authentiques en mati\u00e8re de parentalit\u00e9 et concernant la cr\u00e9ation d'un certificat europ\u00e9en de parentalit\u00e9</title><label>Rapport: Maria-Manuel Leit\u00e3o-Marques (A9-0368/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

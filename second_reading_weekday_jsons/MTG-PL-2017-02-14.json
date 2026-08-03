@@ -1,0 +1,528 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+            "type": "Activity",
+            "activity_date": "2017-02-14",
+            "activity_id": "MTG-PL-2017-02-14-VOT-ITM-580483-8",
+            "activity_label": {
+                "fr": "R\u00e9vision du consensus europ\u00e9en sur le d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0020"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-14-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "580483",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9vision du consensus europ\u00e9en sur le d\u00e9veloppement</title><label>Rapport: Bogdan Brunon Wenta et  Norbert Neuser (A8-0020/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2094",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+            "type": "Activity",
+            "activity_date": "2017-02-14",
+            "activity_id": "MTG-PL-2017-02-14-VOT-ITM-580897-7",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2016/005 NL/Drenthe Overijssel Retail"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0036"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-14-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "580897",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2016/005 NL/Drenthe Overijssel Retail</title><label>Rapport: Nedzhmi Ali (A8-0036/2017) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2014",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+            "type": "Activity",
+            "activity_date": "2017-02-14",
+            "activity_id": "MTG-PL-2017-02-14-VOT-ITM-580661-1",
+            "activity_label": {
+                "fr": "Accord de partenariat UE-\u00celes Cook dans le domaine de la p\u00eache durable"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0010"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-14-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "580661",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat UE-\u00celes Cook dans le domaine de la p\u00eache durable</title><label>Recommandation: Jo\u00e3o Ferreira (A8-0010/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0077",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+            "type": "Activity",
+            "activity_date": "2017-02-14",
+            "activity_id": "MTG-PL-2017-02-14-VOT-ITM-580502-2",
+            "activity_label": {
+                "fr": "Accord de partenariat UE-\u00celes Cook dans le domaine de la p\u00eache durable (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0015"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-14-OJ-ITM-V-18"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "580502",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat UE-\u00celes Cook dans le domaine de la p\u00eache durable (r\u00e9solution)</title><label>Rapport: Jo\u00e3o Ferreira (A8-0015/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2230",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+            "type": "Activity",
+            "activity_date": "2017-02-14",
+            "activity_id": "MTG-PL-2017-02-14-VOT-ITM-580485-10",
+            "activity_label": {
+                "fr": "Promotion de l'\u00e9galit\u00e9 entre les hommes et les femmes dans la sant\u00e9 mentale et la recherche clinique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0380"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-14-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "580485",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Promotion de l'\u00e9galit\u00e9 entre les hommes et les femmes dans la sant\u00e9 mentale et la recherche clinique</title><label>Rapport: Beatriz Becerra Basterrechea (A8-0380/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2096",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+            "type": "Activity",
+            "activity_date": "2017-02-14",
+            "activity_id": "MTG-PL-2017-02-14-VOT-ITM-580484-9",
+            "activity_label": {
+                "fr": "Rapport annuel sur la politique de concurrence de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0001"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-14-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "580484",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur la politique de concurrence de l'Union europ\u00e9enne</title><label>Rapport: Tibor Szanyi (A8-0001/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2100",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+            "type": "Activity",
+            "activity_date": "2017-02-14",
+            "activity_id": "MTG-PL-2017-02-14-VOT-ITM-580897-6",
+            "activity_label": {
+                "fr": "Soumission de la nouvelle substance psychoactive methyl 2-[[1-(cyclohexylmethyl)-1H-indole-3-carbonyl]amino]-3,3-dimethylbutanoate (MDMB-CHMICA) \u00e0 des mesures de contr\u00f4le"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0024"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-14-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "580897",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Soumission de la nouvelle substance psychoactive methyl 2-[[1-(cyclohexylmethyl)-1H-indole-3-carbonyl]amino]-3,3-dimethylbutanoate (MDMB-CHMICA) \u00e0 des mesures de contr\u00f4le</title><label>Rapport: Lorenzo Fontana (A8-0024/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0262",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+            "type": "Activity",
+            "activity_date": "2017-02-14",
+            "activity_id": "MTG-PL-2017-02-14-VOT-ITM-580489-11",
+            "activity_label": {
+                "fr": "Priorit\u00e9s pour la soixante-et-uni\u00e8me session de la commission de la condition de la femme des Nations unies"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0018"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-14-OJ-ITM-V-67"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "580489",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Priorit\u00e9s pour la soixante-et-uni\u00e8me session de la commission de la condition de la femme des Nations unies</title><label>Rapport: Constance Le Grip et  Maria Arena (A8-0018/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2001",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+            "type": "Activity",
+            "activity_date": "2017-02-14",
+            "activity_id": "MTG-PL-2017-02-14-VOT-ITM-580900-5",
+            "activity_label": {
+                "fr": "Liste des \u00c9tats et organisations tiers avec lesquels Europol conclut des accords"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0035"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-14-OJ-ITM-V-74"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "580900",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Liste des \u00c9tats et organisations tiers avec lesquels Europol conclut des accords\n</title><label>Rapport: Agust\u00edn D\u00edaz de Mera Garc\u00eda Consuegra (A8-0035/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0823",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+            "type": "Activity",
+            "activity_date": "2017-02-14",
+            "activity_id": "MTG-PL-2017-02-14-VOT-ITM-580501-4",
+            "activity_label": {
+                "fr": "R\u00f4le des lanceurs d'alerte dans la protection des int\u00e9r\u00eats financiers de l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0004"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-14-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "580501",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00f4le des lanceurs d'alerte dans la protection des int\u00e9r\u00eats financiers de l'UE</title><label>Rapport: Dennis de Jong (A8-0004/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2055",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3",
+            "type": "Activity",
+            "activity_date": "2017-02-14",
+            "activity_id": "MTG-PL-2017-02-14-VOT-ITM-580658-3",
+            "activity_label": {
+                "fr": "Contr\u00f4le du registre et composition des groupes d'experts de la Commission"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0002"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-14-OJ-ITM-V-36"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "580658",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contr\u00f4le du registre et composition des groupes d'experts de la Commission</title><label>Rapport: Dennis de Jong (A8-0002/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580483-8",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-7",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580661-1",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580502-2",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580485-10",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580484-9",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580897-6",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580489-11",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580900-5",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580501-4",
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2319",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-14-VOT-ITM-580658-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-02-12-DEC-184430",
+            "type": "Vote",
+            "activity_date": "2026-02-12",
+            "activity_id": "MTG-PL-2026-02-12-DEC-184430",
+            "activity_order": "2.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "184430",
+            "headingLabel": {
+                "de": "Entschlie\u00dfungsantrag B10-0101/2026\n(JURI-Ausschuss)",
+                "en": "Motion for a resolution B10-0101/2026\n(JURI Committee)",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c8\u03b7\u03c6\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 B10-0101/2026\n(\u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae JURI)",
+                "sv": "Resolutionsf\u00f6rslag: B10-0101/2026\n(JURI-utskottet)",
+                "hu": "\u00c1ll\u00e1sfoglal\u00e1sra ir\u00e1nyul\u00f3 ind\u00edtv\u00e1ny: B10-0101/2026\n(JURI bizotts\u00e1g)",
+                "fr": "Proposition de r\u00e9solution B10-0101/2026\n(commission JURI)",
+                "ro": "Propunere de rezolu\u021bie B10-0101/2026\n(Comisia JURI)",
+                "et": "Resolutsiooni ettepanek B10-0101/2026\n(JURI-komisjon)",
+                "mt": "Mozzjoni g\u0127al ri\u017coluzzjoni B10-0101/2026\n(kumitat JURI)",
+                "pt": "Proposta de resolu\u00e7\u00e3o B10-0101/2026\n(Comiss\u00e3o JURI)",
+                "lv": "Rezol\u016bcijas priek\u0161likums B10-0101/2026\n(JURI komiteja)",
+                "da": "Forslag til beslutning B10-0101/2026\n(JURI)",
+                "fi": "p\u00e4\u00e4t\u00f6slauselmaesitys B10-0101/2026\n(JURI-valiokunta)",
+                "sl": "Predlog resolucije B10-0101/2026\n(odbor JURI)",
+                "hr": "Prijedlog rezolucije B10-0101/2026\n(odbor JURI)",
+                "pl": "Proposition de r\u00e9solution B10-0101/2026\n(komisja JURI)",
+                "sk": "N\u00e1vrh uznesenia B10-0101/2026\n(v\u00fdbor JURI)",
+                "lt": "Pasi\u016blymas d\u0117l rezoliucijos B10-0101/2026 \n(JURI komitetas)",
+                "es": "Propuesta de Resoluci\u00f3n B10-0101/2026\n(Comisi\u00f3n JURI)",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u044f B10-0101/2026\n(\u043a\u043e\u043c\u0438\u0441\u0438\u044f JURI)",
+                "cs": "N\u00e1vrh usnesen\u00ed B10-0101/2026\n(v\u00fdbor JURI)",
+                "ga": "Tairiscint i gcomhair r\u00fain B10-0101/2026\n(Coiste JURI)",
+                "nl": "Ontwerpresolutie B10-0101/2026\n(commissie JURI)",
+                "it": "Proposta di risoluzione B10-0101/2026\n(commissione JURI)"
+            },
+            "referenceText": {
+                "es": "Propuesta de Resoluci\u00f3n ",
+                "nl": "Ontwerpresolutie ",
+                "pt": "Proposta de resolu\u00e7\u00e3o ",
+                "lt": "Pasi\u016blymas d\u0117l rezoliucijos ",
+                "mt": "Mozzjoni g\u0127al ri\u017coluzzjoni ",
+                "cs": "n\u00e1vrh usnesen\u00ed ",
+                "ga": "Tairiscint i gcomhair r\u00fain ",
+                "fi": "p\u00e4\u00e4t\u00f6slauselmaesitys ",
+                "da": "Forslag til beslutning ",
+                "it": "Proposta di risoluzione ",
+                "fr": "Proposition de r\u00e9solution ",
+                "et": "Resolutsiooni ettepanek ",
+                "de": "Entschlie\u00dfungsantrag ",
+                "ro": "Propunere de rezolu\u021bie ",
+                "sk": "N\u00e1vrh uznesenia ",
+                "sl": "predlog resolucije ",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u044f ",
+                "hr": "Prijedlog rezolucije ",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c8\u03b7\u03c6\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 ",
+                "lv": "Rezol\u016bcijas priek\u0161likums ",
+                "en": "Motion for a resolution ",
+                "sv": "Resolutionsf\u00f6rslag ",
+                "hu": "\u00c1ll\u00e1sfoglal\u00e1sra ir\u00e1nyul\u00f3 ind\u00edtv\u00e1ny ",
+                "pl": "Projekt rezolucji "
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,983 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650811-6",
+            "activity_label": {
+                "fr": "Infractions p\u00e9nales et sanctions applicables dans le domaine du trafic de drogue"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0317"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-006"
+            ],
+            "notation_dlvId": "650811",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Infractions p\u00e9nales et sanctions applicables dans le domaine du trafic de drogue</title><label>Recommandation pour la deuxi\u00e8me lecture: Teresa Jim\u00e9nez-Becerril Barrio (A8-0317/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0304",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650787-15",
+            "activity_label": {
+                "fr": "Mobilisation de l'instrument de flexibilit\u00e9 aux fins du financement du Fonds europ\u00e9en pour le d\u00e9veloppement durable"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0298"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-015"
+            ],
+            "notation_dlvId": "650787",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation de l'instrument de flexibilit\u00e9 aux fins du financement du Fonds europ\u00e9en pour le d\u00e9veloppement durable</title><label>Rapport: Jens Geier (A8-0298/2017) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2134",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650795-2",
+            "activity_label": {
+                "fr": "Autorisation pour la France d'appliquer un taux r\u00e9duit concernant certaines taxes indirectes sur le rhum \u00abtraditionnel\u00bb produit en Guadeloupe, en Guyane fran\u00e7aise, en Martinique et \u00e0 La R\u00e9union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0304"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-002"
+            ],
+            "notation_dlvId": "650795",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Autorisation pour la France d'appliquer un taux r\u00e9duit concernant certaines taxes indirectes sur le rhum \u00abtraditionnel\u00bb produit en Guadeloupe, en Guyane fran\u00e7aise, en Martinique et \u00e0 La R\u00e9union</title><label>Rapport: Iskra Mihaylova (A8-0304/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0127",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650789-16",
+            "activity_label": {
+                "fr": "Document de r\u00e9flexion sur l\u2019avenir des finances de l\u2019UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0565"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-016"
+            ],
+            "notation_dlvId": "650789",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Document de r\u00e9flexion sur l\u2019avenir des finances de l\u2019UE</title><label>Proposition de r\u00e9solution: B8-0565/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2742",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650807-13",
+            "activity_label": {
+                "fr": "Autorisation du colza g\u00e9n\u00e9tiquement modifi\u00e9 MON 88302 x Ms8 x Rf3 (Objection au titre de l\u2019article 106)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0569"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-013"
+            ],
+            "notation_dlvId": "650807",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Autorisation du colza g\u00e9n\u00e9tiquement modifi\u00e9 MON 88302 x Ms8 x Rf3 (Objection au titre de l\u2019article 106)</title><label>Proposition de r\u00e9solution: B8-0569/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2907",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650795-5",
+            "activity_label": {
+                "fr": "Contr\u00f4le des d\u00e9penses et suivi du rapport co\u00fbt-efficacit\u00e9 des syst\u00e8mes de garantie pour la jeunesse de l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0296"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-005"
+            ],
+            "notation_dlvId": "650795",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contr\u00f4le des d\u00e9penses et suivi du rapport co\u00fbt-efficacit\u00e9 des syst\u00e8mes de garantie pour la jeunesse de l'UE</title><label>Rapport: Derek Vaughan (A8-0296/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2242",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650775-7",
+            "activity_label": {
+                "fr": "Fertilisants porteurs du marquage CE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0270"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-54"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-007"
+            ],
+            "notation_dlvId": "650775",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fertilisants porteurs du marquage CE</title><label>Rapport: Mihai \u0162urcanu (A8-0270/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0084",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650804-10",
+            "activity_label": {
+                "fr": "Renouvellement de l'approbation de la substance active glyphosate (Objection au titre de l\u2019article 106)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0567"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-72"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-010"
+            ],
+            "notation_dlvId": "650804",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renouvellement de l'approbation de la substance active glyphosate (Objection au titre de l\u2019article 106)</title><label>Proposition de r\u00e9solution: B8-0567/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2904",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650786-9",
+            "activity_label": {
+                "fr": "Politique commune de la p\u00eache: mise en \u0153uvre de l'obligation de d\u00e9barquement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0285"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-009"
+            ],
+            "notation_dlvId": "650786",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politique commune de la p\u00eache: mise en \u0153uvre de l'obligation de d\u00e9barquement</title><label>Rapport: Alain Cadec (A8-0285/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0190",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650795-3",
+            "activity_label": {
+                "fr": "Entreprise commune \u00abBio-industries\u00bb: contributions financi\u00e8res"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0293"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-49"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-003"
+            ],
+            "notation_dlvId": "650795",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Entreprise commune \u00abBio-industries\u00bb: contributions financi\u00e8res</title><label>Rapport: Miroslav Poche (A8-0293/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0024",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650805-11",
+            "activity_label": {
+                "fr": "Autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 1507 (Objection au titre de l\u2019article 106)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0568"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-011"
+            ],
+            "notation_dlvId": "650805",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Autorisation du ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 1507 (Objection au titre de l\u2019article 106)</title><label>Proposition de r\u00e9solution: B8-0568/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2905",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650795-1",
+            "activity_label": {
+                "fr": "Accord euro-m\u00e9diterran\u00e9en CE-Maroc relatif aux services a\u00e9riens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0303"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-001"
+            ],
+            "notation_dlvId": "650795",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord euro-m\u00e9diterran\u00e9en CE-Maroc relatif aux services a\u00e9riens</title><label>Recommandation: Dominique Riquet (A8-0303/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2006-0048",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650806-12",
+            "activity_label": {
+                "fr": "Autorisation du soja g\u00e9n\u00e9tiquement modifi\u00e9 305423 x 40-3-2 (Objection au titre de l\u2019article 106)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0570"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-74"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-012"
+            ],
+            "notation_dlvId": "650806",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Autorisation du soja g\u00e9n\u00e9tiquement modifi\u00e9 305423 x 40-3-2 (Objection au titre de l\u2019article 106)</title><label>Proposition de r\u00e9solution: B8-0570/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2906",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650795-4",
+            "activity_label": {
+                "fr": "Soumettre le furanylfentanyl \u00e0 des mesures de contr\u00f4le"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0309"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-004"
+            ],
+            "notation_dlvId": "650795",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Soumettre le furanylfentanyl \u00e0 des mesures de contr\u00f4le</title><label>Rapport: Micha\u0142 Boni (A8-0309/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0152",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650788-17",
+            "activity_label": {
+                "fr": "Mesures l\u00e9gitimes visant \u00e0 prot\u00e9ger les lanceurs d'alerte qui agissent au nom de l'int\u00e9r\u00eat public"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0295"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-017"
+            ],
+            "notation_dlvId": "650788",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures l\u00e9gitimes visant \u00e0 prot\u00e9ger les lanceurs d'alerte qui agissent au nom de l'int\u00e9r\u00eat public</title><label>Rapport: Virginie Rozi\u00e8re (A8-0295/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2224",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650797-14",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00ba 5/2017: financement du Fonds europ\u00e9en pour le d\u00e9veloppement durable et augmentation de la r\u00e9serve d'aide d'urgence"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0301"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-50"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-014"
+            ],
+            "notation_dlvId": "650797",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00ba 5/2017: financement du Fonds europ\u00e9en pour le d\u00e9veloppement durable et augmentation de la r\u00e9serve d'aide d'urgence</title><label>Rapport: Jens Geier (A8-0301/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2135",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650785-8",
+            "activity_label": {
+                "fr": "\u00c9change d'informations, syst\u00e8me d'alerte rapide et proc\u00e9dure d'\u00e9valuation des risques pour les nouvelles substances psychoactives"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0359"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-008"
+            ],
+            "notation_dlvId": "650785",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change d'informations, syst\u00e8me d'alerte rapide et proc\u00e9dure d'\u00e9valuation des risques pour les nouvelles substances psychoactives</title><label>Rapport: Micha\u0142 Boni (A8-0359/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0261",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18",
+            "type": "Activity",
+            "activity_date": "2017-10-24",
+            "activity_id": "MTG-PL-2017-10-24-VOT-ITM-650768-18",
+            "activity_label": {
+                "fr": "Politiques en mati\u00e8re de revenu minimum en tant qu'instrument de lutte contre la pauvret\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0292"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-24-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-24-VOT-ITM-018"
+            ],
+            "notation_dlvId": "650768",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politiques en mati\u00e8re de revenu minimum en tant qu'instrument de lutte contre la pauvret\u00e9</title><label>Rapport: Laura Agea (A8-0292/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650811-6",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650787-15",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-2",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650789-16",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650807-13",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-5",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650775-7",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650804-10",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650786-9",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-3",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650805-11",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-1",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650806-12",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650795-4",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650788-17",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650797-14",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650785-8",
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2270",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-24-VOT-ITM-650768-18"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

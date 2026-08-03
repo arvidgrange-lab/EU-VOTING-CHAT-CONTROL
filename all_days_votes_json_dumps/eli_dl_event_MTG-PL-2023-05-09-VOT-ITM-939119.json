@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-09-VOT-ITM-939119",
+            "type": "Activity",
+            "activity_date": "2023-05-09",
+            "activity_id": "MTG-PL-2023-05-09-VOT-ITM-939119",
+            "activity_label": {
+                "fr": "Accord UE/Br\u00e9sil: modification des concessions pour l\u2019ensemble des contingents tarifaires de la liste CLXXV de l\u2019UE \u00e0 la suite du retrait du Royaume-Uni de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0171"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-09-OJ-ITM-V-20",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-09-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939119",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE/Br\u00e9sil: modification des concessions pour l\u2019ensemble des contingents tarifaires de la liste CLXXV de l\u2019UE \u00e0 la suite du retrait du Royaume-Uni de l\u2019Union europ\u00e9enne</title><label>Recommandation: Jordi Ca\u00f1as (A9-0171/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

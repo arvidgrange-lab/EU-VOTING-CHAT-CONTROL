@@ -1,0 +1,146 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000005",
+            "type": "Activity",
+            "activity_date": "2023-11-08",
+            "activity_id": "MTG-PL-2023-11-08-VOT-ITM-000005",
+            "activity_label": {
+                "mul": "null",
+                "fr": "null"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2023-11-08-DEC-160020"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "notation_dlvId": "000005",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000005",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000004",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000003",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000002",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000001"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000004",
+            "type": "Activity",
+            "activity_date": "2023-11-08",
+            "activity_id": "MTG-PL-2023-11-08-VOT-ITM-000004",
+            "activity_label": {
+                "mul": "null",
+                "fr": "null"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2023-11-08-DEC-160019"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "notation_dlvId": "000004",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000005",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000004",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000003",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000002",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000001"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000003",
+            "type": "Activity",
+            "activity_date": "2023-11-08",
+            "activity_id": "MTG-PL-2023-11-08-VOT-ITM-000003",
+            "activity_label": {
+                "mul": "null",
+                "fr": "null"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2023-11-08-DEC-160018"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "notation_dlvId": "000003",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000005",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000004",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000003",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000002",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000001"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000002",
+            "type": "Activity",
+            "activity_date": "2023-11-08",
+            "activity_id": "MTG-PL-2023-11-08-VOT-ITM-000002",
+            "activity_label": {
+                "mul": "null",
+                "fr": "null"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2023-11-08-DEC-160017"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "notation_dlvId": "000002",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000005",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000004",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000003",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000002",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000001"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000001",
+            "type": "Activity",
+            "activity_date": "2023-11-08",
+            "activity_id": "MTG-PL-2023-11-08-VOT-ITM-000001",
+            "activity_label": {
+                "mul": "null",
+                "fr": "null"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2023-11-08-DEC-160016"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "notation_dlvId": "000001",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000005",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000004",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000003",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000002",
+                        "eli/dl/event/MTG-PL-2023-11-08-VOT-ITM-000001"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

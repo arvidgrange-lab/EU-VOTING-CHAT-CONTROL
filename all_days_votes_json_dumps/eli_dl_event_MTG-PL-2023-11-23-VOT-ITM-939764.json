@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939764",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939764",
+            "activity_label": {
+                "mul": "Absence de suites l\u00e9gislatives donn\u00e9es par la Commission \u00e0 la r\u00e9solution sur l'utilisation de Pegasus - The lack of legislative follow-up by the Commission to the PEGA resolution - Ausbleiben legislativen Handelns der Kommission nach der Entschlie\u00dfung des PEGA-Untersuchungsausschusses",
+                "fr": "Absence de suites l\u00e9gislatives donn\u00e9es par la Commission \u00e0 la r\u00e9solution sur l'utilisation de Pegasus"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0467",
+                "eli/dl/doc/B-9-2023-0464"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_109"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939764",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Absence de suites l\u00e9gislatives donn\u00e9es par la Commission \u00e0 la r\u00e9solution sur l'utilisation de Pegasus</title><label>Propositions de r\u00e9solution: B9-0464/2023, B9-0467/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

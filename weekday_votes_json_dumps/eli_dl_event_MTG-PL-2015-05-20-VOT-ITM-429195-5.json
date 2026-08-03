@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-05-20-VOT-ITM-429195-5",
+            "type": "Activity",
+            "activity_date": "2015-05-20",
+            "activity_id": "MTG-PL-2015-05-20-VOT-ITM-429195-5",
+            "activity_label": {
+                "fr": "Proc\u00e9dures d'insolvabilit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0155"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-05-20-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-05-20-VOT-ITM-005"
+            ],
+            "notation_dlvId": "429195",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Proc\u00e9dures d'insolvabilit\u00e9</title><label>Recommandation pour la deuxi\u00e8me lecture: Tadeusz Zwiefka (A8-0155/2015)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

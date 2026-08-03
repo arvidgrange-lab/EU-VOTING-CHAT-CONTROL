@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-04-11-VOT-ITM-942507",
+            "type": "Activity",
+            "activity_date": "2024-04-11",
+            "activity_id": "MTG-PL-2024-04-11-VOT-ITM-942507",
+            "activity_label": {
+                "et": "ELi 2022. aasta \u00fcldeelarve t\u00e4itmisele heakskiidu andmine \u2013 Euroopa v\u00e4listeenistus",
+                "it": "Discarico 2022: Bilancio generale dell'UE \u2013 Servizio europeo per l'azione esterna",
+                "fi": "Vastuuvapaus 2022: EU:n yleinen talousarvio \u2013 Euroopan ulkosuhdehallinto",
+                "sl": "Razre\u0161nica za leto 2022: splo\u0161ni prora\u010dun EU \u2013 Evropska slu\u017eba za zunanje delovanje",
+                "en": "2022 discharge: EU general budget - European External Action Service",
+                "hr": "Razrje\u0161nica za 2022.: Op\u0107i prora\u010dun EU-a \u2013 Europska slu\u017eba za vanjsko djelovanje",
+                "pl": "Absolutorium za rok 2022: bud\u017cet og\u00f3lny UE \u2013 Europejska S\u0142u\u017cba Dzia\u0142a\u0144 Zewn\u0119trznych",
+                "es": "Aprobaci\u00f3n de la gesti\u00f3n 2022: presupuesto general de la UE \u2013 Servicio Europeo de Acci\u00f3n Exterior",
+                "lt": "2022 finansini\u0173 met\u0173 biud\u017eeto \u012fvykdymo patvirtinimas: ES bendrasis biud\u017eetas \u2013 Europos i\u0161or\u0117s veiksm\u0173 tarnyba",
+                "mul": "D\u00e9charge 2022: Budget g\u00e9n\u00e9ral de l'UE - Service europ\u00e9en pour l'action ext\u00e9rieure - Discharge 2022: EU general budget - European External Action Service - Entlastung 2022: Gesamthaushaltsplan der EU \u2013 Europ\u00e4ischer Ausw\u00e4rtiger Dienst",
+                "mt": "Kwittanza 2022: Il-ba\u0121it \u0121enerali tal-UE - Is-Servizz Ewropew g\u0127all-Azzjoni Esterna",
+                "cs": "Ud\u011blen\u00ed absolutoria za rozpo\u010dtov\u00fd rok 2022: souhrnn\u00fd rozpo\u010det EU \u2013 Evropsk\u00e1 slu\u017eba pro vn\u011bj\u0161\u00ed \u010dinnost",
+                "hu": "2022. \u00e9vi mentes\u00edt\u00e9s: Az Eur\u00f3pai Uni\u00f3 \u00e1ltal\u00e1nos k\u00f6lts\u00e9gvet\u00e9se - Eur\u00f3pai K\u00fcl\u00fcgyi Szolg\u00e1lat",
+                "fr": "D\u00e9charge 2022: Budget g\u00e9n\u00e9ral de l'UE - Service europ\u00e9en pour l'action ext\u00e9rieure",
+                "lv": "ES 2022.\u00a0finan\u0161u gada visp\u0101r\u0113j\u0101 bud\u017eeta izpildes apstiprin\u0101\u0161ana: Eiropas \u0100r\u0113j\u0101s darb\u012bbas dienests",
+                "sv": "Ansvarsfrihet f\u00f6r 2022: EU:s allm\u00e4nna budget - Europeiska utrikestj\u00e4nsten",
+                "sk": "Absolut\u00f3rium za rok 2022: v\u0161eobecn\u00fd rozpo\u010det E\u00da \u2013 Eur\u00f3pska slu\u017eba pre vonkaj\u0161iu \u010dinnos\u0165",
+                "el": "\u0391\u03c0\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae 2022: \u0393\u03b5\u03bd\u03b9\u03ba\u03cc\u03c2 \u03c0\u03c1\u03bf\u03cb\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03b7\u03c2 \u0395\u0395 - \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u0395\u03be\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03ae\u03c2 \u0394\u03c1\u03ac\u03c3\u03b7\u03c2",
+                "nl": "Kwijting 2022: Algemene begroting van de EU \u2013 Europese Dienst voor extern optreden",
+                "de": "Entlastung 2022: Gesamthaushaltsplan der EU \u2013 Europ\u00e4ischer Ausw\u00e4rtiger Dienst",
+                "ro": "Desc\u0103rcarea de gestiune 2022: bugetul general al UE - Serviciul European de Ac\u021biune Extern\u0103",
+                "bg": "\u041e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0432\u0430\u043d\u0435 \u043e\u0442 \u043e\u0442\u0433\u043e\u0432\u043e\u0440\u043d\u043e\u0441\u0442 \u0432\u044a\u0432 \u0432\u0440\u044a\u0437\u043a\u0430 \u0441 \u0438\u0437\u043f\u044a\u043b\u043d\u0435\u043d\u0438\u0435\u0442\u043e \u043d\u0430 \u0431\u044e\u0434\u0436\u0435\u0442\u0430 \u0437\u0430 2022 \u0433.: \u041e\u0431\u0449 \u0431\u044e\u0434\u0436\u0435\u0442 \u043d\u0430 \u0415\u0421 \u2013 \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0430 \u0441\u043b\u0443\u0436\u0431\u0430 \u0437\u0430 \u0432\u044a\u043d\u0448\u043d\u0430 \u0434\u0435\u0439\u043d\u043e\u0441\u0442",
+                "ga": "Urscaoileadh\u00a02022: Buis\u00e9ad ginear\u00e1lta AE - an tSeirbh\u00eds Eorpach Gn\u00edomha\u00edochta Seachtra\u00ed",
+                "da": "Decharge 2022: EU's almindelige budget \u2013 Tjenesten for EU's Optr\u00e6den Udadtil",
+                "pt": "Quita\u00e7\u00e3o 2022: Or\u00e7amento geral da UE - Servi\u00e7o Europeu para a A\u00e7\u00e3o Externa"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2024-0102"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168140",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-167239",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-167235",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168139",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-167243",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168127",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-167246",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168134",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168131",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-167237",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-167238",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168122",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-167241",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168138",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168136",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168133",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-167236",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168125",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168124",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168130",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-167244",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-167240",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168128",
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168135"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-04-11-OJ-ITM-V-118"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-04-11-VOT-ITM-016"
+            ],
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2024-04-11-VOT-ITM-942507-SPLIT-3",
+                "eli/dl/event/MTG-PL-2024-04-11-VOT-ITM-942507-RCV-1",
+                "eli/dl/event/MTG-PL-2024-04-11-VOT-ITM-942507-SPLIT-2",
+                "eli/dl/event/MTG-PL-2024-04-11-VOT-ITM-942507-RCV-2",
+                "eli/dl/event/MTG-PL-2024-04-11-VOT-ITM-942507-SPLIT-1",
+                "eli/dl/event/MTG-PL-2024-04-11-VOT-ITM-942507-SPLIT-4",
+                "eli/dl/event/MTG-PL-2024-04-11-VOT-ITM-942507-SPLIT-5"
+            ],
+            "notation_dlvId": "942507",
+            "structuredLabel": {
+                "ga": "<structuredLabel><title>Urscaoileadh\u00a02022: Buis\u00e9ad ginear\u00e1lta AE - an tSeirbh\u00eds Eorpach Gn\u00edomha\u00edochta Seachtra\u00ed</title><label>Tuarasc\u00e1il: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Absolut\u00f3rium za rok 2022: v\u0161eobecn\u00fd rozpo\u010det E\u00da \u2013 Eur\u00f3pska slu\u017eba pre vonkaj\u0161iu \u010dinnos\u0165</title><label>Spr\u00e1va: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u041e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0432\u0430\u043d\u0435 \u043e\u0442 \u043e\u0442\u0433\u043e\u0432\u043e\u0440\u043d\u043e\u0441\u0442 \u0432\u044a\u0432 \u0432\u0440\u044a\u0437\u043a\u0430 \u0441 \u0438\u0437\u043f\u044a\u043b\u043d\u0435\u043d\u0438\u0435\u0442\u043e \u043d\u0430 \u0431\u044e\u0434\u0436\u0435\u0442\u0430 \u0437\u0430 2022 \u0433.: \u041e\u0431\u0449 \u0431\u044e\u0434\u0436\u0435\u0442 \u043d\u0430 \u0415\u0421 \u2013 \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0430 \u0441\u043b\u0443\u0436\u0431\u0430 \u0437\u0430 \u0432\u044a\u043d\u0448\u043d\u0430 \u0434\u0435\u0439\u043d\u043e\u0441\u0442</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0391\u03c0\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae 2022: \u0393\u03b5\u03bd\u03b9\u03ba\u03cc\u03c2 \u03c0\u03c1\u03bf\u03cb\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03b7\u03c2 \u0395\u0395 - \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u0395\u03be\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03ae\u03c2 \u0394\u03c1\u03ac\u03c3\u03b7\u03c2</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Ansvarsfrihet f\u00f6r 2022: EU:s allm\u00e4nna budget - Europeiska utrikestj\u00e4nsten</title><label>Bet\u00e4nkande: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "et": "<structuredLabel><title>ELi 2022. aasta \u00fcldeelarve t\u00e4itmisele heakskiidu andmine \u2013 Euroopa v\u00e4listeenistus</title><label>Raport: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Quita\u00e7\u00e3o 2022: Or\u00e7amento geral da UE - Servi\u00e7o Europeu para a A\u00e7\u00e3o Externa</title><label>Relat\u00f3rio: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Absolutorium za rok 2022: bud\u017cet og\u00f3lny UE \u2013 Europejska S\u0142u\u017cba Dzia\u0142a\u0144 Zewn\u0119trznych</title><label>Sprawozdanie: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>2022 finansini\u0173 met\u0173 biud\u017eeto \u012fvykdymo patvirtinimas: ES bendrasis biud\u017eetas \u2013 Europos i\u0161or\u0117s veiksm\u0173 tarnyba</title><label>Prane\u0161imas: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>2022. \u00e9vi mentes\u00edt\u00e9s: Az Eur\u00f3pai Uni\u00f3 \u00e1ltal\u00e1nos k\u00f6lts\u00e9gvet\u00e9se - Eur\u00f3pai K\u00fcl\u00fcgyi Szolg\u00e1lat</title><label>Jelent\u00e9s: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Aprobaci\u00f3n de la gesti\u00f3n 2022: presupuesto general de la UE \u2013 Servicio Europeo de Acci\u00f3n Exterior</title><label>Informe: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Razrje\u0161nica za 2022.: Op\u0107i prora\u010dun EU-a \u2013 Europska slu\u017eba za vanjsko djelovanje</title><label>Izvje\u0161\u0107e: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Kwijting 2022: Algemene begroting van de EU \u2013 Europese Dienst voor extern optreden</title><label>Verslag: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>ES 2022.\u00a0finan\u0161u gada visp\u0101r\u0113j\u0101 bud\u017eeta izpildes apstiprin\u0101\u0161ana: Eiropas \u0100r\u0113j\u0101s darb\u012bbas dienests</title><label>Zi\u0146ojums: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Kwittanza 2022: Il-ba\u0121it \u0121enerali tal-UE - Is-Servizz Ewropew g\u0127all-Azzjoni Esterna</title><label>Rapport: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>D\u00e9charge 2022: Budget g\u00e9n\u00e9ral de l'UE - Service europ\u00e9en pour l'action ext\u00e9rieure</title><label>Rapport: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Discarico 2022: Bilancio generale dell'UE \u2013 Servizio europeo per l'azione esterna</title><label>Relazione: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Desc\u0103rcarea de gestiune 2022: bugetul general al UE - Serviciul European de Ac\u021biune Extern\u0103</title><label>Raport: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Entlastung 2022: Gesamthaushaltsplan der EU \u2013 Europ\u00e4ischer Ausw\u00e4rtiger Dienst</title><label>Bericht: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "en": "<structuredLabel><title>2022 discharge: EU general budget - European External Action Service</title><label>Report: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Vastuuvapaus 2022: EU:n yleinen talousarvio \u2013 Euroopan ulkosuhdehallinto</title><label>Mietint\u00f6: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Razre\u0161nica za leto 2022: splo\u0161ni prora\u010dun EU \u2013 Evropska slu\u017eba za zunanje delovanje</title><label>Poro\u010dilo: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Decharge 2022: EU's almindelige budget \u2013 Tjenesten for EU's Optr\u00e6den Udadtil</title><label>Bet\u00e6nkning: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Ud\u011blen\u00ed absolutoria za rozpo\u010dtov\u00fd rok 2022: souhrnn\u00fd rozpo\u010det EU \u2013 Evropsk\u00e1 slu\u017eba pro vn\u011bj\u0161\u00ed \u010dinnost</title><label>Zpr\u00e1va: Monika Hohlmeier (A9-0102/2024)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-02-VOT-ITM-938629",
+            "type": "Activity",
+            "activity_date": "2023-02-02",
+            "activity_id": "MTG-PL-2023-02-02-VOT-ITM-938629",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 d'Andrea COZZOLINO"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0016"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-02-OJ-ITM-V-36",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-02-VOT-ITM-004"
+            ],
+            "notation_dlvId": "938629",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 d'Andrea COZZOLINO</title><label>Rapport: Manon Aubry (A9-0016/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

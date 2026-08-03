@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-16-VOT-ITM-938745",
+            "type": "Activity",
+            "activity_date": "2023-02-16",
+            "activity_id": "MTG-PL-2023-02-16-VOT-ITM-938745",
+            "activity_label": {
+                "fr": "Suivi des mesures demand\u00e9es par le Parlement pour renforcer l\u2019int\u00e9grit\u00e9 des institutions europ\u00e9ennes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0152",
+                "eli/dl/doc/B-9-2023-0153",
+                "eli/dl/doc/B-9-2023-0154",
+                "eli/dl/doc/B-9-2023-0147",
+                "eli/dl/doc/B-9-2023-0150"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-16-OJ-ITM-V-81",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-16-VOT-ITM-006"
+            ],
+            "notation_dlvId": "938745",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Suivi des mesures demand\u00e9es par le Parlement pour renforcer l\u2019int\u00e9grit\u00e9 des institutions europ\u00e9ennes</title><label>Propositions de r\u00e9solutions: B9-0147/2023, B9-0150/2023, B9-0152/2023, B9-0153/2023, B9-0154/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

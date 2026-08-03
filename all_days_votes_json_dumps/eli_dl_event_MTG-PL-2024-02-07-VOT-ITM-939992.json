@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-02-07-VOT-ITM-939992",
+            "type": "Activity",
+            "activity_date": "2024-02-07",
+            "activity_id": "MTG-PL-2024-02-07-VOT-ITM-939992",
+            "activity_label": {
+                "it": "Bonifici istantanei in euro ***I",
+                "en": "Instant payments in euro ***I",
+                "lv": "Zibmaks\u0101jumi euro ***I",
+                "mul": "Virements instantan\u00e9s en euros",
+                "fr": "Virements instantan\u00e9s en euros ***I",
+                "lt": "Momentiniai mok\u0117jimai eurais ***I",
+                "fi": "Eurom\u00e4\u00e4r\u00e4iset pikamaksut ***I",
+                "nl": "Instantovermakingen in euro ***I",
+                "bg": "\u041d\u0435\u0437\u0430\u0431\u0430\u0432\u043d\u0438 \u043f\u043b\u0430\u0449\u0430\u043d\u0438\u044f \u0432 \u0435\u0432\u0440\u043e ***I",
+                "pl": "Polecenia przelewu natychmiastowego w euro ***I",
+                "da": "Strakskreditoverf\u00f8rsler i euro ***I",
+                "es": "Transferencias inmediatas en euros ***I",
+                "sv": "Omedelbara betalningar i euro ***I",
+                "sk": "Okam\u017eit\u00e9 platby v eur\u00e1ch ***I",
+                "hr": "Trenuta\u010dni kreditni transferi u eurima ***I",
+                "hu": "Az azonnali euro\u00e1tutal\u00e1sok ***I",
+                "de": "Sofort\u00fcberweisungen in Euro ***I",
+                "el": "\u0386\u03bc\u03b5\u03c3\u03b5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ad\u03c2 \u03c3\u03b5 \u03b5\u03c5\u03c1\u03ce ***I",
+                "et": "Eurodes v\u00e4lkkreeditkorraldused ***I",
+                "ro": "Pl\u0103\u021bi instant \u00een euro ***I",
+                "mt": "Pagamenti istantanji f\u2019euro ***I",
+                "pt": "Transfer\u00eancias a cr\u00e9dito imediatas em euros ***I",
+                "sl": "Takoj\u0161nja pla\u010dila v eurih ***I",
+                "cs": "Okam\u017eit\u00e9 platby v eurech ***I",
+                "ga": "Aistrithe creidmheasa meandracha in euro ***I"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0230"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-02-07-DEC-163746"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-02-07-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-02-07-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939992",
+            "structuredLabel": {
+                "hu": "<structuredLabel><title>Az azonnali euro\u00e1tutal\u00e1sok ***I</title><label>Jelent\u00e9s: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Aistrithe creidmheasa meandracha in euro ***I</title><label>Tuarasc\u00e1il: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Okam\u017eit\u00e9 platby v eur\u00e1ch ***I</title><label>Spr\u00e1va: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Pl\u0103\u021bi instant \u00een euro ***I</title><label>Raport: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Momentiniai mok\u0117jimai eurais ***I</title><label>Prane\u0161imas: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Sofort\u00fcberweisungen in Euro ***I</title><label>Bericht: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Bonifici istantanei in euro ***I</title><label>Relazione: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Instant payments in euro ***I</title><label>Report: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Pagamenti istantanji f\u2019euro ***I</title><label>Rapport: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Instantovermakingen in euro ***I</title><label>Verslag: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Transfer\u00eancias a cr\u00e9dito imediatas em euros ***I</title><label>Relat\u00f3rio: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Strakskreditoverf\u00f8rsler i euro ***I</title><label>Bet\u00e6nkning: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Okam\u017eit\u00e9 platby v eurech ***I</title><label>Zpr\u00e1va: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Transferencias inmediatas en euros ***I</title><label>Informe: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Trenuta\u010dni kreditni transferi u eurima ***I</title><label>Izvje\u0161\u0107e: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Eurodes v\u00e4lkkreeditkorraldused ***I</title><label>Raport: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Zibmaks\u0101jumi euro ***I</title><label>Zi\u0146ojums: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Takoj\u0161nja pla\u010dila v eurih ***I</title><label>Poro\u010dilo: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Polecenia przelewu natychmiastowego w euro ***I</title><label>Sprawozdanie: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u041d\u0435\u0437\u0430\u0431\u0430\u0432\u043d\u0438 \u043f\u043b\u0430\u0449\u0430\u043d\u0438\u044f \u0432 \u0435\u0432\u0440\u043e ***I</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0386\u03bc\u03b5\u03c3\u03b5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ad\u03c2 \u03c3\u03b5 \u03b5\u03c5\u03c1\u03ce ***I</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Omedelbara betalningar i euro ***I</title><label>Bet\u00e4nkande: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Eurom\u00e4\u00e4r\u00e4iset pikamaksut ***I</title><label>Mietint\u00f6: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Virements instantan\u00e9s en euros ***I</title><label>Rapport: Michiel Hoogeveen (A9-0230/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

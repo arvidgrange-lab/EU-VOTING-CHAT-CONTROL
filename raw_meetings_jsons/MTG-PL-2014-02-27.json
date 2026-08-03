@@ -1,0 +1,863 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-347739-4",
+            "activity_label": {
+                "fr": "Accord de partenariat volontaire UE-Indon\u00e9sie sur l\u2019application des r\u00e9glementations foresti\u00e8res, la gouvernance et les \u00e9changes commerciaux de produits du bois vers l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0043"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-004"
+            ],
+            "notation_dlvId": "347739",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat volontaire UE-Indon\u00e9sie sur l\u2019application des r\u00e9glementations foresti\u00e8res, la gouvernance et les \u00e9changes commerciaux de produits du bois vers l'Union europ\u00e9enne</title><label>Recommandation: Yannick Jadot (A7-0043/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0205",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-347556-10",
+            "activity_label": {
+                "fr": "Droits fondamentaux dans l'Union europ\u00e9enne (2012)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0051"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-145"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-010"
+            ],
+            "notation_dlvId": "347556",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits fondamentaux dans l'Union europ\u00e9enne (2012)</title><label>Rapport: Louis Michel (A7-0051/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2078",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-348096-9",
+            "activity_label": {
+                "fr": "Utilisation de drones arm\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0204",
+                "eli/dl/doc/B-7-2014-0202",
+                "eli/dl/doc/B-7-2014-0205",
+                "eli/dl/doc/B-7-2014-0203",
+                "eli/dl/doc/B-7-2014-0201",
+                "eli/dl/doc/B-7-2014-0206"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-231"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-009"
+            ],
+            "notation_dlvId": "348096",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Utilisation de drones arm\u00e9s</title><label>Propositions de r\u00e9solution: B7-0201/2014, B7-0202/2014, B7-0203/2014, B7-0204/2014, B7-0205/2014, B7-0206/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2567",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-347782-15",
+            "activity_label": {
+                "fr": "Mesures sp\u00e9cifiques dans le cadre de la politique commune de la p\u00eache pour d\u00e9velopper le r\u00f4le des femmes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0070"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-100"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-015"
+            ],
+            "notation_dlvId": "347782",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures sp\u00e9cifiques dans le cadre de la politique commune de la p\u00eache pour d\u00e9velopper le r\u00f4le des femmes</title><label>Rapport: Dolores Garc\u00eda-Hierro Caraballo et  Ra\u00fcl Romeva i Rueda (A7-0070/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2150",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-347561-16",
+            "activity_label": {
+                "fr": "Redevances pour copie priv\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0114"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-137"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-016"
+            ],
+            "notation_dlvId": "347561",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Redevances pour copie priv\u00e9e</title><label>Rapport: Fran\u00e7oise Castex (A7-0114/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2114",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-348104-8",
+            "activity_label": {
+                "fr": "Situation en Iraq"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0191",
+                "eli/dl/doc/B-7-2014-0190",
+                "eli/dl/doc/B-7-2014-0189",
+                "eli/dl/doc/B-7-2014-0192",
+                "eli/dl/doc/B-7-2014-0193",
+                "eli/dl/doc/B-7-2014-0188"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-229"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-008"
+            ],
+            "notation_dlvId": "348104",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Iraq</title><label>Propositions de r\u00e9solution: B7-0188/2014, B7-0189/2014, B7-0190/2014, B7-0191/2014, B7-0192/2014, B7-0193/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2565",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-348101-12",
+            "activity_label": {
+                "fr": "Accord de partenariat volontaire UE-Indon\u00e9sie en mati\u00e8re d'application des r\u00e9glementations foresti\u00e8res, de gouvernance et du commerce de produits du bois avec l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0187"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-132"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-012"
+            ],
+            "notation_dlvId": "348101",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat volontaire UE-Indon\u00e9sie en mati\u00e8re d'application des r\u00e9glementations foresti\u00e8res, de gouvernance et du commerce de produits du bois avec l'Union</title><label>Propositions de r\u00e9solution: B7-0187/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2990",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-347739-2",
+            "activity_label": {
+                "fr": "D\u00e9cision d'enqu\u00eate europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0477"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-245"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-002"
+            ],
+            "notation_dlvId": "347739",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9cision d'enqu\u00eate europ\u00e9enne</title><label>Rapport: Nuno Melo (A7-0477/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2010-0817",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-347790-11",
+            "activity_label": {
+                "fr": "Mandat d'arr\u00eat europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0039"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-246"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-011"
+            ],
+            "notation_dlvId": "347790",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mandat d'arr\u00eat europ\u00e9en</title><label>Rapport: Sarah Ludford (A7-0039/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2109",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-347478-5",
+            "activity_label": {
+                "fr": "Contr\u00f4le des personnes aux fronti\u00e8res ext\u00e9rieures"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0082"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-228"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-005"
+            ],
+            "notation_dlvId": "347478",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contr\u00f4le des personnes aux fronti\u00e8res ext\u00e9rieures</title><label>Rapport: Tanja Fajon (A7-0082/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0210",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-347739-3",
+            "activity_label": {
+                "fr": "Obligations de visa pour les ressortissants de pays tiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0104"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-247"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-003"
+            ],
+            "notation_dlvId": "347739",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Obligations de visa pour les ressortissants de pays tiers</title><label>Rapport: Tanja Fajon (A7-0104/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0415",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-348100-14",
+            "activity_label": {
+                "fr": "Avenir de la politique de l'Union en mati\u00e8re de visas"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0194"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-251"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-014"
+            ],
+            "notation_dlvId": "348100",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Avenir de la politique de l'Union en mati\u00e8re de visas</title><label>Question orale: B7-0194/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2586",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-347739-1",
+            "activity_label": {
+                "fr": "SOLVIT"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0059"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-72"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-001"
+            ],
+            "notation_dlvId": "347739",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>SOLVIT</title><label>Rapport: Morten L\u00f8kkegaard (A7-0059/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2154",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-348097-7",
+            "activity_label": {
+                "fr": "Situation en Ukraine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0219",
+                "eli/dl/doc/B-7-2014-0222",
+                "eli/dl/doc/B-7-2014-0221",
+                "eli/dl/doc/B-7-2014-0224",
+                "eli/dl/doc/B-7-2014-0223",
+                "eli/dl/doc/B-7-2014-0220"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-243"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-007"
+            ],
+            "notation_dlvId": "348097",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Ukraine</title><label>Propositions de r\u00e9solution: B7-0219/2014, B7-0220/2014, B7-0221/2014, B7-0222/2014, B7-0223/2014, B7-0224/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2595",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-347844-6",
+            "activity_label": {
+                "fr": "Pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa pour franchir les fronti\u00e8res ext\u00e9rieures des \u00c9tats membres et  ceux dont les ressortissants sont exempt\u00e9s de cette obligation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0373"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-234"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-006"
+            ],
+            "notation_dlvId": "347844",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa pour franchir les fronti\u00e8res ext\u00e9rieures des \u00c9tats membres et  ceux dont les ressortissants sont exempt\u00e9s de cette obligation</title><label>Rapport: Mariya Gabriel (A7-0373/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0309",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13",
+            "type": "Activity",
+            "activity_date": "2014-02-27",
+            "activity_id": "MTG-PL-2014-02-27-VOT-ITM-348099-13",
+            "activity_label": {
+                "fr": "Situation au Venezuela"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0212",
+                "eli/dl/doc/B-7-2014-0215",
+                "eli/dl/doc/B-7-2014-0217",
+                "eli/dl/doc/B-7-2014-0207",
+                "eli/dl/doc/B-7-2014-0216",
+                "eli/dl/doc/B-7-2014-0218"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-27-OJ-ITM-V-249"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-27-VOT-ITM-013"
+            ],
+            "notation_dlvId": "348099",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation au Venezuela</title><label>Propositions de r\u00e9solution: B7-0207/2014, B7-0212/2014, B7-0215/2014, B7-0216/2014, B7-0217/2014, B7-0218/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-27",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-4",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347556-10",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348096-9",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347782-15",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347561-16",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348104-8",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348101-12",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-2",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347790-11",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347478-5",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-3",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348100-14",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347739-1",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348097-7",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-347844-6",
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2600",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-27-VOT-ITM-348099-13"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-04-VOT-ITM-939513",
+            "type": "Activity",
+            "activity_date": "2023-10-04",
+            "activity_id": "MTG-PL-2023-10-04-VOT-ITM-939513",
+            "activity_label": {
+                "mul": "Mobilisation du Fonds de solidarit\u00e9 de l\u2019Union europ\u00e9enne pour venir en aide \u00e0 la Roumanie, \u00e0 l'Italie et \u00e0 la Turquie - Mobilisation of the European Union Solidarity Fund to provide assistance to Romania, Italy and T\u00fcrkiye - Inanspruchnahme des Solidarit\u00e4tsfonds der Europ\u00e4ischen Union zur Leistung von Hilfe f\u00fcr Rum\u00e4nien, Italien und die T\u00fcrkei",
+                "fr": "Mobilisation du Fonds de solidarit\u00e9 de l\u2019Union europ\u00e9enne pour venir en aide \u00e0 la Roumanie, \u00e0 l'Italie et \u00e0 la Turquie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0269"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-10-04-OJ-ITM-V_51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-04-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939513",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds de solidarit\u00e9 de l\u2019Union europ\u00e9enne pour venir en aide \u00e0 la Roumanie, \u00e0 l'Italie et \u00e0 la Turquie</title><label>Rapport: Katalin Cseh (A9-0269/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

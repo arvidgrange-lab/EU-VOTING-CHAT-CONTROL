@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939683",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939683",
+            "activity_label": {
+                "mul": "Efficacit\u00e9 des sanctions de l'UE \u00e0 l\u2019encontre de la Russie - Effectiveness of the EU sanctions on Russia - Wirksamkeit der gegen Russland verh\u00e4ngten EU-Sanktionen",
+                "fr": "Efficacit\u00e9 des sanctions de l'UE \u00e0 l\u2019encontre de la Russie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0455",
+                "eli/dl/doc/B-9-2023-0453",
+                "eli/dl/doc/B-9-2023-0456",
+                "eli/dl/doc/B-9-2023-0457",
+                "eli/dl/doc/B-9-2023-0454"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-40",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-021"
+            ],
+            "notation_dlvId": "939683",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 3,
+            "epvoc:amendmentsTabledTotal": 3,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Efficacit\u00e9 des sanctions de l'UE \u00e0 l\u2019encontre de la Russie</title><label>Propositions de r\u00e9solution: RC-B9-0453/2023, B9-0453/2023, B9-0454/2023, B9-0455/2023, B9-0456/2023, B9-0457/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

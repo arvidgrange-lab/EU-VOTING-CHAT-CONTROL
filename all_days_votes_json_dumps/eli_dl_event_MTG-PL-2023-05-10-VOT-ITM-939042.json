@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-10-VOT-ITM-939042",
+            "type": "Activity",
+            "activity_date": "2023-05-10",
+            "activity_id": "MTG-PL-2023-05-10-VOT-ITM-939042",
+            "activity_label": {
+                "fr": "D\u00e9charge 2021: entreprise commune \u00abUne Europe fond\u00e9e sur la bio\u00e9conomie circulaire\u00bb (avant le 30 novembre 2021: entreprise commune Bio-industries)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0093"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-10-OJ-ITM-V-97",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-10-VOT-ITM-047"
+            ],
+            "notation_dlvId": "939042",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2021: entreprise commune \u00abUne Europe fond\u00e9e sur la bio\u00e9conomie circulaire\u00bb (avant le 30 novembre 2021: entreprise commune Bio-industries)</title><label>Rapport: Joachim Stanis\u0142aw Brudzi\u0144ski (A9-0093/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

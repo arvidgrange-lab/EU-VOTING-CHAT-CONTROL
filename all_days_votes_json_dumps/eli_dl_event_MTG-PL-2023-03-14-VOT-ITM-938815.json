@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-14-VOT-ITM-938815",
+            "type": "Activity",
+            "activity_date": "2023-03-14",
+            "activity_id": "MTG-PL-2023-03-14-VOT-ITM-938815",
+            "activity_label": {
+                "fr": "R\u00e9ductions annuelles contraignantes des \u00e9missions de gaz \u00e0 effet de serre par les \u00c9tats membres (r\u00e8glement sur la r\u00e9partition de l'effort)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0163"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-14-OJ-ITM-V-20",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "938815",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9ductions annuelles contraignantes des \u00e9missions de gaz \u00e0 effet de serre par les \u00c9tats membres (r\u00e8glement sur la r\u00e9partition de l'effort)</title><label>Rapport: Jessica Polfj\u00e4rd (A9-0163/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

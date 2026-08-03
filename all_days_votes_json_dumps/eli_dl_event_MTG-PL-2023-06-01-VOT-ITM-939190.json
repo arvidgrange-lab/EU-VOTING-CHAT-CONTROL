@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939190",
+            "activity_label": {
+                "fr": "Nomination d\u2019un membre de la Cour des comptes \u2013 Ildik\u00f3 G\u00e1ll-Pelcz"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0197"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-32",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939190",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d\u2019un membre de la Cour des comptes \u2013 Ildik\u00f3 G\u00e1ll-Pelcz</title><label>Rapport: Ryszard Czarnecki (A9-0197/2023) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

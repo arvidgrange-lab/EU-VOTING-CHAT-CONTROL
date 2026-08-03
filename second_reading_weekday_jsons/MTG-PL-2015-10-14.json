@@ -1,0 +1,351 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-1",
+            "type": "Activity",
+            "activity_date": "2015-10-14",
+            "activity_id": "MTG-PL-2015-10-14-VOT-ITM-470873-1",
+            "activity_label": {
+                "fr": "Acc\u00e8s en consultation au syst\u00e8me d'information sur les visas (VIS) par les \u00c9tats membres et par Europol aux fins de la pr\u00e9vention et de la d\u00e9tection des infractions terroristes et des autres infractions p\u00e9nales graves"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0287"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-14-OJ-ITM-V-8"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "470873",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Acc\u00e8s en consultation au syst\u00e8me d'information sur les visas (VIS) par les \u00c9tats membres et par Europol aux fins de la pr\u00e9vention et de la d\u00e9tection des infractions terroristes et des autres infractions p\u00e9nales graves</title><label>Rapport: Timothy Kirkhope (A8-0287/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-1",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470759-4",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471144-7",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471140-6",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-469652-8",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-3",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-2",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470874-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470759-4",
+            "type": "Activity",
+            "activity_date": "2015-10-14",
+            "activity_id": "MTG-PL-2015-10-14-VOT-ITM-470759-4",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 7/2015: gestion de la crise des r\u00e9fugi\u00e9s: mesures budg\u00e9taires imm\u00e9diates au titre de l'agenda europ\u00e9en en mati\u00e8re de migration"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0289"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-14-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "470759",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 7/2015: gestion de la crise des r\u00e9fugi\u00e9s: mesures budg\u00e9taires imm\u00e9diates au titre de l'agenda europ\u00e9en en mati\u00e8re de migration</title><label>Rapport: Eider Gardiazabal Rubial (A8-0289/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-1",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470759-4",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471144-7",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471140-6",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-469652-8",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-3",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-2",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470874-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2252",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470759-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471144-7",
+            "type": "Activity",
+            "activity_date": "2015-10-14",
+            "activity_id": "MTG-PL-2015-10-14-VOT-ITM-471144-7",
+            "activity_label": {
+                "fr": "Nomination du directeur ex\u00e9cutif adjoint du FEIS"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0293"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-14-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "471144",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination du directeur ex\u00e9cutif adjoint du FEIS</title><label>Recommandation: Jean Arthuis et  Roberto Gualtieri (A8-0293/2015) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-1",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470759-4",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471144-7",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471140-6",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-469652-8",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-3",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-2",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470874-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0902",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471144-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471140-6",
+            "type": "Activity",
+            "activity_date": "2015-10-14",
+            "activity_id": "MTG-PL-2015-10-14-VOT-ITM-471140-6",
+            "activity_label": {
+                "fr": "Nomination du directeur ex\u00e9cutif du FEIS"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0292"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-14-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "471140",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination du directeur ex\u00e9cutif du FEIS</title><label>Recommandation: Jean Arthuis et  Roberto Gualtieri (A8-0292/2015) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-1",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470759-4",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471144-7",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471140-6",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-469652-8",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-3",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-2",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470874-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0901",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471140-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-469652-8",
+            "type": "Activity",
+            "activity_date": "2015-10-14",
+            "activity_id": "MTG-PL-2015-10-14-VOT-ITM-469652-8",
+            "activity_label": {
+                "fr": "Vers un nouvel accord international sur le climat \u00e0 Paris"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0275"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-14-OJ-ITM-V-2"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "469652",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Vers un nouvel accord international sur le climat \u00e0 Paris</title><label>Rapport: Gilles Pargneaux (A8-0275/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-1",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470759-4",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471144-7",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471140-6",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-469652-8",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-3",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-2",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470874-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-3",
+            "type": "Activity",
+            "activity_date": "2015-10-14",
+            "activity_id": "MTG-PL-2015-10-14-VOT-ITM-470873-3",
+            "activity_label": {
+                "fr": "Mobilisation de l'instrument de flexibilit\u00e9 aux fins de mesures budg\u00e9taires imm\u00e9diates au titre de l'agenda europ\u00e9en en mati\u00e8re de migration"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0290"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-14-OJ-ITM-V-18"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "470873",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation de l'instrument de flexibilit\u00e9 aux fins de mesures budg\u00e9taires imm\u00e9diates au titre de l'agenda europ\u00e9en en mati\u00e8re de migration</title><label>Rapport: Eider Gardiazabal Rubial (A8-0290/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-1",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470759-4",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471144-7",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471140-6",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-469652-8",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-3",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-2",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470874-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2253",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-2",
+            "type": "Activity",
+            "activity_date": "2015-10-14",
+            "activity_id": "MTG-PL-2015-10-14-VOT-ITM-470873-2",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 6/2015: Ressources propres,  Fonds fiduciaires de l'Union pour les actions ext\u00e9rieures,  Office de l'Organe des R\u00e9gulateurs europ\u00e9ens des communications \u00e9lectroniques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0280"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-14-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "470873",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 6/2015: Ressources propres,  Fonds fiduciaires de l'Union pour les actions ext\u00e9rieures,  Office de l'Organe des R\u00e9gulateurs europ\u00e9ens des communications \u00e9lectroniques</title><label>Rapport: Eider Gardiazabal Rubial (A8-0280/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-1",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470759-4",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471144-7",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471140-6",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-469652-8",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-3",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-2",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470874-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2150",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470874-5",
+            "type": "Activity",
+            "activity_date": "2015-10-14",
+            "activity_id": "MTG-PL-2015-10-14-VOT-ITM-470874-5",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e d'immunit\u00e9 parlementaire de B\u00e9la Kov\u00e1cs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0291"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-14-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "470874",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e d'immunit\u00e9 parlementaire de B\u00e9la Kov\u00e1cs</title><label>Rapport: Tadeusz Zwiefka (A8-0291/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-1",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470759-4",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471144-7",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-471140-6",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-469652-8",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-3",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470873-2",
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470874-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2044",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-14-VOT-ITM-470874-5"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-14-VOT-ITM-939496",
+            "type": "Activity",
+            "activity_date": "2023-09-14",
+            "activity_id": "MTG-PL-2023-09-14-VOT-ITM-939496",
+            "activity_label": {
+                "fr": "Le cas de Gubad Ibadoghlu, emprisonn\u00e9 en Azerba\u00efdjan"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0376",
+                "eli/dl/doc/B-9-2023-0373",
+                "eli/dl/doc/B-9-2023-0369",
+                "eli/dl/doc/B-9-2023-0371",
+                "eli/dl/doc/B-9-2023-0370",
+                "eli/dl/doc/B-9-2023-0374"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-14-OJ-ITM-V-80",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939496",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le cas de Gubad Ibadoghlu, emprisonn\u00e9 en Azerba\u00efdjan</title><label>Propositions de r\u00e9solution: RC-B9-0369/2023, B9-0369/2023, B9-0370/2023, B9-0371/2023, B9-0373/2023, B9-0374/2023, B9-0376/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

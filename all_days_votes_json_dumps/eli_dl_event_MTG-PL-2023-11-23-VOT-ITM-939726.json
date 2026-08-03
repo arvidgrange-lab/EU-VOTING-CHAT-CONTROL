@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939726",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939726",
+            "activity_label": {
+                "mul": "Num\u00e9risation de la coop\u00e9ration judiciaire (modification de certaines directives et d\u00e9cisions-cadres) - Digitalisation of cross-border judicial cooperation (amendment of certain directives and framework decisions) - Digitalisierung der grenz\u00fcberschreitenden justiziellen Zusammenarbeit (\u00c4nderung bestimmter Richtlinien und Rahmenbeschl\u00fcsse)",
+                "fr": "Num\u00e9risation de la coop\u00e9ration judiciaire (modification de certaines directives et d\u00e9cisions-cadres)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0063"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939726",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Num\u00e9risation de la coop\u00e9ration judiciaire (modification de certaines directives et d\u00e9cisions-cadres)</title><label>Rapport: Emil Radev, Marina Kaljurand (A9-0063/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

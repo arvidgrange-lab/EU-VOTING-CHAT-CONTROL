@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938948",
+            "activity_label": {
+                "fr": "Fonds social pour le climat"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0157"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-33",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-006"
+            ],
+            "notation_dlvId": "938948",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds social pour le climat</title><label>Rapport: David Casa, Esther de Lange (A9-0157/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

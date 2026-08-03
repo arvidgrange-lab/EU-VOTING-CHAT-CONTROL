@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-04-28-DEC-191147",
+            "type": "Vote",
+            "activity_date": "2026-04-28",
+            "activity_id": "MTG-PL-2026-04-28-DEC-191147",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "191147",
+            "referenceText": {
+                "lt": "Pasi\u016blymas d\u0117l sprendimo at\u0161aukti imunitet\u0105 d\u0117l B, C, D, E, F, G ir H\u00a0punkt\u0173",
+                "en": "Proposal for a decision to waive the immunity in points B, C, D, E, F, G and H",
+                "fi": "p\u00e4\u00e4t\u00f6sehdotus koskemattomuuden pid\u00e4tt\u00e4misest\u00e4 B, C, D, E, F, G ja H kohtien osalta",
+                "sv": "F\u00f6rslag till beslut om upph\u00e4vande av immunitet enligt sk\u00e4len B, C, D, E, F, G och H",
+                "hr": "Prijedlog odluke za ukidanje imuniteta iz to\u010daka B, C, D, E, F, G i H",
+                "lv": "L\u0113muma priek\u0161likums atcelt imunit\u0101ti attiec\u012bb\u0101 uz B, C, D, E, F, G un H apsv\u0113rumu",
+                "da": "Forslag til afg\u00f8relse om at oph\u00e6ve immuniteten for s\u00e5 vidt ang\u00e5r punkt B, C, D, E, F, G og H",
+                "mt": "Proposta g\u0127al de\u010bi\u017cjoni tat-tne\u0127\u0127ija tal-immunit\u00e0 fil-punti B, C, D, E, F, G u H",
+                "pl": "Projekt decyzji o uchyleniu immunitetu w pkt B, C, D, E, F, G i H",
+                "pt": "Proposta de decis\u00e3o de levantamento da imunidade nos pontos B, C, D, E, F, G e H",
+                "hu": "Mentelmi jog felf\u00fcggeszt\u00e9s\u00e9r\u0151l sz\u00f3l\u00f3 hat\u00e1rozatra ir\u00e1nyul\u00f3 javaslat, B, C, D, E, F, G \u00e9s H pont",
+                "cs": "n\u00e1vrh rozhodnut\u00ed o zbaven\u00ed imunity v souvislosti s body B, C, D, E, F, G a H",
+                "sl": "Predlog sklepa o odvzemu imunitete v zvezi s to\u010dkami B, C, D, E, F, G in H",
+                "fr": "Proposition de d\u00e9cision de lever l'immunit\u00e9 aux points B, C, D, E, F, G et H",
+                "sk": "n\u00e1vrh rozhodnutia o zbaven\u00ed imunity v\u00a0s\u00favislosti s bodmi B, C, D, E, F, G a H",
+                "es": "Propuesta de decidir suspender la inmunidad con respecto a las letras B, C, D, E, F, G y H",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u0437\u0430 \u0441\u043d\u0435\u043c\u0430\u043d\u0435 \u043d\u0430 \u0438\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430 \u0432 \u0431\u0443\u043a\u0432\u0438 \u0411, \u0412, \u0413, \u0414, \u0415, \u0416 \u0438 \u0417",
+                "de": "Vorschlag f\u00fcr einen Beschluss zur Aufhebung der Immunit\u00e4t mit Blick auf die Punkte\u00a0B, C, D, E, F, G und H",
+                "ga": "Togra le haghaidh cinneadh chun d\u00edol\u00faine a tharscaoileadh i nd\u00e1il le point\u00ed B, C, D, E, F, G agus H",
+                "ro": "Propunere de decizie de a ridica imunitatea \u00een temeiul punctelor B, C, D, E, F, G \u0219i H",
+                "it": "Proposta di decisione di revocare l'immunit\u00e0 di cui ai punti B, C, D, E, F, G e H",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03ac\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c5\u03bb\u03af\u03b1\u03c2 \u03c3\u03c4\u03b1 \u03c3\u03b7\u03bc\u03b5\u03af\u03b1 \u0392, \u0393, \u0394, \u0395, \u03a3\u03a4, \u0396 \u03ba\u03b1\u03b9 \u0397",
+                "nl": "Voorstel voor een besluit om de immuniteit op te heffen met betrekking tot de punten\u00a0B, C, D, E, F, G en\u00a0H",
+                "et": "Ettepanek vastu v\u00f5tta otsus puutumatuse \u00e4rav\u00f5tmise kohta, punktide B, C, D, E, F, G ja H alusel"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

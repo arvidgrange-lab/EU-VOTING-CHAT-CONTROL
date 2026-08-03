@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-04-24-VOT-ITM-946138",
+            "type": "Activity",
+            "activity_date": "2024-04-24",
+            "activity_id": "MTG-PL-2024-04-24-VOT-ITM-946138",
+            "activity_label": {
+                "hu": "A felsz\u00edni \u00e9s felsz\u00edn alatti vizek szennyez\u00e9se ***I",
+                "sk": "L\u00e1tky zne\u010dis\u0165uj\u00face povrchov\u00e9 a podzemn\u00e9 vody ***I",
+                "it": "Inquinanti delle acque superficiali e sotterranee ***I",
+                "mt": "Sustanzi li jni\u0121\u0121su l-ilma tal-wi\u010b\u010b u l-ilma ta\u2019 ta\u0127t l-art ***I",
+                "lt": "Pavir\u0161inio ir po\u017eeminio vandens ter\u0161alai ***I",
+                "et": "Pinna- ja p\u00f5hjavee saasteained ***I",
+                "sl": "Onesna\u017eevala povr\u0161inske in podzemne vode ***I",
+                "es": "Contaminantes de las aguas superficiales y subterr\u00e1neas\u00a0***I",
+                "en": "Surface water and groundwater pollutants ***I",
+                "ro": "Poluan\u021bii apelor de suprafa\u021b\u0103 \u0219i ai apelor subterane ***I",
+                "de": "Schadstoffe in Oberfl\u00e4chengew\u00e4ssern und im Grundwasser ***I",
+                "nl": "Oppervlaktewater- en grondwaterverontreinigende stoffen\u00a0***I",
+                "sv": "F\u00f6rorenande \u00e4mnen i ytvatten och grundvatten ***I",
+                "pt": "Poluentes das \u00e1guas de superf\u00edcie e subterr\u00e2neas ***I",
+                "da": "Forurenende stoffer i overfladevand og grundvand ***I",
+                "pl": "Substancje zanieczyszczaj\u0105ce wody powierzchniowe i podziemne ***I",
+                "lv": "Virszemes \u016bde\u0146u un grunts\u016bde\u0146u pies\u0101r\u0146ot\u0101ji ***I",
+                "fr": "Polluants des eaux de surface et des eaux souterraines ***I",
+                "el": "\u03a1\u03cd\u03c0\u03bf\u03b9 \u03b5\u03c0\u03b9\u03c6\u03b1\u03bd\u03b5\u03b9\u03b1\u03ba\u03ce\u03bd \u03ba\u03b1\u03b9 \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03c9\u03bd \u03c5\u03b4\u03ac\u03c4\u03c9\u03bd ***I",
+                "bg": "\u0417\u0430\u043c\u044a\u0440\u0441\u0438\u0442\u0435\u043b\u0438 \u043d\u0430 \u043f\u043e\u0432\u044a\u0440\u0445\u043d\u043e\u0441\u0442\u043d\u0438\u0442\u0435 \u0438 \u043f\u043e\u0434\u0437\u0435\u043c\u043d\u0438\u0442\u0435 \u0432\u043e\u0434\u0438 ***I",
+                "hr": "One\u010di\u0161\u0107uju\u0107e tvari u povr\u0161inskim i podzemnim vodama ***I",
+                "ga": "Truaille\u00e1in uisce dromchla agus screamhuisce ***I",
+                "cs": "L\u00e1tky zne\u010di\u0161\u0165uj\u00edc\u00ed povrchov\u00e9 a podzemn\u00ed vody ***I",
+                "mul": "Polluants des eaux de surface et des eaux souterraines - Surface water and groundwater pollutants - Schadstoffe in Oberfl\u00e4chengew\u00e4ssern und im Grundwasser",
+                "fi": "Pinta- ja pohjavesi\u00e4 pilaavat aineet ***I"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0238"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-04-24-DEC-168479"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-04-24-OJ-ITM-V-99"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-04-24-VOT-ITM-045"
+            ],
+            "notation_dlvId": "946138",
+            "structuredLabel": {
+                "lt": "<structuredLabel><title>Pavir\u0161inio ir po\u017eeminio vandens ter\u0161alai ***I</title><label>Prane\u0161imas: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u03a1\u03cd\u03c0\u03bf\u03b9 \u03b5\u03c0\u03b9\u03c6\u03b1\u03bd\u03b5\u03b9\u03b1\u03ba\u03ce\u03bd \u03ba\u03b1\u03b9 \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03c9\u03bd \u03c5\u03b4\u03ac\u03c4\u03c9\u03bd ***I</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Truaille\u00e1in uisce dromchla agus screamhuisce ***I</title><label>Tuarasc\u00e1il: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>L\u00e1tky zne\u010dis\u0165uj\u00face povrchov\u00e9 a podzemn\u00e9 vody ***I</title><label>Spr\u00e1va: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>F\u00f6rorenande \u00e4mnen i ytvatten och grundvatten ***I</title><label>Bet\u00e4nkande: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>L\u00e1tky zne\u010di\u0161\u0165uj\u00edc\u00ed povrchov\u00e9 a podzemn\u00ed vody ***I</title><label>Zpr\u00e1va: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Virszemes \u016bde\u0146u un grunts\u016bde\u0146u pies\u0101r\u0146ot\u0101ji ***I</title><label>Zi\u0146ojums: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Pinta- ja pohjavesi\u00e4 pilaavat aineet ***I</title><label>Mietint\u00f6: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0417\u0430\u043c\u044a\u0440\u0441\u0438\u0442\u0435\u043b\u0438 \u043d\u0430 \u043f\u043e\u0432\u044a\u0440\u0445\u043d\u043e\u0441\u0442\u043d\u0438\u0442\u0435 \u0438 \u043f\u043e\u0434\u0437\u0435\u043c\u043d\u0438\u0442\u0435 \u0432\u043e\u0434\u0438 ***I</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Oppervlaktewater- en grondwaterverontreinigende stoffen\u00a0***I</title><label>Verslag: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Polluants des eaux de surface et des eaux souterraines ***I</title><label>Rapport: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Contaminantes de las aguas superficiales y subterr\u00e1neas\u00a0***I</title><label>Informe: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Onesna\u017eevala povr\u0161inske in podzemne vode ***I</title><label>Poro\u010dilo: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Schadstoffe in Oberfl\u00e4chengew\u00e4ssern und im Grundwasser ***I</title><label>Bericht: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Inquinanti delle acque superficiali e sotterranee ***I</title><label>Relazione: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>A felsz\u00edni \u00e9s felsz\u00edn alatti vizek szennyez\u00e9se ***I</title><label>Jelent\u00e9s: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Surface water and groundwater pollutants ***I</title><label>Report: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Sustanzi li jni\u0121\u0121su l-ilma tal-wi\u010b\u010b u l-ilma ta\u2019 ta\u0127t l-art ***I</title><label>Rapport: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Poluan\u021bii apelor de suprafa\u021b\u0103 \u0219i ai apelor subterane ***I</title><label>Raport: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Forurenende stoffer i overfladevand og grundvand ***I</title><label>Bet\u00e6nkning: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Pinna- ja p\u00f5hjavee saasteained ***I</title><label>Raport: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Substancje zanieczyszczaj\u0105ce wody powierzchniowe i podziemne ***I</title><label>Sprawozdanie: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Poluentes das \u00e1guas de superf\u00edcie e subterr\u00e2neas ***I</title><label>Relat\u00f3rio: Milan Brglez (A9-0238/2023)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>One\u010di\u0161\u0107uju\u0107e tvari u povr\u0161inskim i podzemnim vodama ***I</title><label>Izvje\u0161\u0107e: Milan Brglez (A9-0238/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

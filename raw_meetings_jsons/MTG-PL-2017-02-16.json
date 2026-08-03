@@ -1,0 +1,665 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580525-5",
+            "activity_label": {
+                "fr": "Renforcement des v\u00e9rifications dans les bases de donn\u00e9es pertinentes aux fronti\u00e8res ext\u00e9rieures"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0218"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-005"
+            ],
+            "notation_dlvId": "580525",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renforcement des v\u00e9rifications dans les bases de donn\u00e9es pertinentes aux fronti\u00e8res ext\u00e9rieures</title><label>Rapport: Monica Macovei (A8-0218/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0307",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580527-7",
+            "activity_label": {
+                "fr": "Am\u00e9liorer le fonctionnement de l'Union europ\u00e9enne en mettant \u00e0 profit le potentiel du trait\u00e9 de Lisbonne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0386"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-60"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-007"
+            ],
+            "notation_dlvId": "580527",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Am\u00e9liorer le fonctionnement de l'Union europ\u00e9enne en mettant \u00e0 profit le potentiel du trait\u00e9 de Lisbonne</title><label>Rapport: Mercedes Bresso et  Elmar Brok (A8-0386/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2249",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580532-12",
+            "activity_label": {
+                "fr": "Strat\u00e9gie de l'aviation pour l'Europe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0021"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-012"
+            ],
+            "notation_dlvId": "580532",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie de l'aviation pour l'Europe</title><label>Rapport: Pavel Teli\u010dka (A8-0021/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2062",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580861-2",
+            "activity_label": {
+                "fr": "Ex\u00e9cutions au Kowe\u00eft et \u00e0 Bahre\u00efn"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0161",
+                "eli/dl/doc/B-8-2017-0162",
+                "eli/dl/doc/B-8-2017-0151",
+                "eli/dl/doc/B-8-2017-0154",
+                "eli/dl/doc/B-8-2017-0155",
+                "eli/dl/doc/B-8-2017-0165",
+                "eli/dl/doc/B-8-2017-0150"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-002"
+            ],
+            "notation_dlvId": "580861",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ex\u00e9cutions au Kowe\u00eft et \u00e0 Bahre\u00efn</title><label>Propositions de r\u00e9solution: B8-0150/2017, B8-0151/2017, B8-0154/2017, B8-0155/2017, B8-0161/2017, B8-0162/2017, B8-0165/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2564",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580859-1",
+            "activity_label": {
+                "fr": "Situation des droits de l'homme et de la d\u00e9mocratie au Nicaragua: le cas de Francisca Ram\u00edrez"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0160",
+                "eli/dl/doc/B-8-2017-0168",
+                "eli/dl/doc/B-8-2017-0169",
+                "eli/dl/doc/B-8-2017-0163",
+                "eli/dl/doc/B-8-2017-0158",
+                "eli/dl/doc/B-8-2017-0156"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-001"
+            ],
+            "notation_dlvId": "580859",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation des droits de l'homme et de la d\u00e9mocratie au Nicaragua: le cas de Francisca Ram\u00edrez</title><label>Propositions de r\u00e9solution: B8-0156/2017, B8-0158/2017, B8-0160/2017, B8-0163/2017, B8-0168/2017, B8-0169/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2563",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580534-11",
+            "activity_label": {
+                "fr": "Investir dans la croissance et l'emploi - optimiser la contribution des Fonds structurels et d'investissement europ\u00e9ens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0385"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-011"
+            ],
+            "notation_dlvId": "580534",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Investir dans la croissance et l'emploi - optimiser la contribution des Fonds structurels et d'investissement europ\u00e9ens</title><label>Rapport: Lambert van Nistelrooij (A8-0385/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2148",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580533-10",
+            "activity_label": {
+                "fr": "Initiative europ\u00e9enne sur l'informatique en nuage"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0006"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-010"
+            ],
+            "notation_dlvId": "580533",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Initiative europ\u00e9enne sur l'informatique en nuage</title><label>Rapport: Jerzy Buzek (A8-0006/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2145",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580528-9",
+            "activity_label": {
+                "fr": "R\u00e8gles de droit civil sur la robotique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0005"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-009"
+            ],
+            "notation_dlvId": "580528",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8gles de droit civil sur la robotique</title><label>Rapport: Mady Delvaux (A8-0005/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2103",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580524-4",
+            "activity_label": {
+                "fr": "Lutte contre le terrorisme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0228"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-004"
+            ],
+            "notation_dlvId": "580524",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lutte contre le terrorisme</title><label>Rapport: Monika Hohlmeier (A8-0228/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0281",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580526-6",
+            "activity_label": {
+                "fr": "\u00c9volutions et adaptations possibles de la structure institutionnelle actuelle de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0390"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-61"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-006"
+            ],
+            "notation_dlvId": "580526",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9volutions et adaptations possibles de la structure institutionnelle actuelle de l'Union europ\u00e9enne</title><label>Rapport: Guy Verhofstadt (A8-0390/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2248",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580862-3",
+            "activity_label": {
+                "fr": "Guatemala, en particulier la situation des d\u00e9fenseurs des droits de l'homme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0167",
+                "eli/dl/doc/B-8-2017-0166",
+                "eli/dl/doc/B-8-2017-0159",
+                "eli/dl/doc/B-8-2017-0164",
+                "eli/dl/doc/B-8-2017-0152",
+                "eli/dl/doc/B-8-2017-0153",
+                "eli/dl/doc/B-8-2017-0157"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-003"
+            ],
+            "notation_dlvId": "580862",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Guatemala, en particulier la situation des d\u00e9fenseurs des droits de l'homme</title><label>Propositions de r\u00e9solution: B8-0152/2017, B8-0153/2017, B8-0157/2017, B8-0159/2017, B8-0164/2017, B8-0166/2017, B8-0167/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2565",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-580863-13",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre tardive des programmes op\u00e9rationnels des Fonds ESI - incidences sur la politique de coh\u00e9sion et voie \u00e0 suivre"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0149"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-013"
+            ],
+            "notation_dlvId": "580863",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre tardive des programmes op\u00e9rationnels des Fonds ESI - incidences sur la politique de coh\u00e9sion et voie \u00e0 suivre</title><label>Proposition de r\u00e9solution: B8-0149/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3008",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8",
+            "type": "Activity",
+            "activity_date": "2017-02-16",
+            "activity_id": "MTG-PL-2017-02-16-VOT-ITM-582080-8",
+            "activity_label": {
+                "fr": "Capacit\u00e9 budg\u00e9taire de la zone euro"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0038"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-02-16-OJ-ITM-V-58"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-02-16-VOT-ITM-008"
+            ],
+            "notation_dlvId": "582080",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Capacit\u00e9 budg\u00e9taire de la zone euro</title><label>Rapport: Reimer B\u00f6ge et  Pervenche Ber\u00e8s (A8-0038/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-02-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580525-5",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580527-7",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580532-12",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580861-2",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580859-1",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580534-11",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580533-10",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580528-9",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580524-4",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580526-6",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580862-3",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-580863-13",
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2344",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-02-16-VOT-ITM-582080-8"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939745",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939745",
+            "activity_label": {
+                "fr": "R\u00e9vision de l\u2019initiative europ\u00e9enne sur les pollinisateurs \u2014 Un nouveau pacte en faveur des pollinisateurs",
+                "mul": "R\u00e9vision de l\u2019initiative europ\u00e9enne sur les pollinisateurs \u2014 Un nouveau pacte en faveur des pollinisateurs - Revised pollinators initiative -  a new deal for pollinators  - \u00dcberarbeitung der EU-Initiative f\u00fcr Best\u00e4uber \u2013 Ein neuer Deal f\u00fcr Best\u00e4uber"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0463"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939745",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 4,
+            "epvoc:amendmentsTabledTotal": 4,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9vision de l\u2019initiative europ\u00e9enne sur les pollinisateurs \u2014 Un nouveau pacte en faveur des pollinisateurs</title><label>Propositions de r\u00e9solution: B9-0463/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

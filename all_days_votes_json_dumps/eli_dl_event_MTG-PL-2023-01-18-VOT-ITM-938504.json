@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938504",
+            "type": "Activity",
+            "activity_date": "2023-01-18",
+            "activity_id": "MTG-PL-2023-01-18-VOT-ITM-938504",
+            "activity_label": {
+                "fr": "Protection des consommateurs en mati\u00e8re de jeux vid\u00e9o en ligne: approche \u00e0 l'\u00e9chelle du march\u00e9 unique europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0300"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-18-OJ-ITM-V-16",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-18-VOT-ITM-002"
+            ],
+            "notation_dlvId": "938504",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des consommateurs en mati\u00e8re de jeux vid\u00e9o en ligne: approche \u00e0 l'\u00e9chelle du march\u00e9 unique europ\u00e9en</title><label>Rapport: Adriana Maldonado L\u00f3pez (A9-0300/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

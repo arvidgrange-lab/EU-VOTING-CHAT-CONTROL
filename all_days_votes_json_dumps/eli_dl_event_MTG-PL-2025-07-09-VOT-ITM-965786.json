@@ -1,0 +1,98 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-07-09-VOT-ITM-965786",
+            "type": "Activity",
+            "activity_date": "2025-07-09",
+            "activity_id": "MTG-PL-2025-07-09-VOT-ITM-965786",
+            "activity_label": {
+                "et": "Tooteohutus ja \u00f5igusnormidele vastavus e-kaubanduses ja v\u00e4ljastpoolt ELi importimisel",
+                "lv": "Ra\u017eojumu dro\u0161ums un atbilst\u012bba normat\u012bvaj\u0101m pras\u012bb\u0101m e-komercijas kontekst\u0101 un saist\u012bb\u0101 ar importu no \u0101rpuskopienas valst\u012bm",
+                "lt": "Gamini\u0173 sauga ir atitiktis teis\u0117s akt\u0173 reikalavimams e. prekybos ir importo i\u0161 ES nepriklausan\u010di\u0173 \u0161ali\u0173 kontekste",
+                "ga": "S\u00e1bh\u00e1ilteacht t\u00e1irg\u00ed agus comhl\u00edonadh rial\u00e1la maidir le r\u00edomhthr\u00e1cht\u00e1il agus allmhair\u00ed nach de chuid an Aontais iad",
+                "es": "Seguridad de los productos y cumplimiento de la normativa en el comercio electr\u00f3nico y las importaciones procedentes de terceros pa\u00edses",
+                "ro": "Siguran\u021ba produselor \u0219i conformitatea cu reglement\u0103rile \u00een domeniul comer\u021bului electronic \u0219i al importurilor din \u021b\u0103rile ter\u021be",
+                "da": "Produktsikkerhed og overholdelse af regler i forbindelse med e-handel og import fra lande uden for EU",
+                "it": "Sicurezza dei prodotti e conformit\u00e0 normativa nel commercio elettronico e nelle importazioni provenienti da paesi terzi",
+                "mt": "Is-sikurezza tal-prodotti u l-konformit\u00e0 regolatorja fil-kummer\u010b elettroniku u l-importazzjonijiet minn pajji\u017ci mhux tal-UE",
+                "bg": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442 \u043d\u0430 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0438\u0442\u0435 \u0438 \u0441\u043f\u0430\u0437\u0432\u0430\u043d\u0435 \u043d\u0430 \u0440\u0435\u0433\u0443\u043b\u0430\u0442\u043e\u0440\u043d\u0438\u0442\u0435 \u0440\u0430\u0437\u043f\u043e\u0440\u0435\u0434\u0431\u0438 \u043f\u0440\u0438 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u0442\u0430 \u0442\u044a\u0440\u0433\u043e\u0432\u0438\u044f \u0438 \u0432\u043d\u043e\u0441\u0430 \u043e\u0442 \u0434\u044a\u0440\u0436\u0430\u0432\u0438 \u0438\u0437\u0432\u044a\u043d \u0415\u0421",
+                "sl": "Varnost proizvodov in skladnost z zakonodajo pri e-trgovanju in uvozu iz dr\u017eav, ki niso \u010dlanice EU",
+                "hr": "Sigurnost proizvoda i uskla\u0111enost s propisima u e-trgovini i uvozu iz tre\u0107ih zemalja",
+                "en": "Product safety and regulatory compliance in e-commerce and non-EU imports",
+                "nl": "Productveiligheid en naleving van de regelgeving in het geval van e-commerce en invoer vanuit niet-EU-landen",
+                "sk": "Bezpe\u010dnos\u0165 v\u00fdrobkov a dodr\u017eiavanie predpisov v\u00a0elektronickom obchode a pri dovoze z kraj\u00edn mimo E\u00da",
+                "mul": "S\u00e9curit\u00e9 des produits et conformit\u00e9 r\u00e9glementaire dans le commerce \u00e9lectronique et les importations en provenance de pays tiers - Product safety and regulatory compliance in e-commerce and non-EU imports - Produktsicherheit und Einhaltung von Vorschriften im elektronischen Handel und bei Einfuhren aus Drittstaaten",
+                "el": "\u0391\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1 \u03c4\u03c9\u03bd \u03c0\u03c1\u03bf\u03ca\u03cc\u03bd\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03c3\u03c5\u03bc\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7 \u03c3\u03c4\u03bf \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03b5\u03bc\u03c0\u03cc\u03c1\u03b9\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03b5\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ad\u03c2 \u03b1\u03c0\u03cc \u03c4\u03c1\u03af\u03c4\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2",
+                "de": "Produktsicherheit und Einhaltung von Vorschriften im elektronischen Handel und bei Einfuhren aus Drittstaaten",
+                "cs": "Bezpe\u010dnost v\u00fdrobk\u016f a dodr\u017eov\u00e1n\u00ed pr\u00e1vn\u00edch p\u0159edpis\u016f v elektronick\u00e9m obchodu a p\u0159i dovozu ze zem\u00ed mimo EU",
+                "pl": "Bezpiecze\u0144stwo produkt\u00f3w oraz zgodno\u015b\u0107 regulacyjna w handlu internetowym i przywozie spoza UE",
+                "pt": "Seguran\u00e7a dos produtos e conformidade regulamentar no com\u00e9rcio eletr\u00f3nico e nas importa\u00e7\u00f5es provenientes de pa\u00edses terceiros",
+                "fi": "Tuoteturvallisuus ja s\u00e4\u00e4ntelyn noudattaminen s\u00e4hk\u00f6isess\u00e4 kaupank\u00e4ynniss\u00e4 ja tuonnissa EU:n ulkopuolelta",
+                "sv": "Produkts\u00e4kerhet och regelefterlevnad inom e-handel och import fr\u00e5n l\u00e4nder utanf\u00f6r EU",
+                "hu": "Term\u00e9kbiztons\u00e1g \u00e9s jogszab\u00e1lyi megfelel\u00e9s az e-kereskedelemben \u00e9s a nem uni\u00f3s importban",
+                "fr": "S\u00e9curit\u00e9 des produits et conformit\u00e9 r\u00e9glementaire dans le commerce \u00e9lectronique et les importations en provenance de pays tiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2025-0133"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2025-07-09-DEC-177974",
+                "eli/dl/event/MTG-PL-2025-07-09-DEC-177977",
+                "eli/dl/event/MTG-PL-2025-07-09-DEC-177972",
+                "eli/dl/event/MTG-PL-2025-07-09-DEC-177979",
+                "eli/dl/event/MTG-PL-2025-07-09-DEC-177981",
+                "eli/dl/event/MTG-PL-2025-07-09-DEC-177978",
+                "eli/dl/event/MTG-PL-2025-07-09-DEC-177742",
+                "eli/dl/event/MTG-PL-2025-07-09-DEC-177975",
+                "eli/dl/event/MTG-PL-2025-07-09-DEC-177982"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2025-07-09-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2025-07-09-VOT-ITM-008"
+            ],
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2025-07-09-VOT-ITM-965786-SPLIT-2",
+                "eli/dl/event/MTG-PL-2025-07-09-VOT-ITM-965786-RCV-1",
+                "eli/dl/event/MTG-PL-2025-07-09-VOT-ITM-965786-SPLIT-1",
+                "eli/dl/event/MTG-PL-2025-07-09-VOT-ITM-965786-SPLIT-3"
+            ],
+            "notation_dlvId": "965786",
+            "structuredLabel": {
+                "ro": "<structuredLabel><title>Siguran\u021ba produselor \u0219i conformitatea cu reglement\u0103rile \u00een domeniul comer\u021bului electronic \u0219i al importurilor din \u021b\u0103rile ter\u021be</title><label>Raport: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Is-sikurezza tal-prodotti u l-konformit\u00e0 regolatorja fil-kummer\u010b elettroniku u l-importazzjonijiet minn pajji\u017ci mhux tal-UE</title><label>Rapport: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Sigurnost proizvoda i uskla\u0111enost s propisima u e-trgovini i uvozu iz tre\u0107ih zemalja</title><label>Izvje\u0161\u0107e: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Seguridad de los productos y cumplimiento de la normativa en el comercio electr\u00f3nico y las importaciones procedentes de terceros pa\u00edses</title><label>Informe: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>S\u00e9curit\u00e9 des produits et conformit\u00e9 r\u00e9glementaire dans le commerce \u00e9lectronique et les importations en provenance de pays tiers</title><label>Rapport: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Product safety and regulatory compliance in e-commerce and non-EU imports</title><label>Report: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Bezpe\u010dnost v\u00fdrobk\u016f a dodr\u017eov\u00e1n\u00ed pr\u00e1vn\u00edch p\u0159edpis\u016f v elektronick\u00e9m obchodu a p\u0159i dovozu ze zem\u00ed mimo EU</title><label>Zpr\u00e1va: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Varnost proizvodov in skladnost z zakonodajo pri e-trgovanju in uvozu iz dr\u017eav, ki niso \u010dlanice EU</title><label>Poro\u010dilo: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Ra\u017eojumu dro\u0161ums un atbilst\u012bba normat\u012bvaj\u0101m pras\u012bb\u0101m e-komercijas kontekst\u0101 un saist\u012bb\u0101 ar importu no \u0101rpuskopienas valst\u012bm</title><label>Zi\u0146ojums: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Bezpe\u010dnos\u0165 v\u00fdrobkov a dodr\u017eiavanie predpisov v\u00a0elektronickom obchode a pri dovoze z kraj\u00edn mimo E\u00da</title><label>Spr\u00e1va: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0391\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1 \u03c4\u03c9\u03bd \u03c0\u03c1\u03bf\u03ca\u03cc\u03bd\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03c3\u03c5\u03bc\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7 \u03c3\u03c4\u03bf \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03b5\u03bc\u03c0\u03cc\u03c1\u03b9\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03b5\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ad\u03c2 \u03b1\u03c0\u03cc \u03c4\u03c1\u03af\u03c4\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Tuoteturvallisuus ja s\u00e4\u00e4ntelyn noudattaminen s\u00e4hk\u00f6isess\u00e4 kaupank\u00e4ynniss\u00e4 ja tuonnissa EU:n ulkopuolelta</title><label>Mietint\u00f6: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>S\u00e1bh\u00e1ilteacht t\u00e1irg\u00ed agus comhl\u00edonadh rial\u00e1la maidir le r\u00edomhthr\u00e1cht\u00e1il agus allmhair\u00ed nach de chuid an Aontais iad</title><label>Tuarasc\u00e1il: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Bezpiecze\u0144stwo produkt\u00f3w oraz zgodno\u015b\u0107 regulacyjna w handlu internetowym i przywozie spoza UE</title><label>Sprawozdanie: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Term\u00e9kbiztons\u00e1g \u00e9s jogszab\u00e1lyi megfelel\u00e9s az e-kereskedelemben \u00e9s a nem uni\u00f3s importban</title><label>Jelent\u00e9s: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Sicurezza dei prodotti e conformit\u00e0 normativa nel commercio elettronico e nelle importazioni provenienti da paesi terzi</title><label>Relazione: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442 \u043d\u0430 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0438\u0442\u0435 \u0438 \u0441\u043f\u0430\u0437\u0432\u0430\u043d\u0435 \u043d\u0430 \u0440\u0435\u0433\u0443\u043b\u0430\u0442\u043e\u0440\u043d\u0438\u0442\u0435 \u0440\u0430\u0437\u043f\u043e\u0440\u0435\u0434\u0431\u0438 \u043f\u0440\u0438 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u0442\u0430 \u0442\u044a\u0440\u0433\u043e\u0432\u0438\u044f \u0438 \u0432\u043d\u043e\u0441\u0430 \u043e\u0442 \u0434\u044a\u0440\u0436\u0430\u0432\u0438 \u0438\u0437\u0432\u044a\u043d \u0415\u0421</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Produktsikkerhed og overholdelse af regler i forbindelse med e-handel og import fra lande uden for EU</title><label>Bet\u00e6nkning: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Produktsicherheit und Einhaltung von Vorschriften im elektronischen Handel und bei Einfuhren aus Drittstaaten</title><label>Bericht: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Productveiligheid en naleving van de regelgeving in het geval van e-commerce en invoer vanuit niet-EU-landen</title><label>Verslag: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Tooteohutus ja \u00f5igusnormidele vastavus e-kaubanduses ja v\u00e4ljastpoolt ELi importimisel</title><label>Raport: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Produkts\u00e4kerhet och regelefterlevnad inom e-handel och import fr\u00e5n l\u00e4nder utanf\u00f6r EU</title><label>Bet\u00e4nkande: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Seguran\u00e7a dos produtos e conformidade regulamentar no com\u00e9rcio eletr\u00f3nico e nas importa\u00e7\u00f5es provenientes de pa\u00edses terceiros</title><label>Relat\u00f3rio: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Gamini\u0173 sauga ir atitiktis teis\u0117s akt\u0173 reikalavimams e. prekybos ir importo i\u0161 ES nepriklausan\u010di\u0173 \u0161ali\u0173 kontekste</title><label>Prane\u0161imas: Salvatore De Meo (A10-0133/2025)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

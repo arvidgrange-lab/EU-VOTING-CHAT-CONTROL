@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-04-29-DEC-191888",
+            "type": "Vote",
+            "activity_date": "2026-04-29",
+            "activity_id": "MTG-PL-2026-04-29-DEC-191888",
+            "activity_order": "2.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "191888",
+            "headingLabel": {
+                "hu": "Mentes\u00edt\u00e9sr\u0151l sz\u00f3l\u00f3 hat\u00e1rozat",
+                "sv": "Beslut om beviljande av ansvarsfrihet",
+                "pt": "Decis\u00e3o de quita\u00e7\u00e3o",
+                "et": "Eelarve t\u00e4itmisele heakskiidu andmise otsus",
+                "it": "Decisione sul discarico",
+                "fr": "D\u00e9cision sur la d\u00e9charge",
+                "ro": "Decizie privind desc\u0103rcarea de gestiune",
+                "sk": "Rozhodnutie o absolut\u00f3riu",
+                "mt": "De\u010bi\u017cjoni dwar il-kwittanza",
+                "lt": "Sprendimas d\u0117l biud\u017eeto \u012fvykdymo patvirtinimo",
+                "nl": "Besluit over de kwijting",
+                "lv": "L\u0113mums par bud\u017eeta izpildes apstiprin\u0101\u0161anu",
+                "en": "Decision on discharge",
+                "ga": "Cinneadh maidir le hurscaoileadh",
+                "de": "Entlastungsbeschluss",
+                "fi": "p\u00e4\u00e4t\u00f6s vastuuvapaudesta",
+                "sl": "sklep o razre\u0161nici",
+                "bg": "\u0420\u0435\u0448\u0435\u043d\u0438\u0435 \u043e\u0442\u043d\u043e\u0441\u043d\u043e \u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0432\u0430\u043d\u0435\u0442\u043e \u043e\u0442 \u043e\u0442\u0433\u043e\u0432\u043e\u0440\u043d\u043e\u0441\u0442 \u0432\u044a\u0432 \u0432\u0440\u044a\u0437\u043a\u0430 \u0441 \u0438\u0437\u043f\u044a\u043b\u043d\u0435\u043d\u0438\u0435\u0442\u043e \u043d\u0430 \u0431\u044e\u0434\u0436\u0435\u0442\u0430",
+                "da": "Afg\u00f8relse om decharge",
+                "es": "Decisi\u00f3n sobre la aprobaci\u00f3n de la gesti\u00f3n",
+                "el": "\u0391\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae",
+                "hr": "Odluka o razrje\u0161nici",
+                "pl": "Decyzja w sprawie absolutorium",
+                "cs": "Rozhodnut\u00ed o ud\u011blen\u00ed absolutoria"
+            },
+            "referenceText": {
+                "sk": "N\u00e1vrh rozhodnutia",
+                "lt": "Pasi\u016blymas d\u0117l sprendimo",
+                "lv": "L\u0113muma priek\u0161likums",
+                "sv": "F\u00f6rslag till beslut",
+                "et": "Ettepanek v\u00f5tta vastu otsus",
+                "fi": "p\u00e4\u00e4t\u00f6sehdotus",
+                "hu": "Hat\u00e1rozatra ir\u00e1nyul\u00f3 javaslat",
+                "en": "Proposal for a decision",
+                "da": "Forslag til afg\u00f8relse",
+                "sl": "predlog sklepa",
+                "cs": "n\u00e1vrh rozhodnut\u00ed",
+                "mt": "Proposta g\u0127al de\u010bi\u017cjoni",
+                "pt": "Proposta de decis\u00e3o",
+                "fr": "Proposition de d\u00e9cision",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7\u03c2",
+                "it": "Proposta di decisione",
+                "ro": "Propunere de decizie",
+                "nl": "Ontwerpbesluit",
+                "ga": "Togra le haghaidh Cinnidh",
+                "hr": "Prijedlog odluke",
+                "pl": "Projekt decyzji",
+                "de": "Vorschlag f\u00fcr einen Beschluss",
+                "es": "Propuesta de Decisi\u00f3n"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938686",
+            "activity_label": {
+                "fr": "Cr\u00e9ation d\u2019une sous-commission \u00abSant\u00e9 publique\u00bb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0120"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "938686",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation d\u2019une sous-commission \u00abSant\u00e9 publique\u00bb</title><label>Proposition de d\u00e9cision: B9-0120/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

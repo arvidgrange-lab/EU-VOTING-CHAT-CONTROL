@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939380",
+            "activity_label": {
+                "fr": "\u00c9change d\u2019informations et coop\u00e9ration concernant les infractions terroristes: alignement avec les r\u00e8gles de l'Union en mati\u00e8re de protection des donn\u00e9es \u00e0 caract\u00e8re personnel"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0041"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939380",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change d\u2019informations et coop\u00e9ration concernant les infractions terroristes: alignement avec les r\u00e8gles de l'Union en mati\u00e8re de protection des donn\u00e9es \u00e0 caract\u00e8re personnel</title><label>Rapport: Patryk Jaki (A9-0041/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

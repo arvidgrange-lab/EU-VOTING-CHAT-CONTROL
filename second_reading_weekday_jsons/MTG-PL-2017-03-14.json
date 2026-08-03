@@ -1,0 +1,648 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588896-10",
+            "activity_label": {
+                "fr": "\u00c9galit\u00e9 de traitement entre les femmes et les hommes dans l'acc\u00e8s \u00e0 des biens et services et la fourniture de biens et services"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0043"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "588896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9galit\u00e9 de traitement entre les femmes et les hommes dans l'acc\u00e8s \u00e0 des biens et services et la fourniture de biens et services</title><label>Rapport: Agnieszka Koz\u0142owska-Rajewicz (A8-0043/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2012",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-589308-4",
+            "activity_label": {
+                "fr": "Contr\u00f4le de l'acquisition et de la d\u00e9tention d'armes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0251"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "589308",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contr\u00f4le de l'acquisition et de la d\u00e9tention d'armes</title><label>Rapport: Vicky Ford (A8-0251/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0269",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588909-7",
+            "activity_label": {
+                "fr": "Mise en d\u00e9charge des d\u00e9chets"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0031"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-56"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "588909",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en d\u00e9charge des d\u00e9chets</title><label>Rapport: Simona Bonaf\u00e8 (A8-0031/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0274",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588876-2",
+            "activity_label": {
+                "fr": "Mercure"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0313"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "588876",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mercure</title><label>Rapport: Stefan Eck (A8-0313/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0023",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588891-3",
+            "activity_label": {
+                "fr": "Engagement \u00e0 long terme des actionnaires et d\u00e9claration sur la gouvernance d'entreprise"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0158"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-52"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "588891",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Engagement \u00e0 long terme des actionnaires et d\u00e9claration sur la gouvernance d'entreprise</title><label>Rapport: Sergio Gaetano Cofferati (A8-0158/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0121",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588905-13",
+            "activity_label": {
+                "fr": "Normes minimales relatives \u00e0 la protection des lapins d'\u00e9levage"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0011"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-72"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-013"
+            ],
+            "notation_dlvId": "588905",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normes minimales relatives \u00e0 la protection des lapins d'\u00e9levage</title><label>Rapport: Stefan Eck (A8-0011/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2077",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588893-9",
+            "activity_label": {
+                "fr": "L'\u00e9galit\u00e9 entre les femmes et les hommes dans l'Union europ\u00e9enne en 2014-2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0046"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "588893",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'\u00e9galit\u00e9 entre les femmes et les hommes dans l'Union europ\u00e9enne en 2014-2015</title><label>Rapport: Ernest Urtasun (A8-0046/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2249",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588897-11",
+            "activity_label": {
+                "fr": "Fonds de l'Union pour l'\u00e9galit\u00e9 des genres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0033"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "588897",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds de l'Union pour l'\u00e9galit\u00e9 des genres</title><label>Rapport: Clare Moody (A8-0033/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2144",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588908-5",
+            "activity_label": {
+                "fr": "V\u00e9hicules hors d'usage, d\u00e9chets de piles et d'accumulateurs et _x000D_\nd\u00e9chets d'\u00e9quipements \u00e9lectriques et \u00e9lectroniques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0013"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-57"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "588908",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>V\u00e9hicules hors d'usage, d\u00e9chets de piles et d'accumulateurs et _x000D_\nd\u00e9chets d'\u00e9quipements \u00e9lectriques et \u00e9lectroniques</title><label>Rapport: Simona Bonaf\u00e8 (A8-0013/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0272",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588910-6",
+            "activity_label": {
+                "fr": "D\u00e9chets"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0034"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "588910",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9chets</title><label>Rapport: Simona Bonaf\u00e8 (A8-0034/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0275",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588911-8",
+            "activity_label": {
+                "fr": "Emballages et d\u00e9chets d'emballages"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0029"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-54"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "588911",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Emballages et d\u00e9chets d'emballages</title><label>Rapport: Simona Bonaf\u00e8 (A8-0029/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0276",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588898-12",
+            "activity_label": {
+                "fr": "Incidences des m\u00e9gadonn\u00e9es sur les droits fondamentaux"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0044"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-012"
+            ],
+            "notation_dlvId": "588898",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Incidences des m\u00e9gadonn\u00e9es sur les droits fondamentaux</title><label>Rapport: Ana Gomes (A8-0044/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2225",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1",
+            "type": "Activity",
+            "activity_date": "2017-03-14",
+            "activity_id": "MTG-PL-2017-03-14-VOT-ITM-588906-1",
+            "activity_label": {
+                "fr": "Responsabilit\u00e9 du propri\u00e9taire et soins aux \u00e9quid\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0014"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-14-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "588906",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Responsabilit\u00e9 du propri\u00e9taire et soins aux \u00e9quid\u00e9s</title><label>Rapport: Julie Girling (A8-0014/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588896-10",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-589308-4",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588909-7",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588876-2",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588891-3",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588905-13",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588893-9",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588897-11",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588908-5",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588910-6",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588911-8",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588898-12",
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2078",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-14-VOT-ITM-588906-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

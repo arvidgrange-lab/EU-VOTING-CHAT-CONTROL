@@ -1,0 +1,685 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-842184",
+            "activity_label": {
+                "fr": "Situation en Bolivie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0191",
+                "eli/dl/doc/B-9-2019-0192",
+                "eli/dl/doc/B-9-2019-0189",
+                "eli/dl/doc/B-9-2019-0187",
+                "eli/dl/doc/B-9-2019-0190",
+                "eli/dl/doc/B-9-2019-0188"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-006"
+            ],
+            "notation_dlvId": "842184",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Bolivie</title><label>Propositions de r\u00e9solution: B9-0187/2019, B9-0188/2019, B9-0189/2019, B9-0190/2019, B9-0191/2019, B9-0192/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2896",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-842748",
+            "activity_label": {
+                "fr": "La crise de l'Organe d'appel de l'OMC"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0181"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-012"
+            ],
+            "notation_dlvId": "842748",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La crise de l'Organe d'appel de l'OMC</title><label>Proposition de r\u00e9solution: B9-0181/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2918",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-842750",
+            "activity_label": {
+                "fr": "Mesures r\u00e9centes prises par la F\u00e9d\u00e9ration de Russie contre les juges, procureurs et enqu\u00eateurs lituaniens participant \u00e0 l'enqu\u00eate sur les tragiques \u00e9v\u00e9nements du 13 janvier 1991 \u00e0 Vilnius"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0186",
+                "eli/dl/doc/B-9-2019-0185",
+                "eli/dl/doc/B-9-2019-0184",
+                "eli/dl/doc/B-9-2019-0182",
+                "eli/dl/doc/B-9-2019-0183"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-58"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-010"
+            ],
+            "notation_dlvId": "842750",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures r\u00e9centes prises par la F\u00e9d\u00e9ration de Russie contre les juges, procureurs et enqu\u00eateurs lituaniens participant \u00e0 l'enqu\u00eate sur les tragiques \u00e9v\u00e9nements du 13 janvier 1991 \u00e0 Vilnius</title><label>Propositions de r\u00e9solution: B9-0182/2019, B9-0183/2019, B9-0184/2019, B9-0185/2019, B9-0186/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2938",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-843499",
+            "activity_label": {
+                "fr": "Accord entre l'UE et les \u00c9tats-Unis concernant l'attribution d'un contingent tarifaire pour les importations de viande bovine de haute qualit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0038"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-004"
+            ],
+            "notation_dlvId": "843499",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord entre l'UE et les \u00c9tats-Unis concernant l'attribution d'un contingent tarifaire pour les importations de viande bovine de haute qualit\u00e9 </title><label>Recommandation: Bernd Lange (A9-0038/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0142",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-842736",
+            "activity_label": {
+                "fr": "Adh\u00e9sion de l'Union europ\u00e9enne \u00e0 la convention d'Istanbul et autres mesures de lutte contre la violence \u00e0 caract\u00e8re sexiste"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0224",
+                "eli/dl/doc/B-9-2019-0225",
+                "eli/dl/doc/B-9-2019-0226"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-18"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-009"
+            ],
+            "notation_dlvId": "842736",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion de l'Union europ\u00e9enne \u00e0 la convention d'Istanbul et autres mesures de lutte contre la violence \u00e0 caract\u00e8re sexiste</title><label>Propositions de r\u00e9solution: B9-0224/2019, B9-0225/2019, B9-0226/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2855",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-842743",
+            "activity_label": {
+                "fr": "Cuba, le cas de Jos\u00e9 Daniel Ferrer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0210",
+                "eli/dl/doc/B-9-2019-0200",
+                "eli/dl/doc/B-9-2019-0205",
+                "eli/dl/doc/B-9-2019-0202",
+                "eli/dl/doc/B-9-2019-0207",
+                "eli/dl/doc/B-9-2019-0213"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-52"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-002"
+            ],
+            "notation_dlvId": "842743",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cuba, le cas de Jos\u00e9 Daniel Ferrer</title><label>Propositions de r\u00e9solution: B9-0200/2019, B9-0202/2019, B9-0205/2019, B9-0207/2019, B9-0210/2019, B9-0213/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2929",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-842185",
+            "activity_label": {
+                "fr": "N\u00e9gociations en cours en vue d'un nouvel accord de partenariat UE-ACP"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0175"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-013"
+            ],
+            "notation_dlvId": "842185",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>N\u00e9gociations en cours en vue d'un nouvel accord de partenariat UE-ACP</title><label>Proposition de r\u00e9solution: B9-0175/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2832",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-842745",
+            "activity_label": {
+                "fr": "Ha\u00efti"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0222",
+                "eli/dl/doc/B-9-2019-0214",
+                "eli/dl/doc/B-9-2019-0221",
+                "eli/dl/doc/B-9-2019-0217",
+                "eli/dl/doc/B-9-2019-0223",
+                "eli/dl/doc/B-9-2019-0219"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-003"
+            ],
+            "notation_dlvId": "842745",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ha\u00efti</title><label>Propositions de r\u00e9solutions: B9-0214/2019, B9-0217/2019, B9-0219/2019, B9-0221/2019, B9-0222/2019, B9-0223/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2928",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-842741",
+            "activity_label": {
+                "fr": "Situation des libert\u00e9s en Alg\u00e9rie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0195",
+                "eli/dl/doc/B-9-2019-0199",
+                "eli/dl/doc/B-9-2019-0193",
+                "eli/dl/doc/B-9-2019-0194",
+                "eli/dl/doc/B-9-2019-0196"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-54"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-001"
+            ],
+            "notation_dlvId": "842741",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation des libert\u00e9s en Alg\u00e9rie</title><label>Propositions de r\u00e9solution: B9-0193/2019, B9-0194/2019, B9-0195/2019, B9-0196/2019, B9-0199/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2927",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-842182",
+            "activity_label": {
+                "fr": "Conf\u00e9rence des Nations unies de 2019 sur les changements climatiques (COP 25)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0174"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-008"
+            ],
+            "notation_dlvId": "842182",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conf\u00e9rence des Nations unies de 2019 sur les changements climatiques (COP 25)</title><label>Proposition de r\u00e9solution: B9-0174/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2712",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-842747",
+            "activity_label": {
+                "fr": "Mesures destin\u00e9es \u00e0 rem\u00e9dier aux cons\u00e9quences pour l'agriculture europ\u00e9enne de la d\u00e9cision de l'OMC concernant Airbus"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0208",
+                "eli/dl/doc/B-9-2019-0197",
+                "eli/dl/doc/B-9-2019-0198",
+                "eli/dl/doc/B-9-2019-0206",
+                "eli/dl/doc/B-9-2019-0203",
+                "eli/dl/doc/B-9-2019-0201",
+                "eli/dl/doc/B-9-2019-0204"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-011"
+            ],
+            "notation_dlvId": "842747",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures destin\u00e9es \u00e0 rem\u00e9dier aux cons\u00e9quences pour l'agriculture europ\u00e9enne de la d\u00e9cision de l'OMC concernant Airbus</title><label>Propositions de r\u00e9solution: B9-0197/2019, B9-0198/2019, B9-0201/2019, B9-0203/2019, B9-0204/2019, B9-0206/2019, B9-0208/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2895",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-843498",
+            "activity_label": {
+                "fr": "Accord entre l'UE et les \u00c9tats-Unis concernant l'attribution d'un contingent tarifaire pour les importations de viande bovine de haute qualit\u00e9  (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0037"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-005"
+            ],
+            "notation_dlvId": "843498",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord entre l'UE et les \u00c9tats-Unis concernant l'attribution d'un contingent tarifaire pour les importations de viande bovine de haute qualit\u00e9  (r\u00e9solution)</title><label>Rapport: Bernd Lange (A9-0037/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0142M",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746",
+            "type": "Activity",
+            "activity_date": "2019-11-28",
+            "activity_id": "MTG-PL-2019-11-28-VOT-ITM-842746",
+            "activity_label": {
+                "fr": "Urgence climatique et environnementale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0216",
+                "eli/dl/doc/B-9-2019-0218",
+                "eli/dl/doc/B-9-2019-0212",
+                "eli/dl/doc/B-9-2019-0220",
+                "eli/dl/doc/B-9-2019-0215",
+                "eli/dl/doc/B-9-2019-0209",
+                "eli/dl/doc/B-9-2019-0211"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-11-28-OJ-ITM-V-51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-11-28-VOT-ITM-007"
+            ],
+            "notation_dlvId": "842746",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Urgence climatique et environnementale</title><label>Propositions de r\u00e9solution: B9-0209/2019, B9-0211/2019, B9-0212/2019, B9-0215/2019, B9-0216/2019, B9-0218/2019, B9-0220/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-11-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842184",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842748",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842750",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843499",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842736",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842743",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842185",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842745",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842741",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842182",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842747",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-843498",
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2930",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-11-28-VOT-ITM-842746"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

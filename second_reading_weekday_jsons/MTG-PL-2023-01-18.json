@@ -1,0 +1,206 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938504",
+            "type": "Activity",
+            "activity_date": "2023-01-18",
+            "activity_id": "MTG-PL-2023-01-18-VOT-ITM-938504",
+            "activity_label": {
+                "fr": "Protection des consommateurs en mati\u00e8re de jeux vid\u00e9o en ligne: approche \u00e0 l'\u00e9chelle du march\u00e9 unique europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0300"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-18-OJ-ITM-V-16",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-18-VOT-ITM-002"
+            ],
+            "notation_dlvId": "938504",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des consommateurs en mati\u00e8re de jeux vid\u00e9o en ligne: approche \u00e0 l'\u00e9chelle du march\u00e9 unique europ\u00e9en</title><label>Rapport: Adriana Maldonado L\u00f3pez (A9-0300/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-01-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938504",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938514",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938513",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938511",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938508"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2014",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938504"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938514",
+            "type": "Activity",
+            "activity_date": "2023-01-18",
+            "activity_id": "MTG-PL-2023-01-18-VOT-ITM-938514",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune \u2013 rapport annuel 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0296"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-18-OJ-ITM-V-18",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-18-VOT-ITM-004"
+            ],
+            "notation_dlvId": "938514",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune \u2013 rapport annuel 2022</title><label>Rapport: Tom Vandenkendelaere (A9-0296/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-01-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938504",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938514",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938513",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938511",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938508"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2050",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938514"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938513",
+            "type": "Activity",
+            "activity_date": "2023-01-18",
+            "activity_id": "MTG-PL-2023-01-18-VOT-ITM-938513",
+            "activity_label": {
+                "fr": "30e anniversaire du march\u00e9 unique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0004"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-18-OJ-ITM-V-52",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "938513",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>30e anniversaire du march\u00e9 unique</title><label>Proposition de r\u00e9solution: B9-0004/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-01-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938504",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938514",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938513",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938511",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938508"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-3015",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938513"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938511",
+            "type": "Activity",
+            "activity_date": "2023-01-18",
+            "activity_id": "MTG-PL-2023-01-18-VOT-ITM-938511",
+            "activity_label": {
+                "fr": "Droits de l\u2019homme et d\u00e9mocratie dans le monde et politique de l\u2019Union europ\u00e9enne en la mati\u00e8re \u2013 rapport annuel 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0298"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-18-OJ-ITM-V-19",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-18-VOT-ITM-005"
+            ],
+            "notation_dlvId": "938511",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits de l\u2019homme et d\u00e9mocratie dans le monde et politique de l\u2019Union europ\u00e9enne en la mati\u00e8re \u2013 rapport annuel 2022</title><label>Rapport: Isabel Wiseler-Lima (A9-0298/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-01-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938504",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938514",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938513",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938511",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938508"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2049",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938511"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938508",
+            "type": "Activity",
+            "activity_date": "2023-01-18",
+            "activity_id": "MTG-PL-2023-01-18-VOT-ITM-938508",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre de la politique \u00e9trang\u00e8re et de s\u00e9curit\u00e9 commune \u2013 rapport annuel 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0292"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-18-OJ-ITM-V-17",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-18-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938508",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de la politique \u00e9trang\u00e8re et de s\u00e9curit\u00e9 commune \u2013 rapport annuel 2022</title><label>Rapport: David McAllister (A9-0292/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-01-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938504",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938514",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938513",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938511",
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938508"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2048",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938508"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

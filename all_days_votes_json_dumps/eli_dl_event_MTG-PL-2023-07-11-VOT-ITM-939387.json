@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939387",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939387",
+            "activity_label": {
+                "fr": "Portail des \u00e9missions industrielles"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0211"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-27",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939387",
+            "epvoc:amendmentsAdoptedCommittee": 9,
+            "epvoc:amendmentsAdoptedMEP": 1,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 10,
+            "epvoc:amendmentsTabledCommittee": 9,
+            "epvoc:amendmentsTabledMEP": 1,
+            "epvoc:amendmentsTabledTotal": 10,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Portail des \u00e9missions industrielles</title><label>Rapport: Radan Kanev (A9-0211/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

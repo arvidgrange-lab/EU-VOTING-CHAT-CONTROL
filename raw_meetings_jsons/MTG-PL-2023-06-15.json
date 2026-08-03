@@ -1,0 +1,529 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939306",
+            "activity_label": {
+                "fr": "Situation au Nicaragua"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0279",
+                "eli/dl/doc/B-9-2023-0273",
+                "eli/dl/doc/B-9-2023-0272",
+                "eli/dl/doc/B-9-2023-0280",
+                "eli/dl/doc/B-9-2023-0283"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-98",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939306",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation au Nicaragua</title><label>Propositions de r\u00e9solution: RC-B9-0272/2023, B9-0272/2023, B9-0273/2023, B9-0279/2023, B9-0280/2023, B9-0283/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2743",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939309",
+            "activity_label": {
+                "fr": "Situation humanitaire au Soudan, en particulier la mort d'enfants pi\u00e9g\u00e9s par les combats"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0293",
+                "eli/dl/doc/B-9-2023-0291",
+                "eli/dl/doc/B-9-2023-0294",
+                "eli/dl/doc/B-9-2023-0271",
+                "eli/dl/doc/B-9-2023-0292",
+                "eli/dl/doc/B-9-2023-0295"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-88",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939309",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation humanitaire au Soudan, en particulier la mort d'enfants pi\u00e9g\u00e9s par les combats</title><label>Propositions de r\u00e9solution: RC-B9-0291/2023, B9-0271/2023, B9-0291/2023, B9-0292/2023, B9-0293/2023, B9-0294/2023, B9-0295/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2736",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939307",
+            "activity_label": {
+                "fr": "Adh\u00e9sion de l'Ukraine \u00e0 la convention du 2 juillet 2019 sur la reconnaissance et l'ex\u00e9cution des jugements \u00e9trangers en mati\u00e8re civile ou commerciale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0267"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-73",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939307",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion de l'Ukraine \u00e0 la convention du 2 juillet 2019 sur la reconnaissance et l'ex\u00e9cution des jugements \u00e9trangers en mati\u00e8re civile ou commerciale</title><label>Propositions de r\u00e9solution: B9-0267/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2689",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939286",
+            "activity_label": {
+                "fr": "Journ\u00e9e de l'Union europ\u00e9enne pour les victimes de la crise climatique mondiale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0296"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-95",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939286",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Journ\u00e9e de l'Union europ\u00e9enne pour les victimes de la crise climatique mondiale</title><label>Propositions de r\u00e9solution: B9-0296/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2740",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939305",
+            "activity_label": {
+                "fr": "Reconstruction durable et int\u00e9gration de l'Ukraine dans la communaut\u00e9 euro-atlantique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0274",
+                "eli/dl/doc/B-9-2023-0278",
+                "eli/dl/doc/B-9-2023-0270",
+                "eli/dl/doc/B-9-2023-0277",
+                "eli/dl/doc/B-9-2023-0275",
+                "eli/dl/doc/B-9-2023-0281"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-92",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939305",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Reconstruction durable et int\u00e9gration de l'Ukraine dans la communaut\u00e9 euro-atlantique</title><label>Propositions de r\u00e9solution: RC-B9-0270/2023, B9-0270/2023, B9-0274/2023, B9-0275/2023, B9-0277/2023, B9-0278/2023, B9-0281/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2739",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939263",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre et r\u00e9alisation des objectifs de d\u00e9veloppement durable"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0213"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-30",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939263",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre et r\u00e9alisation des objectifs de d\u00e9veloppement durable</title><label>Rapport: Udo Bullmann, Petros Kokkalis (A9-0213/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2010",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939308",
+            "activity_label": {
+                "fr": "Torture et poursuites p\u00e9nales \u00e0 l'encontre des mineurs ukrainiens Tihran Ohannisian et Mykyta Khanhanov par la F\u00e9d\u00e9ration de Russie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0290",
+                "eli/dl/doc/B-9-2023-0285",
+                "eli/dl/doc/B-9-2023-0284",
+                "eli/dl/doc/B-9-2023-0269",
+                "eli/dl/doc/B-9-2023-0268",
+                "eli/dl/doc/B-9-2023-0288"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-87",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939308",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Torture et poursuites p\u00e9nales \u00e0 l'encontre des mineurs ukrainiens Tihran Ohannisian et Mykyta Khanhanov par la F\u00e9d\u00e9ration de Russie</title><label>Propositions de r\u00e9solution: RC-B9-0268/2023, B9-0268/2023, B9-0269/2023, B9-0284/2023, B9-0285/2023, B9-0288/2023, B9-0290/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2735",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939303",
+            "activity_label": {
+                "fr": "D\u00e9t\u00e9rioration des libert\u00e9s fondamentales \u00e0 Hong Kong, notamment le cas de Jimmy Lai"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0289",
+                "eli/dl/doc/B-9-2023-0286",
+                "eli/dl/doc/B-9-2023-0287",
+                "eli/dl/doc/B-9-2023-0276",
+                "eli/dl/doc/B-9-2023-0282"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-90",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939303",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9t\u00e9rioration des libert\u00e9s fondamentales \u00e0 Hong Kong, notamment le cas de Jimmy Lai</title><label>Propositions de r\u00e9solution: RC-B9-0276/2023, B9-0276/2023, B9-0282/2023, B9-0286/2023, B9-0287/2023, B9-0289/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2737",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939246",
+            "activity_label": {
+                "fr": "Le\u00e7ons tir\u00e9es de l'affaire des \"Pandora Papers\" et d'autres r\u00e9v\u00e9lations"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0095"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-60",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939246",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le\u00e7ons tir\u00e9es de l'affaire des \"Pandora Papers\" et d'autres r\u00e9v\u00e9lations</title><label>Rapport: Niels Fuglsang (A9-0095/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2080",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939304",
+            "activity_label": {
+                "fr": "Composition du Parlement europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0214"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-27",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939304",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Composition du Parlement europ\u00e9en</title><label>Rapport: Lor\u00e1nt Vincze, Sandro Gozi (A9-0214/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2229",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939223",
+            "activity_label": {
+                "fr": "Enqu\u00eate sur l'utilisation de Pegasus et de logiciels espions de surveillance \u00e9quivalents (recommandation)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0260"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-35",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939223",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Enqu\u00eate sur l'utilisation de Pegasus et de logiciels espions de surveillance \u00e9quivalents (recommandation)</title><label>Projet de recommandation: B9-0260/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939306",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939309",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939307",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939286",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939305",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939263",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939308",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939246",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2500",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939223"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

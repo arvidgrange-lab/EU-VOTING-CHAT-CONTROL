@@ -1,0 +1,263 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670667-4",
+            "type": "Activity",
+            "activity_date": "2018-01-17",
+            "activity_id": "MTG-PL-2018-01-17-VOT-ITM-670667-4",
+            "activity_label": {
+                "fr": "Promotion de l'utilisation de l'\u00e9nergie produite \u00e0 partir de sources renouvelables"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0392"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-01-17-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-01-17-VOT-ITM-004"
+            ],
+            "notation_dlvId": "670667",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Promotion de l'utilisation de l'\u00e9nergie produite \u00e0 partir de sources renouvelables</title><label>Rapport: Jos\u00e9 Blanco L\u00f3pez (A8-0392/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-01-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670667-4",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-3",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-2",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670669-6",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670668-5",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0382",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670667-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-3",
+            "type": "Activity",
+            "activity_date": "2018-01-17",
+            "activity_id": "MTG-PL-2018-01-17-VOT-ITM-670663-3",
+            "activity_label": {
+                "fr": "Nomination de Tony James Murphy en tant que membre de la Cour des comptes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0002"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-01-17-OJ-ITM-V-52"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-01-17-VOT-ITM-003"
+            ],
+            "notation_dlvId": "670663",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination de Tony James Murphy en tant que membre de la Cour des comptes</title><label>Rapport: Indrek Tarand (A8-0002/2018) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-01-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670667-4",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-3",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-2",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670669-6",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670668-5",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0820",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-2",
+            "type": "Activity",
+            "activity_date": "2018-01-17",
+            "activity_id": "MTG-PL-2018-01-17-VOT-ITM-670663-2",
+            "activity_label": {
+                "fr": "Nomination d'Eva Lindstr\u00f6m en tant que membre de la Cour des comptes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0003"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-01-17-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-01-17-VOT-ITM-002"
+            ],
+            "notation_dlvId": "670663",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'Eva Lindstr\u00f6m en tant que membre de la Cour des comptes</title><label>Rapport: Indrek Tarand (A8-0003/2018) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-01-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670667-4",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-3",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-2",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670669-6",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670668-5",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0819",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670669-6",
+            "type": "Activity",
+            "activity_date": "2018-01-17",
+            "activity_id": "MTG-PL-2018-01-17-VOT-ITM-670669-6",
+            "activity_label": {
+                "fr": "Gouvernance de l'union de l'\u00e9nergie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0402"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-01-17-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-01-17-VOT-ITM-006"
+            ],
+            "notation_dlvId": "670669",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gouvernance de l'union de l'\u00e9nergie</title><label>Rapport: Mich\u00e8le Rivasi et  Claude Turmes (A8-0402/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-01-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670667-4",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-3",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-2",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670669-6",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670668-5",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0375",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670669-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670668-5",
+            "type": "Activity",
+            "activity_date": "2018-01-17",
+            "activity_id": "MTG-PL-2018-01-17-VOT-ITM-670668-5",
+            "activity_label": {
+                "fr": "Efficacit\u00e9 \u00e9nerg\u00e9tique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0391"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-01-17-OJ-ITM-V-40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-01-17-VOT-ITM-005"
+            ],
+            "notation_dlvId": "670668",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Efficacit\u00e9 \u00e9nerg\u00e9tique</title><label>Rapport: Miroslav Poche (A8-0391/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-01-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670667-4",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-3",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-2",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670669-6",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670668-5",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0376",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670668-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-1",
+            "type": "Activity",
+            "activity_date": "2018-01-17",
+            "activity_id": "MTG-PL-2018-01-17-VOT-ITM-670663-1",
+            "activity_label": {
+                "fr": "Contr\u00f4le des exportations, des transferts, du courtage, de l\u2019assistance technique et du transit en ce qui concerne les biens \u00e0 double usage"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0390"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-01-17-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-01-17-VOT-ITM-001"
+            ],
+            "notation_dlvId": "670663",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contr\u00f4le des exportations, des transferts, du courtage, de l\u2019assistance technique et du transit en ce qui concerne les biens \u00e0 double usage</title><label>Rapport: Klaus Buchner (A8-0390/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-01-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670667-4",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-3",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-2",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670669-6",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670668-5",
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0295",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-01-17-VOT-ITM-670663-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

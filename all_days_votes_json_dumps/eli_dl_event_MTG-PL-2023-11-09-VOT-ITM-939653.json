@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939653",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939653",
+            "activity_label": {
+                "mul": "Mesures de conservation et d\u2019ex\u00e9cution applicables dans la zone de r\u00e9glementation de l\u2019Organisation des p\u00eaches de l\u2019Atlantique du Nord-Ouest (OPANO) - Conservation and enforcement measures applicable in the Regulatory Area of the Northwest Atlantic Fisheries Organisation (NAFO) - Bestandserhaltungs- und Kontrollma\u00dfnahmen f\u00fcr den Regelungsbereich der Organisation f\u00fcr die Fischerei im Nordwestatlantik (NAFO)",
+                "fr": "Mesures de conservation et d\u2019ex\u00e9cution applicables dans la zone de r\u00e9glementation de l\u2019Organisation des p\u00eaches de l\u2019Atlantique du Nord-Ouest (OPANO)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0279"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-34",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-015"
+            ],
+            "notation_dlvId": "939653",
+            "epvoc:amendmentsAdoptedCommittee": 1,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledCommittee": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures de conservation et d\u2019ex\u00e9cution applicables dans la zone de r\u00e9glementation de l\u2019Organisation des p\u00eaches de l\u2019Atlantique du Nord-Ouest (OPANO)</title><label>Rapport: Grace O'Sullivan (A9-0279/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

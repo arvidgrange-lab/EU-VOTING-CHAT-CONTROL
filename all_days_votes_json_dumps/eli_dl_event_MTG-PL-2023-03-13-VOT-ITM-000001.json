@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-13-VOT-ITM-000001",
+            "type": "Activity",
+            "activity_date": "2023-03-13",
+            "activity_id": "MTG-PL-2023-03-13-VOT-ITM-000001",
+            "activity_label": {
+                "fr": "null"
+            },
+            "eli-dl:activity_order": 1,
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2023-03-13-DEC-153633"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "notation_dlvId": "000001"
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

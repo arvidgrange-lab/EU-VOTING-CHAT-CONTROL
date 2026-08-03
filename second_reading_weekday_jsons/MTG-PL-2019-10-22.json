@@ -1,0 +1,162 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834907",
+            "type": "Activity",
+            "activity_date": "2019-10-22",
+            "activity_id": "MTG-PL-2019-10-22-VOT-ITM-834907",
+            "activity_label": {
+                "fr": "P\u00e9riodes d'application des r\u00e8glements (UE) 2019/501 et (UE) 2019/502"
+            },
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-22-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-22-VOT-ITM-004"
+            ],
+            "notation_dlvId": "834907",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>P\u00e9riodes d'application des r\u00e8glements (UE) 2019/501 et (UE) 2019/502</title><label>Proposition de r\u00e8glement: </label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834907",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834586",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834318",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834317"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834586",
+            "type": "Activity",
+            "activity_date": "2019-10-22",
+            "activity_id": "MTG-PL-2019-10-22-VOT-ITM-834586",
+            "activity_label": {
+                "fr": "Ex\u00e9cution et financement du budget g\u00e9n\u00e9ral de l\u2019Union en 2020 eu \u00e9gard au retrait du Royaume-Uni de l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0018"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-22-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-22-VOT-ITM-003"
+            ],
+            "notation_dlvId": "834586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ex\u00e9cution et financement du budget g\u00e9n\u00e9ral de l\u2019Union en 2020 eu \u00e9gard au retrait du Royaume-Uni de l\u2019Union</title><label>Recommandation: Johan Van Overtveldt (A9-0018/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834907",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834586",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834318",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834317"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0186",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834586"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834318",
+            "type": "Activity",
+            "activity_date": "2019-10-22",
+            "activity_id": "MTG-PL-2019-10-22-VOT-ITM-834318",
+            "activity_label": {
+                "fr": "Autorisations de p\u00eache pour les navires de l\u2019Union dans les eaux du Royaume-Uni et op\u00e9rations de p\u00eache des navires de p\u00eache du Royaume-Uni dans les eaux de l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0014"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-22-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-22-VOT-ITM-002"
+            ],
+            "notation_dlvId": "834318",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Autorisations de p\u00eache pour les navires de l\u2019Union dans les eaux du Royaume-Uni et op\u00e9rations de p\u00eache des navires de p\u00eache du Royaume-Uni dans les eaux de l\u2019Union</title><label>Rapport: Chris Davies (A9-0014/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834907",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834586",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834318",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834317"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0187",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834318"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834317",
+            "type": "Activity",
+            "activity_date": "2019-10-22",
+            "activity_id": "MTG-PL-2019-10-22-VOT-ITM-834317",
+            "activity_label": {
+                "fr": "Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation (p\u00e9riode 2014-2020)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0015"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-10-22-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-10-22-VOT-ITM-001"
+            ],
+            "notation_dlvId": "834317",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation (p\u00e9riode 2014-2020)</title><label>Rapport: Vilija Blinkevi\u010di\u016bt\u0117 (A9-0015/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-10-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834907",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834586",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834318",
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834317"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0180",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-10-22-VOT-ITM-834317"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

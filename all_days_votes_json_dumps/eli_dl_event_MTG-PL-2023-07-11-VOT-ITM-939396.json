@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939396",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939396",
+            "activity_label": {
+                "fr": "La loi \u00e9lectorale, la commission d'enqu\u00eate et l'\u00e9tat de droit en Pologne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0318",
+                "eli/dl/doc/B-9-2023-0319"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-90",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-019"
+            ],
+            "notation_dlvId": "939396",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 6,
+            "epvoc:amendmentsTabledTotal": 6,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La loi \u00e9lectorale, la commission d'enqu\u00eate et l'\u00e9tat de droit en Pologne</title><label>Propositions de r\u00e9solution: B9-0318/2023, B9-0319/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

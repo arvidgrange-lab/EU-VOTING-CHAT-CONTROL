@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939384",
+            "activity_label": {
+                "fr": "Restauration de la nature"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0220"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939384",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Restauration de la nature</title><label>Rapport: C\u00e9sar Luena (A9-0220/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

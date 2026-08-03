@@ -1,0 +1,660 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-621752-12",
+            "activity_label": {
+                "fr": "Recommandation \u00e0 l'intention du Conseil sur la 72e session de l'Assembl\u00e9e g\u00e9n\u00e9rale des Nations unies"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0216"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-012"
+            ],
+            "notation_dlvId": "621752",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Recommandation \u00e0 l'intention du Conseil sur la 72e session de l'Assembl\u00e9e g\u00e9n\u00e9rale des Nations unies</title><label>Rapport: Andrey Kovatchev (A8-0216/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2041",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-621426-2",
+            "activity_label": {
+                "fr": "Convention sur la pollution atmosph\u00e9rique transfronti\u00e8re \u00e0 longue distance concernant la r\u00e9duction de l'acidification, de l'eutrophisation et de l'ozone troposph\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0241"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-74"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-002"
+            ],
+            "notation_dlvId": "621426",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Convention sur la pollution atmosph\u00e9rique transfronti\u00e8re \u00e0 longue distance concernant la r\u00e9duction de l'acidification, de l'eutrophisation et de l'ozone troposph\u00e9rique</title><label>Recommandation: Adina-Ioana V\u0103lean (A8-0241/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0448",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-621918-5",
+            "activity_label": {
+                "fr": "M\u00e9morandum d'accord entre l'Agence europ\u00e9enne pour la gestion op\u00e9rationnelle des syst\u00e8mes d'information \u00e0 grande \u00e9chelle au sein de l'espace de libert\u00e9, de s\u00e9curit\u00e9 et de justice et Eurojust"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0215"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-58"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-005"
+            ],
+            "notation_dlvId": "621918",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>M\u00e9morandum d'accord entre l'Agence europ\u00e9enne pour la gestion op\u00e9rationnelle des syst\u00e8mes d'information \u00e0 grande \u00e9chelle au sein de l'espace de libert\u00e9, de s\u00e9curit\u00e9 et de justice et Eurojust</title><label>Rapport: Claude Moraes (A8-0215/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0804",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-623201-8",
+            "activity_label": {
+                "fr": "Recrudescence des \u00e9pid\u00e9mies de VIH, de tuberculose et d'h\u00e9patite C en Europe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0436"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-60"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-008"
+            ],
+            "notation_dlvId": "623201",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Recrudescence des \u00e9pid\u00e9mies de VIH, de tuberculose et d'h\u00e9patite C en Europe</title><label>Proposition de r\u00e9solution: B8-0436/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2576",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-621426-1",
+            "activity_label": {
+                "fr": "Accord modifiant le protocole de Montr\u00e9al relatif \u00e0 des substances qui appauvrissent la couche d'ozone, adopt\u00e9 \u00e0 Kigali"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0237"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-001"
+            ],
+            "notation_dlvId": "621426",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord modifiant le protocole de Montr\u00e9al relatif \u00e0 des substances qui appauvrissent la couche d'ozone, adopt\u00e9 \u00e0 Kigali</title><label>Recommandation: Kate\u0159ina Kone\u010dn\u00e1 (A8-0237/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0016",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-621427-4",
+            "activity_label": {
+                "fr": "Conclusion de l'accord de dialogue politique et de coop\u00e9ration UE-Cuba (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0233"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-004"
+            ],
+            "notation_dlvId": "621427",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conclusion de l'accord de dialogue politique et de coop\u00e9ration UE-Cuba (r\u00e9solution)</title><label>Rapport: Elena Valenciano (A8-0233/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2036",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-621429-11",
+            "activity_label": {
+                "fr": "Vers une strat\u00e9gie de l'UE pour les relations culturelles internationales"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0220"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-011"
+            ],
+            "notation_dlvId": "621429",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Vers une strat\u00e9gie de l'UE pour les relations culturelles internationales</title><label>Rapport: Elmar Brok et  Silvia Costa (A8-0220/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2240",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-621428-6",
+            "activity_label": {
+                "fr": "Lutte contre la fraude portant atteinte aux int\u00e9r\u00eats financiers de l'Union au moyen du droit p\u00e9nal"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0230"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-50"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-006"
+            ],
+            "notation_dlvId": "621428",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lutte contre la fraude portant atteinte aux int\u00e9r\u00eats financiers de l'Union au moyen du droit p\u00e9nal</title><label>Recommandation pour la deuxi\u00e8me lecture: Ingeborg Gr\u00e4\u00dfle et  Juan Fernando L\u00f3pez Aguilar (A8-0230/2017) (majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0193",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-623194-10",
+            "activity_label": {
+                "fr": "Budget 2018 - Mandat pour le trilogue"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0249"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-010"
+            ],
+            "notation_dlvId": "623194",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Budget 2018 - Mandat pour le trilogue</title><label>Rapport: Siegfried Mure\u015fan (A8-0249/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2043",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-623198-13",
+            "activity_label": {
+                "fr": "\u00c9laboration d'une strat\u00e9gie industrielle ambitieuse de l'UE en tant que priorit\u00e9 strat\u00e9gique pour la croissance, l'emploi et l'innovation en Europe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0446",
+                "eli/dl/doc/B-8-2017-0439",
+                "eli/dl/doc/B-8-2017-0449",
+                "eli/dl/doc/B-8-2017-0448",
+                "eli/dl/doc/B-8-2017-0445",
+                "eli/dl/doc/B-8-2017-0440",
+                "eli/dl/doc/B-8-2017-0447"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-013"
+            ],
+            "notation_dlvId": "623198",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9laboration d'une strat\u00e9gie industrielle ambitieuse de l'UE en tant que priorit\u00e9 strat\u00e9gique pour la croissance, l'emploi et l'innovation en Europe</title><label>Propositions de r\u00e9solution: B8-0439/2017, B8-0440/2017, B8-0445/2017, B8-0446/2017, B8-0447/2017, B8-0448/2017, B8-0449/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2732",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-621751-7",
+            "activity_label": {
+                "fr": "Cadre juridique de l'Union r\u00e9gissant les infractions douani\u00e8res et les sanctions qui y sont applicables"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0239"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-007"
+            ],
+            "notation_dlvId": "621751",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre juridique de l'Union r\u00e9gissant les infractions douani\u00e8res et les sanctions qui y sont applicables</title><label>Rapport: Kaja Kallas (A8-0239/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0432",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-623203-9",
+            "activity_label": {
+                "fr": "Pr\u00e9paration du programme de travail de la Commission pour 2018"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0455",
+                "eli/dl/doc/B-8-2017-0450",
+                "eli/dl/doc/B-8-2017-0434",
+                "eli/dl/doc/B-8-2017-0451",
+                "eli/dl/doc/B-8-2017-0456",
+                "eli/dl/doc/B-8-2017-0454",
+                "eli/dl/doc/B-8-2017-0435"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-009"
+            ],
+            "notation_dlvId": "623203",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pr\u00e9paration du programme de travail de la Commission pour 2018</title><label>Propositions de r\u00e9solution: B8-0434/2017, B8-0435/2017, B8-0450/2017, B8-0451/2017, B8-0454/2017, B8-0455/2017, B8-0456/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2699",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3",
+            "type": "Activity",
+            "activity_date": "2017-07-05",
+            "activity_id": "MTG-PL-2017-07-05-VOT-ITM-621426-3",
+            "activity_label": {
+                "fr": "Conclusion de l'accord de dialogue politique et de coop\u00e9ration UE-Cuba (approbation)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0232"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-05-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-05-VOT-ITM-003"
+            ],
+            "notation_dlvId": "621426",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conclusion de l'accord de dialogue politique et de coop\u00e9ration UE-Cuba (approbation)</title><label>Recommandation: Elena Valenciano (A8-0232/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621752-12",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-2",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621918-5",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623201-8",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-1",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621427-4",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621429-11",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621428-6",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623194-10",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623198-13",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621751-7",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-623203-9",
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0298",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-05-VOT-ITM-621426-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

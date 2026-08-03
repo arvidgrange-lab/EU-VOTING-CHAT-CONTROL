@@ -1,0 +1,785 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-548822-15",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e en vertu de l'article 105, paragraphe 4: fixation de l'exigence minimale de fonds propres et d'engagements \u00e9ligibles"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0868"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-92"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-015"
+            ],
+            "notation_dlvId": "548822",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e en vertu de l'article 105, paragraphe 4: fixation de l'exigence minimale de fonds propres et d'engagements \u00e9ligibles</title><label>Proposition de r\u00e9solution: B8-0868/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2743",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-548854-9",
+            "activity_label": {
+                "fr": "Pr\u00e9paration de la r\u00e9vision post\u00e9lectorale du CFP 2014-2020: recommandations du Parlement en amont de la proposition de la Commission"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0224"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-26"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-009"
+            ],
+            "notation_dlvId": "548854",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pr\u00e9paration de la r\u00e9vision post\u00e9lectorale du CFP 2014-2020: recommandations du Parlement en amont de la proposition de la Commission</title><label>Rapport: Jan Olbrycht et  Isabelle Thomas (A8-0224/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2353",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-547984-8",
+            "activity_label": {
+                "fr": "Secr\u00e9tariat du comit\u00e9 de surveillance de l'OLAF"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0188"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-008"
+            ],
+            "notation_dlvId": "547984",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Secr\u00e9tariat du comit\u00e9 de surveillance de l'OLAF</title><label>Rapport: Ingeborg Gr\u00e4\u00dfle (A8-0188/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0064",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-547959-5",
+            "activity_label": {
+                "fr": "Corps europ\u00e9en de garde-fronti\u00e8res et de garde-c\u00f4tes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0200"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-005"
+            ],
+            "notation_dlvId": "547959",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Corps europ\u00e9en de garde-fronti\u00e8res et de garde-c\u00f4tes</title><label>Rapport: Artis Pabriks (A8-0200/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0310",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-548853-10",
+            "activity_label": {
+                "fr": "Rescrits fiscaux et autres mesures similaires par leur nature ou par leur effet (TAXE 2)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0223"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-56"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-010"
+            ],
+            "notation_dlvId": "548853",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rescrits fiscaux et autres mesures similaires par leur nature ou par leur effet (TAXE 2)</title><label>Rapport: Jeppe Kofod et  Michael Theurer (A8-0223/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2038",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-548833-14",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e en vertu de l'article 105, paragraphe 4: garantie de l'Union europ\u00e9enne \u00e0 la Banque europ\u00e9enne d'investissement en cas de pertes r\u00e9sultant d'op\u00e9rations en faveur de la Bi\u00e9lorussie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0869",
+                "eli/dl/doc/B-8-2016-0870"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-014"
+            ],
+            "notation_dlvId": "548833",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e en vertu de l'article 105, paragraphe 4: garantie de l'Union europ\u00e9enne \u00e0 la Banque europ\u00e9enne d'investissement en cas de pertes r\u00e9sultant d'op\u00e9rations en faveur de la Bi\u00e9lorussie</title><label>Propositions de r\u00e9solution: B8-0869/2016, B8-0870/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2669",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-547977-4",
+            "activity_label": {
+                "fr": "\u00c9tiquetage de l'efficacit\u00e9 \u00e9nerg\u00e9tique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0213"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-004"
+            ],
+            "notation_dlvId": "547977",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tiquetage de l'efficacit\u00e9 \u00e9nerg\u00e9tique</title><label>Rapport: Dario Tamburrano (A8-0213/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-547961-11",
+            "activity_label": {
+                "fr": "Synergies entre les fonds structurels et Horizon 2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0860",
+                "eli/dl/doc/B-8-2016-0861",
+                "eli/dl/doc/B-8-2016-0852",
+                "eli/dl/doc/B-8-2016-0858",
+                "eli/dl/doc/B-8-2016-0857",
+                "eli/dl/doc/B-8-2016-0851"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-011"
+            ],
+            "notation_dlvId": "547961",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Synergies entre les fonds structurels et Horizon 2020</title><label>Propositions de r\u00e9solution: B8-0851/2016, B8-0852/2016, B8-0857/2016, B8-0858/2016, B8-0860/2016, B8-0861/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2695",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-547960-3",
+            "activity_label": {
+                "fr": "Niveau \u00e9lev\u00e9 commun de s\u00e9curit\u00e9 des r\u00e9seaux et des syst\u00e8mes d'information dans l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0211"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-003"
+            ],
+            "notation_dlvId": "547960",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Niveau \u00e9lev\u00e9 commun de s\u00e9curit\u00e9 des r\u00e9seaux et des syst\u00e8mes d'information dans l'Union</title><label>Recommandation pour la deuxi\u00e8me lecture: Andreas Schwab (A8-0211/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0027",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-547967-2",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 2/2016: exc\u00e9dent de l'exercice 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0212"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-58"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-002"
+            ],
+            "notation_dlvId": "547967",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 2/2016: exc\u00e9dent de l'exercice 2015</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A8-0212/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2051",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-547967-1",
+            "activity_label": {
+                "fr": "Participation de l'Azerba\u00efdjan aux programmes de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0210"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-74"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-001"
+            ],
+            "notation_dlvId": "547967",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Participation de l'Azerba\u00efdjan aux programmes de l'Union</title><label>Recommandation: Norica Nicolai (A8-0210/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0420",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-547969-6",
+            "activity_label": {
+                "fr": "Agence europ\u00e9enne pour la s\u00e9curit\u00e9 maritime"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0215"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-006"
+            ],
+            "notation_dlvId": "547969",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Agence europ\u00e9enne pour la s\u00e9curit\u00e9 maritime</title><label>Rapport: Michael Cramer (A8-0215/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0313",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-547965-12",
+            "activity_label": {
+                "fr": "Pr\u00e9paration du programme de travail de la Commission en 2017"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0896",
+                "eli/dl/doc/B-8-2016-0886",
+                "eli/dl/doc/B-8-2016-0893",
+                "eli/dl/doc/B-8-2016-0892",
+                "eli/dl/doc/B-8-2016-0894",
+                "eli/dl/doc/B-8-2016-0895",
+                "eli/dl/doc/B-8-2016-0885"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-012"
+            ],
+            "notation_dlvId": "547965",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pr\u00e9paration du programme de travail de la Commission en 2017</title><label>Propositions de r\u00e9solution: B8-0885/2016, B8-0886/2016, B8-0892/2016, B8-0893/2016, B8-0894/2016, B8-0895/2016, B8-0896/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2773",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-547970-7",
+            "activity_label": {
+                "fr": "Agence europ\u00e9enne de contr\u00f4le des p\u00eaches"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0068"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-007"
+            ],
+            "notation_dlvId": "547970",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Agence europ\u00e9enne de contr\u00f4le des p\u00eaches</title><label>Rapport: Alain Cadec (A8-0068/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0308",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13",
+            "type": "Activity",
+            "activity_date": "2016-07-06",
+            "activity_id": "MTG-PL-2016-07-06-VOT-ITM-547971-13",
+            "activity_label": {
+                "fr": "D\u00e9cision du Japon de reprendre la chasse \u00e0 la baleine pour la saison 2015-2016"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0862",
+                "eli/dl/doc/B-8-2016-0853",
+                "eli/dl/doc/B-8-2016-0855",
+                "eli/dl/doc/B-8-2016-0863"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-06-OJ-ITM-V-72"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-06-VOT-ITM-013"
+            ],
+            "notation_dlvId": "547971",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9cision du Japon de reprendre la chasse \u00e0 la baleine pour la saison 2015-2016</title><label>Propositions de r\u00e9solution: B8-0853/2016, B8-0855/2016, B8-0862/2016, B8-0863/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548822-15",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548854-9",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547984-8",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547959-5",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548853-10",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-548833-14",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547977-4",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547961-11",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547960-3",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-2",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547967-1",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547969-6",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547965-12",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547970-7",
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2600",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-06-VOT-ITM-547971-13"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938995",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938995",
+            "activity_label": {
+                "fr": "Atteintes au droit \u00e0 l'\u00e9ducation et r\u00e9pression visant les militants pour le droit \u00e0 l'\u00e9ducation en Afghanistan, notamment le cas de Matiullah Wesa"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0211",
+                "eli/dl/doc/B-9-2023-0208",
+                "eli/dl/doc/B-9-2023-0209",
+                "eli/dl/doc/B-9-2023-0210",
+                "eli/dl/doc/B-9-2023-0205",
+                "eli/dl/doc/B-9-2023-0207"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-80",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-001"
+            ],
+            "notation_dlvId": "938995",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Atteintes au droit \u00e0 l'\u00e9ducation et r\u00e9pression visant les militants pour le droit \u00e0 l'\u00e9ducation en Afghanistan, notamment le cas de Matiullah Wesa </title><label>Propositions de r\u00e9solution: RC-B9-0205/2023, B9-0205/2023, B9-0207/2023, B9-0208/2023, B9-0209/2023, B9-0210/2023, B9-0211/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

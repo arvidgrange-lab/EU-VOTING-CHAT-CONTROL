@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-10-VOT-ITM-939104",
+            "type": "Activity",
+            "activity_date": "2023-05-10",
+            "activity_id": "MTG-PL-2023-05-10-VOT-ITM-939104",
+            "activity_label": {
+                "fr": "D\u00e9charge 2021: Agence de l\u2019Union europ\u00e9enne pour le programme spatial (avant le 12 mai 2021: Agence du GNSS europ\u00e9en)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0116"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-10-OJ-ITM-V-114",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-10-VOT-ITM-030"
+            ],
+            "notation_dlvId": "939104",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2021: Agence de l\u2019Union europ\u00e9enne pour le programme spatial (avant le 12 mai 2021: Agence du GNSS europ\u00e9en)</title><label>Rapport: Katalin Cseh (A9-0116/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

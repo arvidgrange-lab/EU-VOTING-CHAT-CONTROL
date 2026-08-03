@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-01-18-VOT-ITM-574326-1",
+            "type": "Activity",
+            "activity_date": "2017-01-18",
+            "activity_id": "MTG-PL-2017-01-18-VOT-ITM-574326-1",
+            "activity_label": {
+                "fr": "Composition num\u00e9rique des commissions permanentes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0029"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-01-18-OJ-ITM-V-89"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-01-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "574326",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Composition num\u00e9rique des commissions permanentes</title><label>Proposition de d\u00e9cision B8-0029/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-01-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-01-18-VOT-ITM-574326-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3040",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-01-18-VOT-ITM-574326-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

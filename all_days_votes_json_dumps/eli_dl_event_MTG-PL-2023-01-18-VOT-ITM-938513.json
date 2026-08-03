@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938513",
+            "type": "Activity",
+            "activity_date": "2023-01-18",
+            "activity_id": "MTG-PL-2023-01-18-VOT-ITM-938513",
+            "activity_label": {
+                "fr": "30e anniversaire du march\u00e9 unique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0004"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-18-OJ-ITM-V-52",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "938513",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 2,
+            "epvoc:amendmentsTabledTotal": 2,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>30e anniversaire du march\u00e9 unique</title><label>Proposition de r\u00e9solution: B9-0004/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

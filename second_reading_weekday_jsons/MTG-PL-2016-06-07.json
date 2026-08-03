@@ -1,0 +1,776 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540081-11",
+            "activity_label": {
+                "fr": "\u00c9valuation des normes comptables internationales"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0172"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-011"
+            ],
+            "notation_dlvId": "540081",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9valuation des normes comptables internationales </title><label>Rapport: Theodor Dumitru Stolojan (A8-0172/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2006",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540080-10",
+            "activity_label": {
+                "fr": "La nouvelle alliance pour la s\u00e9curit\u00e9 alimentaire et la nutrition"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0169"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-010"
+            ],
+            "notation_dlvId": "540080",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La nouvelle alliance pour la s\u00e9curit\u00e9 alimentaire et la nutrition</title><label>Rapport: Maria Heubuch (A8-0169/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2277",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540092-2",
+            "activity_label": {
+                "fr": "Prescriptions techniques uniformes applicables aux v\u00e9hicules \u00e0 roues: accord CEE-ONU"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0185"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-002"
+            ],
+            "notation_dlvId": "540092",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Prescriptions techniques uniformes applicables aux v\u00e9hicules \u00e0 roues: accord CEE-ONU</title><label>Recommandation: Bernd Lange (A8-0185/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0249",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540083-13",
+            "activity_label": {
+                "fr": "Pratiques commerciales d\u00e9loyales dans la cha\u00eene d'approvisionnement alimentaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0173"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-26"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-013"
+            ],
+            "notation_dlvId": "540083",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pratiques commerciales d\u00e9loyales dans la cha\u00eene d'approvisionnement alimentaire</title><label>Rapport: Edward Czesak (A8-0173/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2065",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540089-6",
+            "activity_label": {
+                "fr": "March\u00e9s d'instruments financiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0126"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-57"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-006"
+            ],
+            "notation_dlvId": "540089",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>March\u00e9s d'instruments financiers</title><label>Rapport: Markus Ferber (A8-0126/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0033",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540092-3",
+            "activity_label": {
+                "fr": "Accord commercial entre l'UE et la Colombie et le P\u00e9rou (adh\u00e9sion de la Croatie)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0155"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-003"
+            ],
+            "notation_dlvId": "540092",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord commercial entre l'UE et la Colombie et le P\u00e9rou (adh\u00e9sion de la Croatie)</title><label>Recommandation: Santiago Fisas Ayxel\u00e0 (A8-0155/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0234",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540082-12",
+            "activity_label": {
+                "fr": "Op\u00e9rations de soutien de la paix \u2013 l'engagement de l'Union europ\u00e9enne vis-\u00e0-vis des Nations unies et de l'Union africaine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0158"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-012"
+            ],
+            "notation_dlvId": "540082",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Op\u00e9rations de soutien de la paix \u2013 l'engagement de l'Union europ\u00e9enne vis-\u00e0-vis des Nations unies et de l'Union africaine</title><label>Rapport: Geoffrey Van Orden (A8-0158/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2275",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540180-9",
+            "activity_label": {
+                "fr": "Rapport 2015 sur la coh\u00e9rence des politiques pour le d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0165"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-009"
+            ],
+            "notation_dlvId": "540180",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2015 sur la coh\u00e9rence des politiques pour le d\u00e9veloppement</title><label>Rapport: Cristian Dan Preda (A8-0165/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2317",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540088-15",
+            "activity_label": {
+                "fr": "La promotion de l'innovation et du d\u00e9veloppement \u00e9conomique en rapport avec une gestion agricole d'avenir pour l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0163"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-015"
+            ],
+            "notation_dlvId": "540088",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La promotion de l'innovation et du d\u00e9veloppement \u00e9conomique en rapport avec une gestion agricole d'avenir pour l'Union europ\u00e9enne</title><label>Rapport: Jan Huitema (A8-0163/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2227",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540092-1",
+            "activity_label": {
+                "fr": "\u00c9liminer le commerce illicite des produits du tabac: protocole \u00e0 la convention-cadre de l\u2019OMS"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0154"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-001"
+            ],
+            "notation_dlvId": "540092",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9liminer le commerce illicite des produits du tabac: protocole \u00e0 la convention-cadre de l\u2019OMS</title><label>Recommandation: Adam Szejnfeld (A8-0154/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0101",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540090-7",
+            "activity_label": {
+                "fr": "March\u00e9s d'instruments financiers, abus de march\u00e9 et r\u00e8glement de titres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0125"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-56"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-007"
+            ],
+            "notation_dlvId": "540090",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>March\u00e9s d'instruments financiers, abus de march\u00e9 et r\u00e8glement de titres</title><label>Rapport: Markus Ferber (A8-0125/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0034",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540092-5",
+            "activity_label": {
+                "fr": "\u00c9liminer le commerce illicite des produits du tabac: protocole \u00e0 la convention-cadre de l\u2019OMS (coop\u00e9ration judiciaire en mati\u00e8re p\u00e9nale)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0198"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-005"
+            ],
+            "notation_dlvId": "540092",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9liminer le commerce illicite des produits du tabac: protocole \u00e0 la convention-cadre de l\u2019OMS (coop\u00e9ration judiciaire en mati\u00e8re p\u00e9nale)</title><label>Recommandation: Martina Anderson (A8-0198/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0100",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540091-8",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Rimantas \u0160ad\u017eius"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0183"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-008"
+            ],
+            "notation_dlvId": "540091",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Rimantas \u0160ad\u017eius</title><label>Rapport: Bart Staes (A8-0183/2016) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0805",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540092-4",
+            "activity_label": {
+                "fr": "Coop\u00e9ration renforc\u00e9e dans le domaine des r\u00e9gimes matrimoniaux des couples internationaux"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0192"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-004"
+            ],
+            "notation_dlvId": "540092",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coop\u00e9ration renforc\u00e9e dans le domaine des r\u00e9gimes matrimoniaux des couples internationaux</title><label>Recommandation: Jean-Marie Cavada (A8-0192/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0061",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14",
+            "type": "Activity",
+            "activity_date": "2016-06-07",
+            "activity_id": "MTG-PL-2016-06-07-VOT-ITM-540085-14",
+            "activity_label": {
+                "fr": "Solutions technologiques pour une agriculture durable"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0174"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-07-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-07-VOT-ITM-014"
+            ],
+            "notation_dlvId": "540085",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Solutions technologiques pour une agriculture durable</title><label>Rapport: Anthea McIntyre (A8-0174/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540081-11",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540080-10",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-2",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540083-13",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540089-6",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-3",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540082-12",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540180-9",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540088-15",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-1",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540090-7",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-5",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540091-8",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540092-4",
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2225",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-07-VOT-ITM-540085-14"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,686 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562464-13",
+            "activity_label": {
+                "fr": "Situation en Bi\u00e9lorussie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1234",
+                "eli/dl/doc/B-8-2016-1238",
+                "eli/dl/doc/B-8-2016-1239",
+                "eli/dl/doc/B-8-2016-1232",
+                "eli/dl/doc/B-8-2016-1233",
+                "eli/dl/doc/B-8-2016-1240",
+                "eli/dl/doc/B-8-2016-1237"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-64"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-013"
+            ],
+            "notation_dlvId": "562464",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Bi\u00e9lorussie</title><label>Propositions de r\u00e9solution: B8-1232/2016, B8-1233/2016, B8-1234/2016, B8-1237/2016, B8-1238/2016, B8-1239/2016, B8-1240/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2934",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562449-5",
+            "activity_label": {
+                "fr": "Activit\u00e9s et surveillance des institutions de retraite professionnelle"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0011"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-005"
+            ],
+            "notation_dlvId": "562449",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Activit\u00e9s et surveillance des institutions de retraite professionnelle</title><label>Rapport: Brian Hayes (A8-0011/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0091",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562460-6",
+            "activity_label": {
+                "fr": "Situation en Syrie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1252",
+                "eli/dl/doc/B-8-2016-1253",
+                "eli/dl/doc/B-8-2016-1249",
+                "eli/dl/doc/B-8-2016-1254",
+                "eli/dl/doc/B-8-2016-1255",
+                "eli/dl/doc/B-8-2016-1123",
+                "eli/dl/doc/B-8-2016-1250",
+                "eli/dl/doc/B-8-2016-1251"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-69"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-006"
+            ],
+            "notation_dlvId": "562460",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Syrie</title><label>Propositions de r\u00e9solution: B8-1123/2016, B8-1249/2016, B8-1250/2016, B8-1251/2016, B8-1252/2016, B8-1253/2016, B8-1254/2016, B8-1255/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2933",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562455-1",
+            "activity_label": {
+                "fr": "Le cas de Gui Minhai, \u00e9diteur emprisonn\u00e9 en Chine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1257",
+                "eli/dl/doc/B-8-2016-1258",
+                "eli/dl/doc/B-8-2016-1259",
+                "eli/dl/doc/B-8-2016-1272",
+                "eli/dl/doc/B-8-2016-1263",
+                "eli/dl/doc/B-8-2016-1269",
+                "eli/dl/doc/B-8-2016-1256"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-87"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-001"
+            ],
+            "notation_dlvId": "562455",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le cas de Gui Minhai, \u00e9diteur emprisonn\u00e9 en Chine</title><label>Propositions de r\u00e9solution: B8-1256/2016, B8-1257/2016, B8-1258/2016, B8-1259/2016, B8-1263/2016, B8-1269/2016, B8-1272/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2990",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562462-8",
+            "activity_label": {
+                "fr": "Adh\u00e9sion de l'UE \u00e0 la convention d'Istanbul sur la pr\u00e9vention et la lutte contre la violence \u00e0 l'\u00e9gard des femmes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1235",
+                "eli/dl/doc/B-8-2016-1229"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-008"
+            ],
+            "notation_dlvId": "562462",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion de l'UE \u00e0 la convention d'Istanbul sur la pr\u00e9vention et la lutte contre la violence \u00e0 l'\u00e9gard des femmes</title><label>Propositions de r\u00e9solution: B8-1229/2016, B8-1235/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2966",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562461-7",
+            "activity_label": {
+                "fr": "Relations UE-Turquie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1279",
+                "eli/dl/doc/B-8-2016-1282",
+                "eli/dl/doc/B-8-2016-1277",
+                "eli/dl/doc/B-8-2016-1280",
+                "eli/dl/doc/B-8-2016-1283",
+                "eli/dl/doc/B-8-2016-1278",
+                "eli/dl/doc/B-8-2016-1281",
+                "eli/dl/doc/B-8-2016-1276"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-007"
+            ],
+            "notation_dlvId": "562461",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations UE-Turquie</title><label>Propositions de r\u00e9solution: B8-1276/2016, B8-1277/2016, B8-1278/2016, B8-1279/2016, B8-1280/2016, B8-1281/2016, B8-1282/2016, B8-1283/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2993",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562420-12",
+            "activity_label": {
+                "fr": "Nouvelles opportunit\u00e9s pour les petites entreprises de transport"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0304"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-26"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-012"
+            ],
+            "notation_dlvId": "562420",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nouvelles opportunit\u00e9s pour les petites entreprises de transport</title><label>Rapport: Dominique Riquet (A8-0304/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2349",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562423-9",
+            "activity_label": {
+                "fr": "Activit\u00e9s du M\u00e9diateur europ\u00e9en en 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0331"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-009"
+            ],
+            "notation_dlvId": "562423",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Activit\u00e9s du M\u00e9diateur europ\u00e9en en 2015</title><label>Rapport: Notis Marias (A8-0331/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2150",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562417-4",
+            "activity_label": {
+                "fr": "Assistance macrofinanci\u00e8re \u00e0 la Jordanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0296"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-65"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-004"
+            ],
+            "notation_dlvId": "562417",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Assistance macrofinanci\u00e8re \u00e0 la Jordanie</title><label>Rapport: Emmanuel Maurel (A8-0296/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0197",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562411-11",
+            "activity_label": {
+                "fr": "Plan d'action de l'Union europ\u00e9enne contre le trafic d'esp\u00e8ces sauvages"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0303"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-011"
+            ],
+            "notation_dlvId": "562411",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Plan d'action de l'Union europ\u00e9enne contre le trafic d'esp\u00e8ces sauvages</title><label>Rapport: Catherine Bearder (A8-0303/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2076",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562456-2",
+            "activity_label": {
+                "fr": "La situation des Guarani-Kaiow\u00e1 dans l'\u00c9tat br\u00e9silien du Mato Grosso do Sul"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1271",
+                "eli/dl/doc/B-8-2016-1265",
+                "eli/dl/doc/B-8-2016-1262",
+                "eli/dl/doc/B-8-2016-1260",
+                "eli/dl/doc/B-8-2016-1275",
+                "eli/dl/doc/B-8-2016-1268",
+                "eli/dl/doc/B-8-2016-1274"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-002"
+            ],
+            "notation_dlvId": "562456",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La situation des Guarani-Kaiow\u00e1 dans l'\u00c9tat br\u00e9silien du Mato Grosso do Sul</title><label>Propositions de r\u00e9solution: B8-1260/2016, B8-1262/2016, B8-1265/2016, B8-1268/2016, B8-1271/2016, B8-1274/2016, B8-1275/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2991",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562458-3",
+            "activity_label": {
+                "fr": "Le cas d'Ildar Dadin, prisonnier d'opinion en Russie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1266",
+                "eli/dl/doc/B-8-2016-1264",
+                "eli/dl/doc/B-8-2016-1270",
+                "eli/dl/doc/B-8-2016-1261",
+                "eli/dl/doc/B-8-2016-1273",
+                "eli/dl/doc/B-8-2016-1267"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-89"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-003"
+            ],
+            "notation_dlvId": "562458",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le cas d'Ildar Dadin, prisonnier d'opinion en Russie</title><label>Propositions de r\u00e9solution: B8-1261/2016, B8-1264/2016, B8-1266/2016, B8-1267/2016, B8-1270/2016, B8-1273/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2992",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10",
+            "type": "Activity",
+            "activity_date": "2016-11-24",
+            "activity_id": "MTG-PL-2016-11-24-VOT-ITM-562419-10",
+            "activity_label": {
+                "fr": "Vers un syst\u00e8me de TVA d\u00e9finitif, et lutte contre la fraude \u00e0 la TVA"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0307"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-24-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-24-VOT-ITM-010"
+            ],
+            "notation_dlvId": "562419",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Vers un syst\u00e8me de TVA d\u00e9finitif, et lutte contre la fraude \u00e0 la TVA</title><label>Rapport: Werner Langen (A8-0307/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562464-13",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562449-5",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562460-6",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562455-1",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562462-8",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562461-7",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562420-12",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562423-9",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562417-4",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562411-11",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562456-2",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562458-3",
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2033",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-24-VOT-ITM-562419-10"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

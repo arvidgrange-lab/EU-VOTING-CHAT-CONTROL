@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-12-17-VOT-ITM-978300",
+            "type": "Activity",
+            "activity_date": "2025-12-17",
+            "activity_id": "MTG-PL-2025-12-17-VOT-ITM-978300",
+            "activity_label": {
+                "fi": "Sotilaallinen liikkuvuus",
+                "lv": "Milit\u0101r\u0101 mobilit\u0101te",
+                "fr": "Mobilit\u00e9 militaire",
+                "sk": "Vojensk\u00e1 mobilita",
+                "cs": "Vojensk\u00e1 mobilita",
+                "pt": "A mobilidade militar",
+                "it": "Mobilit\u00e0 militare",
+                "da": "Milit\u00e6r mobilitet",
+                "bg": "\u0412\u043e\u0435\u043d\u043d\u0430 \u043c\u043e\u0431\u0438\u043b\u043d\u043e\u0441\u0442",
+                "nl": "Militaire mobiliteit",
+                "hu": "Katonai mobilit\u00e1s",
+                "de": "Milit\u00e4rische Mobilit\u00e4t",
+                "ga": "An tsoghluaisteacht mh\u00edleata",
+                "el": "\u03a3\u03c4\u03c1\u03b1\u03c4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae \u03ba\u03b9\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1",
+                "ro": "Mobilitatea militar\u0103",
+                "hr": "Vojna mobilnost",
+                "sl": "Voja\u0161ka mobilnost",
+                "es": "Movilidad militar",
+                "pl": "Mobilno\u015b\u0107 wojskowa",
+                "sv": "Milit\u00e4r r\u00f6rlighet",
+                "en": "Military Mobility",
+                "mt": "Mobbilt\u00e0 Militari",
+                "mul": "Mobilit\u00e9 militaire - Military mobility - Milit\u00e4rische Mobilit\u00e4t",
+                "et": "S\u00f5jav\u00e4eline liikuvus",
+                "lt": "Karinis mobilumas"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2025-0242"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2025-12-17-DEC-182511"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2025-12-17-OJ-ITM-V-59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2025-12-17-VOT-ITM-009"
+            ],
+            "notation_dlvId": "978300",
+            "structuredLabel": {
+                "et": "<structuredLabel><title>S\u00f5jav\u00e4eline liikuvus</title><label>Raport: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (n\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>An tsoghluaisteacht mh\u00edleata</title><label>Tuarasc\u00e1il: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (Tromlach na v\u00f3ta\u00ed arna gcaitheamh ag teast\u00e1il)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Movilidad militar</title><label>Informe: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Milit\u00e4r r\u00f6rlighet</title><label>Bet\u00e4nkande: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (En majoritet av de avgivna r\u00f6sterna kr\u00e4vdes.)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Karinis mobilumas</title><label>Prane\u0161imas: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Vojna mobilnost</title><label>Izvje\u0161\u0107e: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Katonai mobilit\u00e1s</title><label>Jelent\u00e9s: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (A leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Mobilit\u00e9 militaire</title><label>Rapport: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Military Mobility</title><label>Report: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (Majority of votes cast required)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Mobbilt\u00e0 Militari</title><label>Rapport: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (Rikjesta l-ma\u0121\u0121oranza tal-voti mitfug\u0127a)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Vojensk\u00e1 mobilita</title><label>Zpr\u00e1va: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Vojensk\u00e1 mobilita</title><label>Spr\u00e1va: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (potrebn\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Milit\u0101r\u0101 mobilit\u0101te</title><label>Zi\u0146ojums: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Mobilitatea militar\u0103</title><label>Raport: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (Este necesar\u0103 majoritatea voturilor exprimate)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0412\u043e\u0435\u043d\u043d\u0430 \u043c\u043e\u0431\u0438\u043b\u043d\u043e\u0441\u0442</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Milit\u00e6r mobilitet</title><label>Bet\u00e6nkning: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>A mobilidade militar</title><label>Relat\u00f3rio: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (Requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Mobilno\u015b\u0107 wojskowa</title><label>Sprawozdanie: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Mobilit\u00e0 militare</title><label>Relazione: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Militaire mobiliteit</title><label>Verslag: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (Meerderheid van de uitgebrachte stemmen)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Voja\u0161ka mobilnost</title><label>Poro\u010dilo: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (potrebna je ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u03a3\u03c4\u03c1\u03b1\u03c4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae \u03ba\u03b9\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Milit\u00e4rische Mobilit\u00e4t</title><label>Bericht: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Sotilaallinen liikkuvuus</title><label>Mietint\u00f6: Petras Au\u0161trevi\u010dius, Roberts Z\u012ble (A10-0242/2025) (hyv\u00e4ksymiseen vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

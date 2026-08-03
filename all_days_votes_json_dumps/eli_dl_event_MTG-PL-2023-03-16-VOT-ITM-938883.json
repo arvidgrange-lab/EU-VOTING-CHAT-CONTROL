@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938883",
+            "type": "Activity",
+            "activity_date": "2023-03-16",
+            "activity_id": "MTG-PL-2023-03-16-VOT-ITM-938883",
+            "activity_label": {
+                "fr": "Modification du r\u00e8glement (UE) n\u00b0 910/2014 en ce qui concerne le d\u00e9veloppement d'un cadre pour une identit\u00e9 num\u00e9rique europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0038"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-16-OJ-ITM-V-87",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-16-VOT-ITM-000"
+            ],
+            "notation_dlvId": "938883",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification du r\u00e8glement (UE) n\u00b0 910/2014 en ce qui concerne le d\u00e9veloppement d'un cadre pour une identit\u00e9 num\u00e9rique europ\u00e9enne</title><label>Rapport: Romana Jerkovi\u0107 (A9-0038/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

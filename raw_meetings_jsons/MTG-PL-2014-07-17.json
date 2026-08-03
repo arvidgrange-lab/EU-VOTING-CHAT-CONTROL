@@ -1,0 +1,450 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360886-1",
+            "type": "Activity",
+            "activity_date": "2014-07-17",
+            "activity_id": "MTG-PL-2014-07-17-VOT-ITM-360886-1",
+            "activity_label": {
+                "fr": "Soudan, le cas de Meriam Yahia Ibrahim Ishag"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0010",
+                "eli/dl/doc/B-8-2014-0014",
+                "eli/dl/doc/B-8-2014-0012",
+                "eli/dl/doc/B-8-2014-0022",
+                "eli/dl/doc/B-8-2014-0018",
+                "eli/dl/doc/B-8-2014-0017"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-17-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-17-VOT-ITM-001"
+            ],
+            "notation_dlvId": "360886",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Soudan, le cas de Meriam Yahia Ibrahim Ishag</title><label>B8-0010/2014, B8-0012/2014, B8-0014/2014, B8-0017/2014, B8-0018/2014, B8-0022/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360886-1",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360894-7",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360892-6",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360896-9",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360895-8",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360889-3",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360888-2",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360940-4",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360891-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2727",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360886-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360894-7",
+            "type": "Activity",
+            "activity_date": "2014-07-17",
+            "activity_id": "MTG-PL-2014-07-17-VOT-ITM-360894-7",
+            "activity_label": {
+                "fr": "Situation en Iraq"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0061",
+                "eli/dl/doc/B-8-2014-0064",
+                "eli/dl/doc/B-8-2014-0059",
+                "eli/dl/doc/B-8-2014-0062",
+                "eli/dl/doc/B-8-2014-0060",
+                "eli/dl/doc/B-8-2014-0063"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-17-OJ-ITM-V-36"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-17-VOT-ITM-007"
+            ],
+            "notation_dlvId": "360894",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Iraq</title><label>Propositions de r\u00e9solution: B8-0059/2014, B8-0060/2014, B8-0061/2014, B8-0062/2014, B8-0063/2014, B8-0064/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360886-1",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360894-7",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360892-6",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360896-9",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360895-8",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360889-3",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360888-2",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360940-4",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360891-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2716",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360894-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360892-6",
+            "type": "Activity",
+            "activity_date": "2014-07-17",
+            "activity_id": "MTG-PL-2014-07-17-VOT-ITM-360892-6",
+            "activity_label": {
+                "fr": "Emploi des jeunes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0027",
+                "eli/dl/doc/B-8-2014-0053",
+                "eli/dl/doc/B-8-2014-0051",
+                "eli/dl/doc/B-8-2014-0052",
+                "eli/dl/doc/B-8-2014-0058",
+                "eli/dl/doc/B-8-2014-0030",
+                "eli/dl/doc/B-8-2014-0055"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-17-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-17-VOT-ITM-006"
+            ],
+            "notation_dlvId": "360892",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Emploi des jeunes</title><label>Propositions de r\u00e9solution: B8-0027/2014, B8-0030/2014, B8-0051/2014, B8-0052/2014, B8-0053/2014, B8-0055/2014, B8-0058/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360886-1",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360894-7",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360892-6",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360896-9",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360895-8",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360889-3",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360888-2",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360940-4",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360891-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2713",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360892-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360896-9",
+            "type": "Activity",
+            "activity_date": "2014-07-17",
+            "activity_id": "MTG-PL-2014-07-17-VOT-ITM-360896-9",
+            "activity_label": {
+                "fr": "Crime d'agression"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0067",
+                "eli/dl/doc/B-8-2014-0066",
+                "eli/dl/doc/B-8-2014-0065",
+                "eli/dl/doc/B-8-2014-0070",
+                "eli/dl/doc/B-8-2014-0069",
+                "eli/dl/doc/B-8-2014-0068"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-17-OJ-ITM-V-43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-17-VOT-ITM-009"
+            ],
+            "notation_dlvId": "360896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Crime d'agression</title><label>Propositions de r\u00e9solution: B8-0065/2014, B8-0066/2014, B8-0067/2014, B8-0068/2014, B8-0069/2014, B8-0070/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360886-1",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360894-7",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360892-6",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360896-9",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360895-8",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360889-3",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360888-2",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360940-4",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360891-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2724",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360896-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360895-8",
+            "type": "Activity",
+            "activity_date": "2014-07-17",
+            "activity_id": "MTG-PL-2014-07-17-VOT-ITM-360895-8",
+            "activity_label": {
+                "fr": "Escalade de la violence entre Isra\u00ebl et la Palestine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0071",
+                "eli/dl/doc/B-8-2014-0075",
+                "eli/dl/doc/B-8-2014-0072",
+                "eli/dl/doc/B-8-2014-0076",
+                "eli/dl/doc/B-8-2014-0073",
+                "eli/dl/doc/B-8-2014-0077",
+                "eli/dl/doc/B-8-2014-0074"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-17-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-17-VOT-ITM-008"
+            ],
+            "notation_dlvId": "360895",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Escalade de la violence entre Isra\u00ebl et la Palestine</title><label>Propositions de r\u00e9solution: B8-0071/2014, B8-0072/2014, B8-0073/2014, B8-0074/2014, B8-0075/2014, B8-0076/2014, B8-0077/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360886-1",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360894-7",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360892-6",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360896-9",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360895-8",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360889-3",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360888-2",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360940-4",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360891-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2723",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360895-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360889-3",
+            "type": "Activity",
+            "activity_date": "2014-07-17",
+            "activity_id": "MTG-PL-2014-07-17-VOT-ITM-360889-3",
+            "activity_label": {
+                "fr": "Nigeria, les r\u00e9centes attaques de Boko Haram"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0020",
+                "eli/dl/doc/B-8-2014-0016",
+                "eli/dl/doc/B-8-2014-0021",
+                "eli/dl/doc/B-8-2014-0024",
+                "eli/dl/doc/B-8-2014-0019",
+                "eli/dl/doc/B-8-2014-0023"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-17-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-17-VOT-ITM-003"
+            ],
+            "notation_dlvId": "360889",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nigeria, les r\u00e9centes attaques de Boko Haram</title><label>B8-0016/2014, B8-0019/2014, B8-0020/2014, B8-0021/2014, B8-0023/2014, B8-0024/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360886-1",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360894-7",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360892-6",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360896-9",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360895-8",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360889-3",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360888-2",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360940-4",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360891-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2729",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360889-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360888-2",
+            "type": "Activity",
+            "activity_date": "2014-07-17",
+            "activity_id": "MTG-PL-2014-07-17-VOT-ITM-360888-2",
+            "activity_label": {
+                "fr": "Libert\u00e9 d'expression et de r\u00e9union en \u00c9gypte"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0015",
+                "eli/dl/doc/B-8-2014-0008",
+                "eli/dl/doc/B-8-2014-0013",
+                "eli/dl/doc/B-8-2014-0009",
+                "eli/dl/doc/B-8-2014-0007",
+                "eli/dl/doc/B-8-2014-0011"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-17-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-17-VOT-ITM-002"
+            ],
+            "notation_dlvId": "360888",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Libert\u00e9 d'expression et de r\u00e9union en \u00c9gypte</title><label>B8-0007/2014, B8-0008/2014, B8-0009/2014, B8-0011/2014, B8-0013/2014, B8-0015/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360886-1",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360894-7",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360892-6",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360896-9",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360895-8",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360889-3",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360888-2",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360940-4",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360891-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2728",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360888-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360940-4",
+            "type": "Activity",
+            "activity_date": "2014-07-17",
+            "activity_id": "MTG-PL-2014-07-17-VOT-ITM-360940-4",
+            "activity_label": {
+                "fr": "Nominations dans les d\u00e9l\u00e9gations interparlementaires"
+            },
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-17-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-17-VOT-ITM-004"
+            ],
+            "notation_dlvId": "360940",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nominations dans les d\u00e9l\u00e9gations interparlementaires</title><label></label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360886-1",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360894-7",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360892-6",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360896-9",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360895-8",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360889-3",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360888-2",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360940-4",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360891-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360891-5",
+            "type": "Activity",
+            "activity_date": "2014-07-17",
+            "activity_id": "MTG-PL-2014-07-17-VOT-ITM-360891-5",
+            "activity_label": {
+                "fr": "Situation en Ukraine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0057",
+                "eli/dl/doc/B-8-2014-0028",
+                "eli/dl/doc/B-8-2014-0025",
+                "eli/dl/doc/B-8-2014-0029",
+                "eli/dl/doc/B-8-2014-0056",
+                "eli/dl/doc/B-8-2014-0026",
+                "eli/dl/doc/B-8-2014-0054"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-17-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-17-VOT-ITM-005"
+            ],
+            "notation_dlvId": "360891",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Ukraine</title><label>Propositions de r\u00e9solution: B8-0025/2014, B8-0026/2014, B8-0028/2014, B8-0029/2014, B8-0054/2014, B8-0056/2014, B8-0057/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360886-1",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360894-7",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360892-6",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360896-9",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360895-8",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360889-3",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360888-2",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360940-4",
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360891-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2717",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-17-VOT-ITM-360891-5"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

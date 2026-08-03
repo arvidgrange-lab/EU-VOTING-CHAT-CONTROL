@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939584",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939584",
+            "activity_label": {
+                "mul": "Espace Schengen: modification du r\u00e8glement sur la vignette-visa - Schengen area: amending the Visa Sticker Regulation - Schengen-Raum: \u00c4nderung der Verordnung \u00fcber die Visummarke",
+                "fr": "Espace Schengen: modification du r\u00e8glement sur la vignette-visa"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0268"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-46",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939584",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Espace Schengen: modification du r\u00e8glement sur la vignette-visa</title><label>Rapport: Matja\u017e Nemec (A9-0268/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

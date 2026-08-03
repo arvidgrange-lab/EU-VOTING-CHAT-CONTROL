@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-03-11-VOT-ITM-965278",
+            "type": "Activity",
+            "activity_date": "2025-03-11",
+            "activity_id": "MTG-PL-2025-03-11-VOT-ITM-965278",
+            "activity_label": {
+                "lv": "Pilnvaru p\u0101rbaude",
+                "ro": "Verificarea prerogativelor",
+                "et": "Volituste kontrollimine",
+                "sk": "Presk\u00famanie osved\u010den\u00ed o zvolen\u00ed",
+                "it": "Verifica dei poteri",
+                "fi": "Valtakirjojen tarkastus",
+                "hr": "Provjera valjanosti mandata",
+                "fr": "V\u00e9rification des pouvoirs",
+                "nl": "Onderzoek van de geloofsbrieven",
+                "es": "Comprobaci\u00f3n de credenciales",
+                "bg": "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043d\u0430 \u043f\u044a\u043b\u043d\u043e\u043c\u043e\u0449\u0438\u044f\u0442\u0430",
+                "sv": "Pr\u00f6vning av beh\u00f6righet",
+                "mt": "Verifika tal-kredenzjali",
+                "da": "Valgs pr\u00f8velse",
+                "mul": "V\u00e9rification des pouvoirs - Verification of credentials - Pr\u00fcfung der Mandate",
+                "hu": "Mand\u00e1tumvizsg\u00e1lat",
+                "ga": "F\u00edor\u00fa na ndinti\u00far",
+                "pt": "Verifica\u00e7\u00e3o de poderes",
+                "cs": "Ov\u011b\u0159ov\u00e1n\u00ed pov\u011b\u0159ovac\u00edch listin",
+                "el": "\u0388\u03bb\u03b5\u03b3\u03c7\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03bd\u03c4\u03bf\u03bb\u03ae\u03c2",
+                "lt": "\u012egaliojim\u0173 patikrinimas",
+                "pl": "Weryfikacja mandat\u00f3w",
+                "de": "Pr\u00fcfung der Mandate",
+                "sl": "Preverjanje veljavnosti mandatov poslancev",
+                "en": "Verification of credentials"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2025-0016"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2025-03-11-DEC-172110"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2025-03-11-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2025-03-11-VOT-ITM-006"
+            ],
+            "notation_dlvId": "965278",
+            "structuredLabel": {
+                "fi": "<structuredLabel><title>Valtakirjojen tarkastus</title><label>Mietint\u00f6: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Valgs pr\u00f8velse</title><label>Bet\u00e6nkning: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Pr\u00f6vning av beh\u00f6righet</title><label>Bet\u00e4nkande: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Presk\u00famanie osved\u010den\u00ed o zvolen\u00ed</title><label>Spr\u00e1va: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0388\u03bb\u03b5\u03b3\u03c7\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03bd\u03c4\u03bf\u03bb\u03ae\u03c2</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>\u012egaliojim\u0173 patikrinimas</title><label>Prane\u0161imas: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Volituste kontrollimine</title><label>Raport: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Pr\u00fcfung der Mandate</title><label>Bericht: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Provjera valjanosti mandata</title><label>Izvje\u0161\u0107e: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Ov\u011b\u0159ov\u00e1n\u00ed pov\u011b\u0159ovac\u00edch listin</title><label>Zpr\u00e1va: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Pilnvaru p\u0101rbaude</title><label>Zi\u0146ojums: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Verifica dei poteri</title><label>Relazione: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Weryfikacja mandat\u00f3w</title><label>Sprawozdanie: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Preverjanje veljavnosti mandatov poslancev</title><label>Poro\u010dilo: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Comprobaci\u00f3n de credenciales</title><label>Informe: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Onderzoek van de geloofsbrieven</title><label>Verslag: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Verifica\u00e7\u00e3o de poderes</title><label>Relat\u00f3rio: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Verification of credentials</title><label>Report: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Mand\u00e1tumvizsg\u00e1lat</title><label>Jelent\u00e9s: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Verifika tal-kredenzjali</title><label>Rapport: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>V\u00e9rification des pouvoirs</title><label>Rapport: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043d\u0430 \u043f\u044a\u043b\u043d\u043e\u043c\u043e\u0449\u0438\u044f\u0442\u0430</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>F\u00edor\u00fa na ndinti\u00far</title><label>Tuarasc\u00e1il: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Verificarea prerogativelor</title><label>Raport: Ilhan Kyuchyuk (A10-0016/2025)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

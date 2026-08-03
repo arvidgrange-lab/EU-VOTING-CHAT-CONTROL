@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939303",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939303",
+            "activity_label": {
+                "fr": "D\u00e9t\u00e9rioration des libert\u00e9s fondamentales \u00e0 Hong Kong, notamment le cas de Jimmy Lai"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0289",
+                "eli/dl/doc/B-9-2023-0286",
+                "eli/dl/doc/B-9-2023-0287",
+                "eli/dl/doc/B-9-2023-0276",
+                "eli/dl/doc/B-9-2023-0282"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-90",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939303",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9t\u00e9rioration des libert\u00e9s fondamentales \u00e0 Hong Kong, notamment le cas de Jimmy Lai</title><label>Propositions de r\u00e9solution: RC-B9-0276/2023, B9-0276/2023, B9-0282/2023, B9-0286/2023, B9-0287/2023, B9-0289/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

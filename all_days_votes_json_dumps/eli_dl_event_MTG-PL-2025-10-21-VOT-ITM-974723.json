@@ -1,0 +1,82 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-10-21-VOT-ITM-974723",
+            "type": "Activity",
+            "activity_date": "2025-10-21",
+            "activity_id": "MTG-PL-2025-10-21-VOT-ITM-974723",
+            "activity_label": {
+                "ga": "F\u00e9ilire ph\u00e1irtseisi\u00fain na Parlaiminte - 2027",
+                "fr": "Calendrier des p\u00e9riodes de session du Parlement en 2027",
+                "cs": "Harmonogram d\u00edl\u010d\u00edch zased\u00e1n\u00ed Parlamentu \u2013 2027",
+                "de": "Tagungskalender des Parlaments \u2013 2027",
+                "hr": "Raspored sjednica Parlamenta \u2013 2027.",
+                "sv": "Parlamentets sammantr\u00e4deskalender \u2013 2027",
+                "lt": "2027 m. Parlamento m\u0117nesini\u0173 sesij\u0173 kalendorius",
+                "ro": "Calendarul perioadelor de sesiune ale Parlamentului - 2027",
+                "mt": "Kalendarju tas-sessjonijiet parzjali tal-Parlament \u2013 2027",
+                "mul": "Calendrier des p\u00e9riodes de session du Parlement en 2027 - Parliament\u2019s calendar of part-sessions \u2013 2027 - Tagungskalender des Parlaments \u2013 2027",
+                "fi": "Parlamentin istuntokalenteri \u2013 2027",
+                "sk": "Harmonogram plen\u00e1rnych sch\u00f4dz\u00ed Parlamentu \u2013 2027",
+                "nl": "Vergaderrooster van het Parlement voor 2027",
+                "el": "\u03a7\u03c1\u03bf\u03bd\u03bf\u03b4\u03b9\u03ac\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c4\u03c9\u03bd \u03c0\u03b5\u03c1\u03b9\u03cc\u03b4\u03c9\u03bd \u03c3\u03c5\u03bd\u03cc\u03b4\u03bf\u03c5 \u03c4\u03bf\u03c5 \u039a\u03bf\u03b9\u03bd\u03bf\u03b2\u03bf\u03c5\u03bb\u03af\u03bf\u03c5 - 2027",
+                "pt": "Calend\u00e1rio dos per\u00edodos de sess\u00f5es do Parlamento em 2027",
+                "pl": "Kalendarz sesji miesi\u0119cznych Parlamentu na rok 2027",
+                "en": "Parliament\u2019s calendar of part-sessions \u2013 2027",
+                "bg": "\u0413\u0440\u0430\u0444\u0438\u043a \u043d\u0430 \u043c\u0435\u0441\u0435\u0447\u043d\u0438\u0442\u0435 \u0441\u0435\u0441\u0438\u0438 \u043d\u0430 \u041f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430 \u0437\u0430 2027 \u0433.",
+                "da": "Parlamentets m\u00f8dekalender for 2027",
+                "lv": "Parlamenta 2027.\u00a0gada sesiju kalend\u0101rs",
+                "it": "Calendario delle tornate del Parlamento - 2027",
+                "et": "Parlamendi 2027. aasta osaistungj\u00e4rkude kalender",
+                "sl": "Koledar delnih zasedanj Parlamenta za leto 2027",
+                "es": "Calendario de per\u00edodos parciales de sesiones del Parlamento para 2027",
+                "hu": "A Parlament 2027. \u00e9vi \u00fcl\u00e9snapt\u00e1ra"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2025-10-21-DEC-179913",
+                "eli/dl/event/MTG-PL-2025-10-21-DEC-180202"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2025-10-21-VOT-ITM-002"
+            ],
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2025-10-21-VOT-ITM-974723-RCV-1"
+            ],
+            "notation_dlvId": "974723",
+            "structuredLabel": {
+                "ro": "<structuredLabel><title>Calendarul perioadelor de sesiune ale Parlamentului - 2027</title><label>Propunere a Conferin\u021bei pre\u0219edin\u021bilor (este necesar\u0103 majoritatea voturilor exprimate)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>2027 m. Parlamento m\u0117nesini\u0173 sesij\u0173 kalendorius</title><label>Pirminink\u0173 sueigos pasi\u016blymas (reikalinga atiduot\u0173 bals\u0173 dauguma)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Kalendarju tas-sessjonijiet parzjali tal-Parlament \u2013 2027</title><label>Proposta tal-Konferenza tal-Presidenti (Ma\u0121\u0121oranza tal-voti mitfug\u0127a mitluba)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Parlamentets sammantr\u00e4deskalender \u2013 2027</title><label>Talmanskonferensens f\u00f6rslag (En majoritet av de avgivna r\u00f6sterna erfordrades)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Raspored sjednica Parlamenta \u2013 2027.</title><label>Prijedlog Konferencija predsjednika (potrebna je ve\u0107ina danih glasova)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Vergaderrooster van het Parlement voor 2027</title><label>Voorstel van de Conferentie van voorzitters (Meerderheid van de uitgebrachte stemmen)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u03a7\u03c1\u03bf\u03bd\u03bf\u03b4\u03b9\u03ac\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c4\u03c9\u03bd \u03c0\u03b5\u03c1\u03b9\u03cc\u03b4\u03c9\u03bd \u03c3\u03c5\u03bd\u03cc\u03b4\u03bf\u03c5 \u03c4\u03bf\u03c5 \u039a\u03bf\u03b9\u03bd\u03bf\u03b2\u03bf\u03c5\u03bb\u03af\u03bf\u03c5 - 2027</title><label>\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u0394\u03b9\u03ac\u03c3\u03ba\u03b5\u03c8\u03b7\u03c2 \u03c4\u03c9\u03bd \u03a0\u03c1\u03bf\u03ad\u03b4\u03c1\u03c9\u03bd (\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03c9\u03bd \u03c8\u03b7\u03c6\u03b9\u03c3\u03ac\u03bd\u03c4\u03c9\u03bd)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Parlamendi 2027. aasta osaistungj\u00e4rkude kalender</title><label>Esimeeste konverentsi ettepanek (n\u00f5utav antud h\u00e4\u00e4lte enamus)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Parlamentin istuntokalenteri \u2013 2027</title><label>Puheenjohtajakokouksen ehdotus (vaaditaan annettujen \u00e4\u00e4nten enemmist\u00f6)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Parlamentets m\u00f8dekalender for 2027</title><label>Forslag til formandskonferencen (Flertal af de afgivne stemmer p\u00e5kr\u00e6vet)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Harmonogram plen\u00e1rnych sch\u00f4dz\u00ed Parlamentu \u2013 2027</title><label>N\u00e1vrh Konferencie predsedov (vy\u017eadovan\u00e1 v\u00e4\u010d\u0161ina odovzdan\u00fdch hlasov)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>A Parlament 2027. \u00e9vi \u00fcl\u00e9snapt\u00e1ra</title><label>Az Eln\u00f6k\u00f6k \u00c9rtekezlet\u00e9nek javaslata (A leadott szavazatok t\u00f6bbs\u00e9ge sz\u00fcks\u00e9ges)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0413\u0440\u0430\u0444\u0438\u043a \u043d\u0430 \u043c\u0435\u0441\u0435\u0447\u043d\u0438\u0442\u0435 \u0441\u0435\u0441\u0438\u0438 \u043d\u0430 \u041f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430 \u0437\u0430 2027 \u0433.</title><label>\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043d\u0430 \u041f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u0441\u043a\u0438\u044f \u0441\u044a\u0432\u0435\u0442 (\u0438\u0437\u0438\u0441\u043a\u0432\u0430 \u0441\u0435 \u043c\u043d\u043e\u0437\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0442 \u043f\u043e\u0434\u0430\u0434\u0435\u043d\u0438\u0442\u0435 \u0433\u043b\u0430\u0441\u043e\u0432\u0435)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Harmonogram d\u00edl\u010d\u00edch zased\u00e1n\u00ed Parlamentu \u2013 2027</title><label>N\u00e1vrh Konference p\u0159edsed\u016f (vy\u017eaduje se v\u011bt\u0161ina odevzdan\u00fdch hlas\u016f)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Calendario de per\u00edodos parciales de sesiones del Parlamento para 2027</title><label>Propuesta de la Conferencia de Presidentes (mayor\u00eda de los votos emitidos requerida)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>F\u00e9ilire ph\u00e1irtseisi\u00fain na Parlaiminte - 2027</title><label>Togra \u00f3 Chomhdh\u00e1il na nUachtar\u00e1n (Tromlach na v\u00f3ta\u00ed a caitheadh ag teast\u00e1il)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Calend\u00e1rio dos per\u00edodos de sess\u00f5es do Parlamento em 2027</title><label>Proposta da Confer\u00eancia dos Presidentes (requerida a maioria dos votos expressos)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Tagungskalender des Parlaments \u2013 2027</title><label>Vorschlag der Konferenz der Pr\u00e4sidenten (Mehrheit der abgegebenen Stimmen erforderlich)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Parliament\u2019s calendar of part-sessions \u2013 2027</title><label>Proposal from the Conference of Presidents (Majority of votes cast required)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Parlamenta 2027.\u00a0gada sesiju kalend\u0101rs</title><label>Priek\u0161s\u0113d\u0113t\u0101ju konferences priek\u0161likums (vajadz\u012bgs nodoto balsu vair\u0101kums)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Koledar delnih zasedanj Parlamenta za leto 2027</title><label>Predlog konference predsednikov (potrebna ve\u010dina oddanih glasov)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Calendario delle tornate del Parlamento - 2027</title><label>Proposta della Conferenza dei presidenti (Richiesta la maggioranza dei voti espressi)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Calendrier des p\u00e9riodes de session du Parlement en 2027</title><label>Proposition de la Conf\u00e9rence des pr\u00e9sidents (Majorit\u00e9 des suffrages exprim\u00e9s requise)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Kalendarz sesji miesi\u0119cznych Parlamentu na rok 2027</title><label>Projekt Konferencji Przewodnicz\u0105cych (wymagana wi\u0119kszo\u015b\u0107 oddanych g\u0142os\u00f3w)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

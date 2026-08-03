@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939712",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939712",
+            "activity_label": {
+                "mul": "Cadre de l\u2019Union pour la situation sociale et professionnelle des artistes et des travailleurs des secteurs de la culture et de la cr\u00e9ation - EU framework for the social and professional situation of artists and workers in the cultural and creative sectors - EU-Rahmen f\u00fcr die soziale und berufliche Situation von K\u00fcnstlern und Arbeitnehmern in der Kultur- und Kreativbranche",
+                "fr": "Cadre de l\u2019Union pour la situation sociale et professionnelle des artistes et des travailleurs des secteurs de la culture et de la cr\u00e9ation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0304"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-22",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939712",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 4,
+            "epvoc:amendmentsTabledTotal": 4,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre de l\u2019Union pour la situation sociale et professionnelle des artistes et des travailleurs des secteurs de la culture et de la cr\u00e9ation</title><label>Rapport: Antonius Manders, Dom\u00e8nec Ruiz Devesa (A9-0304/2023) (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise pour l'adoption de la proposition de r\u00e9solution)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

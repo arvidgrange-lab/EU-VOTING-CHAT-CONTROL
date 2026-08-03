@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662304-1",
+            "activity_label": {
+                "fr": "Gestion durable des flottes de p\u00eache externes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0374"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-001"
+            ],
+            "notation_dlvId": "662304",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gestion durable des flottes de p\u00eache externes</title><label>Recommandation pour la deuxi\u00e8me lecture: Linn\u00e9a Engstr\u00f6m (A8-0374/2017) (majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

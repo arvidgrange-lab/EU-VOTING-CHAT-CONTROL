@@ -1,0 +1,479 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938686",
+            "activity_label": {
+                "fr": "Cr\u00e9ation d\u2019une sous-commission \u00abSant\u00e9 publique\u00bb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0120"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "938686",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation d\u2019une sous-commission \u00abSant\u00e9 publique\u00bb</title><label>Proposition de d\u00e9cision: B9-0120/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2565",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938648",
+            "activity_label": {
+                "fr": "Normes d'\u00e9missions de CO2 pour les voitures et les camionnettes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0150"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "938648",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normes d'\u00e9missions de CO2 pour les voitures et les camionnettes</title><label>Rapport: Jan Huitema (A9-0150/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0197",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938650",
+            "activity_label": {
+                "fr": "Droits \u00e9lectoraux des citoyens de l'Union aux \u00e9lections municipales en cas de mobilit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0005"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "938650",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits \u00e9lectoraux des citoyens de l'Union aux \u00e9lections municipales en cas de mobilit\u00e9</title><label>Rapport: Joachim Stanis\u0142aw Brudzi\u0144ski (A9-0005/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0373",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938649",
+            "activity_label": {
+                "fr": "Accord de partenariat volontaire UE/Guyana: application des r\u00e9glementations foresti\u00e8res, gouvernance et \u00e9changes commerciaux de produits du bois vers l\u2019UE (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0018"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "938649",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat volontaire UE/Guyana: application des r\u00e9glementations foresti\u00e8res, gouvernance et \u00e9changes commerciaux de produits du bois vers l\u2019UE (r\u00e9solution)</title><label>Rapport: Karin Karlsbro (A9-0018/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0142",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0142M",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938703",
+            "activity_label": {
+                "fr": "Droits de l\u2019Union pour mettre en \u0153uvre et faire appliquer l\u2019accord sur le retrait du Royaume-Uni et l'accord de commerce et de coop\u00e9ration UE/Royaume-Uni"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0248"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938703",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits de l\u2019Union pour mettre en \u0153uvre et faire appliquer l\u2019accord sur le retrait du Royaume-Uni et l'accord de commerce et de coop\u00e9ration UE/Royaume-Uni</title><label>Rapport: Se\u00e1n Kelly, Andreas Schieder, Danuta Maria H\u00fcbner (A9-0248/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0068",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938659",
+            "activity_label": {
+                "fr": "Chapitres REPowerEU des plans pour la reprise et la r\u00e9silience"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0260"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "938659",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Chapitres REPowerEU des plans pour la reprise et la r\u00e9silience</title><label>Rapport: Eider Gardiazabal Rubial, Siegfried Mure\u015fan, Drago\u015f P\u00eeslaru (A9-0260/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0164",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938663",
+            "activity_label": {
+                "fr": "Droits \u00e9lectoraux des citoyens de l'Union aux \u00e9lections au Parlement europ\u00e9en en cas de mobilit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0297"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "938663",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits \u00e9lectoraux des citoyens de l'Union aux \u00e9lections au Parlement europ\u00e9en en cas de mobilit\u00e9</title><label>Rapport: Damian Boeselager (A9-0297/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0372",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938652",
+            "activity_label": {
+                "fr": "Programme de l\u2019Union pour une connectivit\u00e9 s\u00e9curis\u00e9e 2023-2027"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0249"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "938652",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Programme de l\u2019Union pour une connectivit\u00e9 s\u00e9curis\u00e9e 2023-2027</title><label>Rapport: Christophe Grudler (A9-0249/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0039",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938687",
+            "activity_label": {
+                "fr": "Modification de la d\u00e9cision du 10 mars 2022 sur la constitution d\u2019une commission sp\u00e9ciale sur l\u2019ing\u00e9rence \u00e9trang\u00e8re dans l\u2019ensemble des processus d\u00e9mocratiques de l\u2019Union europ\u00e9enne, y compris la d\u00e9sinformation (ING2), et r\u00e9vision de son intitul\u00e9 et de ses attributions"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0119"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "938687",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification de la d\u00e9cision du 10 mars 2022 sur la constitution d\u2019une commission sp\u00e9ciale sur l\u2019ing\u00e9rence \u00e9trang\u00e8re dans l\u2019ensemble des processus d\u00e9mocratiques de l\u2019Union europ\u00e9enne, y compris la d\u00e9sinformation (ING2), et r\u00e9vision de son intitul\u00e9 et de ses attributions</title><label>Proposition de d\u00e9cision: B9-0119/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2566",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938689",
+            "activity_label": {
+                "fr": "Accord de partenariat volontaire UE/Guyana: application des r\u00e9glementations foresti\u00e8res, gouvernance et \u00e9changes commerciaux de produits du bois vers l\u2019UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0008"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "938689",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat volontaire UE/Guyana: application des r\u00e9glementations foresti\u00e8res, gouvernance et \u00e9changes commerciaux de produits du bois vers l\u2019UE</title><label>Recommandation: Karin Karlsbro (A9-0008/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938686",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938648",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938650",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938703",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938663",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938652",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938687",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0142",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689",
+                        "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938649"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

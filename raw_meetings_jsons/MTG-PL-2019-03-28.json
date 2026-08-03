@@ -1,0 +1,593 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-780755-4",
+            "activity_label": {
+                "fr": "Exercice du droit d'auteur et des droits voisins applicables \u00e0 certaines diffusions en ligne d'organismes de radiodiffusion et retransmissions d'\u00e9missions de t\u00e9l\u00e9vision et de radio"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0378"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-004"
+            ],
+            "notation_dlvId": "780755",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Exercice du droit d'auteur et des droits voisins applicables \u00e0 certaines diffusions en ligne d'organismes de radiodiffusion et retransmissions d'\u00e9missions de t\u00e9l\u00e9vision et de radio </title><label>Rapport: Pavel Svoboda (A8-0378/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0284",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-781051-1",
+            "activity_label": {
+                "fr": "Liste des pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa pour franchir les fronti\u00e8res ext\u00e9rieures des \u00c9tats membres et de ceux dont les ressortissants sont exempt\u00e9s de cette obligation (Kosovo)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0261"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-132"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-001"
+            ],
+            "notation_dlvId": "781051",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Liste des pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa pour franchir les fronti\u00e8res ext\u00e9rieures des \u00c9tats membres et de ceux dont les ressortissants sont exempt\u00e9s de cette obligation (Kosovo)</title><label>Rapport: Tanja Fajon (A8-0261/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0139",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-782272-10",
+            "activity_label": {
+                "fr": "Situation en mati\u00e8re d'\u00e9tat de droit et de lutte contre la corruption dans l'Union, notamment \u00e0 Malte et en Slovaquie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2019-0230"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-117"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-010"
+            ],
+            "notation_dlvId": "782272",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en mati\u00e8re d'\u00e9tat de droit et de lutte contre la corruption dans l'Union, notamment \u00e0 Malte et en Slovaquie</title><label>Proposition de r\u00e9solution: B8-0230/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2965",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-782218-12",
+            "activity_label": {
+                "fr": "D\u00e9cision \u00e9tablissant une facilit\u00e9 europ\u00e9enne pour la paix"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2019-0157"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-012"
+            ],
+            "notation_dlvId": "782218",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9cision \u00e9tablissant une facilit\u00e9 europ\u00e9enne pour la paix</title><label>Rapport: Hilde Vautmans (A8-0157/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2237",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-780727-7",
+            "activity_label": {
+                "fr": "Mise en place d'un cadre pour favoriser les investissements durables"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2019-0175"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-94"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-007"
+            ],
+            "notation_dlvId": "780727",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en place d'un cadre pour favoriser les investissements durables</title><label>Rapport: Bas Eickhout et  Sirpa Pietik\u00e4inen (A8-0175/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0178",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-780723-3",
+            "activity_label": {
+                "fr": "Mesures \u00e0 prendre pour augmenter l'efficience des proc\u00e9dures de restructuration, d'insolvabilit\u00e9 et d'apurement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0269"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-96"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-003"
+            ],
+            "notation_dlvId": "780723",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mesures \u00e0 prendre pour augmenter l'efficience des proc\u00e9dures de restructuration, d'insolvabilit\u00e9 et d'apurement</title><label>Rapport: Angelika Niebler (A8-0269/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0359",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-780726-5",
+            "activity_label": {
+                "fr": "Mise en place du programme \u00abEurope cr\u00e9ative\u00bb (2021 \u00e0 2027)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2019-0156"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-86"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-005"
+            ],
+            "notation_dlvId": "780726",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en place du programme \u00abEurope cr\u00e9ative\u00bb (2021 \u00e0 2027)</title><label>Rapport: Silvia Costa (A8-0156/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0190",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-782219-8",
+            "activity_label": {
+                "fr": "\u00c9tat pr\u00e9visionnel des recettes et des d\u00e9penses pour l\u2019exercice 2020 - Section I - Parlement europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2019-0182"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-105"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-008"
+            ],
+            "notation_dlvId": "782219",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tat pr\u00e9visionnel des recettes et des d\u00e9penses pour l\u2019exercice 2020 - Section I - Parlement europ\u00e9en</title><label>Rapport: Vladim\u00edr Ma\u0148ka (A8-0182/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2003",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-781185-11",
+            "activity_label": {
+                "fr": "D\u00e9veloppements r\u00e9cents du Dieselgate"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2019-0224",
+                "eli/dl/doc/B-8-2019-0223",
+                "eli/dl/doc/B-8-2019-0222"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-169"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-011"
+            ],
+            "notation_dlvId": "781185",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9veloppements r\u00e9cents du Dieselgate</title><label>Propositions de r\u00e9solution: B8-0222/2019, B8-0223/2019, B8-0224/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2670",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-780754-2",
+            "activity_label": {
+                "fr": "Qualit\u00e9 des eaux destin\u00e9es \u00e0 la consommation humaine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0288"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-144"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-002"
+            ],
+            "notation_dlvId": "780754",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Qualit\u00e9 des eaux destin\u00e9es \u00e0 la consommation humaine</title><label>Rapport: Michel Dantin (A8-0288/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0332",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-781069-6",
+            "activity_label": {
+                "fr": "\u00abErasmus\u00bb: le programme de l\u2019Union pour l\u2019\u00e9ducation, la formation, la jeunesse et le sport"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2019-0111"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-85"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-006"
+            ],
+            "notation_dlvId": "781069",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00abErasmus\u00bb: le programme de l\u2019Union pour l\u2019\u00e9ducation, la formation, la jeunesse et le sport</title><label>Rapport: Milan Zver (A8-0111/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0191",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9",
+            "type": "Activity",
+            "activity_date": "2019-03-28",
+            "activity_id": "MTG-PL-2019-03-28-VOT-ITM-781184-9",
+            "activity_label": {
+                "fr": "Situation d'urgence au Venezuela"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2019-0225",
+                "eli/dl/doc/B-8-2019-0228",
+                "eli/dl/doc/B-8-2019-0227",
+                "eli/dl/doc/B-8-2019-0229",
+                "eli/dl/doc/B-8-2019-0226"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-03-28-OJ-ITM-V-151"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-03-28-VOT-ITM-009"
+            ],
+            "notation_dlvId": "781184",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation d'urgence au Venezuela</title><label>Propositions de r\u00e9solution: B8-0225/2019, B8-0226/2019, B8-0227/2019, B8-0228/2019, B8-0229/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-03-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780755-4",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781051-1",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782272-10",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782218-12",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780727-7",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780723-3",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780726-5",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-782219-8",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781185-11",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-780754-2",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781069-6",
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2628",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-03-28-VOT-ITM-781184-9"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

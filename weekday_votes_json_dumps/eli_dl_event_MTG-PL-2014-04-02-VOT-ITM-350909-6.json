@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-04-02-VOT-ITM-350909-6",
+            "type": "Activity",
+            "activity_date": "2014-04-02",
+            "activity_id": "MTG-PL-2014-04-02-VOT-ITM-350909-6",
+            "activity_label": {
+                "fr": "Niveau sonore des v\u00e9hicules \u00e0 moteur"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0239"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-04-02-OJ-ITM-V-83"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-04-02-VOT-ITM-006"
+            ],
+            "notation_dlvId": "350909",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Niveau sonore des v\u00e9hicules \u00e0 moteur</title><label>Recommandation pour la deuxi\u00e8me lecture: Miroslav Ouzk\u00fd (A7-0239/2014)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,650 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-612346-8",
+            "activity_label": {
+                "fr": "Cadre pluriannuel pour l'Agence des droits fondamentaux de l'Union europ\u00e9enne pour la p\u00e9riode 2018-2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0384"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-008"
+            ],
+            "notation_dlvId": "612346",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre pluriannuel pour l'Agence des droits fondamentaux de l'Union europ\u00e9enne pour la p\u00e9riode 2018-2022</title><label>Proposition de r\u00e9solution: B8-0384/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2702",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-612342-10",
+            "activity_label": {
+                "fr": "Le nouveau consensus europ\u00e9en sur le d\u00e9veloppement - notre monde, notre dignit\u00e9, notre avenir"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0387",
+                "eli/dl/doc/B-8-2017-0390"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-010"
+            ],
+            "notation_dlvId": "612342",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le nouveau consensus europ\u00e9en sur le d\u00e9veloppement - notre monde, notre dignit\u00e9, notre avenir</title><label>Propositions de r\u00e9solution: B8-0387/2017, B8-0390/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2586",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-612348-4",
+            "activity_label": {
+                "fr": "Protection des adultes vuln\u00e9rables"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0152"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-004"
+            ],
+            "notation_dlvId": "612348",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des adultes vuln\u00e9rables</title><label>Rapport: Jo\u00eblle Bergeron (A8-0152/2017) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2085",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-612344-11",
+            "activity_label": {
+                "fr": "La r\u00e9silience en tant que priorit\u00e9 strat\u00e9gique de l'action ext\u00e9rieure de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0381"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-011"
+            ],
+            "notation_dlvId": "612344",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La r\u00e9silience en tant que priorit\u00e9 strat\u00e9gique de l'action ext\u00e9rieure de l'Union</title><label>Proposition de r\u00e9solution: B8-0381/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2594",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-612348-2",
+            "activity_label": {
+                "fr": "Taux de TVA appliqu\u00e9 aux livres, aux journaux et aux p\u00e9riodiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0189"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-7"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-002"
+            ],
+            "notation_dlvId": "612348",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Taux de TVA appliqu\u00e9 aux livres, aux journaux et aux p\u00e9riodiques</title><label>Rapport: Tom Vandenkendelaere (A8-0189/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0374",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-612348-5",
+            "activity_label": {
+                "fr": "Introduction de mesures commerciales autonomes temporaires en faveur de l\u2019Ukraine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0193"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-005"
+            ],
+            "notation_dlvId": "612348",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Introduction de mesures commerciales autonomes temporaires en faveur de l\u2019Ukraine</title><label>Rapport: Jaros\u0142aw Wa\u0142\u0119sa (A8-0193/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0308",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-612345-12",
+            "activity_label": {
+                "fr": "La lutte contre l'antis\u00e9mitisme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0388",
+                "eli/dl/doc/B-8-2017-0383"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-012"
+            ],
+            "notation_dlvId": "612345",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La lutte contre l'antis\u00e9mitisme</title><label>Propositions de r\u00e9solution: B8-0383/2017, B8-0388/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2692",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-614187-6",
+            "activity_label": {
+                "fr": "Mod\u00e8le type de visa"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0028"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-006"
+            ],
+            "notation_dlvId": "614187",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mod\u00e8le type de visa</title><label>Rapport: Sylvia-Yvonne Kaufmann (A8-0028/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0134",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-612348-3",
+            "activity_label": {
+                "fr": "Connectivit\u00e9 internet pour la croissance, la comp\u00e9titivit\u00e9 et la coh\u00e9sion: soci\u00e9t\u00e9 europ\u00e9enne du gigabit et 5G"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0184"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-18"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-003"
+            ],
+            "notation_dlvId": "612348",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Connectivit\u00e9 internet pour la croissance, la comp\u00e9titivit\u00e9 et la coh\u00e9sion: soci\u00e9t\u00e9 europ\u00e9enne du gigabit et 5G</title><label>Rapport: Micha\u0142 Boni (A8-0184/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2305",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-612341-9",
+            "activity_label": {
+                "fr": "Passage au num\u00e9rique des entreprises europ\u00e9ennes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0183"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-009"
+            ],
+            "notation_dlvId": "612341",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Passage au num\u00e9rique des entreprises europ\u00e9ennes</title><label>Rapport: Reinhard B\u00fctikofer (A8-0183/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2271",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-614181-7",
+            "activity_label": {
+                "fr": "Cadre pluriannuel pour l'Agence des droits fondamentaux de l'Union europ\u00e9enne pour la p\u00e9riode 2018-2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0177"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-007"
+            ],
+            "notation_dlvId": "614181",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre pluriannuel pour l'Agence des droits fondamentaux de l'Union europ\u00e9enne pour la p\u00e9riode 2018-2022</title><label>Recommandation: Angelika Mlinar (A8-0177/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0204",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-612347-13",
+            "activity_label": {
+                "fr": "Conf\u00e9rence de haut niveau des Nations unies visant \u00e0 soutenir la mise en \u0153uvre de l\u2019objectif de d\u00e9veloppement durable n\u00ba 14 (conf\u00e9rence des Nations unies sur l\u2019oc\u00e9an)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0382"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-013"
+            ],
+            "notation_dlvId": "612347",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conf\u00e9rence de haut niveau des Nations unies visant \u00e0 soutenir la mise en \u0153uvre de l\u2019objectif de d\u00e9veloppement durable n\u00ba 14 (conf\u00e9rence des Nations unies sur l\u2019oc\u00e9an)</title><label>Proposition de r\u00e9solution: B8-0382/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2653",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1",
+            "type": "Activity",
+            "activity_date": "2017-06-01",
+            "activity_id": "MTG-PL-2017-06-01-VOT-ITM-612348-1",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e d'immunit\u00e9 de B\u00e9la Kov\u00e1cs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0203"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-01-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-01-VOT-ITM-001"
+            ],
+            "notation_dlvId": "612348",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e d'immunit\u00e9 de B\u00e9la Kov\u00e1cs </title><label>Rapport: Heidi Hautala (A8-0203/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612346-8",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612342-10",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-4",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612344-11",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-2",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-5",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612345-12",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614187-6",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-3",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612341-9",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-614181-7",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612347-13",
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2266",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-01-VOT-ITM-612348-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

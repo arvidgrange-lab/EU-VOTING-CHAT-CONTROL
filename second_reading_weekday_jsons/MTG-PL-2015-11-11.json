@@ -1,0 +1,128 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-476430-2",
+            "type": "Activity",
+            "activity_date": "2015-11-11",
+            "activity_id": "MTG-PL-2015-11-11-VOT-ITM-476430-2",
+            "activity_label": {
+                "fr": "Futur paquet a\u00e9rien"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1151",
+                "eli/dl/doc/B-8-2015-1150",
+                "eli/dl/doc/B-8-2015-1146",
+                "eli/dl/doc/B-8-2015-1147",
+                "eli/dl/doc/B-8-2015-1152",
+                "eli/dl/doc/B-8-2015-1148",
+                "eli/dl/doc/B-8-2015-1149"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-11-11-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-11-11-VOT-ITM-002"
+            ],
+            "notation_dlvId": "476430",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Futur paquet a\u00e9rien</title><label>Propositions de r\u00e9solution: B8-1146/2015, B8-1147/2015, B8-1148/2015, B8-1149/2015, B8-1150/2015, B8-1151/2015, B8-1152/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-476430-2",
+                        "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-476428-1",
+                        "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-472917-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2933",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-476430-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-476428-1",
+            "type": "Activity",
+            "activity_date": "2015-11-11",
+            "activity_id": "MTG-PL-2015-11-11-VOT-ITM-476428-1",
+            "activity_label": {
+                "fr": "Les solutions d'interop\u00e9rabilit\u00e9 comme moyen de moderniser le secteur public"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0225"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-11-11-OJ-ITM-V-4"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-11-11-VOT-ITM-001"
+            ],
+            "notation_dlvId": "476428",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les solutions d'interop\u00e9rabilit\u00e9 comme moyen de moderniser le secteur public</title><label>Rapport: Carlos Zorrinho (A8-0225/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-476430-2",
+                        "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-476428-1",
+                        "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-472917-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0185",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-476428-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-472917-3",
+            "type": "Activity",
+            "activity_date": "2015-11-11",
+            "activity_id": "MTG-PL-2015-11-11-VOT-ITM-472917-3",
+            "activity_label": {
+                "fr": "R\u00e9forme de la loi \u00e9lectorale de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0286"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-11-11-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-11-11-VOT-ITM-003"
+            ],
+            "notation_dlvId": "472917",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9forme de la loi \u00e9lectorale de l'Union europ\u00e9enne</title><label>Rapport: Danuta Maria H\u00fcbner et  Jo Leinen (A8-0286/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-11-11",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-476430-2",
+                        "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-476428-1",
+                        "eli/dl/event/MTG-PL-2015-11-11-VOT-ITM-472917-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

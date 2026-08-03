@@ -1,0 +1,471 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2",
+            "type": "Activity",
+            "activity_date": "2018-06-13",
+            "activity_id": "MTG-PL-2018-06-13-VOT-ITM-707913-2",
+            "activity_label": {
+                "fr": "Proc\u00e9dures d'insolvabilit\u00e9: actualisation des annexes au r\u00e8glement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0174"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-13-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-13-VOT-ITM-002"
+            ],
+            "notation_dlvId": "707913",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Proc\u00e9dures d'insolvabilit\u00e9: actualisation des annexes au r\u00e8glement</title><label>Rapport: Tadeusz Zwiefka (A8-0174/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0189",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9",
+            "type": "Activity",
+            "activity_date": "2018-06-13",
+            "activity_id": "MTG-PL-2018-06-13-VOT-ITM-707907-9",
+            "activity_label": {
+                "fr": "Relations UE-OTAN"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0188"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-13-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-13-VOT-ITM-009"
+            ],
+            "notation_dlvId": "707907",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations UE-OTAN</title><label>Rapport: Ioan Mircea Pa\u015fcu (A8-0188/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2276",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8",
+            "type": "Activity",
+            "activity_date": "2018-06-13",
+            "activity_id": "MTG-PL-2018-06-13-VOT-ITM-707915-8",
+            "activity_label": {
+                "fr": "N\u00e9gociations relatives \u00e0 la modernisation de l\u2019accord d\u2019association UE-Chili"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0158"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-13-OJ-ITM-V-18"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-13-VOT-ITM-008"
+            ],
+            "notation_dlvId": "707915",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>N\u00e9gociations relatives \u00e0 la modernisation de l\u2019accord d\u2019association UE-Chili</title><label>Rapport: Charles Tannock (A8-0158/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2018",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1",
+            "type": "Activity",
+            "activity_date": "2018-06-13",
+            "activity_id": "MTG-PL-2018-06-13-VOT-ITM-707913-1",
+            "activity_label": {
+                "fr": "Composition du Parlement europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0207"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-13-OJ-ITM-V-86"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "707913",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Composition du Parlement europ\u00e9en</title><label>Recommandation: Danuta Maria H\u00fcbner et  Pedro Silva Pereira (A8-0207/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0900",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10",
+            "type": "Activity",
+            "activity_date": "2018-06-13",
+            "activity_id": "MTG-PL-2018-06-13-VOT-ITM-707916-10",
+            "activity_label": {
+                "fr": "Cyberd\u00e9fense"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0189"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-13-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-13-VOT-ITM-010"
+            ],
+            "notation_dlvId": "707916",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cyberd\u00e9fense</title><label>Rapport: Urmas Paet (A8-0189/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2004",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7",
+            "type": "Activity",
+            "activity_date": "2018-06-13",
+            "activity_id": "MTG-PL-2018-06-13-VOT-ITM-707914-7",
+            "activity_label": {
+                "fr": "Octroi d'une assistance macrofinanci\u00e8re suppl\u00e9mentaire \u00e0 l'Ukraine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0183"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-13-OJ-ITM-V-61"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-13-VOT-ITM-007"
+            ],
+            "notation_dlvId": "707914",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Octroi d'une assistance macrofinanci\u00e8re suppl\u00e9mentaire \u00e0 l'Ukraine</title><label>Rapport: Jaros\u0142aw Wa\u0142\u0119sa (A8-0183/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0058",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6",
+            "type": "Activity",
+            "activity_date": "2018-06-13",
+            "activity_id": "MTG-PL-2018-06-13-VOT-ITM-707913-6",
+            "activity_label": {
+                "fr": "Politique de coh\u00e9sion et \u00e9conomie circulaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0184"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-13-OJ-ITM-V-57"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "707913",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politique de coh\u00e9sion et \u00e9conomie circulaire</title><label>Rapport: Davor \u0160krlec (A8-0184/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2211",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4",
+            "type": "Activity",
+            "activity_date": "2018-06-13",
+            "activity_id": "MTG-PL-2018-06-13-VOT-ITM-707913-4",
+            "activity_label": {
+                "fr": "Accord UE-Suisse sur des r\u00e8gles compl\u00e9mentaires concernant les fronti\u00e8res ext\u00e9rieures et les visas pour la p\u00e9riode 2014-2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0195"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-13-OJ-ITM-V-58"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "707913",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Suisse sur des r\u00e8gles compl\u00e9mentaires concernant les fronti\u00e8res ext\u00e9rieures et les visas pour la p\u00e9riode 2014-2020</title><label>Recommandation: Claude Moraes (A8-0195/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0032",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5",
+            "type": "Activity",
+            "activity_date": "2018-06-13",
+            "activity_id": "MTG-PL-2018-06-13-VOT-ITM-707913-5",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre des dispositions restantes de l'acquis de Schengen relatives au syst\u00e8me d'information Schengen en Bulgarie et en Roumanie_x000D_"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0192"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-13-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "707913",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre des dispositions restantes de l'acquis de Schengen relatives au syst\u00e8me d'information Schengen en Bulgarie et en Roumanie_x000D_\n </title><label>Rapport: Monica Macovei (A8-0192/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0802",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3",
+            "type": "Activity",
+            "activity_date": "2018-06-13",
+            "activity_id": "MTG-PL-2018-06-13-VOT-ITM-707913-3",
+            "activity_label": {
+                "fr": "Accord UE-Islande \u00e9tablissant des r\u00e8gles compl\u00e9mentaires concernant les fronti\u00e8res ext\u00e9rieures et les visas pour la p\u00e9riode 2014-2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0196"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-13-OJ-ITM-V-59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-13-VOT-ITM-003"
+            ],
+            "notation_dlvId": "707913",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Islande \u00e9tablissant des r\u00e8gles compl\u00e9mentaires concernant les fronti\u00e8res ext\u00e9rieures et les visas pour la p\u00e9riode 2014-2020</title><label>Recommandation: Anders Primdahl Vistisen (A8-0196/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-2",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707907-9",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707915-8",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-1",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707916-10",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707914-7",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-6",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-4",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-5",
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0088",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-13-VOT-ITM-707913-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

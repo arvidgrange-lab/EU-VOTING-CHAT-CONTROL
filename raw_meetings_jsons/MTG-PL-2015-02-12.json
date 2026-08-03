@@ -1,0 +1,275 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-405819-5",
+            "type": "Activity",
+            "activity_date": "2015-02-12",
+            "activity_id": "MTG-PL-2015-02-12-VOT-ITM-405819-5",
+            "activity_label": {
+                "fr": "Nomination des membres de la commission sp\u00e9ciale sur les rescrits fiscaux et autres mesures similaires par leur nature ou par leur effet"
+            },
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-02-12-VOT-ITM-005"
+            ],
+            "notation_dlvId": "405819",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination des membres de la commission sp\u00e9ciale sur les rescrits fiscaux et autres mesures similaires par leur nature ou par leur effet</title><label>Proposition de la Conf\u00e9rence des pr\u00e9sidents</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-02-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-405819-5",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404542-3",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404541-2",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404812-4",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404543-6",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404540-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404542-3",
+            "type": "Activity",
+            "activity_date": "2015-02-12",
+            "activity_id": "MTG-PL-2015-02-12-VOT-ITM-404542-3",
+            "activity_label": {
+                "fr": "Fosses communes du village d'Ornithi - dans la partie occup\u00e9e de Chypre - contenant les restes de personnes port\u00e9es disparues originaires d'Assia"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0159",
+                "eli/dl/doc/B-8-2015-0157",
+                "eli/dl/doc/B-8-2015-0155",
+                "eli/dl/doc/B-8-2015-0161",
+                "eli/dl/doc/B-8-2015-0156",
+                "eli/dl/doc/B-8-2015-0153",
+                "eli/dl/doc/B-8-2015-0150"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-02-12-OJ-ITM-V-67"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-02-12-VOT-ITM-003"
+            ],
+            "notation_dlvId": "404542",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fosses communes du village d'Ornithi - dans la partie occup\u00e9e de Chypre - contenant les restes de personnes port\u00e9es disparues originaires d'Assia</title><label>Propositions de r\u00e9solution: B8-0150/2015, B8-0153/2015, B8-0155/2015, B8-0156/2015, B8-0157/2015, B8-0159/2015, B8-0161/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-02-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-405819-5",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404542-3",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404541-2",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404812-4",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404543-6",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404540-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2551",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404542-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404541-2",
+            "type": "Activity",
+            "activity_date": "2015-02-12",
+            "activity_id": "MTG-PL-2015-02-12-VOT-ITM-404541-2",
+            "activity_label": {
+                "fr": "Arabie saoudite: le cas de Ra\u00eff Badawi"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0162",
+                "eli/dl/doc/B-8-2015-0147",
+                "eli/dl/doc/B-8-2015-0145",
+                "eli/dl/doc/B-8-2015-0158",
+                "eli/dl/doc/B-8-2015-0143",
+                "eli/dl/doc/B-8-2015-0151",
+                "eli/dl/doc/B-8-2015-0149"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-02-12-OJ-ITM-V-66"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-02-12-VOT-ITM-002"
+            ],
+            "notation_dlvId": "404541",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Arabie saoudite: le cas de Ra\u00eff Badawi</title><label>Propositions de r\u00e9solution: B8-0143/2015, B8-0145/2015, B8-0147/2015, B8-0149/2015, B8-0151/2015, B8-0158/2015, B8-0162/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-02-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-405819-5",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404542-3",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404541-2",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404812-4",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404543-6",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404540-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2550",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404541-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404812-4",
+            "type": "Activity",
+            "activity_date": "2015-02-12",
+            "activity_id": "MTG-PL-2015-02-12-VOT-ITM-404812-4",
+            "activity_label": {
+                "fr": "Constitution d'une commission sp\u00e9ciale sur les rescrits fiscaux et autres mesures similaires par leur nature ou par leur effet"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0169"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-02-12-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-02-12-VOT-ITM-004"
+            ],
+            "notation_dlvId": "404812",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Constitution d'une commission sp\u00e9ciale sur les rescrits fiscaux et autres mesures similaires par leur nature ou par leur effet</title><label>Proposition de d\u00e9cision: B8-0169/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-02-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-405819-5",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404542-3",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404541-2",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404812-4",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404543-6",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404540-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2566",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404812-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404543-6",
+            "type": "Activity",
+            "activity_date": "2015-02-12",
+            "activity_id": "MTG-PL-2015-02-12-VOT-ITM-404543-6",
+            "activity_label": {
+                "fr": "Crise humanitaire en Iraq et en Syrie, en particulier au regard de l'\u00c9tat islamique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0136",
+                "eli/dl/doc/B-8-2015-0138",
+                "eli/dl/doc/B-8-2015-0140",
+                "eli/dl/doc/B-8-2015-0137",
+                "eli/dl/doc/B-8-2015-0139",
+                "eli/dl/doc/B-8-2015-0141",
+                "eli/dl/doc/B-8-2015-0142"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-02-12-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-02-12-VOT-ITM-006"
+            ],
+            "notation_dlvId": "404543",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Crise humanitaire en Iraq et en Syrie, en particulier au regard de l'\u00c9tat islamique</title><label>Propositions de r\u00e9solution: B8-0136/2015, B8-0137/2015, B8-0138/2015, B8-0139/2015, B8-0140/2015, B8-0141/2015, B8-0142/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-02-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-405819-5",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404542-3",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404541-2",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404812-4",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404543-6",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404540-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2559",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404543-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404540-1",
+            "type": "Activity",
+            "activity_date": "2015-02-12",
+            "activity_id": "MTG-PL-2015-02-12-VOT-ITM-404540-1",
+            "activity_label": {
+                "fr": "Burundi: le cas de Bob Rugurika"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0144",
+                "eli/dl/doc/B-8-2015-0152",
+                "eli/dl/doc/B-8-2015-0154",
+                "eli/dl/doc/B-8-2015-0146",
+                "eli/dl/doc/B-8-2015-0148",
+                "eli/dl/doc/B-8-2015-0163",
+                "eli/dl/doc/B-8-2015-0160"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-02-12-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-02-12-VOT-ITM-001"
+            ],
+            "notation_dlvId": "404540",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Burundi: le cas de Bob Rugurika</title><label>Propositions de r\u00e9solution: B8-0144/2015, B8-0146/2015, B8-0148/2015, B8-0152/2015, B8-0154/2015, B8-0160/2015, B8-0163/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-02-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-405819-5",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404542-3",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404541-2",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404812-4",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404543-6",
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404540-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2561",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-02-12-VOT-ITM-404540-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

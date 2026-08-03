@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-18-VOT-ITM-938514",
+            "type": "Activity",
+            "activity_date": "2023-01-18",
+            "activity_id": "MTG-PL-2023-01-18-VOT-ITM-938514",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune \u2013 rapport annuel 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0296"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-18-OJ-ITM-V-18",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-18-VOT-ITM-004"
+            ],
+            "notation_dlvId": "938514",
+            "epvoc:amendmentsAdoptedMEP": 7,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 30,
+            "epvoc:amendmentsAdoptedTotal": 37,
+            "epvoc:amendmentsTabledMEP": 19,
+            "epvoc:amendmentsTabledPoliticalGroup": 38,
+            "epvoc:amendmentsTabledTotal": 57,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune \u2013 rapport annuel 2022</title><label>Rapport: Tom Vandenkendelaere (A9-0296/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

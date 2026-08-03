@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-04-23-VOT-ITM-946063",
+            "type": "Activity",
+            "activity_date": "2024-04-23",
+            "activity_id": "MTG-PL-2024-04-23-VOT-ITM-946063",
+            "activity_label": {
+                "da": "Betalingstjenester og elektroniske pengetjenester i det indre marked ***I",
+                "cs": "Platebn\u00ed slu\u017eby a slu\u017eby elektronick\u00fdch pen\u011bz na vnit\u0159n\u00edm trhu ***I",
+                "ro": "Serviciile de plat\u0103 \u0219i serviciile de moned\u0103 electronic\u0103 \u00een cadrul pie\u021bei interne ***I",
+                "hu": "A bels\u0151 piaci p\u00e9nzforgalmi szolg\u00e1ltat\u00e1sok \u00e9s elektronikusp\u00e9nz-szolg\u00e1ltat\u00e1sok ***I",
+                "fr": "Services de paiement et services de monnaie \u00e9lectronique dans le march\u00e9 int\u00e9rieur ***I",
+                "lt": "Mok\u0117jimo paslaugos ir elektronini\u0173 pinig\u0173 paslaugos vidaus rinkoje ***I",
+                "en": "Payment services and electronic money services in the Internal Market ***I",
+                "sv": "Betaltj\u00e4nster och e-penningtj\u00e4nster p\u00e5 den inre marknaden ***I",
+                "es": "Servicios de pago y servicios de dinero electr\u00f3nico en el mercado interior\u00a0***I",
+                "et": "Makseteenused ja e-raha teenused siseturul ***I",
+                "ga": "Seirbh\u00eds\u00ed \u00edoca\u00edochta agus seirbh\u00eds\u00ed r\u00edomh-airgid sa Mhargadh Inmhe\u00e1nach ***I",
+                "sk": "Platobn\u00e9 slu\u017eby a slu\u017eby elektronick\u00fdch pe\u0148az\u00ed na vn\u00fatornom trhu ***I",
+                "pt": "Servi\u00e7os de pagamento e servi\u00e7os de moeda eletr\u00f3nica no mercado interno ***I",
+                "nl": "Betalingsdiensten en elektronischgelddiensten in de interne markt\u00a0***I",
+                "bg": "\u041f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u044f\u043d\u0438 \u043d\u0430 \u0432\u044a\u0442\u0440\u0435\u0448\u043d\u0438\u044f \u043f\u0430\u0437\u0430\u0440 \u043f\u043b\u0430\u0442\u0435\u0436\u043d\u0438 \u0443\u0441\u043b\u0443\u0433\u0438 \u0438 \u0443\u0441\u043b\u0443\u0433\u0438 \u0432\u044a\u0432 \u0432\u0440\u044a\u0437\u043a\u0430 \u0441 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0438\u0442\u0435 \u043f\u0430\u0440\u0438 ***I",
+                "sl": "Pla\u010dilne storitve in storitve elektronskega denarja na notranjem trgu ***I",
+                "pl": "Us\u0142ugi p\u0142atnicze i us\u0142ugi zwi\u0105zane z pieni\u0105dzem elektronicznym w ramach rynku wewn\u0119trznego ***I",
+                "hr": "Platne usluge i usluge elektroni\u010dkog novca na unutarnjem tr\u017ei\u0161tu ***I",
+                "el": "\u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ce\u03bd \u03ba\u03b1\u03b9 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03bf\u03cd \u03c7\u03c1\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c3\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03ae \u03b1\u03b3\u03bf\u03c1\u03ac ***I",
+                "fi": "Maksupalvelut ja s\u00e4hk\u00f6isen rahan palvelut sis\u00e4markkinoilla ***I",
+                "lv": "Maks\u0101jumu pakalpojumi un elektronisk\u0101s naudas pakalpojumi iek\u0161\u0113j\u0101 tirg\u016b ***I",
+                "de": "Zahlungsdienste und E-Geld-Dienste im Binnenmarkt ***I",
+                "mul": "Services de paiement et services de monnaie \u00e9lectronique dans le march\u00e9 int\u00e9rieur - Payment services and electronic money services in the Internal Market - Zahlungsdienste und E-Geld-Dienste im Binnenmarkt",
+                "mt": "Is-servizzi ta\u2019 pagament u s-servizzi ta\u2019 flus elettroni\u010bi fis-Suq Intern ***I",
+                "it": "Servizi di pagamento e servizi di moneta elettronica nel mercato interno ***I"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2024-0046"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-04-23-DEC-168337"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-04-23-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-04-23-VOT-ITM-014"
+            ],
+            "notation_dlvId": "946063",
+            "structuredLabel": {
+                "it": "<structuredLabel><title>Servizi di pagamento e servizi di moneta elettronica nel mercato interno ***I</title><label>Relazione: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Makseteenused ja e-raha teenused siseturul ***I</title><label>Raport: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Platobn\u00e9 slu\u017eby a slu\u017eby elektronick\u00fdch pe\u0148az\u00ed na vn\u00fatornom trhu ***I</title><label>Spr\u00e1va: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Us\u0142ugi p\u0142atnicze i us\u0142ugi zwi\u0105zane z pieni\u0105dzem elektronicznym w ramach rynku wewn\u0119trznego ***I</title><label>Sprawozdanie: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Mok\u0117jimo paslaugos ir elektronini\u0173 pinig\u0173 paslaugos vidaus rinkoje ***I</title><label>Prane\u0161imas: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Betalingstjenester og elektroniske pengetjenester i det indre marked ***I</title><label>Bet\u00e6nkning: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Pla\u010dilne storitve in storitve elektronskega denarja na notranjem trgu ***I</title><label>Poro\u010dilo: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Platebn\u00ed slu\u017eby a slu\u017eby elektronick\u00fdch pen\u011bz na vnit\u0159n\u00edm trhu ***I</title><label>Zpr\u00e1va: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Is-servizzi ta\u2019 pagament u s-servizzi ta\u2019 flus elettroni\u010bi fis-Suq Intern ***I</title><label>Rapport: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Seirbh\u00eds\u00ed \u00edoca\u00edochta agus seirbh\u00eds\u00ed r\u00edomh-airgid sa Mhargadh Inmhe\u00e1nach ***I</title><label>Tuarasc\u00e1il: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Services de paiement et services de monnaie \u00e9lectronique dans le march\u00e9 int\u00e9rieur ***I</title><label>Rapport: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ce\u03bd \u03ba\u03b1\u03b9 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03bf\u03cd \u03c7\u03c1\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c3\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03ae \u03b1\u03b3\u03bf\u03c1\u03ac ***I</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Betalingsdiensten en elektronischgelddiensten in de interne markt\u00a0***I</title><label>Verslag: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Platne usluge i usluge elektroni\u010dkog novca na unutarnjem tr\u017ei\u0161tu ***I</title><label>Izvje\u0161\u0107e: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Maks\u0101jumu pakalpojumi un elektronisk\u0101s naudas pakalpojumi iek\u0161\u0113j\u0101 tirg\u016b ***I</title><label>Zi\u0146ojums: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>A bels\u0151 piaci p\u00e9nzforgalmi szolg\u00e1ltat\u00e1sok \u00e9s elektronikusp\u00e9nz-szolg\u00e1ltat\u00e1sok ***I</title><label>Jelent\u00e9s: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Betaltj\u00e4nster och e-penningtj\u00e4nster p\u00e5 den inre marknaden ***I</title><label>Bet\u00e4nkande: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Maksupalvelut ja s\u00e4hk\u00f6isen rahan palvelut sis\u00e4markkinoilla ***I</title><label>Mietint\u00f6: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u041f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u044f\u043d\u0438 \u043d\u0430 \u0432\u044a\u0442\u0440\u0435\u0448\u043d\u0438\u044f \u043f\u0430\u0437\u0430\u0440 \u043f\u043b\u0430\u0442\u0435\u0436\u043d\u0438 \u0443\u0441\u043b\u0443\u0433\u0438 \u0438 \u0443\u0441\u043b\u0443\u0433\u0438 \u0432\u044a\u0432 \u0432\u0440\u044a\u0437\u043a\u0430 \u0441 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0438\u0442\u0435 \u043f\u0430\u0440\u0438 ***I</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Servi\u00e7os de pagamento e servi\u00e7os de moeda eletr\u00f3nica no mercado interno ***I</title><label>Relat\u00f3rio: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Servicios de pago y servicios de dinero electr\u00f3nico en el mercado interior\u00a0***I</title><label>Informe: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Payment services and electronic money services in the Internal Market ***I</title><label>Report: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Serviciile de plat\u0103 \u0219i serviciile de moned\u0103 electronic\u0103 \u00een cadrul pie\u021bei interne ***I</title><label>Raport: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Zahlungsdienste und E-Geld-Dienste im Binnenmarkt ***I</title><label>Bericht: Ond\u0159ej Kova\u0159\u00edk (A9-0046/2024)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

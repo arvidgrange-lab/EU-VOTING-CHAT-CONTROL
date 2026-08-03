@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939395",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939395",
+            "activity_label": {
+                "fr": "Protection des journalistes et des d\u00e9fenseurs des droits de l'homme contre les proc\u00e9dures judiciaires manifestement infond\u00e9es ou abusives"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0223"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-32",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-015"
+            ],
+            "notation_dlvId": "939395",
+            "epvoc:amendmentsAdoptedCommittee": 14,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 14,
+            "epvoc:amendmentsTabledCommittee": 14,
+            "epvoc:amendmentsTabledPoliticalGroup": 37,
+            "epvoc:amendmentsTabledTotal": 51,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des journalistes et des d\u00e9fenseurs des droits de l'homme contre les proc\u00e9dures judiciaires manifestement infond\u00e9es ou abusives</title><label>Rapport: Tiemo W\u00f6lken (A9-0223/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-13-VOT-ITM-939381",
+            "type": "Activity",
+            "activity_date": "2023-07-13",
+            "activity_id": "MTG-PL-2023-07-13-VOT-ITM-939381",
+            "activity_label": {
+                "fr": "Acc\u00e8s du public aux documents \u2013 rapport annuel pour les ann\u00e9es 2019 \u00e0 2021"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0179"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-13-OJ-ITM-V-64",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-13-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939381",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Acc\u00e8s du public aux documents \u2013 rapport annuel pour les ann\u00e9es 2019 \u00e0 2021</title><label>Rapport: Evin Incir (A9-0179/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

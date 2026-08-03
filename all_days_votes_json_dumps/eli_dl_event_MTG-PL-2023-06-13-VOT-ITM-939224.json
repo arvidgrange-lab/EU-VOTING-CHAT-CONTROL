@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-13-VOT-ITM-939224",
+            "type": "Activity",
+            "activity_date": "2023-06-13",
+            "activity_id": "MTG-PL-2023-06-13-VOT-ITM-939224",
+            "activity_label": {
+                "fr": "Politique de concurrence \u2013 rapport annuel 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0183"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-13-OJ-ITM-V-78",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-13-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939224",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledMEP": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 17,
+            "epvoc:amendmentsTabledTotal": 18,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politique de concurrence \u2013 rapport annuel 2022</title><label>Rapport: Ren\u00e9 Repasi (A9-0183/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

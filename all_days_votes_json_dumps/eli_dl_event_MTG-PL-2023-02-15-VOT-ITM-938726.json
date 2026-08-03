@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938726",
+            "activity_label": {
+                "fr": "Les priorit\u00e9s de l'UE pour la 67e session de la Commission de la condition de la femme des Nations unies"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0100",
+                "eli/dl/doc/B-9-2023-0103"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-29",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-009"
+            ],
+            "notation_dlvId": "938726",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les priorit\u00e9s de l'UE pour la 67e session de la Commission de la condition de la femme des Nations unies</title><label>Propositions de r\u00e9solutions: B9-0100/2023, B9-0103/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-03-14-DEC-166782",
+            "type": "Vote",
+            "activity_date": "2024-03-14",
+            "activity_id": "MTG-PL-2024-03-14-DEC-166782",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 533,
+            "number_of_votes_abstention": 31,
+            "number_of_votes_against": 186,
+            "number_of_votes_favor": 316,
+            "comment": {
+                "sl": "TG",
+                "da": "SEC",
+                "ro": "SEC",
+                "fi": "SEC",
+                "pt": "SEC",
+                "it": "SEC",
+                "fr": "SEC",
+                "hr": "SEC",
+                "es": "SEC",
+                "en": "SEC",
+                "sk": "TH",
+                "el": "\u039c\u03a8",
+                "ga": "BR",
+                "de": "geh.",
+                "cs": "TAJ",
+                "lv": "AIZKL",
+                "hu": "TITK.",
+                "lt": "SB",
+                "nl": "Geh.\u00a0S",
+                "sv": "sluten",
+                "mt": "SIG",
+                "pl": "taj",
+                "et": "SH",
+                "bg": "\u0422\u0413"
+            },
+            "notation_votingId": "166782",
+            "referenceText": {
+                "da": "Udn\u00e6vnelse af Carlo Alberto Manfredi Selvaggi",
+                "ro": "Numirea lui Carlo Alberto Manfredi Selvaggi",
+                "hr": "Imenovanje Carla Alberta Manfredija Selvaggija",
+                "es": "Nombramiento de Carlo Alberto Manfredi Selvaggi",
+                "mt": "Il-\u0127atra ta\u2019 Carlo Alberto Manfredi Selvaggi",
+                "hu": "Carlo Alberto Manfredi Selvaggi kinevez\u00e9se",
+                "it": "Nomina di Carlo Alberto Manfredi Selvaggi",
+                "cs": "jmenov\u00e1n\u00ed Carla Alberta Manfrediho Selvaggiho",
+                "nl": "Benoeming van Carlo Alberto Manfredi Selvaggi",
+                "sl": "imenovanje Carla Alberta Manfredija Selvaggia",
+                "de": "Ernennung von Carlo Alberto Manfredi Selvaggi",
+                "sk": "Vymenovanie Carla Alberta Manfrediho Selvaggiho",
+                "ga": "Ainmni\u00fa Carlo Alberto Manfredi Selvaggi",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 Carlo Alberto Manfredi Selvaggi",
+                "pl": "Powo\u0142anie Carla Alberta Manfrediego Selvaggiego",
+                "fi": "Carlo Alberto Manfredi Selvaggin nimitt\u00e4minen",
+                "en": "Nomination of a member of the Court of Auditors \u2013 Carlo Alberto Manfredi Selvaggi",
+                "pt": "Nomea\u00e7\u00e3o de Carlo Alberto Manfredi Selvaggi",
+                "et": "Carlo Alberto Manfredi Selvaggi ametisse nimetamine",
+                "lv": "Carlo Alberto Manfredi Selvaggi iecel\u0161ana",
+                "lt": "Carlo Alberto Manfredi Selvaggi skyrimas",
+                "sv": "Utn\u00e4mning av Carlo Alberto Manfredi Selvaggi",
+                "fr": "Nomination de Carlo Alberto Manfredi Selvaggi",
+                "bg": "\u041d\u0430\u0437\u043d\u0430\u0447\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u041a\u0430\u0440\u043b\u043e \u0410\u043b\u0431\u0435\u0440\u0442\u043e \u041c\u0430\u043d\u0444\u0440\u0435\u0434\u0438 \u0421\u0435\u043b\u0432\u0430\u0434\u0436\u0438"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

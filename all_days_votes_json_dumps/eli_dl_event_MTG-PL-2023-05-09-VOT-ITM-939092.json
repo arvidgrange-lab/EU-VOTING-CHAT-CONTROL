@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-09-VOT-ITM-939092",
+            "type": "Activity",
+            "activity_date": "2023-05-09",
+            "activity_id": "MTG-PL-2023-05-09-VOT-ITM-939092",
+            "activity_label": {
+                "fr": "Application des contingents tarifaires et des autres contingents \u00e0 l\u2019importation de l\u2019Union \u00e0 certains produits transf\u00e9r\u00e9s vers l\u2019Irlande du Nord"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0164"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-09-OJ-ITM-V-46",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-09-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939092",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Application des contingents tarifaires et des autres contingents \u00e0 l\u2019importation de l\u2019Union \u00e0 certains produits transf\u00e9r\u00e9s vers l\u2019Irlande du Nord</title><label>Rapport: Se\u00e1n Kelly (A9-0164/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

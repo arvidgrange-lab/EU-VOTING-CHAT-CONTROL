@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-11-27-VOT-ITM-964986",
+            "type": "Activity",
+            "activity_date": "2024-11-27",
+            "activity_id": "MTG-PL-2024-11-27-VOT-ITM-964986",
+            "activity_label": {
+                "sv": "Val av kommissionen",
+                "pt": "Elei\u00e7\u00e3o da Comiss\u00e3o",
+                "sk": "Vo\u013eba Komisie",
+                "ga": "Toghadh an Choimisi\u00fain",
+                "sl": "Izvolitev Komisije",
+                "pl": "Wyb\u00f3r Komisji",
+                "el": "\u0395\u03ba\u03bb\u03bf\u03b3\u03ae \u03c4\u03b7\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2",
+                "it": "Elezione della Commissione",
+                "es": "Elecci\u00f3n de la Comisi\u00f3n",
+                "ro": "Alegerea Comisiei",
+                "nl": "Verkiezing van de Commissie",
+                "lt": "Komisijos rinkimai",
+                "de": "Wahl der Kommission",
+                "en": "Election of the Commission",
+                "mt": "Elezzjoni tal-Kummissjoni",
+                "da": "Valg af Kommissionen",
+                "et": "Euroopa Komisjoni valimine",
+                "cs": "Volba Komise",
+                "fi": "Komission valitseminen",
+                "lv": "Komisijas iev\u0113l\u0113\u0161ana",
+                "fr": "\u00c9lection de la Commission",
+                "hu": "A Bizotts\u00e1g megv\u00e1laszt\u00e1sa",
+                "hr": "Izbor Komisije",
+                "bg": "\u0418\u0437\u0431\u043e\u0440 \u043d\u0430 \u041a\u043e\u043c\u0438\u0441\u0438\u044f\u0442\u0430",
+                "mul": "\u00c9lection de la Commission - Election of the Commission - Wahl der Kommission"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-11-27-DEC-170611"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-11-27-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2024-11-27-VOT-ITM-002"
+            ],
+            "notation_dlvId": "964986",
+            "structuredLabel": {
+                "lv": "<structuredLabel><title>Komisijas iev\u0113l\u0113\u0161ana </title><label>Komisijas iev\u0113l\u0113\u0161ana (Reglamenta 129.\u00a0panta 7.\u00a0punkts) </label></structuredLabel>",
+                "et": "<structuredLabel><title>Euroopa Komisjoni valimine </title><label>Euroopa Komisjoni valimine (kodukorra artikli 129 l\u00f5ige 7) </label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0418\u0437\u0431\u043e\u0440 \u043d\u0430 \u041a\u043e\u043c\u0438\u0441\u0438\u044f\u0442\u0430 </title><label>\u0418\u0437\u0431\u043e\u0440 \u043d\u0430 \u041a\u043e\u043c\u0438\u0441\u0438\u044f\u0442\u0430 (\u0447\u043b\u0435\u043d 129, \u043f\u0430\u0440\u0430\u0433\u0440\u0430\u0444 7 \u043e\u0442 \u041f\u0440\u0430\u0432\u0438\u043b\u043d\u0438\u043a\u0430 \u0437\u0430 \u0434\u0435\u0439\u043d\u043e\u0441\u0442\u0442\u0430) </label></structuredLabel>",
+                "sk": "<structuredLabel><title>Vo\u013eba Komisie </title><label>Vo\u013eba Komisie (\u010dl\u00e1nok\u00a0129 odsek\u00a07 nariadenia) </label></structuredLabel>",
+                "sl": "<structuredLabel><title>Izvolitev Komisije </title><label>Izvolitev Komisije (\u010dlen 129(7) Poslovnika): </label></structuredLabel>",
+                "pt": "<structuredLabel><title>Elei\u00e7\u00e3o da Comiss\u00e3o </title><label>Elei\u00e7\u00e3o da Comiss\u00e3o (artigo 129.\u00ba, n.\u00ba 7, do Regimento) </label></structuredLabel>",
+                "fi": "<structuredLabel><title>Komission valitseminen </title><label>Komission valitseminen (ty\u00f6j\u00e4rjestyksen 129 artiklan 7 kohta) </label></structuredLabel>",
+                "da": "<structuredLabel><title>Valg af Kommissionen </title><label>Valg af Kommissionen (forretningsordenens artikel 129, stk. 7) </label></structuredLabel>",
+                "it": "<structuredLabel><title>Elezione della Commissione </title><label>Elezione della Commissione (articolo 129, paragrafo 7, del regolamento): </label></structuredLabel>",
+                "hu": "<structuredLabel><title>A Bizotts\u00e1g megv\u00e1laszt\u00e1sa </title><label>A Bizotts\u00e1g megv\u00e1laszt\u00e1sa (az elj\u00e1r\u00e1si szab\u00e1lyzat 129. cikk\u00e9nek (7) bekezd\u00e9se) </label></structuredLabel>",
+                "de": "<structuredLabel><title>Wahl der Kommission </title><label>Wahl der Kommission (Artikel\u00a0129 Absatz\u00a07 GO) </label></structuredLabel>",
+                "nl": "<structuredLabel><title>Verkiezing van de Commissie </title><label>Verkiezing van de Commissie (artikel\u00a0129, lid\u00a07, van het Reglement): </label></structuredLabel>",
+                "es": "<structuredLabel><title>Elecci\u00f3n de la Comisi\u00f3n </title><label>Elecci\u00f3n de la Comisi\u00f3n (art\u00edculo\u00a0129, apartado\u00a07, del Reglamento interno): </label></structuredLabel>",
+                "en": "<structuredLabel><title>Election of the Commission </title><label>Election of the Commission (Article 129(7) of the Rules of Procedure): </label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0395\u03ba\u03bb\u03bf\u03b3\u03ae \u03c4\u03b7\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2 </title><label>\u0395\u03ba\u03bb\u03bf\u03b3\u03ae \u03c4\u03b7\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2 (\u03ac\u03c1\u03b8\u03c1\u03bf 129 \u03c0\u03b1\u03c1\u03ac\u03b3\u03c1\u03b1\u03c6\u03bf\u03c2 7 \u03c4\u03bf\u03c5 \u039a\u03b1\u03bd\u03bf\u03bd\u03b9\u03c3\u03bc\u03bf\u03cd): </label></structuredLabel>",
+                "cs": "<structuredLabel><title>Volba Komise </title><label>Volba Komise (\u010dl. 129 odst. 7 jednac\u00edho \u0159\u00e1du) </label></structuredLabel>",
+                "ro": "<structuredLabel><title>Alegerea Comisiei </title><label>Alegerea Comisiei [articolul 129 alineatul (7) din Regulamentul de procedur\u0103] </label></structuredLabel>",
+                "mt": "<structuredLabel><title>Elezzjoni tal-Kummissjoni </title><label>Elezzjoni tal-Kummissjoni (Artikolu\u00a0129(7) tar-Regoli ta\u2019 Pro\u010bedura): </label></structuredLabel>",
+                "fr": "<structuredLabel><title>\u00c9lection de la Commission </title><label>\u00c9lection de la Commission (article 129, paragraphe 7, du r\u00e8glement): </label></structuredLabel>",
+                "sv": "<structuredLabel><title>Val av kommissionen </title><label>Val av kommissionen (artikel 129.7 i arbetsordningen) </label></structuredLabel>",
+                "lt": "<structuredLabel><title>Komisijos rinkimai </title><label>Komisijos rinkimai (Darbo tvarkos taisykli\u0173 129 straipsnio 7 dalis) </label></structuredLabel>",
+                "ga": "<structuredLabel><title>Toghadh an Choimisi\u00fain </title><label>Toghadh an Choimisi\u00fain (Riail\u00a0129(7)): </label></structuredLabel>",
+                "hr": "<structuredLabel><title>Izbor Komisije </title><label>Izbor Komisije (\u010dlanak 129. stavak 7. Poslovnika): </label></structuredLabel>",
+                "pl": "<structuredLabel><title>Wyb\u00f3r Komisji </title><label>Wyb\u00f3r Komisji (art. 129 ust.\u00a07 Regulaminu) </label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

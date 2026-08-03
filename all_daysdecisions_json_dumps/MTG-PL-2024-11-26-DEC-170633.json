@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-11-26-DEC-170633",
+            "type": "Vote",
+            "activity_date": "2024-11-26",
+            "activity_id": "MTG-PL-2024-11-26-DEC-170633",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 646,
+            "number_of_votes_abstention": 31,
+            "number_of_votes_against": 34,
+            "number_of_votes_favor": 581,
+            "comment": {
+                "da": "SEC",
+                "en": "SEC",
+                "ro": "SEC",
+                "fi": "SEC",
+                "pt": "SEC",
+                "it": "SEC",
+                "fr": "SEC",
+                "es": "SEC",
+                "et": "SH",
+                "lt": "SB",
+                "ga": "BR",
+                "pl": "taj",
+                "mt": "SIG",
+                "sk": "TH",
+                "hr": "PREDSJEDNI\u0160TVO",
+                "cs": "TAJ",
+                "hu": "TITK.",
+                "bg": "\u0422\u0413",
+                "lv": "AIZKL",
+                "nl": "Geh. S",
+                "sv": "sluten",
+                "de": "geh.",
+                "sl": "TG",
+                "el": "\u039c\u03a8"
+            },
+            "notation_votingId": "170633",
+            "referenceText": {
+                "hu": "Iliana Ivanova jel\u00f6l\u00e9se",
+                "pl": "Powo\u0142anie Iliany Iwanowej",
+                "da": "Den foresl\u00e5ede udn\u00e6vnelse af Iliana Ivanova",
+                "mt": "\u0126atra ta\u2019 Iliana Ivanova",
+                "nl": "Benoeming van Iliana Ivanova",
+                "en": "Nomination of Iliana Ivanova",
+                "ga": "Ainmni\u00fach\u00e1n Iliana Ivanova",
+                "sk": "Vymenovanie Iliany Ivanovovej",
+                "et": "Iliana Ivanova ametisse nimetamine",
+                "pt": "Nomea\u00e7\u00e3o de Iliana Ivanova",
+                "it": "Nomina di Iliana Ivanova",
+                "lt": "Ilianos Ivanovos skyrimas",
+                "fi": "Iliana Ivanovan nimitt\u00e4minen",
+                "el": "\u03a0\u03c1\u03bf\u03c4\u03b5\u03b9\u03bd\u03cc\u03bc\u03b5\u03bd\u03bf\u03c2 \u03b4\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03b7\u03c2 Iliana Ivanova",
+                "bg": "\u041d\u0430\u0437\u043d\u0430\u0447\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0418\u043b\u0438\u0430\u043d\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u0430",
+                "fr": "Nomination de Iliana Ivanova",
+                "ro": "Numirea Ilianei Ivanova",
+                "es": "Nombramiento de Iliana Ivanova",
+                "de": "Ernennung von Iliana Ivanova",
+                "sl": "Imenovanje Iliane Ivanove",
+                "cs": "jmenov\u00e1n\u00ed Iliany Ivanovan\u00e9",
+                "lv": "Iliana Ivanova iecel\u0161ana",
+                "sv": "Utn\u00e4mning av Iliana Ivanova",
+                "hr": "Imenovanje Iliane Ivanove"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

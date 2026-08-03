@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938864",
+            "type": "Activity",
+            "activity_date": "2023-03-16",
+            "activity_id": "MTG-PL-2023-03-16-VOT-ITM-938864",
+            "activity_label": {
+                "fr": "Iran: en particulier l'empoisonnement de centaines d'\u00e9coli\u00e8res"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0170",
+                "eli/dl/doc/B-9-2023-0181",
+                "eli/dl/doc/RC-9-2023-0170",
+                "eli/dl/doc/B-9-2023-0175",
+                "eli/dl/doc/B-9-2023-0180",
+                "eli/dl/doc/B-9-2023-0177",
+                "eli/dl/doc/B-9-2023-0172"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-16-OJ-ITM-V-67",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-16-VOT-ITM-001"
+            ],
+            "notation_dlvId": "938864",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Iran: en particulier l'empoisonnement de centaines d'\u00e9coli\u00e8res</title><label>Propositions de r\u00e9solutions: RC-B9-0170/2023, B9-0170/2023, B9-0172/2023, B9-0175/2023, B9-0177/2023, B9-0180/2023, B9-0181/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

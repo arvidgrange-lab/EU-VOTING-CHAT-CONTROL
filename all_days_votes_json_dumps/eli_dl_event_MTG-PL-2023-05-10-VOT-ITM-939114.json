@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-10-VOT-ITM-939114",
+            "type": "Activity",
+            "activity_date": "2023-05-10",
+            "activity_id": "MTG-PL-2023-05-10-VOT-ITM-939114",
+            "activity_label": {
+                "fr": "D\u00e9charge 2021: Autorit\u00e9 europ\u00e9enne des march\u00e9s financiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0137"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-10-OJ-ITM-V-127",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-10-VOT-ITM-038"
+            ],
+            "notation_dlvId": "939114",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2021: Autorit\u00e9 europ\u00e9enne des march\u00e9s financiers</title><label>Rapport: Gilles Boyer (A9-0137/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

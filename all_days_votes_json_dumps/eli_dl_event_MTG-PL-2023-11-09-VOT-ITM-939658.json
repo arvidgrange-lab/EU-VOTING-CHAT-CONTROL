@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939658",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939658",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes \u2013 Tony Murphy"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0294"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-27",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939658",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes \u2013 Tony Murphy</title><label>Rapport: Monika Hohlmeier (A9-0294/2023) (Vote au scrutin secret (article 129, paragraphe 3, du r\u00e8glement))</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

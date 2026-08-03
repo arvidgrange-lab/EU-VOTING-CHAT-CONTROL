@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939786",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939786",
+            "activity_label": {
+                "mul": "Le meurtre de Tamaz Ginturi, citoyen g\u00e9orgien, par les forces d'occupation russes en G\u00e9orgie - The killing of Tamaz Ginturi, a Georgian citizen, by Russia\u2019s occupying forces in Georgia - Ermordung des georgischen Staatsangeh\u00f6rigen Tamas Ginturi durch Russlands Besatzungstruppen in Georgien",
+                "fr": "Le meurtre de Tamaz Ginturi, citoyen g\u00e9orgien, par les forces d'occupation russes en G\u00e9orgie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0474",
+                "eli/dl/doc/B-9-2023-0469",
+                "eli/dl/doc/B-9-2023-0476",
+                "eli/dl/doc/B-9-2023-0468",
+                "eli/dl/doc/B-9-2023-0475"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_102"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939786",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le meurtre de Tamaz Ginturi, citoyen g\u00e9orgien, par les forces d'occupation russes en G\u00e9orgie</title><label>Propositions de r\u00e9solution: RC-B9-0468/2023, B9-0468/2023, B9-0469/2023, B9-0474/2023, B9-0475/2023, B9-0476/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939849",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939849",
+            "activity_label": {
+                "fr": "30 ans des crit\u00e8res de Copenhague - donner un nouvel \u00e9lan \u00e0 la politique d'\u00e9largissement de l'Union europ\u00e9enne",
+                "mul": "30 ans des crit\u00e8res de Copenhague - donner un nouvel \u00e9lan \u00e0 la politique d'\u00e9largissement de l'Union europ\u00e9enne - 30 years of Copenhagen criteria - giving further impetus to EU enlargement policy - 30 Jahre Kopenhagener Kriterien \u2013 zus\u00e4tzlicher Impuls f\u00fcr die EU-Erweiterungspolitik"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0500",
+                "eli/dl/doc/B-9-2023-0505",
+                "eli/dl/doc/B-9-2023-0502",
+                "eli/dl/doc/B-9-2023-0506",
+                "eli/dl/doc/B-9-2023-0501",
+                "eli/dl/doc/B-9-2023-0504"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-81",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939849",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 2,
+            "epvoc:amendmentsAdoptedTotal": 2,
+            "epvoc:amendmentsTabledPoliticalGroup": 7,
+            "epvoc:amendmentsTabledTotal": 7,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>30 ans des crit\u00e8res de Copenhague - donner un nouvel \u00e9lan \u00e0 la politique d'\u00e9largissement de l'Union europ\u00e9enne</title><label>Propositions de r\u00e9solution: RC-B9-0500/2023, B9-0500/2023, B9-0501/2023, B9-0502/2023, B9-0504/2023, B9-0505/2023, B9-0506/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,857 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934657",
+            "activity_label": {
+                "fr": "R\u00e9alisation des objectifs de l'obligation de d\u00e9barquement au titre de l'article 15 de la politique commune de la p\u00eache"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0147"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-24",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-012"
+            ],
+            "notation_dlvId": "934657",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9alisation des objectifs de l'obligation de d\u00e9barquement au titre de l'article 15 de la politique commune de la p\u00eache</title><label>Rapport: S\u00f8ren Gade (A9-0147/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934706",
+            "activity_label": {
+                "fr": "Programme d'action en mati\u00e8re d'\u00e9changes, d'assistance et de formation, pour la protection de l'euro contre le faux-monnayage pour la p\u00e9riode 2021-2027 (programme Pericles IV)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0164"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-69",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "934706",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Programme d'action en mati\u00e8re d'\u00e9changes, d'assistance et de formation, pour la protection de l'euro contre le faux-monnayage pour la p\u00e9riode 2021-2027 (programme Pericles IV)</title><label></label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934660",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds de solidarit\u00e9 de l\u2019Union europ\u00e9enne pour venir en aide \u00e0 la Gr\u00e8ce et \u00e0 la France en rapport avec des catastrophes naturelles, ainsi qu\u2019\u00e0 l\u2019Albanie, \u00e0 l\u2019Autriche, \u00e0 la Belgique, \u00e0 la Croatie, \u00e0 la Tch\u00e9quie, \u00e0 l\u2019Estonie, \u00e0 la France, \u00e0 l\u2019Allemagne, \u00e0 la Gr\u00e8ce, \u00e0 la Hongrie, \u00e0 l\u2019Irlande, \u00e0 l\u2019Italie, \u00e0 la Lettonie, \u00e0 la Lituanie, au Luxembourg, au Mont\u00e9n\u00e9gro, au Portugal, \u00e0 la Roumanie, \u00e0 la Serbie et \u00e0 l\u2019Espagne en lien avec une urgence de sant\u00e9 publique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0157"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-64",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-015"
+            ],
+            "notation_dlvId": "934660",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds de solidarit\u00e9 de l\u2019Union europ\u00e9enne pour venir en aide \u00e0 la Gr\u00e8ce et \u00e0 la France en rapport avec des catastrophes naturelles, ainsi qu\u2019\u00e0 l\u2019Albanie, \u00e0 l\u2019Autriche, \u00e0 la Belgique, \u00e0 la Croatie, \u00e0 la Tch\u00e9quie, \u00e0 l\u2019Estonie, \u00e0 la France, \u00e0 l\u2019Allemagne, \u00e0 la Gr\u00e8ce, \u00e0 la Hongrie, \u00e0 l\u2019Irlande, \u00e0 l\u2019Italie, \u00e0 la Lettonie, \u00e0 la Lituanie, au Luxembourg, au Mont\u00e9n\u00e9gro, au Portugal, \u00e0 la Roumanie, \u00e0 la Serbie et \u00e0 l\u2019Espagne en lien avec une urgence de sant\u00e9 publique</title><label>Rapport: Eider Gardiazabal Rubial (A9-0157/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934645",
+            "activity_label": {
+                "fr": "Nomination du pr\u00e9sident de l'Autorit\u00e9 europ\u00e9enne des assurances et des pensions professionnelles - candidate: Petra Hielkema"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0162"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-102",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-003"
+            ],
+            "notation_dlvId": "934645",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination du pr\u00e9sident de l'Autorit\u00e9 europ\u00e9enne des assurances et des pensions professionnelles - candidate: Petra Hielkema</title><label>Rapport: Irene Tinagli (A9-0162/2021) (Vote au scrutin secret (article 191 du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934658",
+            "activity_label": {
+                "fr": "Syst\u00e8me commun de taxe sur la valeur ajout\u00e9e: exon\u00e9rations relatives aux importations et \u00e0 certaines op\u00e9rations li\u00e9es \u00e0 des mesures d\u2019int\u00e9r\u00eat g\u00e9n\u00e9ral prises par l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0155"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-101",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-013"
+            ],
+            "notation_dlvId": "934658",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8me commun de taxe sur la valeur ajout\u00e9e: exon\u00e9rations relatives aux importations et \u00e0 certaines op\u00e9rations li\u00e9es \u00e0 des mesures d\u2019int\u00e9r\u00eat g\u00e9n\u00e9ral prises par l\u2019Union</title><label>Rapport: Irene Tinagli (A9-0155/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934651",
+            "activity_label": {
+                "fr": "R\u00e9examen du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0052"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-31",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-005"
+            ],
+            "notation_dlvId": "934651",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9examen du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne</title><label>Rapport: Younous Omarjee (A9-0052/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2087",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934650",
+            "activity_label": {
+                "fr": "Fonds pour une transition juste"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2020-0135"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-68",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-004"
+            ],
+            "notation_dlvId": "934650",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds pour une transition juste</title><label>Rapport: Manolis Kefalogiannis (A9-0135/2020)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-0006",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934696",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 2/2021: financement de la r\u00e9action \u00e0 la COVID-19 et ajustements et mises \u00e0 jour en lien avec l'adoption d\u00e9finitive du cadre financier pluriannuel"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0160"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-63",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-016"
+            ],
+            "notation_dlvId": "934696",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 2/2021: financement de la r\u00e9action \u00e0 la COVID-19 et ajustements et mises \u00e0 jour en lien avec l'adoption d\u00e9finitive du cadre financier pluriannuel</title><label>Rapport: Pierre Larrouturou (A9-0160/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934659",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2020/002 EE/Estonia Tourism"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0158"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-65",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-014"
+            ],
+            "notation_dlvId": "934659",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2020/002 EE/Estonia Tourism</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A9-0158/2021) (Majorit\u00e9 des membres qui composent le Parlement et 3/5 des suffrages exprim\u00e9s requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934653",
+            "activity_label": {
+                "fr": "Protocole \u00e0 l'accord euro-m\u00e9diterran\u00e9en d'association UE/Tunisie (adh\u00e9sion de la Croatie)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0150"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-50",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-008"
+            ],
+            "notation_dlvId": "934653",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protocole \u00e0 l'accord euro-m\u00e9diterran\u00e9en d'association UE/Tunisie (adh\u00e9sion de la Croatie)</title><label>Recommandation: Michael Gahler (A9-0150/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934654",
+            "activity_label": {
+                "fr": "Protocole \u00e0 l'accord d'association UE/Am\u00e9rique centrale (adh\u00e9sion de la Croatie)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0148"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-51",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-009"
+            ],
+            "notation_dlvId": "934654",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protocole \u00e0 l'accord d'association UE/Am\u00e9rique centrale (adh\u00e9sion de la Croatie)</title><label>Recommandation: Karol Karski (A9-0148/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934663",
+            "activity_label": {
+                "fr": "D\u00e9fis pour les organisateurs d\u2019\u00e9v\u00e9nements sportifs dans l\u2019environnement num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0139"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-59",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-017"
+            ],
+            "notation_dlvId": "934663",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9fis pour les organisateurs d\u2019\u00e9v\u00e9nements sportifs dans l\u2019environnement num\u00e9rique</title><label>Rapport: Angel Dzhambazki (A9-0139/2021) (Majorit\u00e9 des membres qui composent le Parlement requise pour l'adoption de la proposition de r\u00e9solution)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934662",
+            "activity_label": {
+                "fr": "Fonds de recherche du charbon et de l\u2019acier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0102"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-87",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-018"
+            ],
+            "notation_dlvId": "934662",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds de recherche du charbon et de l\u2019acier</title><label>Rapport: Cristian-Silviu Bu\u015foi (A9-0102/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-0141",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934652",
+            "activity_label": {
+                "fr": "Accord entre l\u2019Union et Cuba: modification des concessions pour l\u2019ensemble des contingents tarifaires de la liste CLXXV de l\u2019UE apr\u00e8s le retrait du Royaume-Uni de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0129"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-39",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-007"
+            ],
+            "notation_dlvId": "934652",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord entre l\u2019Union et Cuba: modification des concessions pour l\u2019ensemble des contingents tarifaires de la liste CLXXV de l\u2019UE apr\u00e8s le retrait du Royaume-Uni de l\u2019Union europ\u00e9enne</title><label>Recommandation: Gabriel Mato (A9-0129/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934656",
+            "activity_label": {
+                "fr": "R\u00e9gime de l'imp\u00f4t \u00aboctroi de mer\u00bb dans les r\u00e9gions ultrap\u00e9riph\u00e9riques fran\u00e7aises"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0138"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-90",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-011"
+            ],
+            "notation_dlvId": "934656",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9gime de l'imp\u00f4t \u00aboctroi de mer\u00bb dans les r\u00e9gions ultrap\u00e9riph\u00e9riques fran\u00e7aises</title><label>Rapport: Younous Omarjee (A9-0138/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934644",
+            "activity_label": {
+                "fr": "Nomination du directeur ex\u00e9cutif de l\u2019Autorit\u00e9 europ\u00e9enne des march\u00e9s financiers - Candidate: Natasha Cazenave"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0137"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-88",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-002"
+            ],
+            "notation_dlvId": "934644",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination du directeur ex\u00e9cutif de l\u2019Autorit\u00e9 europ\u00e9enne des march\u00e9s financiers - Candidate: Natasha Cazenave</title><label>Rapport: Irene Tinagli (A9-0137/2021) (Vote au scrutin secret (article 191 du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934655",
+            "activity_label": {
+                "fr": "Accord \u00c9tats-Unis/UE/Islande/Norv\u00e8ge: limites de dur\u00e9e applicables aux accords de fourniture d\u2019a\u00e9ronefs avec \u00e9quipage"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0125"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-67",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-010"
+            ],
+            "notation_dlvId": "934655",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord \u00c9tats-Unis/UE/Islande/Norv\u00e8ge: limites de dur\u00e9e applicables aux accords de fourniture d\u2019a\u00e9ronefs avec \u00e9quipage</title><label>Recommandation: Maria Grapini (A9-0125/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664",
+            "type": "Activity",
+            "activity_date": "2021-05-18",
+            "activity_id": "MTG-PL-2021-05-18-VOT-ITM-934664",
+            "activity_label": {
+                "fr": "L\u2019incidence du changement climatique sur les populations vuln\u00e9rables des pays en d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0115"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-05-18-OJ-ITM-V-74",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-05-18-VOT-ITM-019"
+            ],
+            "notation_dlvId": "934664",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u2019incidence du changement climatique sur les populations vuln\u00e9rables des pays en d\u00e9veloppement</title><label>Rapport: M\u00f3nica Silvana Gonz\u00e1lez (A9-0115/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934657",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934706",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934660",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934645",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934658",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934651",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934650",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934696",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934659",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934653",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934654",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934663",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934662",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934652",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934656",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934644",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934655",
+                        "eli/dl/event/MTG-PL-2021-05-18-VOT-ITM-934664"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

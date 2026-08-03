@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-03-12-VOT-ITM-941734",
+            "type": "Activity",
+            "activity_date": "2024-03-12",
+            "activity_id": "MTG-PL-2024-03-12-VOT-ITM-941734",
+            "activity_label": {
+                "mul": "Portail des \u00e9missions industrielles - Industrial Emissions Portal  - Industrieemissionsportal",
+                "bg": "\u041f\u043e\u0440\u0442\u0430\u043b \u0437\u0430 \u0435\u043c\u0438\u0441\u0438\u0438\u0442\u0435 \u043e\u0442 \u043f\u0440\u043e\u043c\u0438\u0448\u043b\u0435\u043d\u043e\u0441\u0442\u0442\u0430 ***I",
+                "nl": "Portaal voor industri\u00eble emissies ***I",
+                "sk": "Port\u00e1l priemyseln\u00fdch emisi\u00ed ***I",
+                "ga": "Tairseach um Asta\u00edochta\u00ed Tionscla\u00edocha ***I",
+                "lt": "Pramonini\u0173 i\u0161metam\u0173j\u0173 ter\u0161al\u0173 portalas ***I",
+                "hu": "Ipari kibocs\u00e1t\u00e1si port\u00e1l ***I",
+                "ro": "Portalul emisiilor industriale ***I",
+                "el": "\u03a0\u03cd\u03bb\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b2\u03b9\u03bf\u03bc\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b5\u03ba\u03c0\u03bf\u03bc\u03c0\u03ad\u03c2 ***I",
+                "it": "Portale sulle emissioni industriali ***I",
+                "es": "Portal de Emisiones Industriales\u00a0***I",
+                "pl": "Portal Emisji Przemys\u0142owych ***I",
+                "de": "Industrieemissionsportal ***I",
+                "lv": "R\u016bpniecisko emisiju port\u0101ls ***I",
+                "da": "Portal for industrielle emissioner ***I",
+                "hr": "Portal za industrijske emisije ***I",
+                "cs": "Port\u00e1l pr\u016fmyslov\u00fdch emis\u00ed ***I",
+                "fr": "Portail des \u00e9missions industrielles ***I",
+                "sl": "Portal industrijskih emisij ***I",
+                "et": "T\u00f6\u00f6stusheite portaal ***I",
+                "sv": "Portal f\u00f6r industriutsl\u00e4pp ***I",
+                "fi": "Teollisuusp\u00e4\u00e4st\u00f6portaali ***I",
+                "en": "Industrial Emissions Portal ***I",
+                "mt": "Portal dwar l-Emissjonijiet Industrijali ***I",
+                "pt": "Portal das Emiss\u00f5es Industriais ***I"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0211"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-03-12-DEC-166133"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-03-12-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-03-12-VOT-ITM-005"
+            ],
+            "notation_dlvId": "941734",
+            "structuredLabel": {
+                "el": "<structuredLabel><title>\u03a0\u03cd\u03bb\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b2\u03b9\u03bf\u03bc\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b5\u03ba\u03c0\u03bf\u03bc\u03c0\u03ad\u03c2 ***I</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "et": "<structuredLabel><title>T\u00f6\u00f6stusheite portaal ***I</title><label>Raport: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Portal Emisji Przemys\u0142owych ***I</title><label>Sprawozdanie: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u041f\u043e\u0440\u0442\u0430\u043b \u0437\u0430 \u0435\u043c\u0438\u0441\u0438\u0438\u0442\u0435 \u043e\u0442 \u043f\u0440\u043e\u043c\u0438\u0448\u043b\u0435\u043d\u043e\u0441\u0442\u0442\u0430 ***I</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Portail des \u00e9missions industrielles ***I</title><label>Rapport: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Port\u00e1l priemyseln\u00fdch emisi\u00ed ***I</title><label>Spr\u00e1va: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>R\u016bpniecisko emisiju port\u0101ls ***I</title><label>Zi\u0146ojums: A9-0211/2023 </label></structuredLabel>",
+                "sl": "<structuredLabel><title>Portal industrijskih emisij ***I</title><label>Poro\u010dilo: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Tairseach um Asta\u00edochta\u00ed Tionscla\u00edocha ***I</title><label>Tuarasc\u00e1il: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Portal za industrijske emisije ***I</title><label>Izvje\u0161\u0107e: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Pramonini\u0173 i\u0161metam\u0173j\u0173 ter\u0161al\u0173 portalas ***I</title><label>Prane\u0161imas: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Ipari kibocs\u00e1t\u00e1si port\u00e1l ***I</title><label>Jelent\u00e9s: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Port\u00e1l pr\u016fmyslov\u00fdch emis\u00ed ***I</title><label>Zpr\u00e1va: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Portal das Emiss\u00f5es Industriais ***I</title><label>Relat\u00f3rio: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Portalul emisiilor industriale ***I</title><label>Raport: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Teollisuusp\u00e4\u00e4st\u00f6portaali ***I</title><label>Mietint\u00f6: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Portal de Emisiones Industriales\u00a0***I</title><label>Informe: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Portale sulle emissioni industriali ***I</title><label>Relazione: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Portal dwar l-Emissjonijiet Industrijali ***I</title><label>Rapport: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Portaal voor industri\u00eble emissies ***I</title><label>Verslag: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Portal for industrielle emissioner ***I</title><label>Bet\u00e6nkning: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Industrial Emissions Portal ***I</title><label>Report: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Portal f\u00f6r industriutsl\u00e4pp ***I</title><label>Bet\u00e4nkande: Radan Kanev (A9-0211/2023)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Industrieemissionsportal ***I</title><label>Bericht: Radan Kanev (A9-0211/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

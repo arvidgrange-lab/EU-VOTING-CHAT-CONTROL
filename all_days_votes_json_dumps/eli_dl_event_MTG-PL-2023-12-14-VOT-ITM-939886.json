@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-14-VOT-ITM-939886",
+            "type": "Activity",
+            "activity_date": "2023-12-14",
+            "activity_id": "MTG-PL-2023-12-14-VOT-ITM-939886",
+            "activity_label": {
+                "mul": "Les communaut\u00e9s massa\u00ef en Tanzanie - The Maasai Communities in Tanzania - Die Massai-Gemeinschaften in Tansania",
+                "fr": "Les communaut\u00e9s massa\u00ef en Tanzanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0513",
+                "eli/dl/doc/B-9-2023-0525",
+                "eli/dl/doc/B-9-2023-0524",
+                "eli/dl/doc/B-9-2023-0517",
+                "eli/dl/doc/B-9-2023-0511",
+                "eli/dl/doc/B-9-2023-0523"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-14-OJ-ITM-V-96",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939886",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les communaut\u00e9s massa\u00ef en Tanzanie</title><label>Propositions de r\u00e9solution: RC-B9-0511/2023, B9-0511/2023, B9-0513/2023, B9-0517/2023, B9-0523/2023, B9-0524/2023, B9-0525/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

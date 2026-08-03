@@ -1,0 +1,2273 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347498-24",
+            "activity_label": {
+                "fr": "D\u00e9ploiement du syst\u00e8me eCall embarqu\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0106"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-173"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-024"
+            ],
+            "notation_dlvId": "347498",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9ploiement du syst\u00e8me eCall embarqu\u00e9</title><label>Rapport: Olga Sehnalov\u00e1 (A7-0106/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0165",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-11",
+            "activity_label": {
+                "fr": "Accord-cadre global de partenariat et de coop\u00e9ration CE-Indon\u00e9sie \u00e0 l'exception des questions relatives \u00e0 la r\u00e9admission"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0093"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-212"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-011"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord-cadre global de partenariat et de coop\u00e9ration CE-Indon\u00e9sie \u00e0 l'exception des questions relatives \u00e0 la r\u00e9admission   </title><label>Rapport int\u00e9rimaire: Ana Gomes (A7-0093/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0120A",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-13",
+            "activity_label": {
+                "fr": "Accord-cadre global de partenariat et de coop\u00e9ration CE-Indon\u00e9sie en ce qui concerne les questions relatives \u00e0 la r\u00e9admission"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0115"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-157"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-013"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord-cadre global de partenariat et de coop\u00e9ration CE-Indon\u00e9sie en ce qui concerne les questions relatives \u00e0 la r\u00e9admission</title><label>Recommandation: Ana Gomes (A7-0115/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0120B",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347477-26",
+            "activity_label": {
+                "fr": "Troisi\u00e8me programme d\u2019action de l\u2019Union dans le domaine de la sant\u00e9 (2014-2020)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2012-0224"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-116"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-026"
+            ],
+            "notation_dlvId": "347477",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Troisi\u00e8me programme d\u2019action de l\u2019Union dans le domaine de la sant\u00e9 (2014-2020)</title><label>Rapport: Fran\u00e7oise Grosset\u00eate (A7-0224/2012)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2011-0339",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347486-19",
+            "activity_label": {
+                "fr": "Interop\u00e9rabilit\u00e9 du syst\u00e8me ferroviaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0033"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-019"
+            ],
+            "notation_dlvId": "347486",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Interop\u00e9rabilit\u00e9 du syst\u00e8me ferroviaire</title><label>Rapport: Izaskun Bilbao Barandica (A7-0033/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0015",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347523-28",
+            "activity_label": {
+                "fr": "Accessibilit\u00e9 des sites web d'organismes du secteur public"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0460"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-155"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-028"
+            ],
+            "notation_dlvId": "347523",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accessibilit\u00e9 des sites web d'organismes du secteur public</title><label>Rapport: Jorgo Chatzimarkakis (A7-0460/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0340",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347496-22",
+            "activity_label": {
+                "fr": "Normalisation des comptes des entreprises de chemin de fer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0472"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-022"
+            ],
+            "notation_dlvId": "347496",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normalisation des comptes des entreprises de chemin de fer</title><label>Rapport: Jarom\u00edr Kohl\u00ed\u010dek (A7-0472/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0013",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347755-30",
+            "activity_label": {
+                "fr": "Fabrication, pr\u00e9sentation et vente du tabac et de ses produits"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0276"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-160"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-030"
+            ],
+            "notation_dlvId": "347755",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fabrication, pr\u00e9sentation et vente du tabac et de ses produits</title><label>Rapport: Linda McAvan (A7-0276/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0366",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347492-20",
+            "activity_label": {
+                "fr": "S\u00e9curit\u00e9 ferroviaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0015"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-020"
+            ],
+            "notation_dlvId": "347492",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>S\u00e9curit\u00e9 ferroviaire</title><label>Rapport: Michael Cramer (A7-0015/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347484-29",
+            "activity_label": {
+                "fr": "Droit commun europ\u00e9en de la vente"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0301"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-029"
+            ],
+            "notation_dlvId": "347484",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droit commun europ\u00e9en de la vente</title><label>Rapport: Klaus-Heiner Lehne et  Luigi Berlinguer (A7-0301/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2011-0284",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-9",
+            "activity_label": {
+                "fr": "Modification de la dur\u00e9e d'application de la d\u00e9cision 2009/831/CE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0113"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-188"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-009"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification de la dur\u00e9e d'application de la d\u00e9cision 2009/831/CE</title><label>Rapport: Danuta Maria H\u00fcbner (A7-0113/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0446",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-8",
+            "activity_label": {
+                "fr": "Syst\u00e8me commun de taxe sur la valeur ajout\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0090"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-103"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-008"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8me commun de taxe sur la valeur ajout\u00e9e </title><label>Rapport: Ivo Strej\u010dek (A7-0090/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0343",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-4",
+            "activity_label": {
+                "fr": "D\u00e9ploiement du service eCall interop\u00e9rable dans toute l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0482"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-174"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-004"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9ploiement du service eCall interop\u00e9rable dans toute l'Union europ\u00e9enne</title><label>Rapport: Philippe De Backer (A7-0482/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0166",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-12",
+            "activity_label": {
+                "fr": "Accord-cadre global de partenariat et de coop\u00e9ration CE-Indon\u00e9sie \u00e0 l'exception des questions relatives \u00e0 la r\u00e9admission ***"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0134"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-012"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord-cadre global de partenariat et de coop\u00e9ration CE-Indon\u00e9sie \u00e0 l'exception des questions relatives \u00e0 la r\u00e9admission ***</title><label>Recommandation: Ana Gomes (A7-0134/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347475-23",
+            "activity_label": {
+                "fr": "Comptes rendus d\u2019\u00e9v\u00e9nements dans l\u2019aviation civile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0317"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-124"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-023"
+            ],
+            "notation_dlvId": "347475",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Comptes rendus d\u2019\u00e9v\u00e9nements dans l\u2019aviation civile </title><label>Rapport: Christine De Veyrac (A7-0317/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0361",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347479-27",
+            "activity_label": {
+                "fr": "R\u00e9seaux transeurop\u00e9ens de t\u00e9l\u00e9communications"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0272"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-119"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-027"
+            ],
+            "notation_dlvId": "347479",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9seaux transeurop\u00e9ens de t\u00e9l\u00e9communications</title><label>Rapport: Ev\u017een To\u0161enovsk\u00fd (A7-0272/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2011-0299",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-6",
+            "activity_label": {
+                "fr": "Accord de dialogue politique et de coop\u00e9ration entre la Communaut\u00e9 europ\u00e9enne, d'une part, et le Costa Rica, l'El Salvador, le Guatemala, le Honduras, le Nicaragua et le Panama, d'autre part, en ce qui concerne son article 49, paragraphe 3"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0119"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-150"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-006"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de dialogue politique et de coop\u00e9ration entre la Communaut\u00e9 europ\u00e9enne, d'une part, et le Costa Rica, l'El Salvador, le Guatemala, le Honduras, le Nicaragua et le Panama, d'autre part, en ce qui concerne son article 49, paragraphe 3</title><label>Recommandation: Renate Weber (A7-0119/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0219B",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-2",
+            "activity_label": {
+                "fr": "Optimisation du potentiel des r\u00e9gions ultrap\u00e9riph\u00e9riques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0121"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-002"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Optimisation du potentiel des r\u00e9gions ultrap\u00e9riph\u00e9riques</title><label>Rapport: Younous Omarjee (A7-0121/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2178",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347580-15",
+            "activity_label": {
+                "fr": "Recommandation de d\u00e9cision - Extension de l'article 147 du r\u00e8glement jusqu'\u00e0 la fin de la huiti\u00e8me l\u00e9gislature"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-7-2014-0186"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-232"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-015"
+            ],
+            "notation_dlvId": "347580",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Recommandation de d\u00e9cision - Extension de l'article 147 du r\u00e8glement jusqu'\u00e0 la fin de la huiti\u00e8me l\u00e9gislature</title><label>Recommandation de d\u00e9cision B7-0186/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2585",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-10",
+            "activity_label": {
+                "fr": "Modification de la d\u00e9cision 2004/162/CE en ce qui concerne son application \u00e0 Mayotte \u00e0 compter du 1er\u00a0janvier\u00a02014"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0144"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-186"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-010"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification de la d\u00e9cision 2004/162/CE en ce qui concerne son application \u00e0 Mayotte \u00e0 compter du 1er\u00a0janvier\u00a02014</title><label>Rapport: Danuta Maria H\u00fcbner (A7-0144/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0010",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-345869-16",
+            "activity_label": {
+                "fr": "Modification de l'article 166 (vote final) et de l'article 195, paragraphe 3 (vote en commission), du r\u00e8glement du Parlement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0035"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-175"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-016"
+            ],
+            "notation_dlvId": "345869",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification de l'article 166 (vote final) et de l'article 195, paragraphe 3 (vote en commission), du r\u00e8glement du Parlement</title><label>Rapport: Carlo Casini (A7-0035/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2001",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347517-32",
+            "activity_label": {
+                "fr": "Exploitation sexuelle et prostitution et cons\u00e9quences sur l'\u00e9galit\u00e9 entre les femmes et les hommes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0071"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-032"
+            ],
+            "notation_dlvId": "347517",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Exploitation sexuelle et prostitution et cons\u00e9quences sur l'\u00e9galit\u00e9 entre les femmes et les hommes</title><label>Rapport: Mary Honeyball (A7-0071/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2103",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347485-17",
+            "activity_label": {
+                "fr": "Espace ferroviaire unique europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0037"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-017"
+            ],
+            "notation_dlvId": "347485",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Espace ferroviaire unique europ\u00e9en</title><label>Rapport: Sa\u00efd El Khadraoui (A7-0037/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0029",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-348018-33",
+            "activity_label": {
+                "fr": "Promouvoir le d\u00e9veloppement par des pratiques responsables dans les affaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0132"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-238"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-033"
+            ],
+            "notation_dlvId": "348018",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Promouvoir le d\u00e9veloppement par des pratiques responsables dans les affaires</title><label>Rapport: Judith Sargentini (A7-0132/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2126",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347494-21",
+            "activity_label": {
+                "fr": "Agence de l\u2019Union europ\u00e9enne pour les chemins de fer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0016"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-021"
+            ],
+            "notation_dlvId": "347494",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Agence de l\u2019Union europ\u00e9enne pour les chemins de fer</title><label>Rapport: Roberts Z\u012ble (A7-0016/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0014",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-7",
+            "activity_label": {
+                "fr": "Lignes directrices pour les politiques de l\u2019emploi des \u00c9tats membres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0470"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-102"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-007"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lignes directrices pour les politiques de l\u2019emploi des \u00c9tats membres</title><label>Recommandation: Pervenche Ber\u00e8s (A7-0470/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0392",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-3",
+            "activity_label": {
+                "fr": "\u00c9valuation des finances de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0068"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-90"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-003"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9valuation des finances de l'Union</title><label>Rapport: Michael Theurer (A7-0068/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2172",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-5",
+            "activity_label": {
+                "fr": "Accord de dialogue politique et de coop\u00e9ration entre la Communaut\u00e9 europ\u00e9enne, d'une part, et le Costa Rica, l'El Salvador, le Guatemala, le Honduras, le Nicaragua et le Panama, d'autre part, \u00e0 l'exception de son article 49, paragraphe 3"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0463"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-156"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-005"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de dialogue politique et de coop\u00e9ration entre la Communaut\u00e9 europ\u00e9enne, d'une part, et le Costa Rica, l'El Salvador, le Guatemala, le Honduras, le Nicaragua et le Panama, d'autre part, \u00e0 l'exception de son article 49, paragraphe 3</title><label>Recommandation: Jos\u00e9 Ignacio Salafranca S\u00e1nchez-Neyra (A7-0463/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0219A",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347586-1",
+            "activity_label": {
+                "fr": "Politique de coh\u00e9sion"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0081"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-60"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-001"
+            ],
+            "notation_dlvId": "347586",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politique de coh\u00e9sion</title><label>Rapport: Vilja Savisaar-Toomast (A7-0081/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2008",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347735-14",
+            "activity_label": {
+                "fr": "Accord entre l'Union europ\u00e9enne et la R\u00e9publique de Turquie concernant la r\u00e9admission des personnes en s\u00e9jour irr\u00e9gulier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0097"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-136"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-014"
+            ],
+            "notation_dlvId": "347735",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord entre l'Union europ\u00e9enne et la R\u00e9publique de Turquie concernant la r\u00e9admission des personnes en s\u00e9jour irr\u00e9gulier</title><label>Recommandation: Renate Sommer (A7-0097/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0122",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347534-31",
+            "activity_label": {
+                "fr": "Financement \u00e0 long terme de l'\u00e9conomie europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0065"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-031"
+            ],
+            "notation_dlvId": "347534",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Financement \u00e0 long terme de l'\u00e9conomie europ\u00e9enne</title><label>Rapport: Wolf Klinz (A7-0065/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2175",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347520-25",
+            "activity_label": {
+                "fr": "Interm\u00e9diation en assurance"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0085"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-134"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-025"
+            ],
+            "notation_dlvId": "347520",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Interm\u00e9diation en assurance</title><label>Rapport: Werner Langen (A7-0085/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0175",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18",
+            "type": "Activity",
+            "activity_date": "2014-02-26",
+            "activity_id": "MTG-PL-2014-02-26-VOT-ITM-347491-18",
+            "activity_label": {
+                "fr": "Services nationaux de transport de voyageurs par chemin de fer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0034"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-02-26-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-02-26-VOT-ITM-018"
+            ],
+            "notation_dlvId": "347491",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Services nationaux de transport de voyageurs par chemin de fer</title><label>Rapport: Mathieu Grosch (A7-0034/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-02-26",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347498-24",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-11",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-13",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347477-26",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347486-19",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347523-28",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347496-22",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347755-30",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347492-20",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347484-29",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-9",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-8",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-4",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-12",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347475-23",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347479-27",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-6",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-2",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347580-15",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-10",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-345869-16",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347517-32",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347485-17",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-348018-33",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347494-21",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-7",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-3",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-5",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347586-1",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347735-14",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347534-31",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347520-25",
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0028",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-02-26-VOT-ITM-347491-18"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

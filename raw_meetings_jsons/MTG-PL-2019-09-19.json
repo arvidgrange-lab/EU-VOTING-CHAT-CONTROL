@@ -1,0 +1,288 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825325",
+            "type": "Activity",
+            "activity_date": "2019-09-19",
+            "activity_id": "MTG-PL-2019-09-19-VOT-ITM-825325",
+            "activity_label": {
+                "fr": "Birmanie, notamment la situation des Rohingyas"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0050",
+                "eli/dl/doc/B-9-2019-0086",
+                "eli/dl/doc/B-9-2019-0092",
+                "eli/dl/doc/B-9-2019-0087",
+                "eli/dl/doc/B-9-2019-0091",
+                "eli/dl/doc/B-9-2019-0081"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-19-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-19-VOT-ITM-002"
+            ],
+            "notation_dlvId": "825325",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Birmanie, notamment la situation des Rohingyas</title><label>Propositions de r\u00e9solution: B9-0050/2019, B9-0081/2019, B9-0086/2019, B9-0087/2019, B9-0091/2019, B9-0092/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825325",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825328",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825327",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825323",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825667",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825329"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2822",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825325"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825328",
+            "type": "Activity",
+            "activity_date": "2019-09-19",
+            "activity_id": "MTG-PL-2019-09-19-VOT-ITM-825328",
+            "activity_label": {
+                "fr": "Brevetabilit\u00e9 des plantes et des proc\u00e9d\u00e9s biologiques essentiels"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0043",
+                "eli/dl/doc/B-9-2019-0044",
+                "eli/dl/doc/B-9-2019-0047",
+                "eli/dl/doc/B-9-2019-0040",
+                "eli/dl/doc/B-9-2019-0041",
+                "eli/dl/doc/B-9-2019-0042"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-19-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-19-VOT-ITM-004"
+            ],
+            "notation_dlvId": "825328",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Brevetabilit\u00e9 des plantes et des proc\u00e9d\u00e9s biologiques essentiels</title><label>Propositions de r\u00e9solution: B9-0040/2019, B9-0041/2019, B9-0042/2019, B9-0043/2019, B9-0044/2019, B9-0047/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825325",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825328",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825327",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825323",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825667",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825329"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2800",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825328"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825327",
+            "type": "Activity",
+            "activity_date": "2019-09-19",
+            "activity_id": "MTG-PL-2019-09-19-VOT-ITM-825327",
+            "activity_label": {
+                "fr": "Iran, notamment la situation des d\u00e9fenseurs des droits des femmes et des personnes ayant \u00e0 la fois une nationalit\u00e9 de l\u2019Union et la nationalit\u00e9 iranienne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0090",
+                "eli/dl/doc/B-9-2019-0089",
+                "eli/dl/doc/B-9-2019-0093",
+                "eli/dl/doc/B-9-2019-0094",
+                "eli/dl/doc/B-9-2019-0095",
+                "eli/dl/doc/B-9-2019-0096"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-19-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-19-VOT-ITM-003"
+            ],
+            "notation_dlvId": "825327",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Iran, notamment la situation des d\u00e9fenseurs des droits des femmes et des personnes ayant \u00e0 la fois une nationalit\u00e9 de l\u2019Union et la nationalit\u00e9 iranienne</title><label>Propositions de r\u00e9solution: B9-0089/2019, B9-0090/2019, B9-0093/2019, B9-0094/2019, B9-0095/2019, B9-0096/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825325",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825328",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825327",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825323",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825667",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825329"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2823",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825327"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825323",
+            "type": "Activity",
+            "activity_date": "2019-09-19",
+            "activity_id": "MTG-PL-2019-09-19-VOT-ITM-825323",
+            "activity_label": {
+                "fr": "Situation en Turquie, notamment la destitution de maires \u00e9lus"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0049",
+                "eli/dl/doc/B-9-2019-0082",
+                "eli/dl/doc/B-9-2019-0084",
+                "eli/dl/doc/B-9-2019-0048",
+                "eli/dl/doc/B-9-2019-0083",
+                "eli/dl/doc/B-9-2019-0088",
+                "eli/dl/doc/B-9-2019-0085"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-19-OJ-ITM-V-43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-19-VOT-ITM-001"
+            ],
+            "notation_dlvId": "825323",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Turquie, notamment la destitution de maires \u00e9lus</title><label>Propositions de r\u00e9solution: B9-0048/2019, B9-0049/2019, B9-0082/2019, B9-0083/2019, B9-0084/2019, B9-0085/2019, B9-0088/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825325",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825328",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825327",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825323",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825667",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825329"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2821",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825323"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825667",
+            "type": "Activity",
+            "activity_date": "2019-09-19",
+            "activity_id": "MTG-PL-2019-09-19-VOT-ITM-825667",
+            "activity_label": {
+                "fr": "Importance de la m\u00e9moire europ\u00e9enne pour l'avenir de l'Europe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0100",
+                "eli/dl/doc/B-9-2019-0098",
+                "eli/dl/doc/B-9-2019-0097",
+                "eli/dl/doc/B-9-2019-0099"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-19-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-19-VOT-ITM-005"
+            ],
+            "notation_dlvId": "825667",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Importance de la m\u00e9moire europ\u00e9enne pour l'avenir de l'Europe</title><label>Propositions de r\u00e9solution: B9-0097/2019, B9-0098/2019, B9-0099/2019, B9-0100/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825325",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825328",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825327",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825323",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825667",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825329"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2819",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825667"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825329",
+            "type": "Activity",
+            "activity_date": "2019-09-19",
+            "activity_id": "MTG-PL-2019-09-19-VOT-ITM-825329",
+            "activity_label": {
+                "fr": "\u00c9tat de la mise en oeuvre de la l\u00e9gislation en mati\u00e8re de lutte contre le blanchiment de capitaux"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0045",
+                "eli/dl/doc/B-9-2019-0046"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-19-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-19-VOT-ITM-006"
+            ],
+            "notation_dlvId": "825329",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tat de la mise en oeuvre de la l\u00e9gislation en mati\u00e8re de lutte contre le blanchiment de capitaux</title><label>Propositions de r\u00e9solution: B9-0045/2019, B9-0046/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825325",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825328",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825327",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825323",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825667",
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825329"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2820",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-19-VOT-ITM-825329"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-04-15-VOT-ITM-352267-11",
+            "type": "Activity",
+            "activity_date": "2014-04-15",
+            "activity_id": "MTG-PL-2014-04-15-VOT-ITM-352267-11",
+            "activity_label": {
+                "fr": "Syst\u00e8mes de garantie des d\u00e9p\u00f4ts"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0216"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-04-15-OJ-ITM-V-203"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-04-15-VOT-ITM-011"
+            ],
+            "notation_dlvId": "352267",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8mes de garantie des d\u00e9p\u00f4ts</title><label>Recommandation pour la deuxi\u00e8me lecture: Peter Simon (A7-0216/2014)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

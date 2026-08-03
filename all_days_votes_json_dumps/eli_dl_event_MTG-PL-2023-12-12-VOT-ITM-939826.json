@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939826",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939826",
+            "activity_label": {
+                "fr": "Red\u00e9finition du futur cadre des fonds structurels de l\u2019Union visant \u00e0 soutenir les r\u00e9gions particuli\u00e8rement touch\u00e9es par les d\u00e9fis li\u00e9s aux transitions \u00e9cologique, num\u00e9rique et du secteur automobile",
+                "mul": "Red\u00e9finition du futur cadre des fonds structurels de l\u2019Union visant \u00e0 soutenir les r\u00e9gions particuli\u00e8rement touch\u00e9es par les d\u00e9fis li\u00e9s aux transitions \u00e9cologique, num\u00e9rique et du secteur automobile - Reshaping the future framework of EU structural funds to support regions particularly affected by challenges related to the automotive, green and digital transitions - Umgestaltung des k\u00fcnftigen Rahmens der EU-Strukturfonds zur Unterst\u00fctzung der besonders von den Herausforderungen im Zusammenhang mit dem \u00dcbergang in der Automobilindustrie sowie dem \u00f6kologischen und dem digitalen Wandel betroffenen Regionen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0326"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-46",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-019"
+            ],
+            "notation_dlvId": "939826",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Red\u00e9finition du futur cadre des fonds structurels de l\u2019Union visant \u00e0 soutenir les r\u00e9gions particuli\u00e8rement touch\u00e9es par les d\u00e9fis li\u00e9s aux transitions \u00e9cologique, num\u00e9rique et du secteur automobile</title><label>Rapport: Susana Sol\u00eds P\u00e9rez (A9-0326/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

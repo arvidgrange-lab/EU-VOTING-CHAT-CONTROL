@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-04-02-DEC-174790",
+            "type": "Vote",
+            "activity_date": "2025-04-02",
+            "activity_id": "MTG-PL-2025-04-02-DEC-174790",
+            "activity_label": {
+                "ga": "Aithris C",
+                "nl": "Overweging\u00a0C",
+                "bg": "\u0441\u044a\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435\u00a0\u0412",
+                "sv": "Sk\u00e4l C",
+                "es": "Considerando C",
+                "pt": "Considerando C",
+                "it": "Considerando C",
+                "sk": "Od\u00f4v. C",
+                "pl": "Motyw C",
+                "hu": "C. preb.",
+                "sl": "uvodna izjava C",
+                "de": "Erw\u00e4gung\u00a0C",
+                "lv": "C\u00a0apsv\u0113rums",
+                "el": "\u0391\u03b9\u03c4\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03c3\u03ba\u03ad\u03c8\u03b7 \u0393",
+                "cs": "od\u016fv. C",
+                "et": "P\u00f5hjendus C",
+                "da": "Betragtning C",
+                "fi": "C kappale",
+                "fr": "Consid\u00e9rant C",
+                "en": "Recital C",
+                "mt": "Premessa C",
+                "ro": "Considerentul C",
+                "lt": "C konstatuojamoji dalis",
+                "hr": "Uvodna izjava C"
+            },
+            "activity_order": "186.0",
+            "decided_on_a_realization_of": [
+                "eli/dl/doc/MTG-PL-2025-04-02-VOT-ITM-965403-SPLIT-2-1"
+            ],
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "responsible_organization_label": {
+                "sl": "originalno besedilo",
+                "bg": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u0435\u043d \u0442\u0435\u043a\u0441\u0442",
+                "hu": "eredeti sz\u00f6veg",
+                "sk": "p\u00f4vodn\u00fd text",
+                "pl": "pierwotny tekst",
+                "sv": "originaltexten"
+            },
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2025-04-02-VOT-ITM-965403-SPLIT-2"
+            ],
+            "comment": {
+                "fr": "1",
+                "es": "1",
+                "en": "1",
+                "lv": "1",
+                "pl": "1",
+                "ro": "1",
+                "sk": "1",
+                "ga": "1",
+                "pt": "1",
+                "lt": "1",
+                "hr": "1",
+                "hu": "1",
+                "bg": "1",
+                "fi": "1",
+                "da": "1",
+                "de": "1",
+                "nl": "1",
+                "sl": "1",
+                "el": "1",
+                "cs": "1",
+                "it": "1",
+                "sv": "1",
+                "et": "1",
+                "mt": "1"
+            },
+            "notation_votingId": "174790",
+            "decisionAboutId_XMLLiteral": "<am><symbol href=\"https://xx.xx.xx/\u00a7\"/></am>",
+            "decisionAboutId": "\u00a7",
+            "referenceText": {
+                "fi": "C kappale",
+                "de": "Erw\u00e4gung\u00a0C",
+                "lt": "C konstatuojamoji dalis",
+                "et": "P\u00f5hjendus C",
+                "it": "Considerando C",
+                "pt": "Considerando C",
+                "es": "Considerando C",
+                "sv": "Sk\u00e4l C",
+                "sk": "Od\u00f4v. C",
+                "pl": "Motyw C",
+                "hu": "C. preb.",
+                "da": "Betragtning C",
+                "ro": "Considerentul C",
+                "el": "\u0391\u03b9\u03c4\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03c3\u03ba\u03ad\u03c8\u03b7 \u0393",
+                "hr": "Uvodna izjava C",
+                "lv": "C\u00a0apsv\u0113rums",
+                "sl": "uvodna izjava C",
+                "fr": "Consid\u00e9rant C",
+                "mt": "Premessa C",
+                "bg": "\u0441\u044a\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435\u00a0\u0412",
+                "cs": "od\u016fv. C",
+                "en": "Recital C",
+                "nl": "Overweging\u00a0C",
+                "ga": "Aithris C"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

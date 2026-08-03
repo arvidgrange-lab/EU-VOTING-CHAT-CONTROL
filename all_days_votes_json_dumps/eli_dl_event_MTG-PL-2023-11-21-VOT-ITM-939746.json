@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939746",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939746",
+            "activity_label": {
+                "mul": "Conf\u00e9rence des Nations unies sur le changement climatique 2023, Duba\u00ef, \u00c9mirats arabes unis (COP28) - UN Climate Change Conference 2023 in Dubai, United Arab Emirates (COP28) - Klimakonferenz 2023 der Vereinten Nationen in Dubai, Vereinigte Arabische Emirate (COP 28)",
+                "fr": "Conf\u00e9rence des Nations unies sur le changement climatique 2023, Duba\u00ef, \u00c9mirats arabes unis (COP28)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0458"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-16",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939746",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 7,
+            "epvoc:amendmentsAdoptedTotal": 7,
+            "epvoc:amendmentsTabledPoliticalGroup": 19,
+            "epvoc:amendmentsTabledTotal": 19,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conf\u00e9rence des Nations unies sur le changement climatique 2023, Duba\u00ef, \u00c9mirats arabes unis (COP28)</title><label>Proposition de r\u00e9solution: B9-0458/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

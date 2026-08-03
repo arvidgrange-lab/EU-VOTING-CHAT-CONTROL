@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704390-3",
+            "activity_label": {
+                "fr": "D\u00e9fense contre les importations qui font l'objet d'un dumping et de subventions de la part de pays non membres de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0182"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-003"
+            ],
+            "notation_dlvId": "704390",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9fense contre les importations qui font l'objet d'un dumping et de subventions de la part de pays non membres de l'Union europ\u00e9enne</title><label>Recommandation pour la deuxi\u00e8me lecture: Christofer Fjellner (A8-0182/2018)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

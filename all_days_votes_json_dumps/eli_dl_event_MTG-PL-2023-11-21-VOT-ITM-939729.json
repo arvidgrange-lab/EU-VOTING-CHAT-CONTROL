@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939729",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939729",
+            "activity_label": {
+                "mul": "R\u00e8gles communes visant \u00e0 promouvoir la r\u00e9paration des biens - Common rules promoting the repair of goods  - Gemeinsame Vorschriften zur F\u00f6rderung der Reparatur von Waren",
+                "fr": "R\u00e8gles communes visant \u00e0 promouvoir la r\u00e9paration des biens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0316"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-52",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939729",
+            "epvoc:amendmentsAdoptedCommittee": 82,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 82,
+            "epvoc:amendmentsTabledCommittee": 82,
+            "epvoc:amendmentsTabledPoliticalGroup": 3,
+            "epvoc:amendmentsTabledTotal": 85,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8gles communes visant \u00e0 promouvoir la r\u00e9paration des biens</title><label>Rapport: Ren\u00e9 Repasi (A9-0316/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

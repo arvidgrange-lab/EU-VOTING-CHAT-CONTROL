@@ -1,0 +1,533 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-935988",
+            "activity_label": {
+                "fr": "Num\u00e9risation de la communication d\u2019informations, du suivi et de l\u2019audit au niveau europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0311"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-79",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-008"
+            ],
+            "notation_dlvId": "935988",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Num\u00e9risation de la communication d\u2019informations, du suivi et de l\u2019audit au niveau europ\u00e9en</title><label>Rapport: Maria Grapini (A9-0311/2021) (Majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-935989",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0317"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-71",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-007"
+            ],
+            "notation_dlvId": "935989",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2013",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-935999",
+            "activity_label": {
+                "fr": "Politique agricole commune - aide aux plans strat\u00e9giques devant \u00eatre \u00e9tablis par les \u00c9tats membres et financ\u00e9s par le FEAGA et par le Feader"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2019-0200"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-84",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-001"
+            ],
+            "notation_dlvId": "935999",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politique agricole commune - aide aux plans strat\u00e9giques devant \u00eatre \u00e9tablis par les \u00c9tats membres et financ\u00e9s par le FEAGA et par le Feader</title><label>Rapport: Peter Jahr (A8-0200/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0216",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-935963",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0280"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-73",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-005"
+            ],
+            "notation_dlvId": "935963",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2011",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-935984",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0295"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-78",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-006"
+            ],
+            "notation_dlvId": "935984",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2162",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-935970",
+            "activity_label": {
+                "fr": "Politique agricole commune - modification du r\u00e8glement OCM et d'autres r\u00e8glements"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2019-0198"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-86",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-003"
+            ],
+            "notation_dlvId": "935970",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politique agricole commune - modification du r\u00e8glement OCM et d'autres r\u00e8glements</title><label>Rapport: Eric Andrieu (A8-0198/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0218",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-935994",
+            "activity_label": {
+                "fr": "Proc\u00e9dures d'insolvabilit\u00e9: remplacement des annexes A et B du r\u00e8glement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0293"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-87",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-010"
+            ],
+            "notation_dlvId": "935994",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Proc\u00e9dures d'insolvabilit\u00e9: remplacement des annexes A et B du r\u00e8glement</title><label>Rapport: Adri\u00e1n V\u00e1zquez L\u00e1zara (A9-0293/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0118",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-935996",
+            "activity_label": {
+                "fr": "Produits d\u2019investissement packag\u00e9s de d\u00e9tail et fond\u00e9s sur l\u2019assurance (PRIIP): documents d'informations cl\u00e9s. Prorogation du r\u00e9gime transitoire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0297"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-111",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-011"
+            ],
+            "notation_dlvId": "935996",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Produits d\u2019investissement packag\u00e9s de d\u00e9tail et fond\u00e9s sur l\u2019assurance (PRIIP): documents d'informations cl\u00e9s. Prorogation du r\u00e9gime transitoire</title><label>Rapport: Jon\u00e1s Fern\u00e1ndez (A9-0297/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0215",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-935997",
+            "activity_label": {
+                "fr": "Organismes de placement collectif en valeurs mobili\u00e8res (OPCVM): utilisation de documents d'informations cl\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0301"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-110",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-012"
+            ],
+            "notation_dlvId": "935997",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Organismes de placement collectif en valeurs mobili\u00e8res (OPCVM): utilisation de documents d'informations cl\u00e9s</title><label>Rapport: Jon\u00e1s Fern\u00e1ndez (A9-0301/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0219",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-935998",
+            "activity_label": {
+                "fr": "Politique agricole commune: financement, gestion et suivi"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2019-0199"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-85",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-002"
+            ],
+            "notation_dlvId": "935998",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politique agricole commune: financement, gestion et suivi</title><label>Rapport: Ulrike M\u00fcller (A8-0199/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0217",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-935990",
+            "activity_label": {
+                "fr": "Statistiques int\u00e9gr\u00e9es sur les exploitations agricoles: contribution de l\u2019Union au titre du cadre financier 2021-2027"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0310"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-107",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-009"
+            ],
+            "notation_dlvId": "935990",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Statistiques int\u00e9gr\u00e9es sur les exploitations agricoles: contribution de l\u2019Union au titre du cadre financier 2021-2027</title><label>Rapport: Riho Terras (A9-0310/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003",
+            "type": "Activity",
+            "activity_date": "2021-11-23",
+            "activity_id": "MTG-PL-2021-11-23-VOT-ITM-936003",
+            "activity_label": {
+                "fr": "La politique des sports de l\u2019Union europ\u00e9enne: bilan et pistes pour l\u2019avenir"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0318"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-11-23-OJ-ITM-V-82",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-11-23-VOT-ITM-014"
+            ],
+            "notation_dlvId": "936003",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La politique des sports de l\u2019Union europ\u00e9enne: bilan et pistes pour l\u2019avenir</title><label>Rapport: Tomasz Frankowski (A9-0318/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935988",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935989",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935999",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935963",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935984",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935970",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935994",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935996",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935997",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935998",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-935990",
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2058",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-11-23-VOT-ITM-936003"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

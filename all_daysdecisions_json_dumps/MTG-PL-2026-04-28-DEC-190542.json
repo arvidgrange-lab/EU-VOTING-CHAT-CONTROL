@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-04-28-DEC-190542",
+            "type": "Vote",
+            "activity_date": "2026-04-28",
+            "activity_id": "MTG-PL-2026-04-28-DEC-190542",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "190542",
+            "referenceText": {
+                "hu": "Hat\u00e1rozatra ir\u00e1nyul\u00f3 javaslat",
+                "sl": "predlog sklepa",
+                "sv": "F\u00f6rslag till beslut",
+                "sk": "N\u00e1vrh rozhodnutia",
+                "nl": "Ontwerpbesluit",
+                "fr": "Proposition de d\u00e9cision",
+                "lv": "L\u0113muma priek\u0161likums",
+                "cs": "n\u00e1vrh rozhodnut\u00ed",
+                "ga": "Togra le haghaidh cinneadh",
+                "es": "Propuesta de Decisi\u00f3n",
+                "hr": "Prijedlog odluke",
+                "da": "Forslag til afg\u00f8relse",
+                "pl": "Projekt decyzji",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+                "de": "Vorschlag f\u00fcr einen Beschluss",
+                "pt": "Proposta de decis\u00e3o",
+                "en": "Proposal for a decision",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7\u03c2",
+                "lt": "Pasi\u016blymas d\u0117l sprendimo",
+                "et": "Ettepanek vastu v\u00f5tta otsus",
+                "it": "Proposta di decisione",
+                "ro": "Propunere de decizie",
+                "fi": "p\u00e4\u00e4t\u00f6sehdotus",
+                "mt": "Proposta g\u0127al de\u010bi\u017cjoni"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

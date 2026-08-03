@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-16-VOT-ITM-938665",
+            "type": "Activity",
+            "activity_date": "2023-02-16",
+            "activity_id": "MTG-PL-2023-02-16-VOT-ITM-938665",
+            "activity_label": {
+                "fr": "Une strat\u00e9gie industrielle de l'UE pour stimuler la comp\u00e9titivit\u00e9 industrielle, les \u00e9changes commerciaux et la cr\u00e9ation d'emplois de qualit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0105",
+                "eli/dl/doc/B-9-2023-0091",
+                "eli/dl/doc/B-9-2023-0085",
+                "eli/dl/doc/B-9-2023-0110",
+                "eli/dl/doc/B-9-2023-0086",
+                "eli/dl/doc/B-9-2023-0111",
+                "eli/dl/doc/B-9-2023-0108",
+                "eli/dl/doc/B-9-2023-0089",
+                "eli/dl/doc/B-9-2023-0090",
+                "eli/dl/doc/B-9-2023-0107",
+                "eli/dl/doc/B-9-2023-0087",
+                "eli/dl/doc/B-9-2023-0104",
+                "eli/dl/doc/B-9-2023-0088",
+                "eli/dl/doc/B-9-2023-0115"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-16-OJ-ITM-V-55",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-16-VOT-ITM-005"
+            ],
+            "notation_dlvId": "938665",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Une strat\u00e9gie industrielle de l'UE pour stimuler la comp\u00e9titivit\u00e9 industrielle, les \u00e9changes commerciaux et la cr\u00e9ation d'emplois de qualit\u00e9</title><label>Propositions de r\u00e9solutions: B9-0085/2023, B9-0086/2023, B9-0087/2023, B9-0088/2023, B9-0089/2023, B9-0090/2023, B9-0091/2023, B9-0104/2023, B9-0105/2023, B9-0107/2023, B9-0108/2023, B9-0110/2023, B9-0111/2023, B9-0115/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

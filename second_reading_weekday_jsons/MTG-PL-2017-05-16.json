@@ -1,0 +1,363 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608824-7",
+            "type": "Activity",
+            "activity_date": "2017-05-16",
+            "activity_id": "MTG-PL-2017-05-16-VOT-ITM-608824-7",
+            "activity_label": {
+                "fr": "Initiative relative \u00e0 l'efficacit\u00e9 de l'utilisation des ressources: r\u00e9duire le gaspillage alimentaire, am\u00e9liorer la s\u00e9curit\u00e9 alimentaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0175"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-16-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-16-VOT-ITM-007"
+            ],
+            "notation_dlvId": "608824",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Initiative relative \u00e0 l'efficacit\u00e9 de l'utilisation des ressources: r\u00e9duire le gaspillage alimentaire, am\u00e9liorer la s\u00e9curit\u00e9 alimentaire</title><label>Rapport: Biljana Borzan (A8-0175/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608824-7",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608826-8",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608822-6",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-2",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-1",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-5",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-4",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2223",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608824-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608826-8",
+            "type": "Activity",
+            "activity_date": "2017-05-16",
+            "activity_id": "MTG-PL-2017-05-16-VOT-ITM-608826-8",
+            "activity_label": {
+                "fr": "\u00c9valuation des aspects ext\u00e9rieurs du fonctionnement et de l'organisation des douanes, en tant qu'outil pour faciliter le commerce et lutter contre la fraude"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0162"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-16-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-16-VOT-ITM-008"
+            ],
+            "notation_dlvId": "608826",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9valuation des aspects ext\u00e9rieurs du fonctionnement et de l'organisation des douanes, en tant qu'outil pour faciliter le commerce et lutter contre la fraude</title><label>Rapport: Tiziana Beghin (A8-0162/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608824-7",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608826-8",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608822-6",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-2",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-1",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-5",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-4",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2075",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608826-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608822-6",
+            "type": "Activity",
+            "activity_date": "2017-05-16",
+            "activity_id": "MTG-PL-2017-05-16-VOT-ITM-608822-6",
+            "activity_label": {
+                "fr": "Rapport annuel 2015 sur la protection des int\u00e9r\u00eats financiers de l'UE - lutte contre la fraude"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0159"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-16-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-16-VOT-ITM-006"
+            ],
+            "notation_dlvId": "608822",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel 2015 sur la protection des int\u00e9r\u00eats financiers de l'UE - lutte contre la fraude</title><label>Rapport: Julia Pitera (A8-0159/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608824-7",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608826-8",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608822-6",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-2",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-1",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-5",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-4",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2097",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608822-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-2",
+            "type": "Activity",
+            "activity_date": "2017-05-16",
+            "activity_id": "MTG-PL-2017-05-16-VOT-ITM-608819-2",
+            "activity_label": {
+                "fr": "Accord de stabilisation et d'association UE-Bosnie-Herz\u00e9govine (adh\u00e9sion de la Croatie)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0169"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-16-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-16-VOT-ITM-002"
+            ],
+            "notation_dlvId": "608819",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de stabilisation et d'association UE-Bosnie-Herz\u00e9govine (adh\u00e9sion de la Croatie)</title><label>Recommandation: Cristian Dan Preda (A8-0169/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608824-7",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608826-8",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608822-6",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-2",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-1",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-5",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-4",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0311",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-1",
+            "type": "Activity",
+            "activity_date": "2017-05-16",
+            "activity_id": "MTG-PL-2017-05-16-VOT-ITM-608819-1",
+            "activity_label": {
+                "fr": "Protocole \u00e0 l'accord-cadre de partenariat et de coop\u00e9ration UE-Mongolie (adh\u00e9sion de la Croatie)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0074"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-16-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-16-VOT-ITM-001"
+            ],
+            "notation_dlvId": "608819",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protocole \u00e0 l'accord-cadre de partenariat et de coop\u00e9ration UE-Mongolie (adh\u00e9sion de la Croatie)</title><label>Recommandation: Helmut Scholz (A8-0074/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608824-7",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608826-8",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608822-6",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-2",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-1",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-5",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-4",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0113",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-5",
+            "type": "Activity",
+            "activity_date": "2017-05-16",
+            "activity_id": "MTG-PL-2017-05-16-VOT-ITM-608819-5",
+            "activity_label": {
+                "fr": "Plan d'action europ\u00e9en 2016-2020 pour l'administration en ligne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0178"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-16-OJ-ITM-V-51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-16-VOT-ITM-005"
+            ],
+            "notation_dlvId": "608819",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Plan d'action europ\u00e9en 2016-2020 pour l'administration en ligne</title><label>Rapport: Sabine Verheyen (A8-0178/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608824-7",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608826-8",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608822-6",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-2",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-1",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-5",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-4",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2273",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-4",
+            "type": "Activity",
+            "activity_date": "2017-05-16",
+            "activity_id": "MTG-PL-2017-05-16-VOT-ITM-608819-4",
+            "activity_label": {
+                "fr": "Adh\u00e9sion de l'Union europ\u00e9enne au Comit\u00e9 consultatif international du coton (CCIC)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0187"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-16-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-16-VOT-ITM-004"
+            ],
+            "notation_dlvId": "608819",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion de l'Union europ\u00e9enne au Comit\u00e9 consultatif international du coton (CCIC)</title><label>Recommandation: Fernando Ruas (A8-0187/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608824-7",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608826-8",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608822-6",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-2",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-1",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-5",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-4",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0349",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-3",
+            "type": "Activity",
+            "activity_date": "2017-05-16",
+            "activity_id": "MTG-PL-2017-05-16-VOT-ITM-608819-3",
+            "activity_label": {
+                "fr": "Accord UE-Norv\u00e8ge \u00e9tablissant des r\u00e8gles compl\u00e9mentaires relatives \u00e0 l\u2019instrument de soutien financier dans le domaine des fronti\u00e8res ext\u00e9rieures et des visas"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0174"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-16-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-16-VOT-ITM-003"
+            ],
+            "notation_dlvId": "608819",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Norv\u00e8ge \u00e9tablissant des r\u00e8gles compl\u00e9mentaires relatives \u00e0 l\u2019instrument de soutien financier dans le domaine des fronti\u00e8res ext\u00e9rieures et des visas</title><label>Recommandation: Tom\u00e1\u0161 Zdechovsk\u00fd (A8-0174/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608824-7",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608826-8",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608822-6",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-2",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-1",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-5",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-4",
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0322",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-16-VOT-ITM-608819-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

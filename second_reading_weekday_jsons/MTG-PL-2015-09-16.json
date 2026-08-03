@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-09-16-VOT-ITM-463343-1",
+            "type": "Activity",
+            "activity_date": "2015-09-16",
+            "activity_id": "MTG-PL-2015-09-16-VOT-ITM-463343-1",
+            "activity_label": {
+                "fr": "Pr\u00e9paration du programme de travail de la Commission pour l'ann\u00e9e 2016"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0664",
+                "eli/dl/doc/B-8-2015-0662",
+                "eli/dl/doc/B-8-2015-0656",
+                "eli/dl/doc/B-8-2015-0660",
+                "eli/dl/doc/B-8-2015-0659",
+                "eli/dl/doc/B-8-2015-0661",
+                "eli/dl/doc/B-8-2015-0663"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-09-16-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-09-16-VOT-ITM-001"
+            ],
+            "notation_dlvId": "463343",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pr\u00e9paration du programme de travail de la Commission pour l'ann\u00e9e 2016</title><label>Propositions de r\u00e9solution: B8-0656/2015, B8-0659/2015, B8-0660/2015, B8-0661/2015, B8-0662/2015, B8-0663/2015, B8-0664/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-09-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-16-VOT-ITM-463343-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2729",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-16-VOT-ITM-463343-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

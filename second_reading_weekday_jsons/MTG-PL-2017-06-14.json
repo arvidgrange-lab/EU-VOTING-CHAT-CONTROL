@@ -1,0 +1,527 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+            "type": "Activity",
+            "activity_date": "2017-06-14",
+            "activity_id": "MTG-PL-2017-06-14-VOT-ITM-615895-7",
+            "activity_label": {
+                "fr": "Rapport 2016 sur la Serbie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0063"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-14-OJ-ITM-V-48"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "615895",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2016 sur la Serbie</title><label>Rapport: David McAllister (A8-0063/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2311",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+            "type": "Activity",
+            "activity_date": "2017-06-14",
+            "activity_id": "MTG-PL-2017-06-14-VOT-ITM-617673-3",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e d'immunit\u00e9 de Myl\u00e8ne Troszczynski"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0218"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-14-OJ-ITM-V-78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "617673",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e d'immunit\u00e9 de Myl\u00e8ne Troszczynski</title><label>Rapport: Tadeusz Zwiefka (A8-0218/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2019",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+            "type": "Activity",
+            "activity_date": "2017-06-14",
+            "activity_id": "MTG-PL-2017-06-14-VOT-ITM-616622-10",
+            "activity_label": {
+                "fr": "Situation en R\u00e9publique d\u00e9mocratique du Congo"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0400",
+                "eli/dl/doc/B-8-2017-0397",
+                "eli/dl/doc/B-8-2017-0401",
+                "eli/dl/doc/B-8-2017-0398",
+                "eli/dl/doc/B-8-2017-0402",
+                "eli/dl/doc/B-8-2017-0399"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-14-OJ-ITM-V-57"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "616622",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en R\u00e9publique d\u00e9mocratique du Congo</title><label>Propositions de r\u00e9solution: B8-0397/2017, B8-0398/2017, B8-0399/2017, B8-0400/2017, B8-0401/2017, B8-0402/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2703",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+            "type": "Activity",
+            "activity_date": "2017-06-14",
+            "activity_id": "MTG-PL-2017-06-14-VOT-ITM-616364-1",
+            "activity_label": {
+                "fr": "R\u00e9ductions annuelles contraignantes des \u00e9missions de gaz \u00e0 effet de serre afin de respecter les engagements pris en vertu de l\u2019accord de Paris"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0208"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-14-OJ-ITM-V-61"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "616364",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9ductions annuelles contraignantes des \u00e9missions de gaz \u00e0 effet de serre afin de respecter les engagements pris en vertu de l\u2019accord de Paris </title><label>Rapport: Gerben-Jan Gerbrandy (A8-0208/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0231",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+            "type": "Activity",
+            "activity_date": "2017-06-14",
+            "activity_id": "MTG-PL-2017-06-14-VOT-ITM-617673-2",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e d'immunit\u00e9 de Rolandas Paksas"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0219"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-14-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "617673",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e d'immunit\u00e9 de Rolandas Paksas</title><label>Rapport: Angel Dzhambazki (A8-0219/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2070",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+            "type": "Activity",
+            "activity_date": "2017-06-14",
+            "activity_id": "MTG-PL-2017-06-14-VOT-ITM-616624-5",
+            "activity_label": {
+                "fr": "Objection au r\u00e8glement d\u00e9l\u00e9gu\u00e9 de la Commission modifiant le r\u00e8glement d\u00e9l\u00e9gu\u00e9 (UE) n\u00b0\u00a0639/2014 en ce qui concerne les mesures de contr\u00f4le li\u00e9es \u00e0 la culture du chanvre et certaines dispositions relatives aux paiements"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0395"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-14-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "616624",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection au r\u00e8glement d\u00e9l\u00e9gu\u00e9 de la Commission modifiant le r\u00e8glement d\u00e9l\u00e9gu\u00e9 (UE) n\u00b0\u00a0639/2014 en ce qui concerne les mesures de contr\u00f4le li\u00e9es \u00e0 la culture du chanvre et certaines dispositions relatives aux paiements</title><label>B8-0395/2017 (majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+            "type": "Activity",
+            "activity_date": "2017-06-14",
+            "activity_id": "MTG-PL-2017-06-14-VOT-ITM-615900-9",
+            "activity_label": {
+                "fr": "Rapport 2016 sur l'ancienne R\u00e9publique yougoslave de Mac\u00e9doine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0055"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-14-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "615900",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2016 sur l'ancienne R\u00e9publique yougoslave de Mac\u00e9doine</title><label>Rapport: Ivo Vajgl (A8-0055/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2310",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+            "type": "Activity",
+            "activity_date": "2017-06-14",
+            "activity_id": "MTG-PL-2017-06-14-VOT-ITM-617673-4",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e d'immunit\u00e9 de Jean-Marie Le Pen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0217"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-14-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "617673",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e d'immunit\u00e9 de Jean-Marie Le Pen</title><label>Rapport: Evelyn Regner (A8-0217/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2020",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+            "type": "Activity",
+            "activity_date": "2017-06-14",
+            "activity_id": "MTG-PL-2017-06-14-VOT-ITM-616626-11",
+            "activity_label": {
+                "fr": "\u00c9tat d'avancement de la mise en oeuvre du pacte sur la durabilit\u00e9 au Bangladesh"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0396"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-14-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "616626",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tat d'avancement de la mise en oeuvre du pacte sur la durabilit\u00e9 au Bangladesh</title><label>Proposition de r\u00e9solution: B8-0396/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2636",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+            "type": "Activity",
+            "activity_date": "2017-06-14",
+            "activity_id": "MTG-PL-2017-06-14-VOT-ITM-616416-6",
+            "activity_label": {
+                "fr": "N\u00e9cessit\u00e9 d\u2019une strat\u00e9gie de l'UE pour \u00e9radiquer et pr\u00e9venir l\u2019\u00e9cart entre les pensions des hommes et des femmes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0197"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-14-OJ-ITM-V-11"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "616416",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>N\u00e9cessit\u00e9 d\u2019une strat\u00e9gie de l'UE pour \u00e9radiquer et pr\u00e9venir l\u2019\u00e9cart entre les pensions des hommes et des femmes</title><label>Rapport: Constance Le Grip (A8-0197/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2061",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8",
+            "type": "Activity",
+            "activity_date": "2017-06-14",
+            "activity_id": "MTG-PL-2017-06-14-VOT-ITM-615896-8",
+            "activity_label": {
+                "fr": "Rapport 2016 sur le Kosovo"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0062"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-06-14-OJ-ITM-V-49"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-06-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "615896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2016 sur le Kosovo</title><label>Rapport: Ulrike Lunacek (A8-0062/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615895-7",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-3",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616622-10",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616364-1",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-2",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616624-5",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615900-9",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-617673-4",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616626-11",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-616416-6",
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2314",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-06-14-VOT-ITM-615896-8"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

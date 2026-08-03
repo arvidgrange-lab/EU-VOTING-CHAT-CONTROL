@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-04-25-VOT-ITM-946511",
+            "type": "Activity",
+            "activity_date": "2024-04-25",
+            "activity_id": "MTG-PL-2024-04-25-VOT-ITM-946511",
+            "activity_label": {
+                "en": "Russia\u2019s undemocratic presidential elections and their illegitimate extension to the occupied territories",
+                "lv": "Krievijas nedemokr\u0101tisk\u0101s prezidenta v\u0113l\u0113\u0161anas un to nelikum\u012bg\u0101 attiecin\u0101\u0161ana uz okup\u0113taj\u0101m teritorij\u0101m",
+                "da": "Ruslands udemokratiske pr\u00e6sidentvalg og dets ulovlige udvidelse til de besatte omr\u00e5der",
+                "mt": "L-elezzjonijiet presidenzjali mhux demokrati\u010bi tar-Russja u l-estensjoni ille\u0121ittima tag\u0127hom g\u0127at-territorji okkupati",
+                "mul": "Les \u00e9lections pr\u00e9sidentielles non d\u00e9mocratiques en Russie et leur extension ill\u00e9gitime aux territoires occup\u00e9s - Russia's undemocratic presidential elections and their illegitimate extension to the occupied territories - Die undemokratische Pr\u00e4sidentschaftswahl in Russland und ihre unrechtm\u00e4\u00dfige Ausweitung auf die besetzten Gebiete",
+                "fi": "Ven\u00e4j\u00e4n ep\u00e4demokraattiset presidentinvaalit ja niiden laiton ulottaminen miehitetyille alueille",
+                "hr": "Nedemokratski predsjedni\u010dki izbori u Rusiji i njihovo nezakonito pro\u0161irenje na okupirana podru\u010dja",
+                "hu": "Oroszorsz\u00e1g antidemokratikus eln\u00f6kv\u00e1laszt\u00e1sa \u00e9s annak t\u00f6rv\u00e9nytelen kiterjeszt\u00e9se a megsz\u00e1llt ter\u00fcletekre",
+                "el": "\u039f\u03b9 \u03bc\u03b7 \u03b4\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03c1\u03bf\u03b5\u03b4\u03c1\u03b9\u03ba\u03ad\u03c2 \u03b5\u03ba\u03bb\u03bf\u03b3\u03ad\u03c2 \u03c4\u03b7\u03c2 \u03a1\u03c9\u03c3\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b7 \u03c0\u03b1\u03c1\u03ac\u03bd\u03bf\u03bc\u03b7 \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03ae \u03c4\u03bf\u03c5\u03c2 \u03c3\u03c4\u03b1 \u03ba\u03b1\u03c4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03b1 \u03b5\u03b4\u03ac\u03c6\u03b7",
+                "lt": "Nedemokrati\u0161ki prezidento rinkimai Rusijoje ir neteis\u0117tas j\u0173 i\u0161pl\u0117timas \u012f okupuotas teritorijas",
+                "pt": "As elei\u00e7\u00f5es presidenciais n\u00e3o democr\u00e1ticas da R\u00fassia e o seu alargamento ileg\u00edtimo aos territ\u00f3rios ocupados",
+                "sk": "Nedemokratick\u00e9 prezidentsk\u00e9 vo\u013eby v Rusku a ich nez\u00e1konn\u00e9 roz\u0161\u00edrenie na okupovan\u00e9 \u00fazemia",
+                "it": "Le elezioni presidenziali antidemocratiche della Russia e la loro illegittima estensione ai territori occupati",
+                "es": "Elecciones presidenciales antidemocr\u00e1ticas en Rusia y su ileg\u00edtima extensi\u00f3n a los territorios ocupados",
+                "cs": "Nedemokratick\u00e9 prezidentsk\u00e9 volby v Rusku a jejich nez\u00e1konn\u00e9 roz\u0161\u00ed\u0159en\u00ed na okupovan\u00e1 \u00fazem\u00ed",
+                "pl": "Niedemokratyczne wybory prezydenckie w Rosji i niezgodne z prawem obj\u0119cie nimi terytori\u00f3w okupowanych",
+                "de": "Die undemokratische Pr\u00e4sidentschaftswahl in Russland und ihre unrechtm\u00e4\u00dfige Ausweitung auf die besetzten Gebiete",
+                "ga": "Toghch\u00e1in uachtar\u00e1nachta neamhdhaonlathacha na R\u00faise agus a leathn\u00fa neamhdhlisteanach chuig na cr\u00edocha faoi fhorghabh\u00e1il",
+                "fr": "Les \u00e9lections pr\u00e9sidentielles non d\u00e9mocratiques en Russie et leur extension ill\u00e9gitime aux territoires occup\u00e9s",
+                "ro": "Alegerile preziden\u021biale nedemocratice din Rusia \u0219i extinderea lor ilegitim\u0103 la teritoriile ocupate",
+                "bg": "\u041d\u0435\u0434\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0438\u0442\u0435 \u0438\u0437\u0431\u043e\u0440\u0438 \u0437\u0430 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0432 \u0420\u0443\u0441\u0438\u044f \u0438 \u043d\u0435\u043f\u0440\u0430\u0432\u043e\u043c\u0435\u0440\u043d\u043e\u0442\u043e \u0438\u043c \u043f\u0440\u043e\u0432\u0435\u0436\u0434\u0430\u043d\u0435 \u0432 \u043e\u043a\u0443\u043f\u0438\u0440\u0430\u043d\u0438\u0442\u0435 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0438\u0438",
+                "nl": "De ondemocratische presidentsverkiezingen in Rusland en de onrechtmatige uitbreiding daarvan naar de bezette gebieden",
+                "et": "Venemaa ebademokraatlikud presidendivalimised ja nende ebaseaduslik laiendamine okupeeritud territooriumidele",
+                "sv": "Rysslands odemokratiska presidentval och dess olagliga utvidgning till de ockuperade territorierna",
+                "sl": "Nedemokrati\u010dne predsedni\u0161ke volitve v Rusiji in njihova nelegitimna raz\u0161iritev na zasedena ozemlja"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2024-0255",
+                "eli/dl/doc/B-9-2024-0260",
+                "eli/dl/doc/B-9-2024-0256",
+                "eli/dl/doc/B-9-2024-0253",
+                "eli/dl/doc/B-9-2024-0259"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169010",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169000",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169003",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169005",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169153",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-168999",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169008",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169012",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169152",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169151",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169009",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169011",
+                "eli/dl/event/MTG-PL-2024-04-25-DEC-169004"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-04-25-OJ-ITM-V-159"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-04-25-VOT-ITM-012"
+            ],
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2024-04-25-VOT-ITM-946511-RCV-2",
+                "eli/dl/event/MTG-PL-2024-04-25-VOT-ITM-946511-RCV-1"
+            ],
+            "notation_dlvId": "946511",
+            "structuredLabel": {
+                "lt": "<structuredLabel><title>Nedemokrati\u0161ki prezidento rinkimai Rusijoje ir neteis\u0117tas j\u0173 i\u0161pl\u0117timas \u012f okupuotas teritorijas</title><label>Pasi\u016blymai d\u0117l rezoliucij\u0173: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "et": "<structuredLabel><title>Venemaa ebademokraatlikud presidendivalimised ja nende ebaseaduslik laiendamine okupeeritud territooriumidele</title><label>Resolutsiooni ettepanekud: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Oroszorsz\u00e1g antidemokratikus eln\u00f6kv\u00e1laszt\u00e1sa \u00e9s annak t\u00f6rv\u00e9nytelen kiterjeszt\u00e9se a megsz\u00e1llt ter\u00fcletekre</title><label>\u00c1ll\u00e1sfoglal\u00e1sra ir\u00e1nyul\u00f3 ind\u00edtv\u00e1nyok: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Nedemokratick\u00e9 prezidentsk\u00e9 volby v Rusku a jejich nez\u00e1konn\u00e9 roz\u0161\u00ed\u0159en\u00ed na okupovan\u00e1 \u00fazem\u00ed</title><label>N\u00e1vrhy usnesen\u00ed: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "de": "<structuredLabel><title>Die undemokratische Pr\u00e4sidentschaftswahl in Russland und ihre unrechtm\u00e4\u00dfige Ausweitung auf die besetzten Gebiete</title><label>Entschlie\u00dfungsantr\u00e4ge: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Alegerile preziden\u021biale nedemocratice din Rusia \u0219i extinderea lor ilegitim\u0103 la teritoriile ocupate</title><label>Propuneri de rezolu\u021bie: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "it": "<structuredLabel><title>Le elezioni presidenziali antidemocratiche della Russia e la loro illegittima estensione ai territori occupati</title><label>Proposte di risoluzione: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "en": "<structuredLabel><title>Russia\u2019s undemocratic presidential elections and their illegitimate extension to the occupied territories</title><label>Motions for resolutions: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u039f\u03b9 \u03bc\u03b7 \u03b4\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03c1\u03bf\u03b5\u03b4\u03c1\u03b9\u03ba\u03ad\u03c2 \u03b5\u03ba\u03bb\u03bf\u03b3\u03ad\u03c2 \u03c4\u03b7\u03c2 \u03a1\u03c9\u03c3\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b7 \u03c0\u03b1\u03c1\u03ac\u03bd\u03bf\u03bc\u03b7 \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03ae \u03c4\u03bf\u03c5\u03c2 \u03c3\u03c4\u03b1 \u03ba\u03b1\u03c4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03b1 \u03b5\u03b4\u03ac\u03c6\u03b7</title><label>\u03a0\u03c1\u03bf\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03c8\u03b7\u03c6\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "mt": "<structuredLabel><title>L-elezzjonijiet presidenzjali mhux demokrati\u010bi tar-Russja u l-estensjoni ille\u0121ittima tag\u0127hom g\u0127at-territorji okkupati</title><label>Mozzjonijiet g\u0127al ri\u017coluzzjoni: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Nedemokratick\u00e9 prezidentsk\u00e9 vo\u013eby v Rusku a ich nez\u00e1konn\u00e9 roz\u0161\u00edrenie na okupovan\u00e9 \u00fazemia</title><label>N\u00e1vrhy uznesenia: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Nedemokrati\u010dne predsedni\u0161ke volitve v Rusiji in njihova nelegitimna raz\u0161iritev na zasedena ozemlja</title><label>Predlogi resolucij: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "es": "<structuredLabel><title>Elecciones presidenciales antidemocr\u00e1ticas en Rusia y su ileg\u00edtima extensi\u00f3n a los territorios ocupados</title><label>Propuestas de Resoluci\u00f3n: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "da": "<structuredLabel><title>Ruslands udemokratiske pr\u00e6sidentvalg og dets ulovlige udvidelse til de besatte omr\u00e5der</title><label>Forslag til beslutning: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Toghch\u00e1in uachtar\u00e1nachta neamhdhaonlathacha na R\u00faise agus a leathn\u00fa neamhdhlisteanach chuig na cr\u00edocha faoi fhorghabh\u00e1il</title><label>Tairiscint\u00ed i gcomhair r\u00fain: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Les \u00e9lections pr\u00e9sidentielles non d\u00e9mocratiques en Russie et leur extension ill\u00e9gitime aux territoires occup\u00e9s</title><label>Propositions de r\u00e9solution: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "nl": "<structuredLabel><title>De ondemocratische presidentsverkiezingen in Rusland en de onrechtmatige uitbreiding daarvan naar de bezette gebieden</title><label>Ontwerpresoluties: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Niedemokratyczne wybory prezydenckie w Rosji i niezgodne z prawem obj\u0119cie nimi terytori\u00f3w okupowanych</title><label>Projekty rezolucji: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Nedemokratski predsjedni\u010dki izbori u Rusiji i njihovo nezakonito pro\u0161irenje na okupirana podru\u010dja</title><label>Prijedlozi rezolucije: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u041d\u0435\u0434\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0438\u0442\u0435 \u0438\u0437\u0431\u043e\u0440\u0438 \u0437\u0430 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0432 \u0420\u0443\u0441\u0438\u044f \u0438 \u043d\u0435\u043f\u0440\u0430\u0432\u043e\u043c\u0435\u0440\u043d\u043e\u0442\u043e \u0438\u043c \u043f\u0440\u043e\u0432\u0435\u0436\u0434\u0430\u043d\u0435 \u0432 \u043e\u043a\u0443\u043f\u0438\u0440\u0430\u043d\u0438\u0442\u0435 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0438\u0438</title><label>\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0437\u0430 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u044f: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "pt": "<structuredLabel><title>As elei\u00e7\u00f5es presidenciais n\u00e3o democr\u00e1ticas da R\u00fassia e o seu alargamento ileg\u00edtimo aos territ\u00f3rios ocupados</title><label>Propostas de resolu\u00e7\u00e3o: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Rysslands odemokratiska presidentval och dess olagliga utvidgning till de ockuperade territorierna</title><label>Resolutionsf\u00f6rslag: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Ven\u00e4j\u00e4n ep\u00e4demokraattiset presidentinvaalit ja niiden laiton ulottaminen miehitetyille alueille</title><label>P\u00e4\u00e4t\u00f6slauselmaesitykset: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Krievijas nedemokr\u0101tisk\u0101s prezidenta v\u0113l\u0113\u0161anas un to nelikum\u012bg\u0101 attiecin\u0101\u0161ana uz okup\u0113taj\u0101m teritorij\u0101m</title><label>Rezol\u016bciju priek\u0161likumi: RC-B9-0253/2024, B9-0253/2024, B9-0255/2024, B9-0256/2024, B9-0259/2024, B9-0260/2024</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

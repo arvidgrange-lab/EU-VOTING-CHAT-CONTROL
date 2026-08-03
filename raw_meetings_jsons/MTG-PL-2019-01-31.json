@@ -1,0 +1,918 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766607-11",
+            "activity_label": {
+                "fr": "Harmonisation du revenu national brut aux prix du march\u00e9 (r\u00e8glement RNB)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0009"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-011"
+            ],
+            "notation_dlvId": "766607",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Harmonisation du revenu national brut aux prix du march\u00e9 (r\u00e8glement RNB)</title><label>Rapport: Roberto Gualtieri (A8-0009/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0134",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766881-12",
+            "activity_label": {
+                "fr": "Objection au titre de l'article 106: colza g\u00e9n\u00e9tiquement modifi\u00e9 Ms8, Rf3 et Ms8 \u00d7 Rf3"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2019-0073"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-012"
+            ],
+            "notation_dlvId": "766881",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection au titre de l'article 106: colza g\u00e9n\u00e9tiquement modifi\u00e9 Ms8, Rf3 et Ms8 \u00d7 Rf3</title><label>Proposition de r\u00e9solution: B8-0073/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2521",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766676-4",
+            "activity_label": {
+                "fr": "Adh\u00e9sion de la R\u00e9publique dominicaine \u00e0 la convention de La Haye de 1980 sur les aspects civils de l\u2019enl\u00e8vement international d\u2019enfants"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0451"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-7"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-004"
+            ],
+            "notation_dlvId": "766676",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion de la R\u00e9publique dominicaine \u00e0 la convention de La Haye de 1980 sur les aspects civils de l\u2019enl\u00e8vement international d\u2019enfants</title><label>Rapport: Mary Honeyball (A8-0451/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0276",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766884-14",
+            "activity_label": {
+                "fr": "Objection au titre de l'article 106: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 87403 (MON-874\u00d83-1)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2019-0075"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-014"
+            ],
+            "notation_dlvId": "766884",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection au titre de l'article 106: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 MON 87403 (MON-874\u00d83-1)</title><label>Proposition de r\u00e9solution: B8-0075/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2523",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766679-7",
+            "activity_label": {
+                "fr": "Adh\u00e9sion de la Bi\u00e9lorussie et de l\u2019Ouzb\u00e9kistan \u00e0 la convention de La\u00a0Haye de 1980 sur les aspects civils de l'enl\u00e8vement international d'enfants"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0458"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-007"
+            ],
+            "notation_dlvId": "766679",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion de la Bi\u00e9lorussie et de l\u2019Ouzb\u00e9kistan \u00e0 la convention de La\u00a0Haye de 1980 sur les aspects civils de l'enl\u00e8vement international d'enfants</title><label>Rapport: Mary Honeyball (A8-0458/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0279",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766882-13",
+            "activity_label": {
+                "fr": "Objection au titre de l'article 106: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 5307 (SYN-\u00d853\u00d87-1)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2019-0074"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-013"
+            ],
+            "notation_dlvId": "766882",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection au titre de l'article 106: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 5307 (SYN-\u00d853\u00d87-1)</title><label>Proposition de r\u00e9solution: B8-0074/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2522",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766608-17",
+            "activity_label": {
+                "fr": "Rapport annuel sur la politique de concurrence"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0474"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-6"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-017"
+            ],
+            "notation_dlvId": "766608",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur la politique de concurrence</title><label>Rapport: Michel Reimon (A8-0474/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2102",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766886-15",
+            "activity_label": {
+                "fr": "Objection au titre de l'article 106: coton g\u00e9n\u00e9tiquement modifi\u00e9 GHB614 \u00d7 LLCotton25 \u00d7 MON 15985"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2019-0076"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-015"
+            ],
+            "notation_dlvId": "766886",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection au titre de l'article 106: coton g\u00e9n\u00e9tiquement modifi\u00e9 GHB614 \u00d7 LLCotton25 \u00d7 MON 15985</title><label>Proposition de r\u00e9solution: B8-0076/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2524",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766677-5",
+            "activity_label": {
+                "fr": "Adh\u00e9sion de l\u2019\u00c9quateur et de l\u2019Ukraine \u00e0 la convention de La\u00a0Haye de 1980 sur les aspects civils de l'enl\u00e8vement international d'enfants"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0452"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-8"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-005"
+            ],
+            "notation_dlvId": "766677",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion de l\u2019\u00c9quateur et de l\u2019Ukraine \u00e0 la convention de La\u00a0Haye de 1980 sur les aspects civils de l'enl\u00e8vement international d'enfants</title><label>Rapport: Mary Honeyball (A8-0452/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0277",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766680-8",
+            "activity_label": {
+                "fr": "Association des pays et territoires d'outre-mer \u00e0 l'Union europ\u00e9enne, y compris les relations entre l'Union europ\u00e9enne, le Groenland et le Royaume de Danemark"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0480"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-11"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-008"
+            ],
+            "notation_dlvId": "766680",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Association des pays et territoires d'outre-mer \u00e0 l'Union europ\u00e9enne, y compris les relations entre l'Union europ\u00e9enne, le Groenland et le Royaume de Danemark</title><label>Rapport: Maurice Ponga (A8-0480/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0244",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766605-10",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre et fonctionnement du nom de domaine de premier niveau\u00a0.eu"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0394"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-010"
+            ],
+            "notation_dlvId": "766605",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre et fonctionnement du nom de domaine de premier niveau\u00a0.eu</title><label>Rapport: Fredrick Federley (A8-0394/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0110",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766678-6",
+            "activity_label": {
+                "fr": "Adh\u00e9sion du Honduras \u00e0 la convention de La\u00a0Haye de 1980 sur les aspects civils de l'enl\u00e8vement international d'enfants"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0457"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-9"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-006"
+            ],
+            "notation_dlvId": "766678",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion du Honduras \u00e0 la convention de La\u00a0Haye de 1980 sur les aspects civils de l'enl\u00e8vement international d'enfants</title><label>Rapport: Mary Honeyball (A8-0457/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0278",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-768509-3",
+            "activity_label": {
+                "fr": "Paiements directs et soutien au d\u00e9veloppement rural pour les ann\u00e9es 2019 et 2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2019-0018"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-52"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-003"
+            ],
+            "notation_dlvId": "768509",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Paiements directs et soutien au d\u00e9veloppement rural pour les ann\u00e9es 2019 et 2020</title><label>Rapport: Czes\u0142aw Adam Siekierski (A8-0018/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0414",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766681-9",
+            "activity_label": {
+                "fr": "Rapport annuel 2017 sur la protection des int\u00e9r\u00eats financiers de l'Union europ\u00e9enne - lutte contre la fraude"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2019-0003"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-5"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-009"
+            ],
+            "notation_dlvId": "766681",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel 2017 sur la protection des int\u00e9r\u00eats financiers de l'Union europ\u00e9enne - lutte contre la fraude</title><label>Rapport: Marian-Jean Marinescu (A8-0003/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2152",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766601-1",
+            "activity_label": {
+                "fr": "Modifications du r\u00e8glement int\u00e9rieur du Parlement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0462"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-001"
+            ],
+            "notation_dlvId": "766601",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modifications du r\u00e8glement int\u00e9rieur du Parlement</title><label>Rapport: Richard Corbett (A8-0462/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2170",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-768760-16",
+            "activity_label": {
+                "fr": "Situation au Venezuela"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2019-0086",
+                "eli/dl/doc/B-8-2019-0082",
+                "eli/dl/doc/B-8-2019-0085",
+                "eli/dl/doc/B-8-2019-0087",
+                "eli/dl/doc/B-8-2019-0084",
+                "eli/dl/doc/B-8-2019-0083"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-50"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-016"
+            ],
+            "notation_dlvId": "768760",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation au Venezuela</title><label>Propositions de r\u00e9solution: B8-0082/2019, B8-0083/2019, B8-0084/2019, B8-0085/2019, B8-0086/2019, B8-0087/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2543",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2",
+            "type": "Activity",
+            "activity_date": "2019-01-31",
+            "activity_id": "MTG-PL-2019-01-31-VOT-ITM-766675-2",
+            "activity_label": {
+                "fr": "Code des douanes de l'Union: inclusion de la commune de Campione d\u2019Italia et des eaux italiennes du lac de Lugano dans le territoire douanier de l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0368",
+                "eli/dl/doc/A-8-2019-0368"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-01-31-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2019-01-31-VOT-ITM-002"
+            ],
+            "notation_dlvId": "766675",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Code des douanes de l'Union: inclusion de la commune de Campione d\u2019Italia et des eaux italiennes du lac de Lugano dans le territoire douanier de l\u2019Union </title><label>Rapport: Jasenko Selimovic (A8-0368/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-01-31",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766607-11",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766881-12",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766676-4",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766884-14",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766679-7",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766882-13",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766608-17",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766886-15",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766677-5",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766680-8",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766605-10",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766678-6",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768509-3",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766681-9",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766601-1",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-768760-16",
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0123",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-01-31-VOT-ITM-766675-2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

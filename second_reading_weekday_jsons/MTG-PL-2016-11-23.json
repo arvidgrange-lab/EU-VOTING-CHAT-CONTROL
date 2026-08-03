@@ -1,0 +1,355 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562451-4",
+            "type": "Activity",
+            "activity_date": "2016-11-23",
+            "activity_id": "MTG-PL-2016-11-23-VOT-ITM-562451-4",
+            "activity_label": {
+                "fr": "Finalisation de l'accord de B\u00e2le III"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1226"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-23-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-23-VOT-ITM-004"
+            ],
+            "notation_dlvId": "562451",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Finalisation de l'accord de B\u00e2le III</title><label>Proposition de r\u00e9solution: B8-1226/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562451-4",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562412-6",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562453-8",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562452-7",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562548-3",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562527-1",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562416-5",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562450-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2959",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562451-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562412-6",
+            "type": "Activity",
+            "activity_date": "2016-11-23",
+            "activity_id": "MTG-PL-2016-11-23-VOT-ITM-562412-6",
+            "activity_label": {
+                "fr": "Communication strat\u00e9gique de l'Union visant \u00e0 contrer la propagande dirig\u00e9e contre elle par des tiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0290"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-23-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-23-VOT-ITM-006"
+            ],
+            "notation_dlvId": "562412",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Communication strat\u00e9gique de l'Union visant \u00e0 contrer la propagande dirig\u00e9e contre elle par des tiers</title><label>Rapport: Anna El\u017cbieta Fotyga (A8-0290/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562451-4",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562412-6",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562453-8",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562452-7",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562548-3",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562527-1",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562416-5",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562450-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2030",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562412-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562453-8",
+            "type": "Activity",
+            "activity_date": "2016-11-23",
+            "activity_id": "MTG-PL-2016-11-23-VOT-ITM-562453-8",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e en vertu de l'article 106: renouvellement de l'autorisation de la substance active bentazone"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1228"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-23-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-23-VOT-ITM-008"
+            ],
+            "notation_dlvId": "562453",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e en vertu de l'article 106: renouvellement de l'autorisation de la substance active bentazone</title><label>Proposition de r\u00e9solution: B8-1228/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562451-4",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562412-6",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562453-8",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562452-7",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562548-3",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562527-1",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562416-5",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562450-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2978",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562453-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562452-7",
+            "type": "Activity",
+            "activity_date": "2016-11-23",
+            "activity_id": "MTG-PL-2016-11-23-VOT-ITM-562452-7",
+            "activity_label": {
+                "fr": "Langue des signes et interpr\u00e8tes professionnels en langue des signes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1241",
+                "eli/dl/doc/B-8-2016-1230"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-23-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-23-VOT-ITM-007"
+            ],
+            "notation_dlvId": "562452",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Langue des signes et interpr\u00e8tes professionnels en langue des signes</title><label>Propositions de r\u00e9solution: B8-1230/2016, B8-1241/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562451-4",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562412-6",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562453-8",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562452-7",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562548-3",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562527-1",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562416-5",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562450-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2952",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562452-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562548-3",
+            "type": "Activity",
+            "activity_date": "2016-11-23",
+            "activity_id": "MTG-PL-2016-11-23-VOT-ITM-562548-3",
+            "activity_label": {
+                "fr": "\u00c9missions de certains polluants atmosph\u00e9riques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0249"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-23-OJ-ITM-V-57"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-23-VOT-ITM-003"
+            ],
+            "notation_dlvId": "562548",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9missions de certains polluants atmosph\u00e9riques</title><label>Rapport: Julie Girling (A8-0249/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562451-4",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562412-6",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562453-8",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562452-7",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562548-3",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562527-1",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562416-5",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562450-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0443",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562548-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562527-1",
+            "type": "Activity",
+            "activity_date": "2016-11-23",
+            "activity_id": "MTG-PL-2016-11-23-VOT-ITM-562527-1",
+            "activity_label": {
+                "fr": "Calendrier des p\u00e9riodes de session du Parlement \u2013 2018"
+            },
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-23-OJ-ITM-V-84"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-23-VOT-ITM-001"
+            ],
+            "notation_dlvId": "562527",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Calendrier des p\u00e9riodes de session du Parlement \u2013 2018</title><label></label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562451-4",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562412-6",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562453-8",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562452-7",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562548-3",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562527-1",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562416-5",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562450-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562416-5",
+            "type": "Activity",
+            "activity_date": "2016-11-23",
+            "activity_id": "MTG-PL-2016-11-23-VOT-ITM-562416-5",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0317"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-23-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-23-VOT-ITM-005"
+            ],
+            "notation_dlvId": "562416",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune</title><label>Rapport: Ioan Mircea Pa\u015fcu (A8-0317/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562451-4",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562412-6",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562453-8",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562452-7",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562548-3",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562527-1",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562416-5",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562450-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2067",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562416-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562450-2",
+            "type": "Activity",
+            "activity_date": "2016-11-23",
+            "activity_id": "MTG-PL-2016-11-23-VOT-ITM-562450-2",
+            "activity_label": {
+                "fr": "Avis de la Cour de justice sur la compatibilit\u00e9 avec les trait\u00e9s de la proposition d'accord \u00e9conomique et commercial global (AECG) entre le Canada et l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-1220"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-11-23-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-11-23-VOT-ITM-002"
+            ],
+            "notation_dlvId": "562450",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Avis de la Cour de justice sur la compatibilit\u00e9 avec les trait\u00e9s de la proposition d'accord \u00e9conomique et commercial global (AECG) entre le Canada et l'Union europ\u00e9enne</title><label>Proposition de r\u00e9solution: B8-1220/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-11-23",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562451-4",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562412-6",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562453-8",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562452-7",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562548-3",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562527-1",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562416-5",
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562450-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2981",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-11-23-VOT-ITM-562450-2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

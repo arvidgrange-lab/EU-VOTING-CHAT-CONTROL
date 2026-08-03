@@ -1,0 +1,912 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344684-2",
+            "activity_label": {
+                "fr": "Sp\u00e9cialisation intelligente: mise en r\u00e9seau des p\u00f4les d'excellence pour une politique de coh\u00e9sion efficace"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0462"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "344684",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Sp\u00e9cialisation intelligente: mise en r\u00e9seau des p\u00f4les d'excellence pour une politique de coh\u00e9sion efficace</title><label>Rapport: Hermann Winkler (A7-0462/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2094",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344687-10",
+            "activity_label": {
+                "fr": "Plan d'action pour la sant\u00e9 en ligne 2012-2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0443"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-85"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "344687",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Plan d'action pour la sant\u00e9 en ligne 2012-2020</title><label>Rapport: Pilar Ayuso (A7-0443/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2061",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344678-6",
+            "activity_label": {
+                "fr": "Contingents tarifaires communautaires pour la viande bovine de haute qualit\u00e9, la viande porcine, la viande de volaille, le froment (bl\u00e9) et m\u00e9teil et les sons, remoulages et autres r\u00e9sidus"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2012-0212"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-152"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "344678",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contingents tarifaires communautaires pour la viande bovine de haute qualit\u00e9, la viande porcine, la viande de volaille, le froment (bl\u00e9) et m\u00e9teil et les sons, remoulages et autres r\u00e9sidus</title><label>Rapport: Vital Moreira (A7-0212/2012)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2011-0445",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344684-1",
+            "activity_label": {
+                "fr": "Demande de d\u00e9fense de l'immunit\u00e9 parlementaire de Lara Comi"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0469"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-148"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "344684",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de d\u00e9fense de l'immunit\u00e9 parlementaire de Lara Comi</title><label>Rapport: Eva Lichtenberger (A7-0469/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2190",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344676-9",
+            "activity_label": {
+                "fr": "Technologies de captage et de stockage du carbone"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0430"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "344676",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Technologies de captage et de stockage du carbone</title><label>Rapport: Chris Davies (A7-0430/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2079",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344827-11",
+            "activity_label": {
+                "fr": "Crise alimentaire, fraudes dans la cha\u00eene alimentaire et lutte contre de telles pratiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0434"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "344827",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Crise alimentaire, fraudes dans la cha\u00eene alimentaire et lutte contre de telles pratiques</title><label>Rapport: Esther de Lange (A7-0434/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2091",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344831-12",
+            "activity_label": {
+                "fr": "Inspections du travail efficaces \u00e0 titre de strat\u00e9gie pour l'am\u00e9lioration des conditions de travail"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0458"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-012"
+            ],
+            "notation_dlvId": "344831",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Inspections du travail efficaces \u00e0 titre de strat\u00e9gie pour l'am\u00e9lioration des conditions de travail</title><label>Rapport: Jutta Steinruck (A7-0458/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2112",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344772-14",
+            "activity_label": {
+                "fr": "Protection sociale pour tous, y compris pour les travailleurs ind\u00e9pendants"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0459"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-014"
+            ],
+            "notation_dlvId": "344772",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection sociale pour tous, y compris pour les travailleurs ind\u00e9pendants</title><label>Rapport: Vilija Blinkevi\u010di\u016bt\u0117 (A7-0459/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2111",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344668-4",
+            "activity_label": {
+                "fr": "\u00c9missions de CO2 des v\u00e9hicules utilitaires l\u00e9gers neufs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0168"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "344668",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9missions de CO2 des v\u00e9hicules utilitaires l\u00e9gers neufs</title><label>Rapport: Holger Krahmer (A7-0168/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-0191",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344825-15",
+            "activity_label": {
+                "fr": "Nouvelle p\u00e9riode de programmation de la politique de coh\u00e9sion"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0007"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-137"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-015"
+            ],
+            "notation_dlvId": "344825",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nouvelle p\u00e9riode de programmation de la politique de coh\u00e9sion</title><label>Rapport: Derek Vaughan (A7-0007/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2095",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344826-13",
+            "activity_label": {
+                "fr": "Participation financi\u00e8re des salari\u00e9s aux r\u00e9sultats des entreprises"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0465"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-013"
+            ],
+            "notation_dlvId": "344826",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Participation financi\u00e8re des salari\u00e9s aux r\u00e9sultats des entreprises</title><label>Rapport: Phil Bennion (A7-0465/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2127",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344683-8",
+            "activity_label": {
+                "fr": "Indications g\u00e9ographiques des produits vinicoles aromatis\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2012-0158"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-103"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "344683",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Indications g\u00e9ographiques des produits vinicoles aromatis\u00e9s</title><label>Rapport: Paolo Bartolozzi (A7-0158/2012)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2011-0231",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344824-17",
+            "activity_label": {
+                "fr": "Marque r\u00e9gionale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0456"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-87"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-017"
+            ],
+            "notation_dlvId": "344824",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Marque r\u00e9gionale</title><label>Rapport: Eric Andrieu (A7-0456/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2098",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344677-5",
+            "activity_label": {
+                "fr": "Programme \"Consommateurs\" pour la p\u00e9riode 2014-2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2012-0214"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-93"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "344677",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Programme \"Consommateurs\" pour la p\u00e9riode 2014-2020</title><label>Rapport: Robert Rochefort (A7-0214/2012)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2011-0340",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344773-16",
+            "activity_label": {
+                "fr": "D\u00e9chets plastiques dans l'environnement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0453"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-115"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-016"
+            ],
+            "notation_dlvId": "344773",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9chets plastiques dans l'environnement</title><label>Rapport: Vittorio Prodi (A7-0453/2013)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-2113",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344679-7",
+            "activity_label": {
+                "fr": "Importations d\u2019huile d\u2019olive et d\u2019autres produits agricoles originaires de Turquie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2012-0209"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-153"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "344679",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Importations d\u2019huile d\u2019olive et d\u2019autres produits agricoles originaires de Turquie </title><label>Rapport: Vital Moreira (A7-0209/2012)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2011-0453",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3",
+            "type": "Activity",
+            "activity_date": "2014-01-14",
+            "activity_id": "MTG-PL-2014-01-14-VOT-ITM-344684-3",
+            "activity_label": {
+                "fr": "R\u00e8gles de vote et contenu des rapports dans la proc\u00e9dure d'approbation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0412"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-14-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "344684",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8gles de vote et contenu des rapports dans la proc\u00e9dure d'approbation</title><label>Rapport: (A7-0412/2013) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-01-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-2",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344687-10",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344678-6",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-1",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344676-9",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344827-11",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344831-12",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344772-14",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344668-4",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344825-15",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344826-13",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344683-8",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344824-17",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344677-5",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344773-16",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344679-7",
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2012-2124",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-01-14-VOT-ITM-344684-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

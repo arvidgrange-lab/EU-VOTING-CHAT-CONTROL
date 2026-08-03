@@ -1,0 +1,825 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640197-15",
+            "activity_label": {
+                "fr": "Relations politiques entre l'Union europ\u00e9enne et l'Am\u00e9rique latine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0268"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-015"
+            ],
+            "notation_dlvId": "640197",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations politiques entre l'Union europ\u00e9enne et l'Am\u00e9rique latine</title><label>Rapport: Javi L\u00f3pez (A8-0268/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2027",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640190-4",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne pour venir en aide \u00e0 l'Italie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0280"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-83"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "640190",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne pour venir en aide \u00e0 l'Italie</title><label>Rapport: Giovanni La Via (A8-0280/2017) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2101",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640388-13",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 3/2017: ressources budg\u00e9taires de l'initiative pour l'emploi des jeunes; tableaux des effectifs de l'ACER et de SESAR2"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0282"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-013"
+            ],
+            "notation_dlvId": "640388",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 3/2017: ressources budg\u00e9taires de l'initiative pour l'emploi des jeunes; tableaux des effectifs de l'ACER et de SESAR2</title><label>Rapport: Jens Geier (A8-0282/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2078",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640709-11",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e en vertu de l'article 106: projet de d\u00e9cision d\u2019ex\u00e9cution de la Commission autorisant la mise sur le march\u00e9 de produits contenant du soja g\u00e9n\u00e9tiquement modifi\u00e9 DAS-68416-4, de produits consistant en ce soja ou produits \u00e0 partir de celui-ci"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0498"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-011"
+            ],
+            "notation_dlvId": "640709",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e en vertu de l'article 106: projet de d\u00e9cision d\u2019ex\u00e9cution de la Commission autorisant la mise sur le march\u00e9 de produits contenant du soja g\u00e9n\u00e9tiquement modifi\u00e9 DAS-68416-4, de produits consistant en ce soja ou produits \u00e0 partir de celui-ci</title><label>Proposition de r\u00e9solution : B8-0498/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2780",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640387-16",
+            "activity_label": {
+                "fr": "Corruption et droits de l'homme dans les pays tiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0246"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-016"
+            ],
+            "notation_dlvId": "640387",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Corruption et droits de l'homme dans les pays tiers</title><label>Rapport: Petras Au\u0161trevi\u010dius (A8-0246/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2028",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640195-9",
+            "activity_label": {
+                "fr": "Mod\u00e8le uniforme de titre de s\u00e9jour pour les ressortissants de pays tiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0065"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-74"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-009"
+            ],
+            "notation_dlvId": "640195",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mod\u00e8le uniforme de titre de s\u00e9jour pour les ressortissants de pays tiers</title><label>Rapport: Jussi Halla-aho (A8-0065/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0198",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640190-5",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 4/2017 accompagnant la proposition de mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne pour venir en aide \u00e0 l'Italie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0281"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-84"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "640190",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 4/2017 accompagnant la proposition de mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne pour venir en aide \u00e0 l'Italie</title><label>Rapport: Jens Geier (A8-0281/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2109",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640190-6",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: demande EGF/2017/002 FI/Microsoft 2"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0278"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-82"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "640190",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: demande EGF/2017/002 FI/Microsoft 2</title><label>Rapport: Petri Sarvamaa (A8-0278/2017) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2098",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640413-7",
+            "activity_label": {
+                "fr": "Syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de l'Union europ\u00e9enne (SEQE de l'UE): maintenir l'actuelle restriction du champ d'application pour les activit\u00e9s a\u00e9riennes et pr\u00e9parer la mise en \u0153uvre d\u2019un m\u00e9canisme de march\u00e9 mondial \u00e0 partir de 2021"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0258"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-90"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-007"
+            ],
+            "notation_dlvId": "640413",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de l'Union europ\u00e9enne (SEQE de l'UE): maintenir l'actuelle restriction du champ d'application pour les activit\u00e9s a\u00e9riennes et pr\u00e9parer la mise en \u0153uvre d\u2019un m\u00e9canisme de march\u00e9 mondial \u00e0 partir de 2021</title><label>Rapport: Julie Girling (A8-0258/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640716-12",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e en vertu de l'article 106: projet de r\u00e8glement d'ex\u00e9cution de la Commission modifiant le r\u00e8glement d'ex\u00e9cution (UE) 2016/6 de la Commission en ce qui concerne les denr\u00e9es alimentaires et les aliments pour animaux soumis \u00e0 des conditions particuli\u00e8res \u00e0 l'importation de denr\u00e9es alimentaires et d'aliments pour animaux originaires ou en provenance du Japon \u00e0 la suite de l'accident survenu \u00e0 la centrale nucl\u00e9aire de Fukushima"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0502"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-109"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-012"
+            ],
+            "notation_dlvId": "640716",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e en vertu de l'article 106: projet de r\u00e8glement d'ex\u00e9cution de la Commission modifiant le r\u00e8glement d'ex\u00e9cution (UE) 2016/6 de la Commission en ce qui concerne les denr\u00e9es alimentaires et les aliments pour animaux soumis \u00e0 des conditions particuli\u00e8res \u00e0 l'importation de denr\u00e9es alimentaires et d'aliments pour animaux originaires ou en provenance du Japon \u00e0 la suite de l'accident survenu \u00e0 la centrale nucl\u00e9aire de Fukushima</title><label>Proposition de r\u00e9solution : B8-0502/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2837",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640708-10",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e en vertu de l\u2019article 105: r\u00e8glement d\u00e9l\u00e9gu\u00e9 de la Commission du 2 juin 2017 compl\u00e9tant le r\u00e8glement (UE) n\u00ba 609/2013 du Parlement europ\u00e9en et du Conseil en ce qui concerne les exigences sp\u00e9cifiques en mati\u00e8re de composition et d\u2019information applicables aux substituts de la ration journali\u00e8re totale pour contr\u00f4le du poids"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0497"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-108"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-010"
+            ],
+            "notation_dlvId": "640708",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e en vertu de l\u2019article 105: r\u00e8glement d\u00e9l\u00e9gu\u00e9 de la Commission du 2 juin 2017 compl\u00e9tant le r\u00e8glement (UE) n\u00ba 609/2013 du Parlement europ\u00e9en et du Conseil en ce qui concerne les exigences sp\u00e9cifiques en mati\u00e8re de composition et d\u2019information applicables aux substituts de la ration journali\u00e8re totale pour contr\u00f4le du poids</title><label>Proposition de r\u00e9solution : B8-0497/2017 (Majorit\u00e9 des membres qui composent le Parlement pour l'adoption de la proposition de r\u00e9solution)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640190-1",
+            "activity_label": {
+                "fr": "Accord multilat\u00e9ral sur la cr\u00e9ation d'un espace a\u00e9rien europ\u00e9en commun (EACE)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0260"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "640190",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord multilat\u00e9ral sur la cr\u00e9ation d'un espace a\u00e9rien europ\u00e9en commun (EACE)</title><label>Recommandation: Roberts Z\u012ble (A8-0260/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2006-0036",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640190-2",
+            "activity_label": {
+                "fr": "Soumission de l'acryloylfentanyl \u00e0 des mesures de contr\u00f4le"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0284"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-002"
+            ],
+            "notation_dlvId": "640190",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Soumission de l'acryloylfentanyl \u00e0 des mesures de contr\u00f4le</title><label>Rapport: Brice Hortefeux (A8-0284/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0073",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640190-3",
+            "activity_label": {
+                "fr": "Relations politiques de l'Union europ\u00e9enne avec l'Inde"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0242"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-003"
+            ],
+            "notation_dlvId": "640190",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations politiques de l'Union europ\u00e9enne avec l'Inde</title><label>Rapport: Cristian Dan Preda (A8-0242/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2025",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640412-8",
+            "activity_label": {
+                "fr": "Prise en compte des \u00e9missions et des absorptions de gaz \u00e0 effet de serre r\u00e9sultant de l'utilisation des terres, du changement d'affectation des terres et de la foresterie dans le cadre d'action pour le climat et l'\u00e9nergie \u00e0 l'horizon 2030"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0262"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-008"
+            ],
+            "notation_dlvId": "640412",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Prise en compte des \u00e9missions et des absorptions de gaz \u00e0 effet de serre r\u00e9sultant de l'utilisation des terres, du changement d'affectation des terres et de la foresterie dans le cadre d'action pour le climat et l'\u00e9nergie \u00e0 l'horizon 2030</title><label>Rapport: Norbert Lins (A8-0262/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14",
+            "type": "Activity",
+            "activity_date": "2017-09-13",
+            "activity_id": "MTG-PL-2017-09-13-VOT-ITM-640196-14",
+            "activity_label": {
+                "fr": "Exportations d\u2019armements: mise en \u0153uvre de la position commune 2008/944/PESC"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0264"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-13-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-13-VOT-ITM-014"
+            ],
+            "notation_dlvId": "640196",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Exportations d\u2019armements: mise en \u0153uvre de la position commune 2008/944/PESC</title><label>Rapport: Bodil Valero (A8-0264/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640197-15",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-4",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640388-13",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640709-11",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640387-16",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640195-9",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-5",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-6",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640413-7",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640716-12",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640708-10",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-1",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-2",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640190-3",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640412-8",
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2029",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-13-VOT-ITM-640196-14"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

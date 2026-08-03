@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-16-VOT-ITM-938763",
+            "type": "Activity",
+            "activity_date": "2023-02-16",
+            "activity_id": "MTG-PL-2023-02-16-VOT-ITM-938763",
+            "activity_label": {
+                "fr": "La r\u00e9cente d\u00e9t\u00e9rioration des conditions de d\u00e9tention inhumaines d\u2019Alexe\u00ef Navalny et d\u2019autres prisonniers politiques en Russie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0133",
+                "eli/dl/doc/B-9-2023-0141",
+                "eli/dl/doc/B-9-2023-0143",
+                "eli/dl/doc/B-9-2023-0135",
+                "eli/dl/doc/B-9-2023-0142"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-16-OJ-ITM-V-60",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-16-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938763",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La r\u00e9cente d\u00e9t\u00e9rioration des conditions de d\u00e9tention inhumaines d\u2019Alexe\u00ef Navalny et d\u2019autres prisonniers politiques en Russie</title><label>Propositions de r\u00e9solutions: B9-0133/2023, B9-0135/2023, B9-0141/2023, B9-0142/2023, B9-0143/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

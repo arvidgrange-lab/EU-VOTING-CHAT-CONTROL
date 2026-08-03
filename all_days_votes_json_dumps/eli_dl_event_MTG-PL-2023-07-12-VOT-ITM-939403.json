@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939403",
+            "activity_label": {
+                "fr": "Situation de l'accord de dialogue politique et de coop\u00e9ration UE-Cuba \u00e0 la lumi\u00e8re de la r\u00e9cente visite du haut repr\u00e9sentant dans l'\u00eele"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0321",
+                "eli/dl/doc/B-9-2023-0320",
+                "eli/dl/doc/B-9-2023-0313",
+                "eli/dl/doc/B-9-2023-0311",
+                "eli/dl/doc/B-9-2023-0322"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939403",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation de l'accord de dialogue politique et de coop\u00e9ration UE-Cuba \u00e0 la lumi\u00e8re de la r\u00e9cente visite du haut repr\u00e9sentant dans l'\u00eele</title><label>Propositions de r\u00e9solution: RC-B9-0311/2023, B9-0311/2023, B9-0313/2023, B9-0320/2023, B9-0321/2023, B9-0322/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

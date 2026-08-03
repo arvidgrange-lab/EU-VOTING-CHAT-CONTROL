@@ -1,0 +1,451 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460497-4",
+            "type": "Activity",
+            "activity_date": "2015-09-10",
+            "activity_id": "MTG-PL-2015-09-10-VOT-ITM-460497-4",
+            "activity_label": {
+                "fr": "Migrations et r\u00e9fugi\u00e9s en Europe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0838",
+                "eli/dl/doc/B-8-2015-0837",
+                "eli/dl/doc/B-8-2015-0834",
+                "eli/dl/doc/B-8-2015-0842",
+                "eli/dl/doc/B-8-2015-0835",
+                "eli/dl/doc/B-8-2015-0832",
+                "eli/dl/doc/B-8-2015-0833"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-09-10-OJ-ITM-V-127"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-09-10-VOT-ITM-004"
+            ],
+            "notation_dlvId": "460497",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Migrations et r\u00e9fugi\u00e9s en Europe</title><label>Propositions de r\u00e9solution: B8-0832/2015, B8-0833/2015, B8-0834/2015, B8-0835/2015, B8-0837/2015, B8-0838/2015, B8-0842/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-09-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460497-4",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460496-3",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460494-2",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-461280-6",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460499-5",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460493-1",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459933-7",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459932-8",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459944-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2833",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460497-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460496-3",
+            "type": "Activity",
+            "activity_date": "2015-09-10",
+            "activity_id": "MTG-PL-2015-09-10-VOT-ITM-460496-3",
+            "activity_label": {
+                "fr": "Azerba\u00efdjan"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0864",
+                "eli/dl/doc/B-8-2015-0856",
+                "eli/dl/doc/B-8-2015-0862",
+                "eli/dl/doc/B-8-2015-0863",
+                "eli/dl/doc/B-8-2015-0860",
+                "eli/dl/doc/B-8-2015-0858",
+                "eli/dl/doc/B-8-2015-0865"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-09-10-OJ-ITM-V-134"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-09-10-VOT-ITM-003"
+            ],
+            "notation_dlvId": "460496",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Azerba\u00efdjan</title><label>B8-0856/2015, B8-0858/2015, B8-0860/2015, B8-0862/2015, B8-0863/2015, B8-0864/2015, B8-0865/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-09-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460497-4",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460496-3",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460494-2",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-461280-6",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460499-5",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460493-1",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459933-7",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459932-8",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459944-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2840",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460496-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460494-2",
+            "type": "Activity",
+            "activity_date": "2015-09-10",
+            "activity_id": "MTG-PL-2015-09-10-VOT-ITM-460494-2",
+            "activity_label": {
+                "fr": "Angola"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0861",
+                "eli/dl/doc/B-8-2015-0846",
+                "eli/dl/doc/B-8-2015-0853",
+                "eli/dl/doc/B-8-2015-0848",
+                "eli/dl/doc/B-8-2015-0854",
+                "eli/dl/doc/B-8-2015-0857",
+                "eli/dl/doc/B-8-2015-0859"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-09-10-OJ-ITM-V-133"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-09-10-VOT-ITM-002"
+            ],
+            "notation_dlvId": "460494",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Angola</title><label>B8-0846/2015, B8-0848/2015, B8-0853/2015, B8-0854/2015, B8-0857/2015, B8-0859/2015, B8-0861/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-09-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460497-4",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460496-3",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460494-2",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-461280-6",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460499-5",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460493-1",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459933-7",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459932-8",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459944-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2839",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460494-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-461280-6",
+            "type": "Activity",
+            "activity_date": "2015-09-10",
+            "activity_id": "MTG-PL-2015-09-10-VOT-ITM-461280-6",
+            "activity_label": {
+                "fr": "Situation en Bi\u00e9lorussie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0880",
+                "eli/dl/doc/B-8-2015-0866",
+                "eli/dl/doc/B-8-2015-0879",
+                "eli/dl/doc/B-8-2015-0872",
+                "eli/dl/doc/B-8-2015-0878",
+                "eli/dl/doc/B-8-2015-0876",
+                "eli/dl/doc/B-8-2015-0874"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-09-10-OJ-ITM-V-128"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-09-10-VOT-ITM-006"
+            ],
+            "notation_dlvId": "461280",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Bi\u00e9lorussie</title><label>Propositions de r\u00e9solution: B8-0866/2015, B8-0872/2015, B8-0874/2015, B8-0876/2015, B8-0878/2015, B8-0879/2015, B8-0880/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-09-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460497-4",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460496-3",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460494-2",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-461280-6",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460499-5",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460493-1",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459933-7",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459932-8",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459944-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2834",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-461280-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460499-5",
+            "type": "Activity",
+            "activity_date": "2015-09-10",
+            "activity_id": "MTG-PL-2015-09-10-VOT-ITM-460499-5",
+            "activity_label": {
+                "fr": "R\u00f4le de l'Union europ\u00e9enne dans le processus de paix au Moyen-Orient"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0840",
+                "eli/dl/doc/B-8-2015-0844",
+                "eli/dl/doc/B-8-2015-0839",
+                "eli/dl/doc/B-8-2015-0836",
+                "eli/dl/doc/B-8-2015-0841",
+                "eli/dl/doc/B-8-2015-0843"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-09-10-OJ-ITM-V-99"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-09-10-VOT-ITM-005"
+            ],
+            "notation_dlvId": "460499",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00f4le de l'Union europ\u00e9enne dans le processus de paix au Moyen-Orient</title><label>Propositions de r\u00e9solution: B8-0836/2015, B8-0839/2015, B8-0840/2015, B8-0841/2015, B8-0843/2015, B8-0844/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-09-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460497-4",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460496-3",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460494-2",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-461280-6",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460499-5",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460493-1",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459933-7",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459932-8",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459944-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2685",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460499-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460493-1",
+            "type": "Activity",
+            "activity_date": "2015-09-10",
+            "activity_id": "MTG-PL-2015-09-10-VOT-ITM-460493-1",
+            "activity_label": {
+                "fr": "La Russie, notamment les cas de Eston Kohver, Oleg Santsov et Alexander Kolchenko"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0852",
+                "eli/dl/doc/B-8-2015-0845",
+                "eli/dl/doc/B-8-2015-0850",
+                "eli/dl/doc/B-8-2015-0855",
+                "eli/dl/doc/B-8-2015-0849",
+                "eli/dl/doc/B-8-2015-0847",
+                "eli/dl/doc/B-8-2015-0851"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-09-10-OJ-ITM-V-132"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-09-10-VOT-ITM-001"
+            ],
+            "notation_dlvId": "460493",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La Russie, notamment les cas de Eston Kohver, Oleg Santsov et Alexander Kolchenko</title><label>B8-0845/2015, B8-0847/2015, B8-0849/2015, B8-0850/2015, B8-0851/2015, B8-0852/2015, B8-0855/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-09-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460497-4",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460496-3",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460494-2",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-461280-6",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460499-5",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460493-1",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459933-7",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459932-8",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459944-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2838",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460493-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459933-7",
+            "type": "Activity",
+            "activity_date": "2015-09-10",
+            "activity_id": "MTG-PL-2015-09-10-VOT-ITM-459933-7",
+            "activity_label": {
+                "fr": "Entrepreneuriat social et innovation sociale dans la lutte contre le ch\u00f4mage"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0247"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-09-10-OJ-ITM-V-72"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-09-10-VOT-ITM-007"
+            ],
+            "notation_dlvId": "459933",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Entrepreneuriat social et innovation sociale dans la lutte contre le ch\u00f4mage</title><label>Rapport: Ver\u00f3nica Lope Fontagn\u00e9 (A8-0247/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-09-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460497-4",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460496-3",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460494-2",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-461280-6",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460499-5",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460493-1",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459933-7",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459932-8",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459944-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2236",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459933-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459932-8",
+            "type": "Activity",
+            "activity_date": "2015-09-10",
+            "activity_id": "MTG-PL-2015-09-10-VOT-ITM-459932-8",
+            "activity_label": {
+                "fr": "Cr\u00e9ation d'un march\u00e9 du travail comp\u00e9titif dans l'Union du 21e si\u00e8cle"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0222"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-09-10-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-09-10-VOT-ITM-008"
+            ],
+            "notation_dlvId": "459932",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation d'un march\u00e9 du travail comp\u00e9titif dans l'Union du 21e si\u00e8cle</title><label>Rapport: Martina Dlabajov\u00e1 (A8-0222/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-09-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460497-4",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460496-3",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460494-2",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-461280-6",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460499-5",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460493-1",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459933-7",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459932-8",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459944-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2235",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459932-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459944-9",
+            "type": "Activity",
+            "activity_date": "2015-09-10",
+            "activity_id": "MTG-PL-2015-09-10-VOT-ITM-459944-9",
+            "activity_label": {
+                "fr": "30e et 31e rapports annuels sur le suivi de l'application du droit de l'UE (2012-2013)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0242"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-09-10-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-09-10-VOT-ITM-009"
+            ],
+            "notation_dlvId": "459944",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>30e et 31e rapports annuels sur le suivi de l'application du droit de l'UE (2012-2013)</title><label>Rapport: Kostas Chrysogonos (A8-0242/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-09-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460497-4",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460496-3",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460494-2",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-461280-6",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460499-5",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-460493-1",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459933-7",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459932-8",
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459944-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2253",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-09-10-VOT-ITM-459944-9"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

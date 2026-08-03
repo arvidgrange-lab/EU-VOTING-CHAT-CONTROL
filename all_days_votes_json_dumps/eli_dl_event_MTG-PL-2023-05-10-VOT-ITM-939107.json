@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-10-VOT-ITM-939107",
+            "type": "Activity",
+            "activity_date": "2023-05-10",
+            "activity_id": "MTG-PL-2023-05-10-VOT-ITM-939107",
+            "activity_label": {
+                "fr": "D\u00e9charge 2021: Agence de l\u2019Union europ\u00e9enne pour la coop\u00e9ration judiciaire en mati\u00e8re p\u00e9nale (Eurojust)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0122"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-10-OJ-ITM-V-117",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-10-VOT-ITM-020"
+            ],
+            "notation_dlvId": "939107",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2021: Agence de l\u2019Union europ\u00e9enne pour la coop\u00e9ration judiciaire en mati\u00e8re p\u00e9nale (Eurojust)</title><label>Rapport: Ramona Strugariu (A9-0122/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

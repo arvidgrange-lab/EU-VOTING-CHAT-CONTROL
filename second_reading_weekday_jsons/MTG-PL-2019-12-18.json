@@ -1,0 +1,416 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846323",
+            "type": "Activity",
+            "activity_date": "2019-12-18",
+            "activity_id": "MTG-PL-2019-12-18-VOT-ITM-846323",
+            "activity_label": {
+                "fr": "L'\u00e9tat de droit \u00e0 Malte, apr\u00e8s les r\u00e9centes r\u00e9v\u00e9lations sur l'assassinat de Daphn\u00e9 Caruana Galizia"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0240"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-12-18-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-12-18-VOT-ITM-007"
+            ],
+            "notation_dlvId": "846323",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'\u00e9tat de droit \u00e0 Malte, apr\u00e8s les r\u00e9centes r\u00e9v\u00e9lations sur l'assassinat de Daphn\u00e9 Caruana Galizia</title><label>Proposition de r\u00e9solution: B9-0240/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-12-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846323",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846318",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846317",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846123",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846122",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846105",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846512",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846305",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846107"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2954",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846323"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846318",
+            "type": "Activity",
+            "activity_date": "2019-12-18",
+            "activity_id": "MTG-PL-2019-12-18-VOT-ITM-846318",
+            "activity_label": {
+                "fr": "Permettre la transformation num\u00e9rique des services de sant\u00e9 et de soins"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0239"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-12-18-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-12-18-VOT-ITM-009"
+            ],
+            "notation_dlvId": "846318",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Permettre la transformation num\u00e9rique des services de sant\u00e9 et de soins</title><label>Proposition de r\u00e9solution: B9-0239/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-12-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846323",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846318",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846317",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846123",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846122",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846105",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846512",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846305",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846107"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2804",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846318"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846317",
+            "type": "Activity",
+            "activity_date": "2019-12-18",
+            "activity_id": "MTG-PL-2019-12-18-VOT-ITM-846317",
+            "activity_label": {
+                "fr": "Une fiscalit\u00e9 \u00e9quitable dans une \u00e9conomie num\u00e9ris\u00e9e et mondialis\u00e9e - BEPS 2.0"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0238"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-12-18-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-12-18-VOT-ITM-006"
+            ],
+            "notation_dlvId": "846317",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Une fiscalit\u00e9 \u00e9quitable dans une \u00e9conomie num\u00e9ris\u00e9e et mondialis\u00e9e - BEPS 2.0</title><label>Proposition de r\u00e9solution: B9-0238/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-12-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846323",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846318",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846317",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846123",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846122",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846105",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846512",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846305",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846107"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2901",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846317"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846123",
+            "type": "Activity",
+            "activity_date": "2019-12-18",
+            "activity_id": "MTG-PL-2019-12-18-VOT-ITM-846123",
+            "activity_label": {
+                "fr": "Initiative europ\u00e9enne sur les pollinisateurs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0233"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-12-18-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-12-18-VOT-ITM-008"
+            ],
+            "notation_dlvId": "846123",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Initiative europ\u00e9enne sur les pollinisateurs</title><label>Proposition de r\u00e9solution: B9-0233/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-12-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846323",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846318",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846317",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846123",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846122",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846105",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846512",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846305",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846107"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2803",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846123"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846122",
+            "type": "Activity",
+            "activity_date": "2019-12-18",
+            "activity_id": "MTG-PL-2019-12-18-VOT-ITM-846122",
+            "activity_label": {
+                "fr": "Discrimination publique et discours haineux contre les personnes LGBTI, notamment les \u00abzones sans LGBTI\u00bb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0234"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-12-18-OJ-ITM-V-40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-12-18-VOT-ITM-005"
+            ],
+            "notation_dlvId": "846122",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Discrimination publique et discours haineux contre les personnes LGBTI, notamment les \u00abzones sans LGBTI\u00bb</title><label>Proposition de r\u00e9solution: B9-0234/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-12-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846323",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846318",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846317",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846123",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846122",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846105",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846512",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846305",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846107"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2933",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846122"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846105",
+            "type": "Activity",
+            "activity_date": "2019-12-18",
+            "activity_id": "MTG-PL-2019-12-18-VOT-ITM-846105",
+            "activity_label": {
+                "fr": "PAC: discipline financi\u00e8re \u00e0 partir de l\u2019exercice 2021 et flexibilit\u00e9 entre piliers pour l\u2019ann\u00e9e civile 2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0042"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-12-18-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-12-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "846105",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>PAC: discipline financi\u00e8re \u00e0 partir de l\u2019exercice 2021 et flexibilit\u00e9 entre piliers pour l\u2019ann\u00e9e civile 2020</title><label>Rapport: Norbert Lins (A9-0042/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-12-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846323",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846318",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846317",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846123",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846122",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846105",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846512",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846305",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846107"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0253",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846105"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846512",
+            "type": "Activity",
+            "activity_date": "2019-12-18",
+            "activity_id": "MTG-PL-2019-12-18-VOT-ITM-846512",
+            "activity_label": {
+                "fr": "Cl\u00f4ture des comptes du Bureau europ\u00e9en d\u2019appui en mati\u00e8re d\u2019asile (EASO) pour l\u2019exercice 2017"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0235"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-12-18-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-12-18-VOT-ITM-004"
+            ],
+            "notation_dlvId": "846512",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cl\u00f4ture des comptes du Bureau europ\u00e9en d\u2019appui en mati\u00e8re d\u2019asile (EASO) pour l\u2019exercice 2017</title><label>Proposition de d\u00e9cision: B9-0235/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-12-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846323",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846318",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846317",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846123",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846122",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846105",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846512",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846305",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846107"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2909",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846512"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846305",
+            "type": "Activity",
+            "activity_date": "2019-12-18",
+            "activity_id": "MTG-PL-2019-12-18-VOT-ITM-846305",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112: substances actives, notamment la dimoxystrobine et le mancoz\u00e8be"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0230"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-12-18-OJ-ITM-V-48"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-12-18-VOT-ITM-003"
+            ],
+            "notation_dlvId": "846305",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 112: substances actives, notamment la dimoxystrobine et le mancoz\u00e8be</title><label>Proposition de r\u00e9solution: B9-0230/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-12-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846323",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846318",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846317",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846123",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846122",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846105",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846512",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846305",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846107"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2925",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846305"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846107",
+            "type": "Activity",
+            "activity_date": "2019-12-18",
+            "activity_id": "MTG-PL-2019-12-18-VOT-ITM-846107",
+            "activity_label": {
+                "fr": "Accord de partenariat dans le domaine de la p\u00eache durable entre l'Union europ\u00e9enne et la R\u00e9publique de Gambie et son protocole de mise en \u0153uvre"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0026"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-12-18-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-12-18-VOT-ITM-002"
+            ],
+            "notation_dlvId": "846107",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat dans le domaine de la p\u00eache durable entre l'Union europ\u00e9enne et la R\u00e9publique de Gambie et son protocole de mise en \u0153uvre</title><label>Recommandation: Carmen Avram (A9-0026/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-12-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846323",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846318",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846317",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846123",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846122",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846105",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846512",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846305",
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846107"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-0076",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-12-18-VOT-ITM-846107"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939207",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 d'Alexis Georgoulis"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0202"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-48",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939207",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 d'Alexis Georgoulis</title><label>Rapport: Andrzej Halicki (A9-0202/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

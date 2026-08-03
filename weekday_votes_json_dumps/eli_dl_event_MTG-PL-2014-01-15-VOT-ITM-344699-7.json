@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-01-15-VOT-ITM-344699-7",
+            "type": "Activity",
+            "activity_date": "2014-01-15",
+            "activity_id": "MTG-PL-2014-01-15-VOT-ITM-344699-7",
+            "activity_label": {
+                "fr": "Tachygraphes et l\u00e9gislation sociale dans le domaine des transports par route"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2013-0471"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-01-15-OJ-ITM-V-138"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-01-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "344699",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Tachygraphes et l\u00e9gislation sociale dans le domaine des transports par route</title><label>Recommandation pour la deuxi\u00e8me lecture: Silvia-Adriana \u0162ic\u0103u (A7-0471/2013) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

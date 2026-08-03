@@ -1,0 +1,734 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932576",
+            "activity_label": {
+                "fr": "Rapport d'\u00e9valuation de la Commission relatif \u00e0 l'application du r\u00e8glement g\u00e9n\u00e9ral sur la protection des donn\u00e9es deux ans apr\u00e8s son application"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0211"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-22",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-003"
+            ],
+            "notation_dlvId": "932576",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport d'\u00e9valuation de la Commission relatif \u00e0 l'application du r\u00e8glement g\u00e9n\u00e9ral sur la protection des donn\u00e9es deux ans apr\u00e8s son application</title><label>Proposition de r\u00e9solution: B9-0211/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2717",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932242",
+            "activity_label": {
+                "fr": "Donner forme \u00e0 la politique d\u2019\u00e9ducation num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0042"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-10",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-014"
+            ],
+            "notation_dlvId": "932242",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Donner forme \u00e0 la politique d\u2019\u00e9ducation num\u00e9rique</title><label>Rapport: Victor Negrescu (A9-0042/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2135",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932239",
+            "activity_label": {
+                "fr": "Strat\u00e9gie de l\u2019Union pour un tourisme durable"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0033"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-27",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-008"
+            ],
+            "notation_dlvId": "932239",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie de l\u2019Union pour un tourisme durable</title><label>Rapport: Cl\u00e1udia Monteiro de Aguiar (A9-0033/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2038",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932216",
+            "activity_label": {
+                "fr": "Contr\u00f4le des exportations, du courtage, de l\u2019assistance technique, du transit et des transferts de biens \u00e0 double usage"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0390"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-36",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-012"
+            ],
+            "notation_dlvId": "932216",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contr\u00f4le des exportations, du courtage, de l\u2019assistance technique, du transit et des transferts de biens \u00e0 double usage</title><label>Rapport: Mark\u00e9ta Gregorov\u00e1 (A8-0390/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-929636",
+            "activity_label": {
+                "fr": "Modification du r\u00e8glement (UE) n\u00ba 575/2013 en ce qui concerne les ajustements \u00e0 apporter au cadre relatif \u00e0 la titrisation afin de soutenir la reprise \u00e9conomique en r\u00e9ponse \u00e0 la crise de la COVID-19"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2020-0213"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-46",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-011"
+            ],
+            "notation_dlvId": "929636",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification du r\u00e8glement (UE) n\u00ba 575/2013 en ce qui concerne les ajustements \u00e0 apporter au cadre relatif \u00e0 la titrisation afin de soutenir la reprise \u00e9conomique en r\u00e9ponse \u00e0 la crise de la COVID-19</title><label>Rapport: Othmar Karas (A9-0213/2020)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-0156",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932205",
+            "activity_label": {
+                "fr": "Renforcement du r\u00f4le international de l\u2019euro"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0043"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-50",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-017"
+            ],
+            "notation_dlvId": "932205",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renforcement du r\u00f4le international de l\u2019euro</title><label>Rapport: Danuta Maria H\u00fcbner (A9-0043/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2037",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932243",
+            "activity_label": {
+                "fr": "Strat\u00e9gie europ\u00e9enne pour les donn\u00e9es"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0027"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-24",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-015"
+            ],
+            "notation_dlvId": "932243",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie europ\u00e9enne pour les donn\u00e9es</title><label>Rapport: Miapetra Kumpula-Natri (A9-0027/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2217",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932204",
+            "activity_label": {
+                "fr": "Les effets des d\u00e9chets marins sur la p\u00eache"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0030"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-39",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-016"
+            ],
+            "notation_dlvId": "932204",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les effets des d\u00e9chets marins sur la p\u00eache</title><label>Rapport: Catherine Chabaud (A9-0030/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2160",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932206",
+            "activity_label": {
+                "fr": "Politique de coh\u00e9sion et strat\u00e9gies r\u00e9gionales en mati\u00e8re d\u2019environnement dans la lutte contre le changement climatique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0034"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-14",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-018"
+            ],
+            "notation_dlvId": "932206",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politique de coh\u00e9sion et strat\u00e9gies r\u00e9gionales en mati\u00e8re d\u2019environnement dans la lutte contre le changement climatique</title><label>Rapport: Tonino Picula (A9-0034/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2074",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932201",
+            "activity_label": {
+                "fr": "Rapports 2019-2020 concernant la Serbie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0032"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-11",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-007"
+            ],
+            "notation_dlvId": "932201",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapports 2019-2020 concernant la Serbie</title><label>Rapport: Vladim\u00edr Bil\u010d\u00edk (A9-0032/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2175",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932229",
+            "activity_label": {
+                "fr": "Rapports 2019-2020 concernant la Mac\u00e9doine du Nord"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0040"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-16",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-006"
+            ],
+            "notation_dlvId": "932229",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapports 2019-2020 concernant la Mac\u00e9doine du Nord</title><label>Rapport: Ilhan Kyuchyuk (A9-0040/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2174",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-929639",
+            "activity_label": {
+                "fr": "Cadre g\u00e9n\u00e9ral pour la titrisation et cadre sp\u00e9cifique pour les titrisations simples, transparentes et standardis\u00e9es, afin de favoriser la reprise apr\u00e8s la pand\u00e9mie de COVID-19"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2020-0215"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-45",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-010"
+            ],
+            "notation_dlvId": "929639",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre g\u00e9n\u00e9ral pour la titrisation et cadre sp\u00e9cifique pour les titrisations simples, transparentes et standardis\u00e9es, afin de favoriser la reprise apr\u00e8s la pand\u00e9mie de COVID-19</title><label>Rapport: Paul Tang (A9-0215/2020)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-0151",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932211",
+            "activity_label": {
+                "fr": "Rapports 2019-2020 concernant le Kosovo"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0031"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-17",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-005"
+            ],
+            "notation_dlvId": "932211",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapports 2019-2020 concernant le Kosovo</title><label>Rapport: Viola Von Cramon-Taubadel (A9-0031/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2172",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932214",
+            "activity_label": {
+                "fr": "Nouvelle strat\u00e9gie UE-Afrique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0017"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-32",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-002"
+            ],
+            "notation_dlvId": "932214",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nouvelle strat\u00e9gie UE-Afrique</title><label>Rapport: Chrysoula Zacharopoulou (A9-0017/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209",
+            "type": "Activity",
+            "activity_date": "2021-03-25",
+            "activity_id": "MTG-PL-2021-03-25-VOT-ITM-932209",
+            "activity_label": {
+                "fr": "Rapports 2019-2020 concernant l'Albanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0041"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-25-OJ-ITM-V-15",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-25-VOT-ITM-004"
+            ],
+            "notation_dlvId": "932209",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapports 2019-2020 concernant l'Albanie</title><label>Rapport: Isabel Santos (A9-0041/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932576",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932242",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932239",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932216",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929636",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932205",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932243",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932204",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932206",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932201",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932229",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-929639",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932211",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932214",
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2170",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-25-VOT-ITM-932209"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

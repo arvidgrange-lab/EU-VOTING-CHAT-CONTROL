@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-01-18-VOT-ITM-939933",
+            "type": "Activity",
+            "activity_date": "2024-01-18",
+            "activity_id": "MTG-PL-2024-01-18-VOT-ITM-939933",
+            "activity_label": {
+                "fi": "Geoterminen energia",
+                "en": "Geothermal energy",
+                "pt": "Energia geot\u00e9rmica",
+                "hr": "Geotermalna energija",
+                "sl": "Geotermalna energija",
+                "ro": "Energia geotermal\u0103",
+                "bg": "\u0413\u0435\u043e\u0442\u0435\u0440\u043c\u0430\u043b\u043d\u0430 \u0435\u043d\u0435\u0440\u0433\u0438\u044f",
+                "mt": "L-ener\u0121ija \u0121eotermali",
+                "da": "Geotermisk energi",
+                "sv": "Geotermisk energi",
+                "lt": "Geotermin\u0117 energija",
+                "hu": "Geotermikus energia",
+                "sk": "Geoterm\u00e1lna energia",
+                "es": "Energ\u00eda geot\u00e9rmica",
+                "ga": "Fuinneamh geoiteirmeach",
+                "it": "Energia geotermica",
+                "et": "Maap\u00f5ueenergia",
+                "pl": "Energia geotermalna",
+                "mul": "\u00c9nergie g\u00e9othermique",
+                "fr": "\u00c9nergie g\u00e9othermique",
+                "el": "\u0393\u03b5\u03c9\u03b8\u03b5\u03c1\u03bc\u03b9\u03ba\u03ae \u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1",
+                "lv": "\u0122eoterm\u0101l\u0101 ener\u0123ija",
+                "nl": "Geothermische energie",
+                "cs": "Geoterm\u00e1ln\u00ed energie",
+                "de": "Geothermische Energie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0432"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-01-18-DEC-163055"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-01-18-OJ-ITM-V-84"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-01-18-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939933",
+            "structuredLabel": {
+                "et": "<structuredLabel><title>Maap\u00f5ueenergia</title><label>Raport: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Geothermische energie</title><label>Verslag: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Geotermalna energija</title><label>Poro\u010dilo: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>\u0122eoterm\u0101l\u0101 ener\u0123ija</title><label>Zi\u0146ojums: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Energia geotermal\u0103</title><label>Raport: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0413\u0435\u043e\u0442\u0435\u0440\u043c\u0430\u043b\u043d\u0430 \u0435\u043d\u0435\u0440\u0433\u0438\u044f</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Geotermikus energia</title><label>Jelent\u00e9s: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Geotermin\u0117 energija</title><label>Prane\u0161imas: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0393\u03b5\u03c9\u03b8\u03b5\u03c1\u03bc\u03b9\u03ba\u03ae \u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Geoterm\u00e1lna energia</title><label>Spr\u00e1va: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Energia geot\u00e9rmica</title><label>Relat\u00f3rio: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>L-ener\u0121ija \u0121eotermali</title><label>Rapport: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Geoterminen energia</title><label>Mietint\u00f6: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Energ\u00eda geot\u00e9rmica</title><label>Informe: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>\u00c9nergie g\u00e9othermique</title><label>Rapport: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Energia geotermalna</title><label>Sprawozdanie: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Geothermische Energie</title><label>Bericht: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Geoterm\u00e1ln\u00ed energie</title><label>Zpr\u00e1va: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Geotermisk energi </title><label>Bet\u00e6nkning: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Energia geotermica</title><label>Relazione: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Geotermalna energija</title><label>Izvje\u0161\u0107e: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Geotermisk energi</title><label>Bet\u00e4nkande: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Geothermal energy</title><label>Report: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Fuinneamh geoiteirmeach</title><label>Tuarasc\u00e1il: Zdzis\u0142aw Krasnod\u0119bski (A9-0432/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

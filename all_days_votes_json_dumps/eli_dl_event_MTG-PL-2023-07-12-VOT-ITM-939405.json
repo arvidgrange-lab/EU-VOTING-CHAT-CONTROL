@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939405",
+            "activity_label": {
+                "fr": "Situation au Liban"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0325",
+                "eli/dl/doc/B-9-2023-0328",
+                "eli/dl/doc/B-9-2023-0323",
+                "eli/dl/doc/B-9-2023-0326",
+                "eli/dl/doc/B-9-2023-0324",
+                "eli/dl/doc/B-9-2023-0327"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_87"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939405",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation au Liban</title><label>Propositions de r\u00e9solution: RC-B9-0323/2023, B9-0323/2023, B9-0324/2023, B9-0325/2023, B9-0326/2023, B9-0327/2023, B9-0328/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

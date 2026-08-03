@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939206",
+            "activity_label": {
+                "fr": "Renforcer le dialogue social"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0259"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-42",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939206",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renforcer le dialogue social</title><label>Proposition de r\u00e9solution: B9-0259/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

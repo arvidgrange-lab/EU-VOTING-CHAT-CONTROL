@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938659",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938659",
+            "activity_label": {
+                "fr": "Chapitres REPowerEU des plans pour la reprise et la r\u00e9silience"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0260"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "938659",
+            "epvoc:amendmentsAdoptedCommittee": 2,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 2,
+            "epvoc:amendmentsTabledCommittee": 4,
+            "epvoc:amendmentsTabledMEP": 3,
+            "epvoc:amendmentsTabledPoliticalGroup": 3,
+            "epvoc:amendmentsTabledTotal": 10,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Chapitres REPowerEU des plans pour la reprise et la r\u00e9silience</title><label>Rapport: Eider Gardiazabal Rubial, Siegfried Mure\u015fan, Drago\u015f P\u00eeslaru (A9-0260/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-645607-5",
+            "type": "Activity",
+            "activity_date": "2017-10-05",
+            "activity_id": "MTG-PL-2017-10-05-VOT-ITM-645607-5",
+            "activity_label": {
+                "fr": "Syst\u00e8mes p\u00e9nitentiaires et conditions dans les prisons"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0251"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-05-OJ-ITM-V-52"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-05-VOT-ITM-005"
+            ],
+            "notation_dlvId": "645607",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8mes p\u00e9nitentiaires et conditions dans les prisons</title><label>Rapport: Jo\u00eblle Bergeron (A8-0251/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-645607-5",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646098-2",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646097-1",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-647470-4",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646100-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2062",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-645607-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646098-2",
+            "type": "Activity",
+            "activity_date": "2017-10-05",
+            "activity_id": "MTG-PL-2017-10-05-VOT-ITM-646098-2",
+            "activity_label": {
+                "fr": "Les cas des dirigeants tatars de Crim\u00e9e Akhtem Chiygoz et Ilmi Umerov ainsi que du journaliste Mykola Semena _x000D_"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0559",
+                "eli/dl/doc/B-8-2017-0557",
+                "eli/dl/doc/B-8-2017-0545",
+                "eli/dl/doc/B-8-2017-0552",
+                "eli/dl/doc/B-8-2017-0548"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-05-OJ-ITM-V-66"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-05-VOT-ITM-002"
+            ],
+            "notation_dlvId": "646098",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les cas des dirigeants tatars de Crim\u00e9e Akhtem Chiygoz et Ilmi Umerov ainsi que du journaliste Mykola Semena _x000D_\n</title><label>Propositions de r\u00e9solution: B8-0545/2017, B8-0548/2017, B8-0552/2017, B8-0557/2017, B8-0559/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-645607-5",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646098-2",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646097-1",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-647470-4",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646100-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2869",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646098-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646097-1",
+            "type": "Activity",
+            "activity_date": "2017-10-05",
+            "activity_id": "MTG-PL-2017-10-05-VOT-ITM-646097-1",
+            "activity_label": {
+                "fr": "La situation des personnes atteintes d'albinisme au Malawi et dans d'autres pays africains"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0553",
+                "eli/dl/doc/B-8-2017-0554",
+                "eli/dl/doc/B-8-2017-0544",
+                "eli/dl/doc/B-8-2017-0543",
+                "eli/dl/doc/B-8-2017-0562",
+                "eli/dl/doc/B-8-2017-0546",
+                "eli/dl/doc/B-8-2017-0547",
+                "eli/dl/doc/B-8-2017-0551"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-05-OJ-ITM-V-65"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-05-VOT-ITM-001"
+            ],
+            "notation_dlvId": "646097",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La situation des personnes atteintes d'albinisme au Malawi et dans d'autres pays africains</title><label>Propositions de r\u00e9solution: B8-0543/2017, B8-0544/2017, B8-0546/2017, B8-0547/2017, B8-0551/2017, B8-0553/2017, B8-0554/2017, B8-0562/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-645607-5",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646098-2",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646097-1",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-647470-4",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646100-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2868",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646097-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-647470-4",
+            "type": "Activity",
+            "activity_date": "2017-10-05",
+            "activity_id": "MTG-PL-2017-10-05-VOT-ITM-647470-4",
+            "activity_label": {
+                "fr": "Coop\u00e9ration renforc\u00e9e: Parquet europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0290"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-05-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-05-VOT-ITM-004"
+            ],
+            "notation_dlvId": "647470",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coop\u00e9ration renforc\u00e9e: Parquet europ\u00e9en</title><label>Recommandation: Barbara Matera (A8-0290/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-645607-5",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646098-2",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646097-1",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-647470-4",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646100-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0255",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-647470-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646100-3",
+            "type": "Activity",
+            "activity_date": "2017-10-05",
+            "activity_id": "MTG-PL-2017-10-05-VOT-ITM-646100-3",
+            "activity_label": {
+                "fr": "La situation aux Maldives"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0549",
+                "eli/dl/doc/B-8-2017-0558",
+                "eli/dl/doc/B-8-2017-0556",
+                "eli/dl/doc/B-8-2017-0555",
+                "eli/dl/doc/B-8-2017-0550",
+                "eli/dl/doc/B-8-2017-0561",
+                "eli/dl/doc/B-8-2017-0560"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-10-05-OJ-ITM-V-67"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-10-05-VOT-ITM-003"
+            ],
+            "notation_dlvId": "646100",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La situation aux Maldives</title><label>Propositions de r\u00e9solution: B8-0549/2017, B8-0550/2017, B8-0555/2017, B8-0556/2017, B8-0558/2017, B8-0560/2017, B8-0561/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-645607-5",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646098-2",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646097-1",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-647470-4",
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646100-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2870",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-10-05-VOT-ITM-646100-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

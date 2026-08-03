@@ -1,0 +1,363 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479442-7",
+            "type": "Activity",
+            "activity_date": "2015-11-25",
+            "activity_id": "MTG-PL-2015-11-25-VOT-ITM-479442-7",
+            "activity_label": {
+                "fr": "Pr\u00e9vention de la radicalisation et du recrutement de citoyens de l'Union par des organisations terroristes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0316"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-11-25-OJ-ITM-V-69"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-11-25-VOT-ITM-007"
+            ],
+            "notation_dlvId": "479442",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pr\u00e9vention de la radicalisation et du recrutement de citoyens de l'Union par des organisations terroristes</title><label>Rapport: Rachida Dati (A8-0316/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-11-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479442-7",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479433-8",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-2",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-1",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479708-6",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-4",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479438-5",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2063",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479442-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479433-8",
+            "type": "Activity",
+            "activity_date": "2015-11-25",
+            "activity_id": "MTG-PL-2015-11-25-VOT-ITM-479433-8",
+            "activity_label": {
+                "fr": "Cadre strat\u00e9gique de l'Union europ\u00e9enne en mati\u00e8re de sant\u00e9 et de s\u00e9curit\u00e9 au travail (2014-2020)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0312"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-11-25-OJ-ITM-V-58"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-11-25-VOT-ITM-008"
+            ],
+            "notation_dlvId": "479433",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre strat\u00e9gique de l'Union europ\u00e9enne en mati\u00e8re de sant\u00e9 et de s\u00e9curit\u00e9 au travail (2014-2020)</title><label>Rapport: Ole Christensen (A8-0312/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-11-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479442-7",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479433-8",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-2",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-1",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479708-6",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-4",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479438-5",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2107",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479433-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-2",
+            "type": "Activity",
+            "activity_date": "2015-11-25",
+            "activity_id": "MTG-PL-2015-11-25-VOT-ITM-480210-2",
+            "activity_label": {
+                "fr": "Mobilisation de l'instrument de flexibilit\u00e9 aux fins des mesures budg\u00e9taires imm\u00e9diates pour faire face \u00e0 la crise des r\u00e9fugi\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0336"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-11-25-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-11-25-VOT-ITM-002"
+            ],
+            "notation_dlvId": "480210",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation de l'instrument de flexibilit\u00e9 aux fins des mesures budg\u00e9taires imm\u00e9diates pour faire face \u00e0 la crise des r\u00e9fugi\u00e9s</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A8-0336/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-11-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479442-7",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479433-8",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-2",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-1",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479708-6",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-4",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479438-5",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2264",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-1",
+            "type": "Activity",
+            "activity_date": "2015-11-25",
+            "activity_id": "MTG-PL-2015-11-25-VOT-ITM-480210-1",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 8/2015: ressources propres et contr\u00f4leur europ\u00e9en de la protection des donn\u00e9es"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0337"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-11-25-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-11-25-VOT-ITM-001"
+            ],
+            "notation_dlvId": "480210",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 8/2015: ressources propres et contr\u00f4leur europ\u00e9en de la protection des donn\u00e9es</title><label>Rapport: Eider Gardiazabal Rubial (A8-0337/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-11-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479442-7",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479433-8",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-2",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-1",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479708-6",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-4",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479438-5",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2269",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479708-6",
+            "type": "Activity",
+            "activity_date": "2015-11-25",
+            "activity_id": "MTG-PL-2015-11-25-VOT-ITM-479708-6",
+            "activity_label": {
+                "fr": "Opposition en application de l'article 106 du r\u00e8glement: octroi d'une autorisation des utilisations du phtalate bis-(2-\u00e9thylhexyle) (DEHP)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1228"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-11-25-OJ-ITM-V-82"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-11-25-VOT-ITM-006"
+            ],
+            "notation_dlvId": "479708",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Opposition en application de l'article 106 du r\u00e8glement: octroi d'une autorisation des utilisations du phtalate bis-(2-\u00e9thylhexyle) (DEHP)</title><label>B8-1228/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-11-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479442-7",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479433-8",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-2",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-1",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479708-6",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-4",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479438-5",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2962",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479708-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-4",
+            "type": "Activity",
+            "activity_date": "2015-11-25",
+            "activity_id": "MTG-PL-2015-11-25-VOT-ITM-480210-4",
+            "activity_label": {
+                "fr": "Proc\u00e9dure budg\u00e9taire 2016: projet commun"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0333"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-11-25-OJ-ITM-V-101"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-11-25-VOT-ITM-004"
+            ],
+            "notation_dlvId": "480210",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Proc\u00e9dure budg\u00e9taire 2016: projet commun</title><label>Rapport: Jos\u00e9 Manuel Fernandes et  G\u00e9rard Deprez (A8-0333/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-11-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479442-7",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479433-8",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-2",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-1",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479708-6",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-4",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479438-5",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2132",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479438-5",
+            "type": "Activity",
+            "activity_date": "2015-11-25",
+            "activity_id": "MTG-PL-2015-11-25-VOT-ITM-479438-5",
+            "activity_label": {
+                "fr": "Rescrits fiscaux et autres mesures similaires par leur nature ou par leur effet"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0317"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-11-25-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-11-25-VOT-ITM-005"
+            ],
+            "notation_dlvId": "479438",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rescrits fiscaux et autres mesures similaires par leur nature ou par leur effet</title><label>Rapport: Elisa Ferreira et  Michael Theurer (A8-0317/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-11-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479442-7",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479433-8",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-2",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-1",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479708-6",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-4",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479438-5",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2066",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479438-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-3",
+            "type": "Activity",
+            "activity_date": "2015-11-25",
+            "activity_id": "MTG-PL-2015-11-25-VOT-ITM-480210-3",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne aux fins du paiement d'avances dans le cadre du budget 2016"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0335"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-11-25-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-11-25-VOT-ITM-003"
+            ],
+            "notation_dlvId": "480210",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne aux fins du paiement d'avances dans le cadre du budget 2016</title><label>Rapport: Lefteris Christoforou (A8-0335/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-11-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479442-7",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479433-8",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-2",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-1",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479708-6",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-4",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-479438-5",
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2123",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-11-25-VOT-ITM-480210-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

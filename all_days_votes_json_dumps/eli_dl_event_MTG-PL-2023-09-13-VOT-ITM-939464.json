@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939464",
+            "activity_label": {
+                "fr": "Coop\u00e9ration administrative dans le domaine fiscal"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0236"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-42",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939464",
+            "epvoc:amendmentsAdoptedCommittee": 114,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 114,
+            "epvoc:amendmentsTabledCommittee": 114,
+            "epvoc:amendmentsTabledTotal": 114,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coop\u00e9ration administrative dans le domaine fiscal</title><label>Rapport: Rasmus Andresen (A9-0236/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

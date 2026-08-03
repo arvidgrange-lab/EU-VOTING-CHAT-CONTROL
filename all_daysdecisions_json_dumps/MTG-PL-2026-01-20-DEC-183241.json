@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-01-20-DEC-183241",
+            "type": "Vote",
+            "activity_date": "2026-01-20",
+            "activity_id": "MTG-PL-2026-01-20-DEC-183241",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "183241",
+            "referenceText": {
+                "es": "Solicitud de decisi\u00f3n de urgencia",
+                "pl": "Wniosek o podj\u0119cie decyzji w trybie pilnym",
+                "et": "Kiireloomulise otsuse tegemise taotlus",
+                "hu": "S\u00fcrg\u0151ss\u00e9gi elj\u00e1r\u00e1sra ir\u00e1nyul\u00f3 k\u00e9relem",
+                "sl": "zahteva za nujno odlo\u010ditev",
+                "ga": "Iarraidh ar chinneadh pr\u00e1inneach",
+                "it": "Richiesta di decisione d'urgenza",
+                "en": "Request for an urgent decision",
+                "sk": "\u017diados\u0165 o naliehav\u00e9 rozhodnutie",
+                "de": "Antrag auf einen Beschluss im Dringlichkeitsverfahren",
+                "cs": "\u017e\u00e1dost o p\u0159ijet\u00ed nal\u00e9hav\u00e9ho rozhodnut\u00ed",
+                "fr": "Demande de d\u00e9cision d'urgence",
+                "bg": "\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u043d\u0435\u043e\u0442\u043b\u043e\u0436\u043d\u043e \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+                "sv": "Beg\u00e4ran om br\u00e5dskande beslut",
+                "hr": "Zahtjev za hitnu odluku",
+                "lv": "Piepras\u012bjums steidzami pie\u0146emt l\u0113mumu",
+                "lt": "Pra\u0161ymas taikyti skubos tvark\u0105",
+                "nl": "Verzoek om een urgent besluit",
+                "ro": "Cerere de aplicare a procedurii de urgen\u021b\u0103",
+                "fi": "kiireellist\u00e4 p\u00e4\u00e4t\u00f6st\u00e4 koskeva pyynt\u00f6",
+                "da": "Anmodning om uops\u00e6ttelig afg\u00f8relse",
+                "el": "\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03ba\u03b1\u03c4\u03b5\u03c0\u03b5\u03af\u03b3\u03bf\u03c5\u03c3\u03b1 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7",
+                "pt": "Pedido de aplica\u00e7\u00e3o do processo de urg\u00eancia",
+                "mt": "Talba g\u0127al de\u010bi\u017cjoni ur\u0121enti"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

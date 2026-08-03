@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938725",
+            "activity_label": {
+                "fr": "Situation de l'ancien pr\u00e9sident de la G\u00e9orgie, Mikhe\u00efl Saakachvili"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0117",
+                "eli/dl/doc/B-9-2023-0114",
+                "eli/dl/doc/B-9-2023-0106",
+                "eli/dl/doc/B-9-2023-0109",
+                "eli/dl/doc/B-9-2023-0112"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-56",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "938725",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation de l'ancien pr\u00e9sident de la G\u00e9orgie, Mikhe\u00efl Saakachvili</title><label>Propositions de r\u00e9solutions: B9-0106/2023, B9-0109/2023, B9-0112/2023, B9-0114/2023, B9-0117/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

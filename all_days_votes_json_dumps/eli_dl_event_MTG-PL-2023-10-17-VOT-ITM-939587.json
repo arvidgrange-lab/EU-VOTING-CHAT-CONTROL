@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-17-VOT-ITM-939587",
+            "type": "Activity",
+            "activity_date": "2023-10-17",
+            "activity_id": "MTG-PL-2023-10-17-VOT-ITM-939587",
+            "activity_label": {
+                "mul": "Cr\u00e9ation de la facilit\u00e9 pour l'Ukraine - Establishing the Ukraine Facility - Einrichtung der Fazilit\u00e4t f\u00fcr die Ukraine",
+                "fr": "Cr\u00e9ation de la facilit\u00e9 pour l'Ukraine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0286"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-17-OJ-ITM-V-48",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-17-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939587",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 5,
+            "epvoc:amendmentsTabledTotal": 5,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation de la facilit\u00e9 pour l'Ukraine </title><label>Rapport: Michael Gahler, Eider Gardiazabal Rubial (A9-0286/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

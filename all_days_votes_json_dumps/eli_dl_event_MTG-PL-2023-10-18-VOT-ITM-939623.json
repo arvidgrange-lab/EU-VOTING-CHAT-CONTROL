@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939623",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939623",
+            "activity_label": {
+                "mul": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Crit\u00e8res d\u2019examen technique suppl\u00e9mentaires - Objection pursuant to Rule 111(3): Additional technical screening criteria - Einwand gem\u00e4\u00df Artikel 111 Absatz 3 GO: Festlegung zus\u00e4tzlicher technischer Bewertungskriterien",
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Crit\u00e8res d\u2019examen technique suppl\u00e9mentaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0431"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-84",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939623",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Crit\u00e8res d\u2019examen technique suppl\u00e9mentaires</title><label>Proposition de r\u00e9solution: B9-0431/2023 (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

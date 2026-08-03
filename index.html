@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EU POLITICIANS’ HABIT OF SKIPPING WORK ON THURSDAYS MAY HAVE COST EUROPEAN CITIZENS THEIR PRIVACY</title>
+  
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollama/3.2.0/scrollama.min.js"></script>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400;0,700;1,400&family=Domine:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  
+  <style>
+    :root {
+      --ink: #141414;
+      --paper: #f7f7f3;
+      --unit: #dcdcdc;
+      --unit-stroke: #bdbdbd; /* from chart 2 */
+      --loss: #d94a42;
+      --chat-ctrl: #6d8db4;
+      --rejection-stroke: #ff8c00;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      font-family: 'Lora', serif;
+      color: var(--ink);
+      background: var(--paper);
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      font-family: 'Lora', Georgia, serif;
+      font-weight: 700;
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+    }
+
+    .subhead {
+            font-family: 'Lora', Georgia, serif;
+        }
+
+    .lede-photo {
+  margin: 0 0 2rem 0;      /* figure has default margins — kill them */
+}
+    .lede-photo img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .lede-photo figcaption {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.8rem;
+      line-height: 1.4;
+      color: #555;
+      padding-top: 8px;
+    }
+    .lede-photo .credit {
+      color: #888;
+      font-style: italic;
+    }
+
+    .content {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    /* SCROLLY ARCHITECTURE */
+    #scrolly-master {
+      position: relative;
+      margin-bottom: 5em;
+    }
+
+    .sticky-thing {
+      position: sticky;
+      top: 10vh;
+      height: 80vh;
+      z-index: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* Layers for the charts to stack on top of each other */
+    .chart-layer {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      transition: opacity 0.5s ease;
+    }
+
+    #hemicycle-container {
+      opacity: 0; /* Starts visible */
+    }
+
+    #voting-container {
+      opacity: 1; /* Starts hidden */
+    }
+
+    /* HEMICYCLE SPECIFICS */
+    #hemicycle-chart {
+      width: 100%; /* Constrains it to 90% of the viewport width */
+      max-width: min(800px, 75vh);
+      margin: 0 auto; /* Keeps it centered */
+    }
+    #hemicycle-chart svg {
+      width: 100%;
+      height: auto;
+      aspect-ratio: 900 / 850;
+    }
+
+    /* VOTING CHART SPECIFICS */
+    #voting-chart svg { width: 100%; height: auto; display: block; }
+    
+    .unit {
+      stroke: var(--unit-stroke);
+      stroke-width: 1;
+      transition: filter 200ms ease, transform 200ms ease;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    .unit:hover {
+      filter: drop-shadow(0px 4px 5px rgba(0,0,0,0.4));
+      transform: scale(1.25);
+      cursor: pointer;
+    }
+
+    #dashboard-container {
+      max-width: 380px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    #legend {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-bottom: 24px;
+    }
+
+    .legend-item { display: flex; align-items: center; gap: 8px; font-size: 14px; margin-left: 4px; }
+    .legend-box { width: 16px; height: 16px; border: 1px solid var(--unit-stroke); background-color: var(--unit); }
+    .loss-box { background-color: var(--loss); }
+    .chat-ctrl-box { background-color: var(--chat-ctrl); }
+
+    /* TOOLTIP */
+    #tooltip {
+      position: absolute;
+      background: rgba(0, 0, 0, 0.85);
+      color: white;
+      padding: 8px 12px;
+      border-radius: 4px;
+      font-size: 14px;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 200ms;
+      z-index: 9999;
+    }
+
+    /* STEPS CONTAINER */
+    .steps-container {
+      position: relative;
+      z-index: 10;
+      max-width: 35rem;
+      margin: 0 auto;
+      padding-bottom: 4em;
+    }
+
+    .step {
+      margin-bottom: 60svh;
+      background: rgba(255, 255, 255, 0.949);
+      padding: 1.5rem;
+      border: 1px solid var(--unit-stroke);
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    }
+
+    #exit-step { 
+      background: none; 
+      border: none; 
+      box-shadow: none;
+      margin-bottom: 0; /* Kills the 60svh gap */
+      padding: 0;
+    }
+
+    /* Forces text and inline SVGs inside the steps to scale cleanly */
+    .step p { margin: 0 0 1em 0; line-height: 1.6; }
+    .step svg { max-width: 100%; height: auto; display: block; margin: 1em auto; }
+
+    #weekday-unit-section { max-width: 1000px; margin: 0 auto; padding: 60px 20px 10vh; }
+    #weekday-chart svg { width: 100%; height: auto; display: block; overflow: visible; }
+
+    #weekday-legend {
+      display: flex;
+      flex-direction: column;   /* was: flex-wrap: wrap */
+      gap: 8px;                 /* was: 20px — 8px matches the first legend */
+      margin-bottom: 24px;      /* was: 22px — 24px also matches */
+    }
+
+    #weekday-chart .day-label {
+      font-family: 'Lora', serif;
+      font-size: 17px;
+      font-weight: 600;
+      fill: var(--ink);
+    }
+
+    .footer {
+            background: #f4f4f4;
+            text-align: center;
+            font-size: 0.8em;
+            margin-top: 4em;
+            padding: 4em 0;
+        }
+
+     /* --- MOBILE RULES (Must be at the very bottom!) --- */
+        @media (max-width: 640px) {
+            body {
+                font-size: 18px;
+            }
+
+            /* Increases padding so text stops hugging the left/right edges */
+            .content {
+                padding-left: 1.2em;
+                padding-right: 1.2em;
+            }
+
+            /* Shrinks the massive title so it fits beautifully on a phone */
+            h1 {
+                font-size: 2.2em;
+            }
+
+            /* Adjusts header padding and aligns text left */
+            .header .content {
+                text-align: left;
+                padding-top: 1em;
+                padding-bottom: 1em;
+                padding-left: 1.2em;  /* <--- Add this line! */
+                padding-right: 1.2em; /* <--- And this line! */
+            }
+
+            /* Overrides the desktop background rules */
+            .with-image-bg {
+                background-position: center top; 
+                background-size: 100% auto; /* Forces the image edges to match the screen edges */
+                background-repeat: no-repeat; /* Prevents the image from tiling */
+                min-height: auto;
+            }
+        } 
+
+  </style>
+</head>
+<body>
+
+  <div class="content">
+    <div class="header">
+      <h1>EU POLITICIANS’ HABIT OF SKIPPING WORK ON THURSDAYS MAY HAVE COST EUROPEANS THEIR PRIVACY</h1>
+      <p class="subhead"><b>A known habit among EU legislators to skip work on Thursdays may have contributed to passing the controversial “Chat Control” law, allowing major tech companies to scan EU citizens’ private messages without any suspicion of crime.
+<br><br>This analysis of years of EU voting data shows how. Further investigation also finds that those messages may end up in none other than controversial AI company Palantir's possession.
+</b></p>
+<figure class="lede-photo">
+  <img src="empty%20piarl.jpg"
+       alt="Rows of empty seats in the European Parliament's plenary chamber in Strasbourg.">
+  <figcaption style="font-size: smaller;">The European Parliament’s empty plenary chamber in Strasbourg.<span class="credit">Photo: Eva Van Wassenhove</span></figcaption>
+</figure>
+    </div>
+    <br><br>
+    <div class="byline">
+            <p style="font-size: smaller;">By Arvid Grange<br>Published August 4, 2026</p>
+        </div>
+    <p>Shortly after noon on July 9th this year, in the European Parliament’s chambers in Strasbourg, France, voting commenced on the controversial ePrivacy Directive. The law, colloquially known by critics as “Chat Control 1.0”, was allowing tech companies to scan EU citizens’ private messages with the aim of combatting child sexual abuse.
+      <br><br>
+      But in April 2026 the directive, being a temporary law, expired. As such a new vote had to be held on whether to reinstate the law, extending the right of tech companies such as Meta, Snap, Google and Microsoft to scan private messages until 2028.
+      <br><br>
+      It was just reaching half past one in the afternoon on July 9th, a Thursday, when the votes were cast. The result was a majority of 314 MEPs in favour of discarding the law and ending the scanning of private messages. Even so, the law passed and was reinstated until 2028.
+   <br><br>
+   The reason being that this vote was no normal vote, but a so called “second reading”. After a similar vote in March rejected extending the law, the EU Council rejected the Parliament’s decision and returned a new proposal to extend the law. According to EU legislative process, rejecting the Council’s position at this stage cannot be done with a simple majority vote.
+   <br><br>
+   Rejecting it requires an <i>absolute</i> majority, meaning that those wishing to reject the law do not just need more votes than the opposing side. Instead, they need more than half of the full number of seats in parliament on their side, even if the chamber is only half full when the vote is taking place.
+  <br><br>
+  By analysing years of EU Parliament voting data we could map how this requirement, combined with a habit of EU parliamentarians to skip work on Thursdays may have cost European citizens their digital privacy, and passed it to the controversial AI-company Palantir.
+  <br><br>
+   Here are all second reading votes, requiring absolute majority to reject the EU council’s position, that have been held since 2014 (excluding 2020 – 2022, when voting was done remotely due to the covid-19 pandemic).
+  </p>
+  </div>
+
+  <div id="tooltip"></div>
+
+  <section id="scrolly-master">
+    <!-- BACKGROUND CHARTS (STICKY) -->
+    <div class="sticky-thing">
+      
+      <!-- Hemicycle Layer -->
+      <div id="hemicycle-container" class="chart-layer">
+        <div id="hemicycle-chart"></div>
+      </div>
+
+      <!-- Voting Grid Layer -->
+      <div id="voting-container" class="chart-layer">
+        <div id="dashboard-container">
+          <div id="legend">
+            <div class="legend-item"><div class="legend-box unit-box"></div><span>EU Council's position upheld</span></div>
+            <div class="legend-item"><div class="legend-box loss-box"></div><span>EU Council's position overturned</span></div>
+            <div class="legend-item"><div class="legend-box chat-ctrl-box"></div><span>Votes on extending "Chat Control"</span></div>
+          </div>
+          <div id="voting-chart"></div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="steps-container">
+      
+      <div class="step" id="v-step1">
+        <p>These votes are very rare, with our analysis only finding 96 cases over the past 12 years. The overwhelmingly most common procedure is for the EU Council to not reject the Parliament’s position.</p>
+      </div>
+      <div class="step" id="v-step2">
+        <p>Even more rare are the times when parliament manages to muster an absolute majority and reject the Council’s position. Only five of these votes resulted in the Council’s position being overturned.</p>
+      </div>
+      <div class="step" id="v-step3">
+        <p>The true rarity of absolute majority votes is made clearer by the fact that 28 of these 96 votes were held on July 9th, on extending the ePrivacy Directive.</p>
+      </div>
+      <div class="step" id="v-step3-2">
+        <p>Of these, two votes reached the required absolute majority to reject the council’s position. These were not votes on rejecting the law as whole, however, but to make small amendments, denying tech companies the right to scan messages protected with end-to-end encryption.
+        </p>
+      </div>
+      <div class="step" id="v-step4">
+        <p>The votes to reject the law entirely, two of them in the same sitting, both failed. The first despite a 314 vs 276 majority voted to reject it. The second vote to reject the law saw many MEPs switching sides, with only 276 MEPs still in favour of rejecting the law.</p>
+      </div>
+      <div class="step" id="v-step5">
+        <p>The EU Council normally does not get much resistance during second reading votes. Of all these 96 votes, only five reached a simple majority, the normal requirement for winning a vote. All of these five were votes on extending “Chat Control 1.0”.</p>
+      </div>
+      <div class="step" id="v-step6">
+        <p>Supporters of “Chat Control” argue that the scanning of private messages without prior suspicion of crime is necessary to combat child sexual abuse. Opponents of the law counter that it constitutes an unacceptable invasion of privacy.
+          <br><br>
+          According to the constitution of the European Union, from 1957, “Everyone has the right to the protection of personal data concerning them.”
+          <br><br>
+          But at least two of the major lobbyists behind the law – child protection organizations Thorn and WeProtect Global Alliance, which have had lobby meetings for the law with commissioner Ylva Johansson, the creator of the law proposal, as well as with the president of the European Comission, Ursula von der Leyen – have strong links to American tech and AI company Palantir.
+          <br><br>
+          Thorn officially lists Palantir as one of their “Tech Task Force Members” and in 2021 Palantir made a blog post stating that they had joined WeProtect Global Alliance.
+          <br><br>
+          Besides these partnerships Palantir shares an even more direct link to scanning the private messages. The big tech companies, being predominantly American, are bound by U.S federal law to hand the data over to the National Center for Missing and Exploited Children (NCMEC).
+          <br><br>
+          The NCMEC, in turn, uses Palantir’s software for analysing the data.
+          <br><br>
+          For reference, Palantir’s other software partnerships include, but are not limited to, the Israeli Defence Force “in support of war-related missions”, as well as the U.S Immigration and Customs Enforcement agency (ICE).
+        </p>
+      </div>
+
+      
+      <div class="step" id="h-step1">
+        <p>How does the fact that this vote was held on a Thursday possibly affect the outcome?
+          <br><br>
+          Although Strasbourg is the official seat of the EU Parliament, business as usual is done in Brussels, Belgium. The MEPs only go to Strasbourg for voting sessions one week each month, Monday through Thursday.
+        </p>
+      </div>
+      <div class="step" id="h-step1-2">
+        <p>Mondays are consumed by the 4.5-hour train ride between the cities, and no major votes are held. Over the subsequent voting days the 720-seat chamber is rarely full and attendance changes drastically.</p>
+      </div>
+      <div class="step" id="h-step2">
+        <p>Attendance peaks on Tuesdays, the first real day of voting. An average of 641 MEPs are in the plenary chamber.</p>
+      </div>
+      <div class="step" id="h-step3">
+        <p>On Wednesdays the attendance drops a little bit, to 632 attendees.</p>
+      </div>
+      <div class="step" id="h-step4">
+        <p>Then it plummets, from 632 on Wednesday to just 587 on Thursday. Many MEPs want to get home to Brussels in time, so they skip out.</p>
+      </div>
+
+      <!-- === STATIC BAR CHART INTERMISSION === -->
+      <div class="step" id="bar-step">
+        <p>This dropoff on Thursdays is reflected in the 50 worst attended days in the parliament overall, according to data over the past two-and-a-half years.
+      <br><br>Of the 50 worst attended days, 23 were Thursdays.
+</p>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="auto"><g transform="translate(50,40)"><rect x="78.21428571428572" y="180.39999999999998" width="52.14285714285714" height="229.60000000000002" fill="#1f4b7a"></rect><rect x="208.57142857142856" y="360.8" width="52.14285714285714" height="49.19999999999999" fill="#1f4b7a"></rect><rect x="338.9285714285714" y="262.4" width="52.14285714285714" height="147.60000000000002" fill="#1f4b7a"></rect><rect x="469.2857142857142" y="32.79999999999998" width="52.14285714285714" height="377.20000000000005" fill="#1f4b7a"></rect><rect x="599.6428571428571" y="393.59999999999997" width="52.14285714285714" height="16.400000000000034" fill="#1f4b7a"></rect><g transform="translate(0,410)" fill="none" font-size="20" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="currentColor" d="M0,6V0H730V6"></path><g class="tick" opacity="1" transform="translate(104.28571428571429,0)"><line stroke="currentColor" y2="6"></line><text fill="currentColor" y="9" dy="0.71em">Monday</text></g><g class="tick" opacity="1" transform="translate(234.6428571428571,0)"><line stroke="currentColor" y2="6"></line><text fill="currentColor" y="9" dy="0.71em">Tuesday</text></g><g class="tick" opacity="1" transform="translate(364.99999999999994,0)"><line stroke="currentColor" y2="6"></line><text fill="currentColor" y="9" dy="0.71em">Wednesday</text></g><g class="tick" opacity="1" transform="translate(495.3571428571428,0)"><line stroke="currentColor" y2="6"></line><text fill="currentColor" y="9" dy="0.71em">Thursday</text></g><g class="tick" opacity="1" transform="translate(625.7142857142857,0)"><line stroke="currentColor" y2="6"></line><text fill="currentColor" y="9" dy="0.71em">Friday</text></g></g><g fill="none" font-size="20" font-family="sans-serif" text-anchor="end"><path class="domain" stroke="currentColor" d="M-6,410H0V0H-6"></path><g class="tick" opacity="1" transform="translate(0,410)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">0</text></g><g class="tick" opacity="1" transform="translate(0,377.2)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">2</text></g><g class="tick" opacity="1" transform="translate(0,344.4)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">4</text></g><g class="tick" opacity="1" transform="translate(0,311.6)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">6</text></g><g class="tick" opacity="1" transform="translate(0,278.79999999999995)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">8</text></g><g class="tick" opacity="1" transform="translate(0,246)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">10</text></g><g class="tick" opacity="1" transform="translate(0,213.20000000000002)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">12</text></g><g class="tick" opacity="1" transform="translate(0,180.39999999999998)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">14</text></g><g class="tick" opacity="1" transform="translate(0,147.6)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">16</text></g><g class="tick" opacity="1" transform="translate(0,114.80000000000001)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">18</text></g><g class="tick" opacity="1" transform="translate(0,81.99999999999999)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">20</text></g><g class="tick" opacity="1" transform="translate(0,49.199999999999996)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">22</text></g><g class="tick" opacity="1" transform="translate(0,16.400000000000013)"><line stroke="currentColor" x2="-6"></line><text fill="currentColor" x="-9" dy="0.32em">24</text></g></g></g></svg>
+        
+      </div>
+
+      <!-- === HEMICYCLE RETURNS === -->
+      <div class="step" id="h-step5">
+        <p>But the real number of MEPs skipping out on the Thursday afternoon plenary sessions are higher. While 587 MEPs on average are signed up for the sessions on Thursday mornings. Looking at votes after noon show that another 13 are gone by then.</p>
+      </div>
+
+      <div class="step" id="h-step6">
+        <p>This brings the actual Thursday afternoon average down to 574. That is 67 MEPs fewer than the average Tuesday.
+</p>
+      </div>
+
+      <div class="step" id="h-step2">
+        <p>Here you see the difference between Tuesdays...</p>
+      </div>
+
+      <div class="step" id="h-step6">
+        <p>And Thursday afternoons.</p>
+      </div>
+
+      <div class="step" id="exit-step"></div>
+    </div>
+
+  </section>
+<div class="content">
+    <p>While an absolute majority is still possible for the parliament to achieve, high absences make it a statistically more improbable event.</p>
+    <p>The vote on extending the ePrivacy Directive, or “Chat Control 1.0”, has gotten much criticism for being held on the last plenary session before the EU Parliament goes on summer recess. The argument being that many MEPs had already left for early vacation.</p>
+    <p>“Chat Control 1.0 passed the European Parliament — through the back door”, Euronews called it in an article shortly after the vote.</p>
+    <p>In actuality, the vote had a higher attendance than the average Thursday vote, with just over 600 MEPs being present. Although that still places it well below the average Tuesday attendance of 641.</p>
+    <p>Breaking down the second reading votes held between 2014 and 2026 by weekday, there is no remarkable pattern showing that it is less likely for Parliament to overturn the Council’s position on a Thursday than any other day.</p>  
+  </div>
+
+<section class="content" id="weekday-unit-section">
+  <div id="weekday-legend">
+    <div class="legend-item"><div class="legend-box unit-box"></div><span>EU Council's position upheld</span></div>
+    <div class="legend-item"><div class="legend-box loss-box"></div><span>EU Council's position overturned</span></div>
+    <div class="legend-item"><div class="legend-box chat-ctrl-box"></div><span>Votes on extending "Chat Control"</span></div>
+  </div>
+  <div id="weekday-chart">
+    <svg viewBox="0 0 1012 112" role="img" aria-label="Unit chart. Each square is one European Parliament second-reading vote, grouped by sitting day. Tuesday: 32 votes, 2 Council losses. Wednesday: 20 votes, 1 loss. Thursday: 44 votes, 2 losses.">
+      
+      <defs>
+        <!-- The Red/Blue Split for Losses -->
+        <linearGradient id="split-color-weekday-loss" x1="0%" y1="100%" x2="100%" y2="0%">
+          <stop offset="50%" style="stop-color: var(--loss);"></stop>
+          <stop offset="50%" style="stop-color: var(--chat-ctrl);"></stop>
+        </linearGradient>
+        
+        <!-- The Gray/Blue Split for Upheld Votes -->
+        <linearGradient id="split-color-weekday-upheld" x1="0%" y1="100%" x2="100%" y2="0%">
+          <stop offset="50%" style="stop-color: var(--unit);"></stop>
+          <stop offset="50%" style="stop-color: var(--chat-ctrl);"></stop>
+        </linearGradient>
+      </defs>
+
+      <text class="day-label" x="2" y="18">Tuesdays</text>
+      <text class="day-label" x="354" y="18">Wednesdays</text>
+      <text class="day-label" x="594" y="18">Thursdays</text>
+      
+      <g class="day-group" transform="translate(0,28)">
+        <!-- Tuesday standard gray votes -->
+        <rect class="unit" x="1.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="1.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="1.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="29.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="29.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="29.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="57.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="57.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="57.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="85.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="85.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="85.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="113.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="113.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="113.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="141.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="141.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="141.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="169.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="169.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="169.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="197.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="197.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="197.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="225.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="225.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="225.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="253.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="253.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="253.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect>
+        
+        <!-- Tuesday standard losses (Solid Red) -->
+        <rect class="unit" x="281.96" y="1.96" width="24.08" height="24.08" fill="var(--loss)"></rect><rect class="unit" x="281.96" y="29.96" width="24.08" height="24.08" fill="var(--loss)"></rect>
+      </g>
+      
+      <g class="day-group" transform="translate(352,28)">
+        <!-- Wednesday standard gray votes -->
+        <rect class="unit" x="1.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="1.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="1.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="29.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="29.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="29.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="57.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="57.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="57.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="85.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="85.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="85.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="113.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="113.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="113.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="141.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="141.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="141.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="169.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect>
+        
+        <!-- Wednesday standard loss (Solid Red) -->
+        <rect class="unit" x="169.96" y="29.96" width="24.08" height="24.08" fill="var(--loss)"></rect>
+      </g>
+      
+      <g class="day-group" transform="translate(592,28)">
+        <!-- Thursday standard gray votes -->
+        <rect class="unit" x="1.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="1.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="1.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="29.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="29.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="29.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="57.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="57.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="57.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="85.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="85.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="85.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="113.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="113.96" y="29.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="113.96" y="57.96" width="24.08" height="24.08" fill="var(--unit)"></rect><rect class="unit" x="141.96" y="1.96" width="24.08" height="24.08" fill="var(--unit)"></rect>
+        
+        <!-- Thursday Chat Control Upheld (Gray/Blue Split) -->
+        <rect class="unit" x="141.96" y="29.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="141.96" y="57.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="169.96" y="1.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="169.96" y="29.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="169.96" y="57.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="197.96" y="1.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="197.96" y="29.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="197.96" y="57.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="225.96" y="1.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="225.96" y="29.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="225.96" y="57.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="253.96" y="1.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="253.96" y="29.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="253.96" y="57.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="281.96" y="1.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="281.96" y="29.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="281.96" y="57.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="309.96" y="1.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="309.96" y="29.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="309.96" y="57.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="337.96" y="1.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="337.96" y="29.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="337.96" y="57.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="365.96" y="1.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="365.96" y="29.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect><rect class="unit" x="365.96" y="57.96" width="24.08" height="24.08" fill="url(#split-color-weekday-upheld)"></rect>
+        
+        <!-- Thursday Chat Control Losses (Red/Blue Split) -->
+        <rect class="unit" x="393.96" y="1.96" width="24.08" height="24.08" fill="url(#split-color-weekday-loss)"></rect><rect class="unit" x="393.96" y="29.96" width="24.08" height="24.08" fill="url(#split-color-weekday-loss)"></rect>
+      </g>
+    </svg>
+  </div>
+</section>
+<div class="content">
+    <p>Although the two votes that did reach absolute majority on a Thursday were held only this July, and up until then no Thursday vote had ever reached the absolute majority necessary.</p>
+    <p>However, the sample of votes is too small to draw any conclusions from.</p>
+    <p>In order to see if the voting day could skew the outcome, we instead look at regular votes, requiring only a simple majority, held since 2024. We looked exclusively at the side voting in favour of the proposal, which is statistically more likely to reach larger majorities.</p>
+
+<svg viewBox="0 0 800 500" role="img" aria-label="Bar chart. Share of recorded votes reaching more than 360 votes in favour, by sitting day. Tuesday 82.1 percent (147 of 179). Wednesday 69.5 percent (223 of 321). Thursday 60.7 percent (125 of 206)."><g transform="translate(56,48)"><line class="gridline" x1="0" x2="724" y1="372" y2="372"></line><line class="gridline" x1="0" x2="724" y1="297.6" y2="297.6"></line><line class="gridline" x1="0" x2="724" y1="223.2" y2="223.2"></line><line class="gridline" x1="0" x2="724" y1="148.8" y2="148.8"></line><line class="gridline" x1="0" x2="724" y1="74.39999999999998" y2="74.39999999999998"></line><line class="gridline" x1="0" x2="724" y1="0" y2="0"></line><g class="axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end"><path class="domain" stroke="currentColor" d="M0,372V0"></path><g class="tick" opacity="1" transform="translate(0,372)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">0%</text></g><g class="tick" opacity="1" transform="translate(0,297.6)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">20%</text></g><g class="tick" opacity="1" transform="translate(0,223.2)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">40%</text></g><g class="tick" opacity="1" transform="translate(0,148.8)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">60%</text></g><g class="tick" opacity="1" transform="translate(0,74.39999999999998)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">80%</text></g><g class="tick" opacity="1" transform="translate(0,0)"><line stroke="currentColor" x2="0"></line><text fill="currentColor" x="-10" dy="0.32em">100%</text></g></g><rect class="bar" x="73.70059880239518" y="66.5027932960894" width="143.06586826347302" height="305.4972067039106" fill="var(--unit)"><title>Tuesday: 147 of 179 votes reached more than 360 in favour</title></rect><rect class="bar" x="290.46706586826343" y="113.57009345794398" width="143.06586826347302" height="258.429906542056" fill="var(--unit)"><title>Wednesday: 223 of 321 votes reached more than 360 in favour</title></rect><rect class="bar" x="507.2335329341317" y="146.2718446601942" width="143.06586826347302" height="225.7281553398058" fill="var(--loss)"><title>Thursday: 125 of 206 votes reached more than 360 in favour</title></rect><text class="value-label" x="145.2335329341317" y="54.50279329608939">82.1%</text><text class="value-label" x="361.99999999999994" y="101.57009345794398">69.5%</text><text class="value-label" x="578.7664670658683" y="134.2718446601942">60.7%</text><text class="day-label" x="145.2335329341317" y="402">Tuesdays</text><text class="day-label" x="361.99999999999994" y="402">Wednesdays</text><text class="day-label" x="578.7664670658683" y="402">Thursdays</text><text class="count-label" x="145.2335329341317" y="424">147 of 179 votes</text><text class="count-label" x="361.99999999999994" y="424">223 of 321 votes</text><text class="count-label" x="578.7664670658683" y="424">125 of 206 votes</text></g></svg>
+<p>The data shows that the chances of reaching absolute majority numbers drops through the voting week, from 82% of votes on Tuesdays to only 61% on Thursdays.</p>
+</div>
+<div class="footer">
+        <div class="content">
+            <p style="color: #15191d;">This is an article written for The Lede Program at Columbia University. Methodology and repository is found <a href="https://github.com/arvidgrange-lab">here.</a></p>
+        </div>
+    </div>
+  <script>
+    // ----------------------------------------------------------------
+    // 1. DATA LOADING (Loads both CSVs before building anything)
+    // ----------------------------------------------------------------
+    Promise.all([
+      d3.csv("all_meetings_w_weekdays.csv"),
+      d3.csv("combined_votes_cleaned.csv")
+    ]).then(function([hemiData, voteData]) {
+      
+      // ----------------------------------------------------------------
+      // 2. HEMICYCLE CHART SETUP (from chart 2)
+      // ----------------------------------------------------------------
+      const totalSeats = 720;
+      const hSvg = d3.select("#hemicycle-chart").append("svg")
+        .attr("viewBox", "0 0 900 850")
+        .attr("preserveAspectRatio", "xMidYMid meet");
+      
+      const chamber = hSvg.append("g").attr("class", "chamber");
+      const hRows = 20;
+      const seatsPerRow = totalSeats / hRows;
+      const seatRadius = 5;
+      const centerX = 450;
+      const centerY = 480;
+
+      const angleForSeat = (row, iInRow) => {
+        const start = Math.PI * 0.18;      
+        const end = Math.PI * 1.82;        
+        const angle = start + (iInRow / seatsPerRow) * (end - start);
+        return angle - Math.PI / 2.08;        
+      };
+
+      const seatX = (i) => {
+        const row = Math.floor(i / seatsPerRow);
+        const radius = 70 + row * 12;
+        return centerX + Math.cos(angleForSeat(row, i % seatsPerRow)) * radius;
+      };
+
+      const seatY = (i) => {
+        const row = Math.floor(i / seatsPerRow);
+        const radius = 70 + row * 12;
+        return centerY + Math.sin(angleForSeat(row, i % seatsPerRow)) * radius;
+      };
+
+      const tues_avrg = 641;
+      const wedns_avrg = 632;
+      const thurs_avrg = 587; 
+
+      const seats = chamber.selectAll("circle.seat")
+        .data(d3.range(totalSeats))
+        .join("circle")
+        .attr("class", "seat")
+        .attr("cx", d => seatX(d))
+        .attr("cy", d => seatY(d))
+        .attr("r", seatRadius)
+        .attr("fill", "#1f4b7a")
+        .attr("stroke", "#a7a7a7")
+        .attr("stroke-width", 0.7);
+
+      // ----------------------------------------------------------------
+      // 3. VOTING CHART SETUP (from chart 1)
+      // ----------------------------------------------------------------
+      const COLS = 11;
+      const GRID_W = 380;
+      let isChatCtrl, isRejection;
+
+      const vx = d3.scaleBand().domain(d3.range(COLS)).range([0, GRID_W]).padding(0.14);
+
+      function swapFavorBoxes(arr, v1, v2) {
+        const i = arr.findIndex(d => Number(d["votes_favor"]) === v1);
+        const j = arr.findIndex(d => Number(d["votes_favor"]) === v2);
+        if (i !== -1 && j !== -1) { [arr[i], arr[j]] = [arr[j], arr[i]]; }
+      }
+
+      const tooltip = d3.select("#tooltip");
+
+      const chartData = [...voteData];
+      swapFavorBoxes(chartData, 314, 276);
+
+      const chartPad = 28;
+      const vRows = Math.ceil(voteData.length / COLS);
+      const CELL_SIZE = GRID_W / COLS;
+      const gridH = (vRows * CELL_SIZE) + chartPad;
+
+      const vy = d3.scaleBand().domain(d3.range(vRows)).range([0, gridH]).padding(0.14);
+
+      const vSvg = d3.select("#voting-chart").append("svg")
+        .attr("viewBox", `0 0 ${GRID_W} ${gridH}`);
+
+      const isSimpleMaj = d => Number(d["votes_favor"]) < 361 && Number(d["votes_favor"]) > Number(d["votes_against"]);
+
+      const defs = vSvg.append("defs");
+      const gradient = defs.append("linearGradient")
+        .attr("id", "split-color")
+        .attr("x1", "0%").attr("y1", "100%")
+        .attr("x2", "100%").attr("y2", "0%");
+      gradient.append("stop").attr("offset", "50%").style("stop-color", "var(--loss)");
+      gradient.append("stop").attr("offset", "50%").style("stop-color", "var(--chat-ctrl)");
+
+      const gradientUpheld = defs.append("linearGradient")
+        .attr("id", "split-color-upheld")
+        .attr("x1", "0%").attr("y1", "100%")
+        .attr("x2", "100%").attr("y2", "0%");
+      gradientUpheld.append("stop").attr("offset", "50%").style("stop-color", "var(--unit)");
+      gradientUpheld.append("stop").attr("offset", "50%").style("stop-color", "var(--chat-ctrl)");
+
+      const squares = vSvg.selectAll("rect.unit")
+        .data(chartData)
+        .join("rect")
+          .attr("class", "unit")
+          .attr("x", (d, i) => vx(i % COLS))
+          .attr("y", (d, i) => vy(Math.floor(i / COLS)))
+          .attr("width", vx.bandwidth())
+          .attr("height", vy.bandwidth())
+          .attr("fill", "var(--unit)");
+
+      isChatCtrl = d => d["vote_id"] && d["vote_id"].includes("2026-07-09");
+      isRejection = d => {
+        const proposal = d["heading"] || "";
+        return proposal === "Proposal to reject the Council position" ||
+          (proposal === "Proposal for rejection (Rule 68(4))" && isChatCtrl(d));
+      };
+
+      squares.on("mouseenter", function(event, d) {
+        d3.select(this).raise();
+        tooltip.style("opacity", 1)
+          .style("left", (event.pageX + 15) + "px")
+          .style("top", (event.pageY - 20) + "px")
+          .html(`<strong>Result:</strong> ${d["Council win or loss"]}<br><strong>Votes:</strong> ${Math.round(d["votes_against"])} vs ${Math.round(d["votes_favor"])}`);
+      })
+      .on("mousemove", event => tooltip.style("left", (event.pageX + 15) + "px").style("top", (event.pageY - 20) + "px"))
+      .on("mouseleave", () => tooltip.style("opacity", 0));
+
+
+      // ----------------------------------------------------------------
+      // 4. MASTER SCROLLAMA SETUP
+      // ----------------------------------------------------------------
+      const scroller = scrollama();
+      scroller.setup({
+        step: ".step",
+        offset: 0.6
+      }).onStepEnter(function(response) {
+        const id = response.element.id;
+
+        // --- OPACITY TOGGLES (Who is on screen?) ---
+        if (id.startsWith("h-")) {
+          d3.select("#hemicycle-container").style("opacity", 1);
+          d3.select("#voting-container").style("opacity", 0);
+        } else if (id.startsWith("v-")) {
+          d3.select("#hemicycle-container").style("opacity", 0);
+          d3.select("#voting-container").style("opacity", 1);
+        } else if (id === "bar-step" || id === "exit-step") {
+          d3.select("#hemicycle-container").style("opacity", 0);
+          d3.select("#voting-container").style("opacity", 0);
+        }
+
+        // --- HEMICYCLE TRANSITIONS ---
+        if (id === "h-step1") {
+          seats.transition().duration(500)
+            .attr("fill", "#1f4b7a")
+            .attr("stroke", "#a7a7a7")
+            .attr("stroke-width", 0.7);
+        }
+        if (id === "h-step2") {
+          seats.transition().delay((d, i) => (totalSeats - i) * 3).duration(600)
+            .attr("fill", (d, i) => i < tues_avrg ? "#1f4b7a" : "#e6e6e6")
+            .attr("stroke", (d, i) => i < tues_avrg ? "#a7a7a7" : "#b3b3b3")
+            .attr("stroke-width", (d, i) => i < tues_avrg ? 0.7 : 0.9);
+        }
+        if (id === "h-step3") {
+          seats.transition().delay((d, i) => (totalSeats - i) * 3).duration(600)
+            .attr("fill", (d, i) => i < wedns_avrg ? "#1f4b7a" : "#e6e6e6")
+            .attr("stroke", (d, i) => i < wedns_avrg ? "#a7a7a7" : "#b3b3b3")
+            .attr("stroke-width", (d, i) => i < wedns_avrg ? 0.7 : 0.9);
+        }
+        if (id === "h-step4" || id === "h-step5") {
+          // Re-trigger Thursday's view when coming back from the bar chart
+          seats.transition().delay((d, i) => (totalSeats - i) * 3).duration(600)
+            .attr("fill", (d, i) => i < thurs_avrg ? "#1f4b7a" : "#e6e6e6")
+            .attr("stroke", (d, i) => i < thurs_avrg ? "#a7a7a7" : "#b3b3b3")
+            .attr("stroke-width", (d, i) => i < thurs_avrg ? 0.7 : 0.9);
+        }
+
+        // --- VOTING CHART TRANSITIONS ---
+        if (id === "v-step1") {
+          squares.transition().duration(500)
+            .attr("fill", "var(--unit)")
+            .style("stroke", "var(--unit-stroke)")
+            .style("transform", "scale(1)")
+            .style("filter", "none");
+        }
+        if (id === "v-step2") {
+          squares.transition().delay((d, i) => i * 5).duration(200)
+            .attr("fill", d => d["Council win or loss"] === "Council loss" ? "var(--loss)" : "var(--unit)")
+            .style("stroke", "var(--unit-stroke)")
+            .style("transform", "scale(1)")
+            .style("filter", "none");
+        }
+        if (id === "v-step3" || id === "v-step3-2") {
+          squares.transition().delay((d, i) => i * 5).duration(200)
+            .attr("fill", d => {
+              const isLoss = d["Council win or loss"] === "Council loss";
+              if (isChatCtrl(d) && isLoss) return "url(#split-color)";
+              else if (isChatCtrl(d)) return "url(#split-color-upheld)"; /* THIS LINE CHANGED */
+              else if (isLoss) return "var(--loss)";
+              else return "var(--unit)";
+            })
+            .style("stroke", "var(--unit-stroke)")
+            .style("transform", "scale(1)")
+            .style("filter", "none");
+        }
+        if (id === "v-step4") {
+          const selected = squares.filter(d => isRejection(d) && isChatCtrl(d));
+          selected.raise();
+          squares.transition().delay((d, i) => i * 5).duration(500)
+            .style("stroke", d => (isRejection(d) && isChatCtrl(d)) ? "var(--rejection-stroke)" : "var(--unit-stroke)")
+            .style("stroke-width", d => (isRejection(d) && isChatCtrl(d)) ? 2.5 : 1)
+            .style("transform", d => (isRejection(d) && isChatCtrl(d)) ? "scale(1.4)" : "scale(1)")
+            .style("filter", d => (isRejection(d) && isChatCtrl(d)) ? "drop-shadow(0px 4px 8px rgba(0,0,0,0.7))" : "none");      
+        }
+        if (id === "v-step5") {
+          const selected = squares.filter(d => isSimpleMaj(d));
+          squares.transition().delay((d, i) => i * 5).duration(500)
+            .style("stroke", d => isSimpleMaj(d) ? "var(--rejection-stroke)" : "var(--unit-stroke)")
+            .style("stroke-width", d => isSimpleMaj(d) ? 5.2 : 1)
+            .style("transform", d => isSimpleMaj(d) ? "scale(1.2)" : "scale(1)")
+            .style("filter", d => isSimpleMaj(d) ? "drop-shadow(0 0 18px rgba(59,59,59,10))" : "none");
+        }
+
+        if (id === "h-step6") {
+          // The hardcoded drop to 574
+          const finalDrop = 574;
+          seats.transition().delay((d, i) => (totalSeats - i) * 3).duration(600)
+            .attr("fill", (d, i) => i < finalDrop ? "#1f4b7a" : "#e6e6e6")
+            .attr("stroke", (d, i) => i < finalDrop ? "#a7a7a7" : "#b3b3b3")
+            .attr("stroke-width", (d, i) => i < finalDrop ? 0.7 : 1.2);
+        }
+      });
+
+      window.addEventListener("resize", scroller.resize);
+    });
+  </script>
+</body>
+</html>

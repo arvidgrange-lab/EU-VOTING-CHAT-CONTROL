@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-10-VOT-ITM-939100",
+            "type": "Activity",
+            "activity_date": "2023-05-10",
+            "activity_id": "MTG-PL-2023-05-10-VOT-ITM-939100",
+            "activity_label": {
+                "fr": "Incidence, sur le budget 2024 de l\u2019Union, de l\u2019augmentation des co\u00fbts d\u2019emprunt de l\u2019instrument de l\u2019Union europ\u00e9enne pour la relance"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0163"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-10-OJ-ITM-V-66",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-10-VOT-ITM-058"
+            ],
+            "notation_dlvId": "939100",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Incidence, sur le budget 2024 de l\u2019Union, de l\u2019augmentation des co\u00fbts d\u2019emprunt de l\u2019instrument de l\u2019Union europ\u00e9enne pour la relance</title><label>Rapport: Johan Van Overtveldt (A9-0163/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

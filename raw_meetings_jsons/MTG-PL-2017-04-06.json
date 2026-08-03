@@ -1,0 +1,329 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596128-6",
+            "type": "Activity",
+            "activity_date": "2017-04-06",
+            "activity_id": "MTG-PL-2017-04-06-VOT-ITM-596128-6",
+            "activity_label": {
+                "fr": "Corps europ\u00e9en de solidarit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0238"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-06-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-06-VOT-ITM-006"
+            ],
+            "notation_dlvId": "596128",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Corps europ\u00e9en de solidarit\u00e9</title><label>Proposition de r\u00e9solution: B8-0238/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596128-6",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596114-7",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596108-1",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595322-4",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595030-5",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596113-3",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596111-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2585",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596128-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596114-7",
+            "type": "Activity",
+            "activity_date": "2017-04-06",
+            "activity_id": "MTG-PL-2017-04-06-VOT-ITM-596114-7",
+            "activity_label": {
+                "fr": "Ad\u00e9quation de la protection offerte par le bouclier de protection des donn\u00e9es UE-\u00c9tats-Unis"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0244",
+                "eli/dl/doc/B-8-2017-0235"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-06-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-06-VOT-ITM-007"
+            ],
+            "notation_dlvId": "596114",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ad\u00e9quation de la protection offerte par le bouclier de protection des donn\u00e9es UE-\u00c9tats-Unis</title><label>Proposition de r\u00e9solution: B8-0235/2017, B8-0244/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596128-6",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596114-7",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596108-1",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595322-4",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595030-5",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596113-3",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596111-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3018",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596114-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596108-1",
+            "type": "Activity",
+            "activity_date": "2017-04-06",
+            "activity_id": "MTG-PL-2017-04-06-VOT-ITM-596108-1",
+            "activity_label": {
+                "fr": "Russie, l'arrestation d'Alexe\u00ef Navalny et d'autres manifestants"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0249",
+                "eli/dl/doc/B-8-2017-0251",
+                "eli/dl/doc/B-8-2017-0250",
+                "eli/dl/doc/B-8-2017-0248",
+                "eli/dl/doc/B-8-2017-0245",
+                "eli/dl/doc/B-8-2017-0246"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-06-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-06-VOT-ITM-001"
+            ],
+            "notation_dlvId": "596108",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Russie, l'arrestation d'Alexe\u00ef Navalny et d'autres manifestants</title><label>Propositions de r\u00e9solution: B8-0245/2017, B8-0246/2017, B8-0248/2017, B8-0249/2017, B8-0250/2017, B8-0251/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596128-6",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596114-7",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596108-1",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595322-4",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595030-5",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596113-3",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596111-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2646",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596108-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595322-4",
+            "type": "Activity",
+            "activity_date": "2017-04-06",
+            "activity_id": "MTG-PL-2017-04-06-VOT-ITM-595322-4",
+            "activity_label": {
+                "fr": "March\u00e9s de gros de l'itin\u00e9rance"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0372"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-06-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-06-VOT-ITM-004"
+            ],
+            "notation_dlvId": "595322",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>March\u00e9s de gros de l'itin\u00e9rance</title><label>Rapport: Miapetra Kumpula-Natri (A8-0372/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596128-6",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596114-7",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596108-1",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595322-4",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595030-5",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596113-3",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596111-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0185",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595322-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595030-5",
+            "type": "Activity",
+            "activity_date": "2017-04-06",
+            "activity_id": "MTG-PL-2017-04-06-VOT-ITM-595030-5",
+            "activity_label": {
+                "fr": "Pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa ou en sont exempt\u00e9s: Ukraine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0274"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-06-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-06-VOT-ITM-005"
+            ],
+            "notation_dlvId": "595030",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa ou en sont exempt\u00e9s: Ukraine</title><label>Rapport: Mariya Gabriel (A8-0274/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596128-6",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596114-7",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596108-1",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595322-4",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595030-5",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596113-3",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596111-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0125",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595030-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596113-3",
+            "type": "Activity",
+            "activity_date": "2017-04-06",
+            "activity_id": "MTG-PL-2017-04-06-VOT-ITM-596113-3",
+            "activity_label": {
+                "fr": "Bangladesh, y compris le mariage des enfants"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0260",
+                "eli/dl/doc/B-8-2017-0255",
+                "eli/dl/doc/B-8-2017-0252",
+                "eli/dl/doc/B-8-2017-0262",
+                "eli/dl/doc/B-8-2017-0257",
+                "eli/dl/doc/B-8-2017-0264",
+                "eli/dl/doc/B-8-2017-0254"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-06-OJ-ITM-V-83"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-06-VOT-ITM-003"
+            ],
+            "notation_dlvId": "596113",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Bangladesh, y compris le mariage des enfants</title><label>Propositions de r\u00e9solution: B8-0252/2017, B8-0254/2017, B8-0255/2017, B8-0257/2017, B8-0260/2017, B8-0262/2017, B8-0264/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596128-6",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596114-7",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596108-1",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595322-4",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595030-5",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596113-3",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596111-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2648",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596113-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596111-2",
+            "type": "Activity",
+            "activity_date": "2017-04-06",
+            "activity_id": "MTG-PL-2017-04-06-VOT-ITM-596111-2",
+            "activity_label": {
+                "fr": "Bi\u00e9lorussie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0259",
+                "eli/dl/doc/B-8-2017-0258",
+                "eli/dl/doc/B-8-2017-0263",
+                "eli/dl/doc/B-8-2017-0256",
+                "eli/dl/doc/B-8-2017-0261",
+                "eli/dl/doc/B-8-2017-0253"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-04-06-OJ-ITM-V-82"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-04-06-VOT-ITM-002"
+            ],
+            "notation_dlvId": "596111",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Bi\u00e9lorussie</title><label>Propositions de r\u00e9solution: B8-0253/2017, B8-0256/2017, B8-0258/2017, B8-0259/2017, B8-0261/2017, B8-0263/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-04-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596128-6",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596114-7",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596108-1",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595322-4",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-595030-5",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596113-3",
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596111-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2647",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-04-06-VOT-ITM-596111-2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

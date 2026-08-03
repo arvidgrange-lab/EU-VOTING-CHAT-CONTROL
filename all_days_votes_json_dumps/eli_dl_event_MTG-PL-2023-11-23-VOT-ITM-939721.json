@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939721",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939721",
+            "activity_label": {
+                "mul": "Ad\u00e9quation, subsidiarit\u00e9 et proportionnalit\u00e9 de la r\u00e9glementation de l\u2019Union - rapport \u00abMieux l\u00e9gif\u00e9rer\u00bb couvrant les ann\u00e9es 2020, 2021 et 2022 - European Union regulatory fitness and subsidiarity and proportionality \u2013 report on Better Law Making covering 2020, 2021 and 2022 - Regulatorische Eignung der Unionsvorschriften und Subsidiarit\u00e4t und Verh\u00e4ltnism\u00e4\u00dfigkeit \u2013 Bericht \u00fcber bessere Rechtsetzung 2020, 2021 und 2022",
+                "fr": "Ad\u00e9quation, subsidiarit\u00e9 et proportionnalit\u00e9 de la r\u00e9glementation de l\u2019Union - rapport \u00abMieux l\u00e9gif\u00e9rer\u00bb couvrant les ann\u00e9es 2020, 2021 et 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0310"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-014"
+            ],
+            "notation_dlvId": "939721",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ad\u00e9quation, subsidiarit\u00e9 et proportionnalit\u00e9 de la r\u00e9glementation de l\u2019Union - rapport \u00abMieux l\u00e9gif\u00e9rer\u00bb couvrant les ann\u00e9es 2020, 2021 et 2022</title><label>Rapport: Catharina Rinzema (A9-0310/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,506 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938945",
+            "activity_label": {
+                "fr": "Surveillance, d\u00e9claration et v\u00e9rification des \u00e9missions de dioxyde de carbone du secteur des transports maritimes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0134"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-53",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-004"
+            ],
+            "notation_dlvId": "938945",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Surveillance, d\u00e9claration et v\u00e9rification des \u00e9missions de dioxyde de carbone du secteur des transports maritimes</title><label>Rapport: Peter Liese (A9-0134/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0211B",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938952",
+            "activity_label": {
+                "fr": "Machines et \u00e9quipements"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0141"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-39",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-002"
+            ],
+            "notation_dlvId": "938952",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Machines et \u00e9quipements</title><label>Rapport: Ivan \u0160tefanec (A9-0141/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0105",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938947",
+            "activity_label": {
+                "fr": "Administration en ligne: acc\u00e9l\u00e9rer la transition num\u00e9rique des services publics qui \u00e9tayent le fonctionnement du march\u00e9 int\u00e9rieur"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0065"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-16",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-010"
+            ],
+            "notation_dlvId": "938947",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Administration en ligne: acc\u00e9l\u00e9rer la transition num\u00e9rique des services publics qui \u00e9tayent le fonctionnement du march\u00e9 int\u00e9rieur</title><label>Rapport: Tomislav Sokol (A9-0065/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2036",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938951",
+            "activity_label": {
+                "fr": "M\u00e9canisme d'ajustement carbone aux fronti\u00e8res"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0160"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-36",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-005"
+            ],
+            "notation_dlvId": "938951",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>M\u00e9canisme d'ajustement carbone aux fronti\u00e8res</title><label>Rapport: Mohammed Chahim (A9-0160/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0214",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938957",
+            "activity_label": {
+                "fr": "R\u00e9vision du syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de l'UE pour l'aviation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0155"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-34",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-007"
+            ],
+            "notation_dlvId": "938957",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9vision du syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de l'UE pour l'aviation</title><label>Rapport: Sun\u010dana Glavak (A9-0155/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0207",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938959",
+            "activity_label": {
+                "fr": "Cycles durables du carbone"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0066"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-27",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-009"
+            ],
+            "notation_dlvId": "938959",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cycles durables du carbone</title><label>Rapport: Alexander Bernhuber (A9-0066/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2053",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938948",
+            "activity_label": {
+                "fr": "Fonds social pour le climat"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0157"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-33",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-006"
+            ],
+            "notation_dlvId": "938948",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds social pour le climat</title><label>Rapport: David Casa, Esther de Lange (A9-0157/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0206",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938967",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre de la PSDC civile et d\u2019autres formes d\u2019assistance de l\u2019Union dans le domaine de la s\u00e9curit\u00e9 civile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0091"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-63",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-011"
+            ],
+            "notation_dlvId": "938967",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de la PSDC civile et d\u2019autres formes d\u2019assistance de l\u2019Union dans le domaine de la s\u00e9curit\u00e9 civile</title><label>Rapport: Alviina Alamets\u00e4 (A9-0091/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2196",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938962",
+            "activity_label": {
+                "fr": "Relations institutionnelles entre l'Union europ\u00e9enne et le Conseil de l'Europe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0056"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-47",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-008"
+            ],
+            "notation_dlvId": "938962",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations institutionnelles entre l'Union europ\u00e9enne et le Conseil de l'Europe</title><label>Rapport: Lor\u00e1nt Vincze (A9-0056/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2137",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938946",
+            "activity_label": {
+                "fr": "Pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa ou en sont exempt\u00e9s: Kosovo"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0076"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-52",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "938946",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa ou en sont exempt\u00e9s: Kosovo</title><label>Recommandation pour la deuxi\u00e8me lecture: Thijs Reuten (A9-0076/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0139",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938950",
+            "activity_label": {
+                "fr": "R\u00e9vision du syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0162"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-54",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938950",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9vision du syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de l'UE</title><label>Rapport: Peter Liese (A9-0162/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-04-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938945",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938952",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938947",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938951",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938957",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938959",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938948",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938962",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938946",
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0211A",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938950"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-03-14-VOT-ITM-942297",
+            "type": "Activity",
+            "activity_date": "2024-03-14",
+            "activity_id": "MTG-PL-2024-03-14-VOT-ITM-942297",
+            "activity_label": {
+                "et": "Euroopa lastepealinna iga-aastast nimetamist k\u00e4sitleva Euroopa algatuse loomine",
+                "pl": "Europejska inicjatywa corocznego wyznaczania europejskiej stolicy dzieci",
+                "sk": "Vytvorenie eur\u00f3pskej iniciat\u00edvy na ka\u017edoro\u010dn\u00e9 vyhl\u00e1senie eur\u00f3pskych hlavn\u00fdch miest det\u00ed",
+                "nl": "Lancering van een Europees initiatief voor de jaarlijkse aanwijzing van Europese Kinderhoofdsteden",
+                "cs": "Vytvo\u0159en\u00ed evropsk\u00e9 iniciativy pro ka\u017edoro\u010dn\u00ed vyhl\u00e1\u0161en\u00ed evropsk\u00fdch hlavn\u00edch m\u011bst d\u011bt\u00ed",
+                "it": "Creazione di un'iniziativa europea per la designazione annuale delle capitali europee dell'infanzia",
+                "ga": "Tionscnamh Eorpach a chruth\u00fa chun pr\u00edomhchathracha na hEorpa do leana\u00ed a ainmni\u00fa go bliant\u00fail",
+                "lt": "Europos iniciatyvos suk\u016brimas siekiant kasmet paskelbti Europos vaik\u0173 sostines",
+                "ro": "Crearea unei ini\u021biative europene pentru o desemnare anual\u0103 a capitalelor europene pentru copii",
+                "da": "Oprettelse af et europ\u00e6isk initiativ til \u00e5rligt at udpege europ\u00e6iske hovedst\u00e6der for b\u00f8rn",
+                "el": "\u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae\u03c2 \u03c0\u03c1\u03c9\u03c4\u03bf\u03b2\u03bf\u03c5\u03bb\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03c4\u03ae\u03c3\u03b9\u03b1 \u03b1\u03bd\u03b1\u03ba\u03ae\u03c1\u03c5\u03be\u03b7 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae\u03c2 \u03c0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac",
+                "hu": "A Gyermekek Eur\u00f3pai F\u0151v\u00e1rosainak \u00e9ves kijel\u00f6l\u00e9s\u00e9re ir\u00e1nyul\u00f3 eur\u00f3pai kezdem\u00e9nyez\u00e9s l\u00e9trehoz\u00e1sa",
+                "lv": "Darbs pie Eiropas iniciat\u012bvas par ikgad\u0113ju b\u0113rniem draudz\u012bgas Eiropas galvaspils\u0113tas izraudz\u012b\u0161anos",
+                "bg": "\u0421\u044a\u0437\u0434\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0430 \u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u0430 \u0437\u0430 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e \u043e\u0431\u044f\u0432\u044f\u0432\u0430\u043d\u0435 \u043d\u0430 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0438 \u0441\u0442\u043e\u043b\u0438\u0446\u0438 \u043d\u0430 \u0434\u0435\u0446\u0430\u0442\u0430",
+                "en": "Creation of a European initiative for an annual designation of European capitals for children",
+                "de": "Einrichtung einer europ\u00e4ischen Initiative zur j\u00e4hrlichen Ernennung der Europ\u00e4ischen Kinderhauptst\u00e4dte",
+                "mul": "Cr\u00e9ation d'une initiative europ\u00e9enne visant \u00e0 d\u00e9signer chaque ann\u00e9e des capitales europ\u00e9ennes des enfants - Creation of a European initiative for an annual designation of European capitals for children - Einrichtung einer europ\u00e4ischen Initiative zur j\u00e4hrlichen Ernennung europ\u00e4ischer Kinderhauptst\u00e4dte",
+                "pt": "Cria\u00e7\u00e3o de uma iniciativa europeia para a designa\u00e7\u00e3o anual das Capitais Europeias para as Crian\u00e7as",
+                "es": "Creaci\u00f3n de una iniciativa europea para la designaci\u00f3n anual de las capitales europeas de los ni\u00f1os",
+                "sl": "Oblikovanje evropske pobude za vsakoletno imenovanje evropskih prestolnic otrok",
+                "fi": "Euroopan lasten p\u00e4\u00e4kaupunkien vuosittaista nime\u00e4mist\u00e4 koskevan eurooppalaisen aloitteen tekemisest\u00e4",
+                "sv": "Inr\u00e4ttandet av ett europeiskt initiativ f\u00f6r att \u00e5rligen utse europeiska huvudst\u00e4der f\u00f6r barn",
+                "fr": "Cr\u00e9ation d'une initiative europ\u00e9enne visant \u00e0 d\u00e9signer chaque ann\u00e9e des capitales europ\u00e9ennes des enfants",
+                "mt": "Il-\u0127olqien ta\u2019 inizjattiva Ewropea g\u0127al de\u017cinjazzjoni annwali ta\u2019 kapitali Ewropej g\u0127at-tfal",
+                "hr": "Pokretanje europske inicijative za godi\u0161nje progla\u0161enje europskih prijestolnica djece"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2024-0174"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166701",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166695",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166698",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166587",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166700",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166696",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166705",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166703",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166699",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166704"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-03-14-OJ-ITM-V-141"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-03-14-VOT-ITM-015"
+            ],
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2024-03-14-VOT-ITM-942297-SPLIT-2",
+                "eli/dl/event/MTG-PL-2024-03-14-VOT-ITM-942297-RCV-2",
+                "eli/dl/event/MTG-PL-2024-03-14-VOT-ITM-942297-RCV-1",
+                "eli/dl/event/MTG-PL-2024-03-14-VOT-ITM-942297-SPLIT-1",
+                "eli/dl/event/MTG-PL-2024-03-14-VOT-ITM-942297-SPLIT-3"
+            ],
+            "notation_dlvId": "942297",
+            "structuredLabel": {
+                "hu": "<structuredLabel><title>A Gyermekek Eur\u00f3pai F\u0151v\u00e1rosainak \u00e9ves kijel\u00f6l\u00e9s\u00e9re ir\u00e1nyul\u00f3 eur\u00f3pai kezdem\u00e9nyez\u00e9s l\u00e9trehoz\u00e1sa</title><label>\u00c1ll\u00e1sfoglal\u00e1si ind\u00edtv\u00e1ny: B9-0174/2024</label></structuredLabel>",
+                "en": "<structuredLabel><title>Creation of a European initiative for an annual designation of European capitals for children</title><label>Motion for a resolution: B9-0174/2024</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Oblikovanje evropske pobude za vsakoletno imenovanje evropskih prestolnic otrok</title><label>Predlog resolucije: B9-0174/2024</label></structuredLabel>",
+                "es": "<structuredLabel><title>Creaci\u00f3n de una iniciativa europea para la designaci\u00f3n anual de las capitales europeas de los ni\u00f1os</title><label>Propuesta de Resoluci\u00f3n: B9-0174/2024</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Darbs pie Eiropas iniciat\u012bvas par ikgad\u0113ju b\u0113rniem draudz\u012bgas Eiropas galvaspils\u0113tas izraudz\u012b\u0161anos</title><label>Rezol\u016bcijas priek\u0161likums: B9-0174/2024</label></structuredLabel>",
+                "et": "<structuredLabel><title>Euroopa lastepealinna iga-aastast nimetamist k\u00e4sitleva Euroopa algatuse loomine</title><label>Resolutsiooni ettepanek: B9-0174/2024</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Il-\u0127olqien ta\u2019 inizjattiva Ewropea g\u0127al de\u017cinjazzjoni annwali ta\u2019 kapitali Ewropej g\u0127at-tfal</title><label>Mozzjoni g\u0127al ri\u017coluzzjoni: B9-0174/2024</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Euroopan lasten p\u00e4\u00e4kaupunkien vuosittaista nime\u00e4mist\u00e4 koskevan eurooppalaisen aloitteen tekemisest\u00e4</title><label>P\u00e4\u00e4t\u00f6slauselmaesitys: B9-0174/2024</label></structuredLabel>",
+                "de": "<structuredLabel><title>Einrichtung einer europ\u00e4ischen Initiative zur j\u00e4hrlichen Ernennung der Europ\u00e4ischen Kinderhauptst\u00e4dte</title><label>Entschlie\u00dfungsantrag: B9-0174/2024</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Cria\u00e7\u00e3o de uma iniciativa europeia para a designa\u00e7\u00e3o anual das Capitais Europeias para as Crian\u00e7as</title><label>Proposta de resolu\u00e7\u00e3o: B9-0174/2024</label></structuredLabel>",
+                "da": "<structuredLabel><title>Oprettelse af et europ\u00e6isk initiativ til \u00e5rligt at udpege europ\u00e6iske hovedst\u00e6der for b\u00f8rn</title><label>Forslag til beslutning: B9-0174/2024</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Vytvo\u0159en\u00ed evropsk\u00e9 iniciativy pro ka\u017edoro\u010dn\u00ed vyhl\u00e1\u0161en\u00ed evropsk\u00fdch hlavn\u00edch m\u011bst d\u011bt\u00ed</title><label>N\u00e1vrh usnesen\u00ed: B9-0174/2024</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Cr\u00e9ation d'une initiative europ\u00e9enne visant \u00e0 d\u00e9signer chaque ann\u00e9e des capitales europ\u00e9ennes des enfants</title><label>Proposition de r\u00e9solution: B9-0174/2024</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Tionscnamh Eorpach a chruth\u00fa chun pr\u00edomhchathracha na hEorpa do leana\u00ed a ainmni\u00fa go bliant\u00fail</title><label>Tairiscint i gcomhair r\u00fain: B9-0174/2024</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0421\u044a\u0437\u0434\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0430 \u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u0430 \u0437\u0430 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e \u043e\u0431\u044f\u0432\u044f\u0432\u0430\u043d\u0435 \u043d\u0430 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0438 \u0441\u0442\u043e\u043b\u0438\u0446\u0438 \u043d\u0430 \u0434\u0435\u0446\u0430\u0442\u0430</title><label>\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u044f: B9-0174/2024</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Pokretanje europske inicijative za godi\u0161nje progla\u0161enje europskih prijestolnica djece</title><label>Prijedlog rezolucije: B9-0174/2024</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Vytvorenie eur\u00f3pskej iniciat\u00edvy na ka\u017edoro\u010dn\u00e9 vyhl\u00e1senie eur\u00f3pskych hlavn\u00fdch miest det\u00ed</title><label>N\u00e1vrh uznesenia: B9-0174/2024</label></structuredLabel>",
+                "it": "<structuredLabel><title>Creazione di un'iniziativa europea per la designazione annuale delle capitali europee dell'infanzia</title><label>Proposta di risoluzione: B9-0174/2024</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae\u03c2 \u03c0\u03c1\u03c9\u03c4\u03bf\u03b2\u03bf\u03c5\u03bb\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03c4\u03ae\u03c3\u03b9\u03b1 \u03b1\u03bd\u03b1\u03ba\u03ae\u03c1\u03c5\u03be\u03b7 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae\u03c2 \u03c0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac</title><label>\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c8\u03b7\u03c6\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2: B9-0174/2024</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Europejska inicjatywa corocznego wyznaczania europejskiej stolicy dzieci</title><label>Projekt rezolucji: B9-0174/2024</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Inr\u00e4ttandet av ett europeiskt initiativ f\u00f6r att \u00e5rligen utse europeiska huvudst\u00e4der f\u00f6r barn</title><label>Resolutionsf\u00f6rslag: B9-0174/2024</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Europos iniciatyvos suk\u016brimas siekiant kasmet paskelbti Europos vaik\u0173 sostines</title><label>Pasi\u016blymas d\u0117l rezoliucijos: B9-0174/2024</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Lancering van een Europees initiatief voor de jaarlijkse aanwijzing van Europese Kinderhoofdsteden</title><label>Ontwerpresolutie: B9-0174/2024</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Crearea unei ini\u021biative europene pentru o desemnare anual\u0103 a capitalelor europene pentru copii</title><label>Propunere de rezolu\u021bie: B9-0174/2024</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

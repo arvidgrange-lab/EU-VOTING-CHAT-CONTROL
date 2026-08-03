@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-13-VOT-ITM-939229",
+            "type": "Activity",
+            "activity_date": "2023-06-13",
+            "activity_id": "MTG-PL-2023-06-13-VOT-ITM-939229",
+            "activity_label": {
+                "fr": "\u00c9valuation de la nouvelle communication de la Commission europ\u00e9enne relative aux r\u00e9gions ultrap\u00e9riph\u00e9riques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0156"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-13-OJ-ITM-V-41",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-13-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939229",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9valuation de la nouvelle communication de la Commission europ\u00e9enne relative aux r\u00e9gions ultrap\u00e9riph\u00e9riques</title><label>Rapport: \u00c1lvaro Amaro (A9-0156/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

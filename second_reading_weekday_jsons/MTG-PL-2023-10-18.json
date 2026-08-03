@@ -1,0 +1,346 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939625",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939625",
+            "activity_label": {
+                "mul": "Projet de budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2024 - toutes sections - Draft general budget of the European Union - Financial year 2024 - Parliament's reading - Entwurf des Gesamthaushaltsplans der Europ\u00e4ischen Union f\u00fcr das Haushaltsjahr 2024 \u2013 alle Einzelpl\u00e4ne",
+                "fr": "Projet de budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2024 - toutes sections"
+            },
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-71",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939625",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2024 - toutes sections </title><label>Projets d\u2019amendements (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939625",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939623",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939597",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939594",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939584",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939603",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939591",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939583"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939623",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939623",
+            "activity_label": {
+                "mul": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Crit\u00e8res d\u2019examen technique suppl\u00e9mentaires - Objection pursuant to Rule 111(3): Additional technical screening criteria - Einwand gem\u00e4\u00df Artikel 111 Absatz 3 GO: Festlegung zus\u00e4tzlicher technischer Bewertungskriterien",
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Crit\u00e8res d\u2019examen technique suppl\u00e9mentaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0431"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-84",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939623",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Crit\u00e8res d\u2019examen technique suppl\u00e9mentaires</title><label>Proposition de r\u00e9solution: B9-0431/2023 (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939625",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939623",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939597",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939594",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939584",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939603",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939591",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939583"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2769",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939623"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939597",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939597",
+            "activity_label": {
+                "mul": "Budget g\u00e9n\u00e9ral de l\u2019Union europ\u00e9enne pour l\u2019exercice 2024 \u2013 toutes sections - General budget of the European Union for the financial year 2024 - all sections - Gesamthaushaltsplan der Europ\u00e4ischen Union f\u00fcr das Haushaltsjahr 2024 \u2013 alle Einzelpl\u00e4ne",
+                "fr": "Budget g\u00e9n\u00e9ral de l\u2019Union europ\u00e9enne pour l\u2019exercice 2024 \u2013 toutes sections"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0288"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-39",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939597",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Budget g\u00e9n\u00e9ral de l\u2019Union europ\u00e9enne pour l\u2019exercice 2024 \u2013 toutes sections</title><label>Rapport: Siegfried Mure\u015fan, Nils U\u0161akovs (A9-0288/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939625",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939623",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939597",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939594",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939584",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939603",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939591",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939583"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0264",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939597"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939594",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939594",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00ba 3 au budget g\u00e9n\u00e9ral 2023 \u2013 Mise \u00e0 jour des recettes (ressources propres) et autres ajustements techniques",
+                "mul": "Projet de budget rectificatif n\u00ba 3 au budget g\u00e9n\u00e9ral 2023 \u2013 Actualisation des recettes (ressources propres) et autres ajustements techniques - Draft amending budget No 3/2023: Update of revenue (own resources) and other technical adjustments - Entwurf des Berichtigungshaushaltsplans Nr. 3 zum Gesamthaushaltsplan 2023 \u2013 Aktualisierung der Einnahmen (Eigenmittel) und sonstige technische Anpassungen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0287"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-40",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939594",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00ba 3 au budget g\u00e9n\u00e9ral 2023 \u2013 Mise \u00e0 jour des recettes (ressources propres) et autres ajustements techniques</title><label>Rapport: Fabienne Keller (A9-0287/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939625",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939623",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939597",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939594",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939584",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939603",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939591",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939583"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0240",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939594"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939584",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939584",
+            "activity_label": {
+                "mul": "Espace Schengen: modification du r\u00e8glement sur la vignette-visa - Schengen area: amending the Visa Sticker Regulation - Schengen-Raum: \u00c4nderung der Verordnung \u00fcber die Visummarke",
+                "fr": "Espace Schengen: modification du r\u00e8glement sur la vignette-visa"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0268"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-46",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939584",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Espace Schengen: modification du r\u00e8glement sur la vignette-visa</title><label>Rapport: Matja\u017e Nemec (A9-0268/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939625",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939623",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939597",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939594",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939584",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939603",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939591",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939583"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0132B",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939584"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939603",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939603",
+            "activity_label": {
+                "mul": "Rapport 2022 de la Commission sur le Mont\u00e9n\u00e9gro - 2022 Report on Montenegro - Bericht 2022 der Kommission \u00fcber Montenegro",
+                "fr": "Rapport 2022 de la Commission sur le Mont\u00e9n\u00e9gro"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0277"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-17",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939603",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2022 de la Commission sur le Mont\u00e9n\u00e9gro</title><label>Rapport: Tonino Picula (A9-0277/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939625",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939623",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939597",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939594",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939584",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939603",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939591",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939583"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2202",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939603"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939591",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939591",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Normes d\u2019information en mati\u00e8re de durabilit\u00e9",
+                "mul": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Normes d\u2019information en mati\u00e8re de durabilit\u00e9 - Objection pursuant to Rule 111(3): European Sustainability Reporting Standards - Einwand gem\u00e4\u00df Artikel 111 Absatz 3 GO: Europ\u00e4ische Standards f\u00fcr die Nachhaltigkeitsberichterstattung"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0426"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-85",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939591",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Normes d\u2019information en mati\u00e8re de durabilit\u00e9</title><label>Proposition de r\u00e9solution: B9-0426/2023 (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939625",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939623",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939597",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939594",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939584",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939603",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939591",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939583"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2816",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939591"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939583",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939583",
+            "activity_label": {
+                "mul": "Espace Schengen: num\u00e9risation de la proc\u00e9dure de visa - Schengen area: digitalisation of the visa procedure - Schengen-Raum: Digitalisierung des Visumverfahrens",
+                "fr": "Espace Schengen: num\u00e9risation de la proc\u00e9dure de visa"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0025"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-47",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939583",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Espace Schengen: num\u00e9risation de la proc\u00e9dure de visa</title><label>Rapport: Matja\u017e Nemec (A9-0025/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-10-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939625",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939623",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939597",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939594",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939584",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939603",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939591",
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939583"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0132A",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939583"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

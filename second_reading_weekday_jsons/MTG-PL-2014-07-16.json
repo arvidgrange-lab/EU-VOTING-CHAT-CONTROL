@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360864-2",
+            "type": "Activity",
+            "activity_date": "2014-07-16",
+            "activity_id": "MTG-PL-2014-07-16-VOT-ITM-360864-2",
+            "activity_label": {
+                "fr": "Adoption par la Lituanie de l\u2019euro au 1er janvier 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2014-0001"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-16-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-16-VOT-ITM-002"
+            ],
+            "notation_dlvId": "360864",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adoption par la Lituanie de l\u2019euro au 1er janvier 2015</title><label>Rapport: Werner Langen (A8-0001/2014)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360864-2",
+                        "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360613-3",
+                        "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360787-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0170",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360864-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360613-3",
+            "type": "Activity",
+            "activity_date": "2014-07-16",
+            "activity_id": "MTG-PL-2014-07-16-VOT-ITM-360613-3",
+            "activity_label": {
+                "fr": "Composition num\u00e9rique des d\u00e9l\u00e9gations interparlementaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0003"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-16-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-16-VOT-ITM-003"
+            ],
+            "notation_dlvId": "360613",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Composition num\u00e9rique des d\u00e9l\u00e9gations interparlementaires</title><label>Proposition de d\u00e9cision: B8-0003/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360864-2",
+                        "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360613-3",
+                        "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360787-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2704",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360613-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360787-1",
+            "type": "Activity",
+            "activity_date": "2014-07-16",
+            "activity_id": "MTG-PL-2014-07-16-VOT-ITM-360787-1",
+            "activity_label": {
+                "fr": "Nomination de quatre membres de la Commission europ\u00e9enne (Jyrki Katainen\t Jacek Dominik\t Ferdinando Nelli Feroci et Martine Reicherts)"
+            },
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-16-VOT-ITM-001"
+            ],
+            "notation_dlvId": "360787",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination de quatre membres de la Commission europ\u00e9enne (Jyrki Katainen\t Jacek Dominik\t Ferdinando Nelli Feroci et Martine Reicherts)</title><label>Proposition de d\u00e9cision</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360864-2",
+                        "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360613-3",
+                        "eli/dl/event/MTG-PL-2014-07-16-VOT-ITM-360787-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

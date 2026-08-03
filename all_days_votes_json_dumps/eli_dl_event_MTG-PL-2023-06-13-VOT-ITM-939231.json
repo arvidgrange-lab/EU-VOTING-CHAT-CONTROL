@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-13-VOT-ITM-939231",
+            "type": "Activity",
+            "activity_date": "2023-06-13",
+            "activity_id": "MTG-PL-2023-06-13-VOT-ITM-939231",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre des r\u00e8glements relatifs \u00e0 l\u2019initiative citoyenne europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0182"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-13-OJ-ITM-V-42",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-13-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939231",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 5,
+            "epvoc:amendmentsTabledTotal": 5,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre des r\u00e8glements relatifs \u00e0 l\u2019initiative citoyenne europ\u00e9enne</title><label>Rapport: Lor\u00e1nt Vincze (A9-0182/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

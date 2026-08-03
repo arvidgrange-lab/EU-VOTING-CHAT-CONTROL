@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-13-VOT-ITM-939234",
+            "type": "Activity",
+            "activity_date": "2023-06-13",
+            "activity_id": "MTG-PL-2023-06-13-VOT-ITM-939234",
+            "activity_label": {
+                "fr": "Amendements au r\u00e8glement int\u00e9rieur du Parlement europ\u00e9en concernant le renvoi aux commissions de propositions d\u2019actes juridiquement contraignants et la proc\u00e9dure de r\u00e9solution des conflits de comp\u00e9tence"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0198"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-13-OJ-ITM-V-57",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939234",
+            "epvoc:amendmentsAdoptedCommittee": 4,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 4,
+            "epvoc:amendmentsTabledCommittee": 4,
+            "epvoc:amendmentsTabledTotal": 4,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Amendements au r\u00e8glement int\u00e9rieur du Parlement europ\u00e9en concernant le renvoi aux commissions de propositions d\u2019actes juridiquement contraignants et la proc\u00e9dure de r\u00e9solution des conflits de comp\u00e9tence</title><label>Rapport: Gabriele Bischoff (A9-0198/2023) (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-14-VOT-ITM-938863",
+            "type": "Activity",
+            "activity_date": "2023-03-14",
+            "activity_id": "MTG-PL-2023-03-14-VOT-ITM-938863",
+            "activity_label": {
+                "fr": "R\u00e9vision de la r\u00e9serve de stabilit\u00e9 du march\u00e9 pour le syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0045"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-14-OJ-ITM-V-47",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "938863",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9vision de la r\u00e9serve de stabilit\u00e9 du march\u00e9 pour le syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de l'UE</title><label>Rapport: Cyrus Engerer (A9-0045/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

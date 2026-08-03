@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-02-28-VOT-ITM-940317",
+            "type": "Activity",
+            "activity_date": "2024-02-28",
+            "activity_id": "MTG-PL-2024-02-28-VOT-ITM-940317",
+            "activity_label": {
+                "es": "Obligaciones de presentaci\u00f3n de informaci\u00f3n\u00a0***I",
+                "mul": "Exigences en mati\u00e8re d\u2019obligations d\u2019information",
+                "fi": "Raportointivaatimukset ***I",
+                "bg": "\u0418\u0437\u0438\u0441\u043a\u0432\u0430\u043d\u0438\u044f \u0437\u0430 \u0434\u043e\u043a\u043b\u0430\u0434\u0432\u0430\u043d\u0435 ***I",
+                "el": "\u0391\u03c0\u03b1\u03b9\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c5\u03c0\u03bf\u03b2\u03bf\u03bb\u03ae\u03c2 \u03b5\u03ba\u03b8\u03ad\u03c3\u03b5\u03c9\u03bd ***I",
+                "lv": "Zi\u0146o\u0161anas pras\u012bbas ***I",
+                "it": "Prescrizioni in materia di comunicazione ***I",
+                "ga": "Ceanglais tuairiscithe ***I",
+                "sk": "Po\u017eiadavky na oznamovanie ***I",
+                "de": "Berichtspflichten ***I",
+                "hr": "Zahtjevi za izvje\u0161\u0107ivanje ***I",
+                "pl": "Wymogi sprawozdawcze ***I",
+                "en": "Reporting requirements ***I",
+                "mt": "Rekwi\u017citi ta\u2019 rappurtar ***I",
+                "cs": "Po\u017eadavky na pod\u00e1v\u00e1n\u00ed zpr\u00e1v ***I",
+                "ro": "Cerin\u021bele de raportare ***I",
+                "sl": "Zahteve glede poro\u010danja ***I",
+                "da": "Rapporteringskrav ***I",
+                "sv": "Rapporteringskrav ***I",
+                "nl": "Rapportagevereisten ***I",
+                "lt": "Ataskait\u0173 teikimo reikalavimai***I",
+                "hu": "Jelent\u00e9st\u00e9teli k\u00f6vetelm\u00e9nyek ***I",
+                "fr": "Exigences en mati\u00e8re d\u2019obligations d\u2019information ***I",
+                "et": "Aruandlusn\u00f5uded ***I",
+                "pt": "Requisitos de comunica\u00e7\u00e3o de informa\u00e7\u00f5es ***I"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2024-0009"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-02-28-DEC-164601"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-02-28-OJ-ITM-V-86"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-02-28-VOT-ITM-009"
+            ],
+            "notation_dlvId": "940317",
+            "structuredLabel": {
+                "bg": "<structuredLabel><title>\u0418\u0437\u0438\u0441\u043a\u0432\u0430\u043d\u0438\u044f \u0437\u0430 \u0434\u043e\u043a\u043b\u0430\u0434\u0432\u0430\u043d\u0435 ***I</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Cerin\u021bele de raportare ***I</title><label>Raport: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Raportointivaatimukset ***I</title><label>Mietint\u00f6: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Po\u017eiadavky na oznamovanie ***I</title><label>Spr\u00e1va: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Rapportagevereisten ***I</title><label>Verslag: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Wymogi sprawozdawcze ***I</title><label>Sprawozdanie: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Reporting requirements ***I</title><label>Report: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Prescrizioni in materia di comunicazione ***I</title><label>Relazione: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Aruandlusn\u00f5uded ***I</title><label>Raport: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Rapporteringskrav ***I</title><label>Bet\u00e4nkande: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Berichtspflichten ***I</title><label>Bericht: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0391\u03c0\u03b1\u03b9\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c5\u03c0\u03bf\u03b2\u03bf\u03bb\u03ae\u03c2 \u03b5\u03ba\u03b8\u03ad\u03c3\u03b5\u03c9\u03bd ***I</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Jelent\u00e9st\u00e9teli k\u00f6vetelm\u00e9nyek ***I</title><label>Jelent\u00e9s: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Zi\u0146o\u0161anas pras\u012bbas ***I</title><label>Zi\u0146ojums: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Requisitos de comunica\u00e7\u00e3o de informa\u00e7\u00f5es ***I</title><label>Relat\u00f3rio: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Ataskait\u0173 teikimo reikalavimai***I</title><label>Prane\u0161imas: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Rapporteringskrav ***I</title><label>Bet\u00e6nkning: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Po\u017eadavky na pod\u00e1v\u00e1n\u00ed zpr\u00e1v ***I</title><label>Zpr\u00e1va: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Ceanglais tuairiscithe ***I</title><label>Tuarasc\u00e1il: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Rekwi\u017citi ta\u2019 rappurtar ***I</title><label>Rapport: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Obligaciones de presentaci\u00f3n de informaci\u00f3n\u00a0***I</title><label>Informe: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Zahteve glede poro\u010danja ***I</title><label>Poro\u010dilo: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Exigences en mati\u00e8re d\u2019obligations d\u2019information ***I</title><label>Rapport: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Zahtjevi za izvje\u0161\u0107ivanje ***I</title><label>Izvje\u0161\u0107e: Anna Cavazzini (A9-0009/2024)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

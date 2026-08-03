@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938661",
+            "activity_label": {
+                "fr": "Consultation sur les dispositions d\u2019ex\u00e9cution du M\u00e9diateur europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0010"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-21",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "938661",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Consultation sur les dispositions d\u2019ex\u00e9cution du M\u00e9diateur europ\u00e9en</title><label>Rapport: Paulo Rangel (A9-0010/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

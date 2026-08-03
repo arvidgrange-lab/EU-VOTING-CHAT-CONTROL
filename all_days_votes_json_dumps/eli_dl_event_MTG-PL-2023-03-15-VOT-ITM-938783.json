@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-15-VOT-ITM-938783",
+            "type": "Activity",
+            "activity_date": "2023-03-15",
+            "activity_id": "MTG-PL-2023-03-15-VOT-ITM-938783",
+            "activity_label": {
+                "fr": "Les nouvelles r\u00e9pressions \u00e0 l\u2019encontre du peuple bi\u00e9lorusse, en particulier les cas d\u2019Andrzej Poczobut et d\u2019Ales Bialiatski"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/RC-9-2023-0164",
+                "eli/dl/doc/B-9-2023-0164",
+                "eli/dl/doc/B-9-2023-0165",
+                "eli/dl/doc/B-9-2023-0163",
+                "eli/dl/doc/B-9-2023-0168",
+                "eli/dl/doc/B-9-2023-0167",
+                "eli/dl/doc/B-9-2023-0166"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-15-OJ-ITM-V-55",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938783",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les nouvelles r\u00e9pressions \u00e0 l\u2019encontre du peuple bi\u00e9lorusse, en particulier les cas d\u2019Andrzej Poczobut et d\u2019Ales Bialiatski</title><label>Propositions de r\u00e9solutions: RC-B9-0164/2023, B9-0163/2023, B9-0164/2023, B9-0165/2023, B9-0166/2023, B9-0167/2023, B9-0168/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

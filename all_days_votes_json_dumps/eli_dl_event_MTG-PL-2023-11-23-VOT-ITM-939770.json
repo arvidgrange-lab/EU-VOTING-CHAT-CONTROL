@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939770",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939770",
+            "activity_label": {
+                "mul": "Suivi de l'application du droit de l'Union europ\u00e9enne en 2020, 2021 et 2022 - Monitoring the application of EU law in 2020, 2021 and 2022 - Kontrolle der Anwendung des Rechts der EU in den Jahren 2020, 2021 und 2022",
+                "fr": "Suivi de l'application du droit de l'Union europ\u00e9enne en 2020, 2021 et 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0328"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_92"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-015"
+            ],
+            "notation_dlvId": "939770",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Suivi de l'application du droit de l'Union europ\u00e9enne en 2020, 2021 et 2022</title><label>Rapport: Catharina Rinzema (A9-0328/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

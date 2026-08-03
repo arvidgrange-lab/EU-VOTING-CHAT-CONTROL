@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939728",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939728",
+            "activity_label": {
+                "mul": "Mise en \u0153uvre du principe de la primaut\u00e9 du droit de l\u2019Union europ\u00e9enne - Implementation of the principle of the primacy of EU law - Umsetzung des Grundsatzes des Vorrangs des EU-Rechts",
+                "fr": "Mise en \u0153uvre du principe de la primaut\u00e9 du droit de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0341"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-71",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939728",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 20,
+            "epvoc:amendmentsTabledTotal": 20,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du principe de la primaut\u00e9 du droit de l\u2019Union europ\u00e9enne</title><label>Rapport: Yana Toom, Cyrus Engerer (A9-0341/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

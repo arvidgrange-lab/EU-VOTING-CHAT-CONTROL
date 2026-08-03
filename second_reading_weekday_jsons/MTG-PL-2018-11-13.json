@@ -1,0 +1,416 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-747338-7",
+            "type": "Activity",
+            "activity_date": "2018-11-13",
+            "activity_id": "MTG-PL-2018-11-13-VOT-ITM-747338-7",
+            "activity_label": {
+                "fr": "L'\u00e9tat de droit en Roumanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0522"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-13-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-13-VOT-ITM-007"
+            ],
+            "notation_dlvId": "747338",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'\u00e9tat de droit en Roumanie</title><label>Proposition de r\u00e9solution: B8-0522/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-747338-7",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746871-4",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746802-6",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-1",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746798-3",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-2",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746804-9",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746872-5",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746803-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2844",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-747338-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746871-4",
+            "type": "Activity",
+            "activity_date": "2018-11-13",
+            "activity_id": "MTG-PL-2018-11-13-VOT-ITM-746871-4",
+            "activity_label": {
+                "fr": "Gouvernance de l'union de l'\u00e9nergie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0402"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-13-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "746871",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gouvernance de l'union de l'\u00e9nergie</title><label>Rapport: Mich\u00e8le Rivasi et  Jakop Dalunde (A8-0402/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-747338-7",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746871-4",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746802-6",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-1",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746798-3",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-2",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746804-9",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746872-5",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746803-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0375",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746871-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746802-6",
+            "type": "Activity",
+            "activity_date": "2018-11-13",
+            "activity_id": "MTG-PL-2018-11-13-VOT-ITM-746802-6",
+            "activity_label": {
+                "fr": "Plan pluriannuel applicable aux stocks de petits p\u00e9lagiques de la mer Adriatique et aux p\u00eacheries exploitant ces stocks"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0337"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-13-OJ-ITM-V-40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "746802",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Plan pluriannuel applicable aux stocks de petits p\u00e9lagiques de la mer Adriatique et aux p\u00eacheries exploitant ces stocks</title><label>Rapport: Ru\u017ea Toma\u0161i\u0107 (A8-0337/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-747338-7",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746871-4",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746802-6",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-1",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746798-3",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-2",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746804-9",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746872-5",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746803-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0043",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746802-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-1",
+            "type": "Activity",
+            "activity_date": "2018-11-13",
+            "activity_id": "MTG-PL-2018-11-13-VOT-ITM-746795-1",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne pour fournir un appui \u00e0 la Lettonie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0357"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-13-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "746795",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne pour fournir un appui \u00e0 la Lettonie</title><label>Rapport: Inese Vaidere (A8-0357/2018) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-747338-7",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746871-4",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746802-6",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-1",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746798-3",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-2",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746804-9",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746872-5",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746803-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2230",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746798-3",
+            "type": "Activity",
+            "activity_date": "2018-11-13",
+            "activity_id": "MTG-PL-2018-11-13-VOT-ITM-746798-3",
+            "activity_label": {
+                "fr": "Efficacit\u00e9 \u00e9nerg\u00e9tique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0391"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-13-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-13-VOT-ITM-003"
+            ],
+            "notation_dlvId": "746798",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Efficacit\u00e9 \u00e9nerg\u00e9tique</title><label>Rapport: Miroslav Poche (A8-0391/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-747338-7",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746871-4",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746802-6",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-1",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746798-3",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-2",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746804-9",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746872-5",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746803-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0376",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746798-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-2",
+            "type": "Activity",
+            "activity_date": "2018-11-13",
+            "activity_id": "MTG-PL-2018-11-13-VOT-ITM-746795-2",
+            "activity_label": {
+                "fr": "Aide europ\u00e9enne au d\u00e9veloppement dans le domaine de l'\u00e9ducation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0327"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-13-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-13-VOT-ITM-002"
+            ],
+            "notation_dlvId": "746795",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Aide europ\u00e9enne au d\u00e9veloppement dans le domaine de l'\u00e9ducation</title><label>Rapport: Vincent Peillon (A8-0327/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-747338-7",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746871-4",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746802-6",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-1",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746798-3",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-2",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746804-9",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746872-5",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746803-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2081",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746804-9",
+            "type": "Activity",
+            "activity_date": "2018-11-13",
+            "activity_id": "MTG-PL-2018-11-13-VOT-ITM-746804-9",
+            "activity_label": {
+                "fr": "La num\u00e9risation au service du d\u00e9veloppement: r\u00e9duire la pauvret\u00e9 au moyen de la technologie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0338"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-13-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-13-VOT-ITM-009"
+            ],
+            "notation_dlvId": "746804",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La num\u00e9risation au service du d\u00e9veloppement: r\u00e9duire la pauvret\u00e9 au moyen de la technologie</title><label>Rapport: Bogdan Brunon Wenta (A8-0338/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-747338-7",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746871-4",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746802-6",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-1",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746798-3",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-2",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746804-9",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746872-5",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746803-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2083",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746804-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746872-5",
+            "type": "Activity",
+            "activity_date": "2018-11-13",
+            "activity_id": "MTG-PL-2018-11-13-VOT-ITM-746872-5",
+            "activity_label": {
+                "fr": "Promotion de l'utilisation de l'\u00e9nergie produite \u00e0 partir de sources renouvelables"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0392"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-13-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "746872",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Promotion de l'utilisation de l'\u00e9nergie produite \u00e0 partir de sources renouvelables</title><label>Rapport: Jos\u00e9 Blanco L\u00f3pez (A8-0392/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-747338-7",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746871-4",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746802-6",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-1",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746798-3",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-2",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746804-9",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746872-5",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746803-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0382",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746872-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746803-8",
+            "type": "Activity",
+            "activity_date": "2018-11-13",
+            "activity_id": "MTG-PL-2018-11-13-VOT-ITM-746803-8",
+            "activity_label": {
+                "fr": "Normes minimales pour les minorit\u00e9s dans l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0353"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-11-13-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-11-13-VOT-ITM-008"
+            ],
+            "notation_dlvId": "746803",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normes minimales pour les minorit\u00e9s dans l'UE</title><label>Rapport: J\u00f3zsef Nagy (A8-0353/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-11-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-747338-7",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746871-4",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746802-6",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-1",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746798-3",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746795-2",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746804-9",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746872-5",
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746803-8"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2036",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-11-13-VOT-ITM-746803-8"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

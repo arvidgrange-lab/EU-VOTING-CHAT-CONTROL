@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939710",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939710",
+            "activity_label": {
+                "mul": "Mise en \u0153uvre du programme \"Corps europ\u00e9en de solidarit\u00e9\" 2021-2027 - Implementation of the European Solidarity Corps programme 2021-2027 - Durchf\u00fchrung des Programms f\u00fcr das Europ\u00e4ische Solidarit\u00e4tskorps 2021-2027",
+                "fr": "Mise en \u0153uvre du programme \"Corps europ\u00e9en de solidarit\u00e9\" 2021-2027"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0308"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-65",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939710",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du programme \"Corps europ\u00e9en de solidarit\u00e9\" 2021-2027</title><label>Rapport: Michaela \u0160ojdrov\u00e1 (A9-0308/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

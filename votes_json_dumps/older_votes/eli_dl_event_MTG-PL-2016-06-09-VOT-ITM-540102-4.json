@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-09-VOT-ITM-540102-4",
+            "type": "Activity",
+            "activity_date": "2016-06-09",
+            "activity_id": "MTG-PL-2016-06-09-VOT-ITM-540102-4",
+            "activity_label": {
+                "fr": "Favoriser la libre circulation en simplifiant l'acceptation de certains documents publics"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0156"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-09-OJ-ITM-V-55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-09-VOT-ITM-004"
+            ],
+            "notation_dlvId": "540102",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Favoriser la libre circulation en simplifiant l'acceptation de certains documents publics</title><label>Recommandation pour la deuxi\u00e8me lecture: Mady Delvaux (A8-0156/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939715",
+            "activity_label": {
+                "mul": "TVA: les r\u00e8gles \u00e0 l\u2019\u00e8re du num\u00e9rique - VAT: rules for the digital age - MwSt \u2013 Vorschriften f\u00fcr das digitale Zeitalter",
+                "fr": "TVA: les r\u00e8gles \u00e0 l\u2019\u00e8re du num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0327"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939715",
+            "epvoc:amendmentsAdoptedCommittee": 109,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 109,
+            "epvoc:amendmentsTabledCommittee": 109,
+            "epvoc:amendmentsTabledTotal": 109,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>TVA: les r\u00e8gles \u00e0 l\u2019\u00e8re du num\u00e9rique</title><label>Rapport: Olivier Chastel (A9-0327/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

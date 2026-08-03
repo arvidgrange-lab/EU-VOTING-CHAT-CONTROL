@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-14-VOT-ITM-939242",
+            "type": "Activity",
+            "activity_date": "2023-06-14",
+            "activity_id": "MTG-PL-2023-06-14-VOT-ITM-939242",
+            "activity_label": {
+                "fr": "Des stages de qualit\u00e9 dans l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0186"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-14-OJ-ITM-V-24",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939242",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledPoliticalGroup": 8,
+            "epvoc:amendmentsTabledTotal": 8,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Des stages de qualit\u00e9 dans l\u2019Union europ\u00e9enne</title><label>Rapport: Monica Semedo (A9-0186/2023) (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise pour l'adoption de la proposition de r\u00e9solution)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

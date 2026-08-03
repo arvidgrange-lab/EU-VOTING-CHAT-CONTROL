@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939838",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939838",
+            "activity_label": {
+                "fr": "R\u00f4le de la politique de d\u00e9veloppement de l'UE dans la transformation des industries extractives pour le d\u00e9veloppement durable dans les pays en d\u00e9veloppement",
+                "mul": "R\u00f4le de la politique de d\u00e9veloppement de l'UE dans la transformation des industries extractives pour le d\u00e9veloppement durable dans les pays en d\u00e9veloppement - Role of EU development policy in transforming the extractive industries for sustainable development in developing countries - Rolle der Entwicklungspolitik der Europ\u00e4ischen Union bei der Umgestaltung der Rohstoffwirtschaft f\u00fcr eine nachhaltige Entwicklung in den Entwicklungsl\u00e4ndern"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0322"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-27",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939838",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00f4le de la politique de d\u00e9veloppement de l'UE dans la transformation des industries extractives pour le d\u00e9veloppement durable dans les pays en d\u00e9veloppement</title><label>Rapport: Barry Andrews (A9-0322/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

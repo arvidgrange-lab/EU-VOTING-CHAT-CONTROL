@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939705",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939705",
+            "activity_label": {
+                "fr": "Cadre de mesures en vue de renforcer l\u2019\u00e9cosyst\u00e8me europ\u00e9en de la fabrication de produits de technologie \u00abz\u00e9ro net\u00bb (r\u00e8glement pour une industrie \u00abz\u00e9ro net\u00bb)",
+                "mul": "Cadre de mesures en vue de renforcer l\u2019\u00e9cosyst\u00e8me europ\u00e9en de la fabrication de produits de technologie \u00abz\u00e9ro net\u00bb (r\u00e8glement pour une industrie \u00abz\u00e9ro net\u00bb) - Framework of measures for strengthening Europe\u2019s net-zero technology products manufacturing ecosystem (Net Zero Industry Act) - Rahmen f\u00fcr Ma\u00dfnahmen zur St\u00e4rkung des europ\u00e4ischen \u00d6kosystems der Fertigung von Netto-Null-Technologieprodukten (Netto-Null-Industrie-Verordnung)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0343"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-34",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939705",
+            "epvoc:amendmentsAdoptedCommittee": 1,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledCommittee": 9,
+            "epvoc:amendmentsTabledPoliticalGroup": 31,
+            "epvoc:amendmentsTabledTotal": 40,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre de mesures en vue de renforcer l\u2019\u00e9cosyst\u00e8me europ\u00e9en de la fabrication de produits de technologie \u00abz\u00e9ro net\u00bb (r\u00e8glement pour une industrie \u00abz\u00e9ro net\u00bb)</title><label>Rapport: Christian Ehler (A9-0343/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

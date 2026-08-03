@@ -1,0 +1,176 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935683",
+            "type": "Activity",
+            "activity_date": "2021-10-07",
+            "activity_id": "MTG-PL-2021-10-07-VOT-ITM-935683",
+            "activity_label": {
+                "fr": "Situation humanitaire au Tigr\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0484"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-10-07-OJ-ITM-V-108",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-07-VOT-ITM-006"
+            ],
+            "notation_dlvId": "935683",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation humanitaire au Tigr\u00e9</title><label>Propositions de r\u00e9solution: B9-0484/2021, B9-0486/2021, B9-0487/2021, B9-0489/2021, B9-0492/2021, B9-0493/2021, B9-0495/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935683",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935686",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935685",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935684",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935688"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935686",
+            "type": "Activity",
+            "activity_date": "2021-10-07",
+            "activity_id": "MTG-PL-2021-10-07-VOT-ITM-935686",
+            "activity_label": {
+                "fr": "Le cas de Paul Rusesabagina au Rwanda"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0500"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-10-07-OJ-ITM-V-112",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-07-VOT-ITM-003"
+            ],
+            "notation_dlvId": "935686",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le cas de Paul Rusesabagina au Rwanda</title><label>Propositions de r\u00e9solution: B9-0500/2021, B9-0507/2021, B9-0508/2021, B9-0509/2021, B9-0510/2021, B9-0513/2021, B9-0514/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935683",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935686",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935685",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935684",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935688"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935685",
+            "type": "Activity",
+            "activity_date": "2021-10-07",
+            "activity_id": "MTG-PL-2021-10-07-VOT-ITM-935685",
+            "activity_label": {
+                "fr": "Loi sur l'avortement au Texas (\u00c9tats-Unis)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0490"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-10-07-OJ-ITM-V-114",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-07-VOT-ITM-004"
+            ],
+            "notation_dlvId": "935685",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Loi sur l'avortement au Texas (\u00c9tats-Unis)</title><label>Propositions de r\u00e9solution: B9-0490/2021, B9-0491/2021, B9-0497/2021, B9-0498/2021, B9-0499/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935683",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935686",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935685",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935684",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935688"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935684",
+            "type": "Activity",
+            "activity_date": "2021-10-07",
+            "activity_id": "MTG-PL-2021-10-07-VOT-ITM-935684",
+            "activity_label": {
+                "fr": "Situation en Bi\u00e9lorussie apr\u00e8s une ann\u00e9e de manifestations violemment r\u00e9prim\u00e9es"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0482"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-10-07-OJ-ITM-V-53",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-07-VOT-ITM-005"
+            ],
+            "notation_dlvId": "935684",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Bi\u00e9lorussie apr\u00e8s une ann\u00e9e de manifestations violemment r\u00e9prim\u00e9es</title><label>Propositions de r\u00e9solution: B9-0482/2021, B9-0483/2021, B9-0485/2021, B9-0488/2021, B9-0494/2021, B9-0496/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935683",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935686",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935685",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935684",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935688"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935688",
+            "type": "Activity",
+            "activity_date": "2021-10-07",
+            "activity_id": "MTG-PL-2021-10-07-VOT-ITM-935688",
+            "activity_label": {
+                "fr": "La situation des droits de l'homme au Myanmar/en Birmanie, notamment celle des groupes religieux et ethniques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0501"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-10-07-OJ-ITM-V-111",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-07-VOT-ITM-002"
+            ],
+            "notation_dlvId": "935688",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La situation des droits de l'homme au Myanmar/en Birmanie, notamment celle des groupes religieux et ethniques</title><label>Propositions de r\u00e9solution: B9-0501/2021, B9-0502/2021, B9-0503/2021, B9-0504/2021, B9-0505/2021, B9-0506/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-07",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935683",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935686",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935685",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935684",
+                        "eli/dl/event/MTG-PL-2021-10-07-VOT-ITM-935688"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

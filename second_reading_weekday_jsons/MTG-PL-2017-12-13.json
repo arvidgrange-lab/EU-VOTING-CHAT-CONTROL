@@ -1,0 +1,313 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662342-1",
+            "type": "Activity",
+            "activity_date": "2017-12-13",
+            "activity_id": "MTG-PL-2017-12-13-VOT-ITM-662342-1",
+            "activity_label": {
+                "fr": "\u00c9tat d'avancement des n\u00e9gociations avec le Royaume-Uni"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0677",
+                "eli/dl/doc/B-8-2017-0676"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-13-OJ-ITM-V-54"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "662342",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tat d'avancement des n\u00e9gociations avec le Royaume-Uni</title><label>Propositions de r\u00e9solution: B8-0676/2017, B8-0677/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662342-1",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-663699-2",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662594-3",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662341-7",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662340-6",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662339-5",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662336-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2964",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662342-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-663699-2",
+            "type": "Activity",
+            "activity_date": "2017-12-13",
+            "activity_id": "MTG-PL-2017-12-13-VOT-ITM-663699-2",
+            "activity_label": {
+                "fr": "Utilisation d\u2019acide phosphorique, de phosphates, de diphosphates, de triphosphates et de polyphosphates (E 338-452) dans les broches de viandes congel\u00e9es verticales"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0666"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-13-OJ-ITM-V-66"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-13-VOT-ITM-002"
+            ],
+            "notation_dlvId": "663699",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Utilisation d\u2019acide phosphorique, de phosphates, de diphosphates, de triphosphates et de polyphosphates (E 338-452) dans les broches de viandes congel\u00e9es verticales</title><label>Objectin \u00e0 un acte d'ex\u00e9cution: B8-0666/2017 (Majorit\u00e9 des membres qui composent le Parlement pour l'adoption de la proposition de r\u00e9solution)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662342-1",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-663699-2",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662594-3",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662341-7",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662340-6",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662339-5",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662336-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2920",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-663699-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662594-3",
+            "type": "Activity",
+            "activity_date": "2017-12-13",
+            "activity_id": "MTG-PL-2017-12-13-VOT-ITM-662594-3",
+            "activity_label": {
+                "fr": "Projet de recommandation \u00e0 la suite de l'enqu\u00eate sur le blanchiment de capitaux, l'\u00e9vasion fiscale et la fraude fiscale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0660"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-13-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-13-VOT-ITM-003"
+            ],
+            "notation_dlvId": "662594",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de recommandation \u00e0 la suite de l'enqu\u00eate sur le blanchiment de capitaux, l'\u00e9vasion fiscale et la fraude fiscale</title><label>Projet de recommandation: B8-0660/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662342-1",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-663699-2",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662594-3",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662341-7",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662340-6",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662339-5",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662336-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3044",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662594-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662341-7",
+            "type": "Activity",
+            "activity_date": "2017-12-13",
+            "activity_id": "MTG-PL-2017-12-13-VOT-ITM-662341-7",
+            "activity_label": {
+                "fr": "Hong Kong, 20 ans apr\u00e8s la r\u00e9trocession"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0382"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-13-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-13-VOT-ITM-007"
+            ],
+            "notation_dlvId": "662341",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Hong Kong, 20 ans apr\u00e8s la r\u00e9trocession</title><label>Rapport: Alyn Smith (A8-0382/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662342-1",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-663699-2",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662594-3",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662341-7",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662340-6",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662339-5",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662336-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2204",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662341-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662340-6",
+            "type": "Activity",
+            "activity_date": "2017-12-13",
+            "activity_id": "MTG-PL-2017-12-13-VOT-ITM-662340-6",
+            "activity_label": {
+                "fr": "Rapport annuel 2016 sur les droits de l'homme et la d\u00e9mocratie dans le monde et la politique de l'Union europ\u00e9enne en la mati\u00e8re"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0365"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-13-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "662340",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel 2016 sur les droits de l'homme et la d\u00e9mocratie dans le monde et la politique de l'Union europ\u00e9enne en la mati\u00e8re</title><label>Rapport: Godelieve Quisthoudt-Rowohl (A8-0365/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662342-1",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-663699-2",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662594-3",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662341-7",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662340-6",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662339-5",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662336-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2122",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662340-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662339-5",
+            "type": "Activity",
+            "activity_date": "2017-12-13",
+            "activity_id": "MTG-PL-2017-12-13-VOT-ITM-662339-5",
+            "activity_label": {
+                "fr": "Rapport annuel sur la mise en \u0153uvre de la politique \u00e9trang\u00e8re et de s\u00e9curit\u00e9 commune"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0350"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-13-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "662339",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur la mise en \u0153uvre de la politique \u00e9trang\u00e8re et de s\u00e9curit\u00e9 commune</title><label>Rapport: David McAllister (A8-0350/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662342-1",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-663699-2",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662594-3",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662341-7",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662340-6",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662339-5",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662336-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2121",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662339-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662336-4",
+            "type": "Activity",
+            "activity_date": "2017-12-13",
+            "activity_id": "MTG-PL-2017-12-13-VOT-ITM-662336-4",
+            "activity_label": {
+                "fr": "Rapport annuel sur la mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0351"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-13-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "662336",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur la mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune</title><label>Rapport: Michael Gahler (A8-0351/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662342-1",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-663699-2",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662594-3",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662341-7",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662340-6",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662339-5",
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662336-4"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2123",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-13-VOT-ITM-662336-4"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

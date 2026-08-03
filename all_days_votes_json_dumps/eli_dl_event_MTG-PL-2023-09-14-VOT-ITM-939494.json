@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-14-VOT-ITM-939494",
+            "type": "Activity",
+            "activity_date": "2023-09-14",
+            "activity_id": "MTG-PL-2023-09-14-VOT-ITM-939494",
+            "activity_label": {
+                "fr": "Modification des r\u00e8glements (UE) 2019/943 et (UE) 2019/942 ainsi que des directives (UE) 2018/2001 et (UE) 2019/944 pour am\u00e9liorer l'organisation du march\u00e9 de l'\u00e9lectricit\u00e9 de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0255"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-14-OJ-ITM-V-95",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-14-VOT-ITM-000"
+            ],
+            "notation_dlvId": "939494",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification des r\u00e8glements (UE) 2019/943 et (UE) 2019/942 ainsi que des directives (UE) 2018/2001 et (UE) 2019/944 pour am\u00e9liorer l'organisation du march\u00e9 de l'\u00e9lectricit\u00e9 de l'Union</title><label>Rapport: Nicol\u00e1s Gonz\u00e1lez Casares (A9-0255/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

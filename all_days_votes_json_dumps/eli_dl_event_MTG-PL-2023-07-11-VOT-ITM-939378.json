@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939378",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939378",
+            "activity_label": {
+                "fr": "Carburants maritimes durables (initiative FuelEU Maritime)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0233"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-47",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939378",
+            "epvoc:amendmentsAdoptedCommittee": 157,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 157,
+            "epvoc:amendmentsTabledCommittee": 164,
+            "epvoc:amendmentsTabledMEP": 11,
+            "epvoc:amendmentsTabledPoliticalGroup": 18,
+            "epvoc:amendmentsTabledTotal": 193,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Carburants maritimes durables (initiative FuelEU Maritime)</title><label>Rapport: J\u00f6rgen Warborn (A9-0233/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

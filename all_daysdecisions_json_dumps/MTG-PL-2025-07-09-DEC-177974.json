@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-07-09-DEC-177974",
+            "type": "Vote",
+            "activity_date": "2025-07-09",
+            "activity_id": "MTG-PL-2025-07-09-DEC-177974",
+            "activity_label": {
+                "pl": "Ust. 38",
+                "en": "\u00a7 38",
+                "cs": "\u00a7 38",
+                "el": "\u00a7 38",
+                "mt": "\u00a7 38",
+                "da": "\u00a7 38",
+                "pt": "\u00a7 38",
+                "fr": "\u00a7 38",
+                "ga": "\u00a7 38",
+                "lv": "\u00a7 38",
+                "nl": "\u00a7 38",
+                "sl": "\u00a7 38",
+                "bg": "\u00a7 38",
+                "et": "\u00a7 38",
+                "de": "\u00a7\u00a038",
+                "hr": "\u00a7 38",
+                "fi": "\u00a7 38",
+                "ro": "\u00a7 38",
+                "es": "\u00a7 38",
+                "lt": "\u00a7 38",
+                "it": "\u00a7 38",
+                "hu": "38. bek.",
+                "sv": "punkt 38",
+                "sk": "odsek 38"
+            },
+            "activity_order": "3.0",
+            "decided_on_a_realization_of": [
+                "eli/dl/doc/MTG-PL-2025-07-09-VOT-ITM-965786-SPLIT-1-1"
+            ],
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "responsible_organization_label": {
+                "bg": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u0435\u043d \u0442\u0435\u043a\u0441\u0442",
+                "pl": "pierwotny tekst",
+                "sk": "p\u00f4vodn\u00fd text",
+                "sv": "originaltexten",
+                "hu": "eredeti sz\u00f6veg"
+            },
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2025-07-09-VOT-ITM-965786-SPLIT-1"
+            ],
+            "comment": {
+                "ga": "1",
+                "sk": "1",
+                "ro": "1",
+                "pl": "1",
+                "lv": "1",
+                "en": "1",
+                "es": "1",
+                "fr": "1",
+                "pt": "1",
+                "lt": "1",
+                "hr": "1",
+                "hu": "1",
+                "bg": "1",
+                "fi": "1",
+                "da": "1",
+                "de": "1",
+                "nl": "1",
+                "sl": "1",
+                "el": "1",
+                "cs": "1",
+                "it": "1",
+                "sv": "1",
+                "et": "1",
+                "mt": "1"
+            },
+            "notation_votingId": "177974",
+            "decisionAboutId_XMLLiteral": "<am><symbol href=\"https://xx.xx.xx/\u00a7\"/></am>",
+            "decisionAboutId_Lang": {
+                "bg": "\u00a7"
+            },
+            "decisionAboutId": "\u00a7",
+            "referenceText": {
+                "sv": "punkt 38",
+                "hu": "38. bek.",
+                "pl": "Ust. 38",
+                "sk": "odsek 38",
+                "cs": "\u00a7 38",
+                "el": "\u00a7 38",
+                "mt": "\u00a7 38",
+                "da": "\u00a7 38",
+                "en": "\u00a7 38",
+                "pt": "\u00a7 38",
+                "fr": "\u00a7 38",
+                "ga": "\u00a7 38",
+                "lv": "\u00a7 38",
+                "nl": "\u00a7 38",
+                "sl": "\u00a7 38",
+                "bg": "\u00a7 38",
+                "et": "\u00a7 38",
+                "hr": "\u00a7 38",
+                "it": "\u00a7 38",
+                "fi": "\u00a7 38",
+                "ro": "\u00a7 38",
+                "es": "\u00a7 38",
+                "de": "\u00a7\u00a038",
+                "lt": "\u00a7 38"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

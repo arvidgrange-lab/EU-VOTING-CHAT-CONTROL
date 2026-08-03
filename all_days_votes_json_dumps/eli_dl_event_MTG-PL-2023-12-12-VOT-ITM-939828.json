@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939828",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939828",
+            "activity_label": {
+                "mul": "Cadre permettant d\u2019assurer un approvisionnement durable et s\u00fbr en mati\u00e8res premi\u00e8res critiques - Framework for ensuring a secure and sustainable supply of critical raw materials - Rahmen zur Gew\u00e4hrleistung einer sicheren und nachhaltigen Versorgung mit kritischen Rohstoffen",
+                "fr": "Cadre permettant d\u2019assurer un approvisionnement durable et s\u00fbr en mati\u00e8res premi\u00e8res critiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0260"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-75",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939828",
+            "epvoc:amendmentsAdoptedCommittee": 1,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 5,
+            "epvoc:amendmentsAdoptedTotal": 6,
+            "epvoc:amendmentsTabledCommittee": 1,
+            "epvoc:amendmentsTabledOthers": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 23,
+            "epvoc:amendmentsTabledTotal": 25,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre permettant d\u2019assurer un approvisionnement durable et s\u00fbr en mati\u00e8res premi\u00e8res critiques</title><label>Rapport: Nicola Beer (A9-0260/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

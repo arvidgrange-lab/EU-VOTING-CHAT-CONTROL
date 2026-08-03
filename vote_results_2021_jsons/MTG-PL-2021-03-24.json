@@ -1,0 +1,151 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-932210",
+            "type": "Activity",
+            "activity_date": "2021-03-24",
+            "activity_id": "MTG-PL-2021-03-24-VOT-ITM-932210",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0025"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-24-OJ-ITM-V-13",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-24-VOT-ITM-006"
+            ],
+            "notation_dlvId": "932210",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-932210",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933343",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933346",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-932382"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933343",
+            "type": "Activity",
+            "activity_date": "2021-03-24",
+            "activity_id": "MTG-PL-2021-03-24-VOT-ITM-933343",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de L\u00edvia J\u00e1r\u00f3ka"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0050"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-24-OJ-ITM-V-82",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-24-VOT-ITM-001"
+            ],
+            "notation_dlvId": "933343",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de L\u00edvia J\u00e1r\u00f3ka</title><label>Rapport: St\u00e9phane S\u00e9journ\u00e9 (A9-0050/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-932210",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933343",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933346",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-932382"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2198",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933343"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933346",
+            "type": "Activity",
+            "activity_date": "2021-03-24",
+            "activity_id": "MTG-PL-2021-03-24-VOT-ITM-933346",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Jean-Francois Jalkh"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0051"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-24-OJ-ITM-V-83",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-24-VOT-ITM-002"
+            ],
+            "notation_dlvId": "933346",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Jean-Francois Jalkh</title><label>Rapport: Ib\u00e1n Garc\u00eda Del Blanco (A9-0051/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-932210",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933343",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933346",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-932382"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2110",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933346"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-932382",
+            "type": "Activity",
+            "activity_date": "2021-03-24",
+            "activity_id": "MTG-PL-2021-03-24-VOT-ITM-932382",
+            "activity_label": {
+                "fr": "Syst\u00e8me des ressources propres de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0047"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-03-24-OJ-ITM-V-43",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-03-24-VOT-ITM-004"
+            ],
+            "notation_dlvId": "932382",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8me des ressources propres de l'Union europ\u00e9enne</title><label>Recommandation: Jos\u00e9 Manuel Fernandes, Val\u00e9rie Hayer (A9-0047/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-03-24",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-932210",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933343",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-933346",
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-932382"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0132",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-03-24-VOT-ITM-932382"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939625",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939625",
+            "activity_label": {
+                "mul": "Projet de budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2024 - toutes sections - Draft general budget of the European Union - Financial year 2024 - Parliament's reading - Entwurf des Gesamthaushaltsplans der Europ\u00e4ischen Union f\u00fcr das Haushaltsjahr 2024 \u2013 alle Einzelpl\u00e4ne",
+                "fr": "Projet de budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2024 - toutes sections"
+            },
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-71",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939625",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2024 - toutes sections </title><label>Projets d\u2019amendements (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

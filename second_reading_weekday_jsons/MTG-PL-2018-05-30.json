@@ -1,0 +1,713 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704612-10",
+            "activity_label": {
+                "fr": "Cadre financier pluriannuel 2021-2027 et ressources propres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0239",
+                "eli/dl/doc/B-8-2018-0240",
+                "eli/dl/doc/B-8-2018-0241"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-85"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-010"
+            ],
+            "notation_dlvId": "704612",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre financier pluriannuel 2021-2027 et ressources propres</title><label>Propositions de r\u00e9solution: B8-0239/2018, B8-0240/2018, B8-0241/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2714",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704321-11",
+            "activity_label": {
+                "fr": "Recommandation au Conseil, \u00e0 la Commission et \u00e0 la vice-pr\u00e9sidente de la Commission/haute repr\u00e9sentante concernant la Libye"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0159"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-11"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-011"
+            ],
+            "notation_dlvId": "704321",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Recommandation au Conseil, \u00e0 la Commission et \u00e0 la vice-pr\u00e9sidente de la Commission/haute repr\u00e9sentante concernant la Libye</title><label>Rapport: Pier Antonio Panzeri (A8-0159/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2017",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704603-8",
+            "activity_label": {
+                "fr": "L\u2019avenir de l\u2019alimentation et de l\u2019agriculture"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0178"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-69"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-008"
+            ],
+            "notation_dlvId": "704603",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u2019avenir de l\u2019alimentation et de l\u2019agriculture</title><label>Rapport: Herbert Dorfmann (A8-0178/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2037",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-705780-9",
+            "activity_label": {
+                "fr": "Interpr\u00e9tation et mise en oeuvre de l'accord interinstitutionnel \u00abMieux l\u00e9gif\u00e9rer\u00bb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0170"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-009"
+            ],
+            "notation_dlvId": "705780",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Interpr\u00e9tation et mise en oeuvre de l'accord interinstitutionnel \u00abMieux l\u00e9gif\u00e9rer\u00bb</title><label>Rapport: Pavel Svoboda et  Richard Corbett (A8-0170/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2018",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704604-7",
+            "activity_label": {
+                "fr": "Conformit\u00e9 des produits de la p\u00eache avec les crit\u00e8res d'acc\u00e8s au march\u00e9 de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0156"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-007"
+            ],
+            "notation_dlvId": "704604",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conformit\u00e9 des produits de la p\u00eache avec les crit\u00e8res d'acc\u00e8s au march\u00e9 de l'Union europ\u00e9enne</title><label>Rapport: Linn\u00e9a Engstr\u00f6m (A8-0156/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2129",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704611-6",
+            "activity_label": {
+                "fr": "Objections conform\u00e9ment \u00e0 l\u2019article 106: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 1507 \u00d7 59122 \u00d7 MON 810 \u00d7 NK603, et ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 combinant deux ou trois des \u00e9v\u00e9nements 1507, 59122, MON 810 et NK603 (D056123)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0233"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-006"
+            ],
+            "notation_dlvId": "704611",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objections conform\u00e9ment \u00e0 l\u2019article 106: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 1507 \u00d7 59122 \u00d7 MON 810 \u00d7 NK603, et ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 combinant deux ou trois des \u00e9v\u00e9nements 1507, 59122, MON 810 et NK603 (D056123)</title><label>Proposition de r\u00e9solution: B8-0233/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2699",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704567-4",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation (EGF/2018/000 TA 2018 - Assistance technique sur l\u2019initiative de la Commission)_x000D_"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0172"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-004"
+            ],
+            "notation_dlvId": "704567",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation (EGF/2018/000 TA 2018 - Assistance technique sur l\u2019initiative de la Commission)_x000D_\n</title><label>Rapport: Eider Gardiazabal Rubial (A8-0172/2018) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2048",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704319-12",
+            "activity_label": {
+                "fr": "Rapport annuel sur le fonctionnement de l'espace Schengen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0160"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-012"
+            ],
+            "notation_dlvId": "704319",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur le fonctionnement de l'espace Schengen</title><label>Rapport: Carlos Coelho (A8-0160/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2256",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704314-1",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne: aide \u00e0 la Gr\u00e8ce, \u00e0 l'Espagne, \u00e0 la France et au Portugal"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0175"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-001"
+            ],
+            "notation_dlvId": "704314",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne: aide \u00e0 la Gr\u00e8ce, \u00e0 l'Espagne, \u00e0 la France et au Portugal</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A8-0175/2018) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2029",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704314-2",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00ba 1/2018 accompagnant la proposition de mobilisation du Fonds de solidarit\u00e9 de l\u2019Union europ\u00e9enne pour venir en aide \u00e0 la Gr\u00e8ce, \u00e0 l\u2019Espagne, \u00e0 la France et au Portugal"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0176"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-50"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-002"
+            ],
+            "notation_dlvId": "704314",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00ba 1/2018 accompagnant la proposition de mobilisation du Fonds de solidarit\u00e9 de l\u2019Union europ\u00e9enne pour venir en aide \u00e0 la Gr\u00e8ce, \u00e0 l\u2019Espagne, \u00e0 la France et au Portugal</title><label>Rapport: Siegfried Mure\u015fan (A8-0176/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2030",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704610-5",
+            "activity_label": {
+                "fr": "Objection conform\u00e9ment \u00e0 l'article 106: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 GA21 (MON-\u00d8\u00d8\u00d821-9) (D056125)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0232"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-67"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-005"
+            ],
+            "notation_dlvId": "704610",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l'article 106: ma\u00efs g\u00e9n\u00e9tiquement modifi\u00e9 GA21 (MON-\u00d8\u00d8\u00d821-9) (D056125)</title><label>Proposition de r\u00e9solution: B8-0232/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2698",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704390-3",
+            "activity_label": {
+                "fr": "D\u00e9fense contre les importations qui font l'objet d'un dumping et de subventions de la part de pays non membres de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0182"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-003"
+            ],
+            "notation_dlvId": "704390",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9fense contre les importations qui font l'objet d'un dumping et de subventions de la part de pays non membres de l'Union europ\u00e9enne</title><label>Recommandation pour la deuxi\u00e8me lecture: Christofer Fjellner (A8-0182/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0103",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704605-13",
+            "activity_label": {
+                "fr": "Normes minimales concernant les droits, le soutien et la protection des victimes de la criminalit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0168"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-013"
+            ],
+            "notation_dlvId": "704605",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normes minimales concernant les droits, le soutien et la protection des victimes de la criminalit\u00e9</title><label>Rapport: Teresa Jim\u00e9nez-Becerril Barrio et  Angelika Mlinar (A8-0168/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2328",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14",
+            "type": "Activity",
+            "activity_date": "2018-05-30",
+            "activity_id": "MTG-PL-2018-05-30-VOT-ITM-704320-14",
+            "activity_label": {
+                "fr": "Rapport annuel sur la mise en oeuvre de la politique commerciale commune"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0166"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-05-30-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-05-30-VOT-ITM-014"
+            ],
+            "notation_dlvId": "704320",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur la mise en oeuvre de la politique commerciale commune</title><label>Rapport: Tokia Sa\u00effi (A8-0166/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-05-30",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704612-10",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704321-11",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704603-8",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-705780-9",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704604-7",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704611-6",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704567-4",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704319-12",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-1",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704314-2",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704610-5",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704390-3",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704605-13",
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2070",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-05-30-VOT-ITM-704320-14"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

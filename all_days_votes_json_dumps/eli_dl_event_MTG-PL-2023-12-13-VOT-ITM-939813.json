@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939813",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939813",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre du r\u00e8glement de 2018 relatif au blocage g\u00e9ographique dans le march\u00e9 unique num\u00e9rique",
+                "mul": "Mise en \u0153uvre du r\u00e8glement de 2018 relatif au blocage g\u00e9ographique dans le march\u00e9 unique num\u00e9rique - Implementation of the 2018 Geo-blocking Regulation in the digital single market - Umsetzung der Geoblocking-Verordnung aus dem Jahr 2018 im digitalen Binnenmarkt"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0335"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-28",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939813",
+            "epvoc:amendmentsAdoptedCommittee": 1,
+            "epvoc:amendmentsAdoptedMEP": 2,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 3,
+            "epvoc:amendmentsTabledCommittee": 2,
+            "epvoc:amendmentsTabledMEP": 2,
+            "epvoc:amendmentsTabledPoliticalGroup": 3,
+            "epvoc:amendmentsTabledTotal": 7,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du r\u00e8glement de 2018 relatif au blocage g\u00e9ographique dans le march\u00e9 unique num\u00e9rique</title><label>Rapport: Beata Mazurek (A9-0335/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

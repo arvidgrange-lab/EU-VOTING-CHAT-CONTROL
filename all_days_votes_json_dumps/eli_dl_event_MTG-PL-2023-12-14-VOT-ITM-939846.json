@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-14-VOT-ITM-939846",
+            "type": "Activity",
+            "activity_date": "2023-12-14",
+            "activity_id": "MTG-PL-2023-12-14-VOT-ITM-939846",
+            "activity_label": {
+                "mul": "Objection conform\u00e9ment \u00e0 l\u2019article 112, paragraphes 2 et 3: colza g\u00e9n\u00e9tiquement modifi\u00e9 Ms8, Rf3 et Ms8 \u00d7 Rf3 - Objection pursuant to Rule 112(2) and (3): Genetically modified oilseed rape Ms8, Rf3 and Ms8 \u00d7 Rf3 - Einwand gem\u00e4\u00df Artikel 112 Abs\u00e4tze 2 und 3 GO: genetisch ver\u00e4nderter Raps der Sorten Ms8, Rf3 und Ms8 \u00d7 Rf3",
+                "fr": "Objection conform\u00e9ment \u00e0 l\u2019article 112, paragraphes 2 et 3: colza g\u00e9n\u00e9tiquement modifi\u00e9 Ms8, Rf3 et Ms8 \u00d7 Rf3"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0490"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-14-OJ-ITM-V-103",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939846",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection conform\u00e9ment \u00e0 l\u2019article 112, paragraphes 2 et 3: colza g\u00e9n\u00e9tiquement modifi\u00e9 Ms8, Rf3 et Ms8 \u00d7 Rf3</title><label>Proposition de r\u00e9solution: B9-0490/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

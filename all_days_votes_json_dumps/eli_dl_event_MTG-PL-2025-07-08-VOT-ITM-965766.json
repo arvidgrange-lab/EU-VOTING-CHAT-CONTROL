@@ -1,0 +1,117 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-07-08-VOT-ITM-965766",
+            "type": "Activity",
+            "activity_date": "2025-07-08",
+            "activity_id": "MTG-PL-2025-07-08-VOT-ITM-965766",
+            "activity_label": {
+                "hu": "Az energiaell\u00e1t\u00e1s biztons\u00e1ga az EU-ban",
+                "lt": "Energijos tiekimo saugumas ES",
+                "da": "Energiforsyningssikkerhed i EU",
+                "el": "\u0391\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03b5\u03bd\u03b5\u03c1\u03b3\u03b5\u03b9\u03b1\u03ba\u03bf\u03cd \u03b5\u03c6\u03bf\u03b4\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03c3\u03c4\u03b7\u03bd \u0395\u0395",
+                "pt": "Seguran\u00e7a do aprovisionamento energ\u00e9tico na UE",
+                "bg": "\u0421\u0438\u0433\u0443\u0440\u043d\u043e\u0441\u0442 \u043d\u0430 \u0435\u043d\u0435\u0440\u0433\u0438\u0439\u043d\u0438\u0442\u0435 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u0432 \u0415\u0421",
+                "es": "Seguridad del abastecimiento energ\u00e9tico en la Uni\u00f3n",
+                "lv": "Dro\u0161a energoapg\u0101de Eiropas Savien\u012bb\u0101",
+                "mt": "Is-sigurt\u00e0 tal-provvista tal-ener\u0121ija fl-UE",
+                "sv": "Tryggad energif\u00f6rs\u00f6rjning i EU",
+                "pl": "Bezpiecze\u0144stwo dostaw energii w UE",
+                "fi": "Energian huoltovarmuus EU:ssa",
+                "en": "Security of energy supply in the EU",
+                "ga": "Sl\u00e1nd\u00e1il an tsol\u00e1thair fuinnimh san Aontas",
+                "cs": "Bezpe\u010dnost dod\u00e1vek energie v EU",
+                "nl": "Energievoorzieningszekerheid in de EU",
+                "it": "Sicurezza dell'approvvigionamento energetico nell'UE",
+                "sl": "Zanesljiva oskrba z energijo v EU",
+                "sk": "Bezpe\u010dnos\u0165 dod\u00e1vok energie v\u00a0E\u00da",
+                "de": "Sicherheit der Energieversorgung in der EU",
+                "et": "Energiavarustuskindlus ELis",
+                "ro": "Securitatea aprovizion\u0103rii cu energie \u00een UE",
+                "hr": "Sigurnost opskrbe energijom u EU-u",
+                "mul": "S\u00e9curit\u00e9 de l'approvisionnement \u00e9nerg\u00e9tique dans l'Union - Security of energy supply in the EU - Sicherheit der Energieversorgung in der EU",
+                "fr": "S\u00e9curit\u00e9 de l'approvisionnement \u00e9nerg\u00e9tique dans l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-10-2025-0121"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177865",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177881",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177884",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177867",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177871",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177861",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177913",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177876",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177863",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177868",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177872",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177858",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177911",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177733",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177874",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177864",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177883",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177870",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177869",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177910",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177885",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177880",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177859",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177912",
+                "eli/dl/event/MTG-PL-2025-07-08-DEC-177875"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2025-07-08-OJ-ITM-V-44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2025-07-08-VOT-ITM-008"
+            ],
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2025-07-08-VOT-ITM-965766-SPLIT-4",
+                "eli/dl/event/MTG-PL-2025-07-08-VOT-ITM-965766-RCV-1",
+                "eli/dl/event/MTG-PL-2025-07-08-VOT-ITM-965766-RCV-2",
+                "eli/dl/event/MTG-PL-2025-07-08-VOT-ITM-965766-SPLIT-1",
+                "eli/dl/event/MTG-PL-2025-07-08-VOT-ITM-965766-SEPARATE-1",
+                "eli/dl/event/MTG-PL-2025-07-08-VOT-ITM-965766-SPLIT-3",
+                "eli/dl/event/MTG-PL-2025-07-08-VOT-ITM-965766-SPLIT-2"
+            ],
+            "notation_dlvId": "965766",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>S\u00e9curit\u00e9 de l'approvisionnement \u00e9nerg\u00e9tique dans l'Union</title><label>Rapport: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Seguran\u00e7a do aprovisionamento energ\u00e9tico na UE</title><label>Relat\u00f3rio: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Zanesljiva oskrba z energijo v EU</title><label>Poro\u010dilo: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Tryggad energif\u00f6rs\u00f6rjning i EU</title><label>Bet\u00e4nkande: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Bezpiecze\u0144stwo dostaw energii w UE</title><label>Sprawozdanie: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Sigurnost opskrbe energijom u EU-u</title><label>Izvje\u0161\u0107e: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Seguridad del abastecimiento energ\u00e9tico en la Uni\u00f3n</title><label>Informe: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Az energiaell\u00e1t\u00e1s biztons\u00e1ga az EU-ban</title><label>Jelent\u00e9s: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Is-sigurt\u00e0 tal-provvista tal-ener\u0121ija fl-UE</title><label>Rapport: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0391\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03b5\u03bd\u03b5\u03c1\u03b3\u03b5\u03b9\u03b1\u03ba\u03bf\u03cd \u03b5\u03c6\u03bf\u03b4\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03c3\u03c4\u03b7\u03bd \u0395\u0395</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Energiavarustuskindlus ELis</title><label>Raport: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Dro\u0161a energoapg\u0101de Eiropas Savien\u012bb\u0101</title><label>Zi\u0146ojums: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Energian huoltovarmuus EU:ssa</title><label>Mietint\u00f6: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Bezpe\u010dnost dod\u00e1vek energie v EU</title><label>Zpr\u00e1va: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Energievoorzieningszekerheid in de EU</title><label>Verslag: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Securitatea aprovizion\u0103rii cu energie \u00een UE</title><label>Raport: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "ga": "<structuredLabel><title>Sl\u00e1nd\u00e1il an tsol\u00e1thair fuinnimh san Aontas</title><label>Tuarasc\u00e1il: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Energijos tiekimo saugumas ES</title><label>Prane\u0161imas: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Energiforsyningssikkerhed i EU</title><label>Bet\u00e6nkning: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Sicurezza dell'approvvigionamento energetico nell'UE</title><label>Relazione: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Bezpe\u010dnos\u0165 dod\u00e1vok energie v\u00a0E\u00da</title><label>Spr\u00e1va: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Security of energy supply in the EU</title><label>Report: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Sicherheit der Energieversorgung in der EU</title><label>Bericht: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0421\u0438\u0433\u0443\u0440\u043d\u043e\u0441\u0442 \u043d\u0430 \u0435\u043d\u0435\u0440\u0433\u0438\u0439\u043d\u0438\u0442\u0435 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u0432 \u0415\u0421</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Beata Szyd\u0142o (A10-0121/2025)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

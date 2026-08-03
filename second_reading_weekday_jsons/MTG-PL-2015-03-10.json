@@ -1,0 +1,581 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409732-8",
+            "activity_label": {
+                "fr": "Commissions d'interchange pour les op\u00e9rations de paiement li\u00e9es \u00e0 une carte"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0022"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-008"
+            ],
+            "notation_dlvId": "409732",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Commissions d'interchange pour les op\u00e9rations de paiement li\u00e9es \u00e0 une carte</title><label>Rapport compl\u00e9mentaire: Pablo Zalba Bidegain (A8-0022/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0265",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409229-1",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation - demande EGF/2013/009 PL/Zachem"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0036"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-50"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-001"
+            ],
+            "notation_dlvId": "409229",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation - demande EGF/2013/009 PL/Zachem</title><label>Rapport: Jan Olbrycht (A8-0036/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2016",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409229-5",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation -  demande EGF/2014/011 BE/Caterpillar"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0033"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-005"
+            ],
+            "notation_dlvId": "409229",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation -  demande EGF/2014/011 BE/Caterpillar</title><label>Rapport: Anneli J\u00e4\u00e4tteenm\u00e4ki (A8-0033/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2021",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409207-11",
+            "activity_label": {
+                "fr": "Rapport annuel sur la politique de concurrence de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0019"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-011"
+            ],
+            "notation_dlvId": "409207",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur la politique de concurrence de l'Union</title><label>Rapport: Morten Messerschmidt (A8-0019/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2158",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409229-2",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation - demande EGF/2014/014 DE/Aleo Solar"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0030"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-48"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-002"
+            ],
+            "notation_dlvId": "409229",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation - demande EGF/2014/014 DE/Aleo Solar</title><label>Rapport: Iris Hoffmann (A8-0030/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2018",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409208-6",
+            "activity_label": {
+                "fr": "Dimensions et poids des v\u00e9hicules routiers circulant dans la Communaut\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0032"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-006"
+            ],
+            "notation_dlvId": "409208",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Dimensions et poids des v\u00e9hicules routiers circulant dans la Communaut\u00e9</title><label>Recommandation pour la deuxi\u00e8me lecture: J\u00f6rg Leichtfried (A8-0032/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409727-9",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation  (demande EGF/2013/011 BE/Saint-Gobain Sekurit)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0034"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-49"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-009"
+            ],
+            "notation_dlvId": "409727",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation  (demande EGF/2013/011 BE/Saint-Gobain Sekurit)</title><label>Rapport: Liadh N\u00ed Riada (A8-0034/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2017",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409229-3",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mobilisation -  demande EGF/2013/007 BE/Hainaut Steel (Duferco-NLMK)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0031"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-003"
+            ],
+            "notation_dlvId": "409229",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mobilisation -  demande EGF/2013/007 BE/Hainaut Steel (Duferco-NLMK)</title><label>Rapport: Andrej Plenkovi\u0107 (A8-0031/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2019",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409206-10",
+            "activity_label": {
+                "fr": "Progr\u00e8s accomplis en mati\u00e8re d'\u00e9galit\u00e9 entre les femmes et les hommes dans l'Union en 2013"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0015"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-010"
+            ],
+            "notation_dlvId": "409206",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Progr\u00e8s accomplis en mati\u00e8re d'\u00e9galit\u00e9 entre les femmes et les hommes dans l'Union en 2013</title><label>Rapport: Marc Tarabella (A8-0015/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2217",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409229-4",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation -  demande EGF/2014/012 BE/ArcelorMittal"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0035"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-004"
+            ],
+            "notation_dlvId": "409229",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation -  demande EGF/2014/012 BE/ArcelorMittal</title><label>Rapport: Victor Negrescu (A8-0035/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2020",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409218-12",
+            "activity_label": {
+                "fr": "Rapport annuel 2013 de la Banque centrale europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0011"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-012"
+            ],
+            "notation_dlvId": "409218",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel 2013 de la Banque centrale europ\u00e9enne</title><label>Rapport: Pablo Zalba Bidegain (A8-0011/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2157",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7",
+            "type": "Activity",
+            "activity_date": "2015-03-10",
+            "activity_id": "MTG-PL-2015-03-10-VOT-ITM-409731-7",
+            "activity_label": {
+                "fr": "Fonds europ\u00e9ens d'investissement \u00e0 long terme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0021"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-03-10-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-03-10-VOT-ITM-007"
+            ],
+            "notation_dlvId": "409731",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds europ\u00e9ens d'investissement \u00e0 long terme</title><label>Rapport compl\u00e9mentaire: Alain Lamassoure</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-03-10",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409732-8",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-1",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-5",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409207-11",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-2",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409208-6",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409727-9",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-3",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409206-10",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409229-4",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409218-12",
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0214",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-03-10-VOT-ITM-409731-7"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

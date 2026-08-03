@@ -1,0 +1,506 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939456",
+            "activity_label": {
+                "fr": "La qualit\u00e9 de l\u2019air ambiant et un air pur pour l\u2019Europe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0233"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-18",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939456",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La qualit\u00e9 de l\u2019air ambiant et un air pur pour l\u2019Europe</title><label>Rapport: Javi L\u00f3pez (A9-0233/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0347",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939487",
+            "activity_label": {
+                "fr": "Projet de d\u00e9cision du Conseil europ\u00e9en fixant la composition du Parlement europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0265"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-74",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939487",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de d\u00e9cision du Conseil europ\u00e9en fixant la composition du Parlement europ\u00e9en</title><label>Recommandation: Lor\u00e1nt Vincze, Sandro Gozi (A9-0265/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0900",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939464",
+            "activity_label": {
+                "fr": "Coop\u00e9ration administrative dans le domaine fiscal"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0236"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-42",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939464",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coop\u00e9ration administrative dans le domaine fiscal</title><label>Rapport: Rasmus Andresen (A9-0236/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0413",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939449",
+            "activity_label": {
+                "fr": "Rapport 2022 concernant la Turquie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0247"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-16",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939449",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2022 concernant la Turquie</title><label>Rapport: Nacho S\u00e1nchez Amor (A9-0247/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2205",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939461",
+            "activity_label": {
+                "fr": "Lignes directrices pour les politiques de l\u2019emploi des \u00c9tats membres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0241"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-67",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939461",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lignes directrices pour les politiques de l\u2019emploi des \u00c9tats membres</title><label>Rapport: Drago\u015f P\u00eeslaru (A9-0241/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0173",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939471",
+            "activity_label": {
+                "fr": "Nomination d\u2019un membre de la Cour des comptes - Katar\u00edna Kaszasov\u00e1"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0259"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-66",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939471",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d\u2019un membre de la Cour des comptes - Katar\u00edna Kaszasov\u00e1</title><label>Rapport: Petri Sarvamaa (A9-0259/2023) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0804",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939453",
+            "activity_label": {
+                "fr": "Instrument du march\u00e9 unique pour les situations d\u2019urgence"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0246"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-30",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939453",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Instrument du march\u00e9 unique pour les situations d\u2019urgence</title><label>Rapport: Andreas Schwab (A9-0246/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0278",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939485",
+            "activity_label": {
+                "fr": "Amendements au r\u00e8glement int\u00e9rieur du Parlement en vue de renforcer l\u2019int\u00e9grit\u00e9, l\u2019ind\u00e9pendance et l\u2019obligation de rendre des comptes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0262"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-64",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939485",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Amendements au r\u00e8glement int\u00e9rieur du Parlement en vue de renforcer l\u2019int\u00e9grit\u00e9, l\u2019ind\u00e9pendance et l\u2019obligation de rendre des comptes</title><label>Rapport: Gabriele Bischoff (A9-0262/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2095",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939470",
+            "activity_label": {
+                "fr": "Reconduction de l\u2019accord de coop\u00e9ration scientifique et technologique UE/USA"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0242"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-71",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939470",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Reconduction de l\u2019accord de coop\u00e9ration scientifique et technologique UE/USA</title><label>Recommandation: Cristian-Silviu Bu\u015foi (A9-0242/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0088",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939450",
+            "activity_label": {
+                "fr": "Relations avec la Bi\u00e9lorussie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0258"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-57",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939450",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations avec la Bi\u00e9lorussie</title><label>Rapport: Petras Au\u0161trevi\u010dius (A9-0258/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2041",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939444",
+            "activity_label": {
+                "fr": "Carburants durables pour l\u2019aviation (Initiative \u00abReFuel EU Aviation\u00bb)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0199"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-39",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939444",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Carburants durables pour l\u2019aviation (Initiative \u00abReFuel EU Aviation\u00bb)</title><label>Rapport: Jos\u00e9 Ram\u00f3n Bauz\u00e1 D\u00edaz (A9-0199/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939456",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939487",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939464",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939449",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939461",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939471",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939485",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939470",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939450",
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0205",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939444"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

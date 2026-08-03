@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-15-VOT-ITM-938825",
+            "type": "Activity",
+            "activity_date": "2023-03-15",
+            "activity_id": "MTG-PL-2023-03-15-VOT-ITM-938825",
+            "activity_label": {
+                "fr": "Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: priorit\u00e9s sociales et en mati\u00e8re d\u2019emploi pour 2023"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0051"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-15-OJ-ITM-V-43",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "938825",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 10,
+            "epvoc:amendmentsTabledTotal": 10,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: priorit\u00e9s sociales et en mati\u00e8re d\u2019emploi pour 2023</title><label>Rapport: Estrella Dur\u00e1 Ferrandis (A9-0051/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-03-14-VOT-ITM-941966",
+            "type": "Activity",
+            "activity_date": "2024-03-14",
+            "activity_id": "MTG-PL-2024-03-14-VOT-ITM-941966",
+            "activity_label": {
+                "it": "Tempo impiegato dalla Commissione europea per trattare le richieste di accesso del pubblico ai documenti",
+                "cs": "Doba, kterou Evropsk\u00e1 komise pot\u0159ebuje k vy\u0159\u00edzen\u00ed \u017e\u00e1dost\u00ed o p\u0159\u00edstup ve\u0159ejnosti k dokument\u016fm",
+                "pl": "Czas rozpatrywania przez Komisj\u0119 Europejsk\u0105 wniosk\u00f3w o publiczny dost\u0119p do dokument\u00f3w",
+                "bg": "\u0421\u0440\u043e\u043a\u043e\u0432\u0435\u0442\u0435, \u0432 \u0440\u0430\u043c\u043a\u0438\u0442\u0435 \u043d\u0430 \u043a\u043e\u0438\u0442\u043e \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0430\u0442\u0430 \u043a\u043e\u043c\u0438\u0441\u0438\u044f \u043e\u0442\u0433\u043e\u0432\u0430\u0440\u044f \u043d\u0430 \u0437\u0430\u044f\u0432\u043b\u0435\u043d\u0438\u044f\u0442\u0430 \u0437\u0430 \u043f\u0443\u0431\u043b\u0438\u0447\u0435\u043d \u0434\u043e\u0441\u0442\u044a\u043f \u0434\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438",
+                "lv": "Laiks, kas Eiropas Komisijai vajadz\u012bgs, lai atbild\u0113tu uz piepras\u012bjumiem par publisku piek\u013cuvi dokumentiem",
+                "hr": "Vrijeme koje je Komisiji potrebno da obradi zahtjeve za javni pristup dokumentima",
+                "mul": "Le d\u00e9lai n\u00e9cessaire \u00e0 la Commission pour traiter les demandes d\u2019acc\u00e8s du public aux documents - The time the European Commission takes to deal with requests for public access to documents - Die Zeit, die die Kommission f\u00fcr die Bearbeitung von Antr\u00e4gen auf Zugang der \u00d6ffentlichkeit zu Dokumenten ben\u00f6tigt",
+                "da": "Europa-Kommissionens behandlingstid for s\u00e5 vidt ang\u00e5r anmodninger om aktindsigt",
+                "mt": "I\u017c-\u017cmien li tie\u0127u l-Kummissjoni Ewropea biex tittratta t-talbiet ta\u2019 a\u010b\u010bess pubbliku g\u0127ad-dokumenti",
+                "pt": "O tempo que a Comiss\u00e3o Europeia demora a tratar os pedidos de acesso do p\u00fablico a documentos",
+                "de": "Die Zeit, die die Europ\u00e4ische Kommission f\u00fcr die Bearbeitung von Antr\u00e4gen auf Zugang der \u00d6ffentlichkeit zu Dokumenten ben\u00f6tigt",
+                "en": "The time the European Commission takes to deal with requests for public access to documents",
+                "sl": "\u010cas, ki ga Evropska komisija potrebuje za obravnavo zahtev za dostop javnosti do dokumentov",
+                "sv": "Den tid det tar f\u00f6r Europeiska kommissionen att behandla beg\u00e4randen om allm\u00e4nhetens tillg\u00e5ng till handlingar",
+                "fr": "Le d\u00e9lai n\u00e9cessaire \u00e0 la Commission pour traiter les demandes d\u2019acc\u00e8s du public aux documents",
+                "lt": "Laikas, per kur\u012f Europos Komisija nagrin\u0117ja pra\u0161ymus leisti visuomenei susipa\u017einti su dokumentais",
+                "nl": "De tijd die de Europese Commissie erover doet om verzoeken om toegang tot documenten te behandelen",
+                "es": "Tiempo que tarda la Comisi\u00f3n Europea en tramitar las solicitudes de acceso del p\u00fablico a los documentos",
+                "sk": "\u010cas, ktor\u00fd Eur\u00f3pska komisia potrebuje na vybavenie \u017eiadost\u00ed o pr\u00edstup verejnosti k dokumentom",
+                "el": "\u039f \u03c7\u03c1\u03cc\u03bd\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03b5\u03af \u03b1\u03b9\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03b9\u03bd\u03bf\u03cd \u03c3\u03b5 \u03ad\u03b3\u03b3\u03c1\u03b1\u03c6\u03b1",
+                "fi": "Euroopan komission asiakirjoihin tutustumista koskevien pyynt\u00f6jen k\u00e4sittelyyn k\u00e4ytt\u00e4m\u00e4 aika",
+                "et": "Euroopa Komisjonil kuluv aeg k\u00e4sitlemaks taotlusi anda \u00fcldsusele juurdep\u00e4\u00e4s dokumentidele",
+                "ro": "Intervalele \u00een care Comisia European\u0103 d\u0103 curs cererilor de acces public la documente",
+                "hu": "A dokumentumokhoz val\u00f3 nyilv\u00e1nos hozz\u00e1f\u00e9r\u00e9s ir\u00e1nti k\u00e9relmek Eur\u00f3pai Bizotts\u00e1g \u00e1ltali elb\u00edr\u00e1l\u00e1s\u00e1hoz sz\u00fcks\u00e9ges id\u0151",
+                "ga": "An t-am a th\u00f3gann an Coimisi\u00fan Eorpach chun d\u00e9ile\u00e1il le hiarrata\u00ed ar rochtain phoibl\u00ed ar dhoicim\u00e9id"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2024-0162"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166601",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166607",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166552",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166606",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166604",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166600",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166598",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166599",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166609",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166605",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166603",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166553",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166602",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166597",
+                "eli/dl/event/MTG-PL-2024-03-14-DEC-166608"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-03-14-OJ-ITM-V-130"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-03-14-VOT-ITM-014"
+            ],
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2024-03-14-VOT-ITM-941966-RCV-2",
+                "eli/dl/event/MTG-PL-2024-03-14-VOT-ITM-941966-RCV-1",
+                "eli/dl/event/MTG-PL-2024-03-14-VOT-ITM-941966-RCV-3"
+            ],
+            "notation_dlvId": "941966",
+            "structuredLabel": {
+                "pt": "<structuredLabel><title>O tempo que a Comiss\u00e3o Europeia demora a tratar os pedidos de acesso do p\u00fablico a documentos</title><label>Proposta de resolu\u00e7\u00e3o: B9-0162/2024</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Doba, kterou Evropsk\u00e1 komise pot\u0159ebuje k vy\u0159\u00edzen\u00ed \u017e\u00e1dost\u00ed o p\u0159\u00edstup ve\u0159ejnosti k dokument\u016fm</title><label>N\u00e1vrh usnesen\u00ed: B9-0162/2024</label></structuredLabel>",
+                "da": "<structuredLabel><title>Europa-Kommissionens behandlingstid for s\u00e5 vidt ang\u00e5r anmodninger om aktindsigt</title><label>Forslag til beslutning: B9-0162/2024</label></structuredLabel>",
+                "et": "<structuredLabel><title>Euroopa Komisjonil kuluv aeg k\u00e4sitlemaks taotlusi anda \u00fcldsusele juurdep\u00e4\u00e4s dokumentidele</title><label>Resolutsiooni ettepanek: B9-0162/2024</label></structuredLabel>",
+                "sl": "<structuredLabel><title>\u010cas, ki ga Evropska komisija potrebuje za obravnavo zahtev za dostop javnosti do dokumentov</title><label>Predlog resolucije: B9-0162/2024</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Euroopan komission asiakirjoihin tutustumista koskevien pyynt\u00f6jen k\u00e4sittelyyn k\u00e4ytt\u00e4m\u00e4 aika</title><label>P\u00e4\u00e4t\u00f6slauselmaesitys: B9-0162/2024</label></structuredLabel>",
+                "sk": "<structuredLabel><title>\u010cas, ktor\u00fd Eur\u00f3pska komisia potrebuje na vybavenie \u017eiadost\u00ed o pr\u00edstup verejnosti k dokumentom</title><label>N\u00e1vrh uznesenia: B9-0162/2024</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Czas rozpatrywania przez Komisj\u0119 Europejsk\u0105 wniosk\u00f3w o publiczny dost\u0119p do dokument\u00f3w</title><label>Projekt rezolucji: B9-0162/2024</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Laiks, kas Eiropas Komisijai vajadz\u012bgs, lai atbild\u0113tu uz piepras\u012bjumiem par publisku piek\u013cuvi dokumentiem</title><label>Rezol\u016bcijas priek\u0161likums: B9-0162/2024</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0421\u0440\u043e\u043a\u043e\u0432\u0435\u0442\u0435, \u0432 \u0440\u0430\u043c\u043a\u0438\u0442\u0435 \u043d\u0430 \u043a\u043e\u0438\u0442\u043e \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0430\u0442\u0430 \u043a\u043e\u043c\u0438\u0441\u0438\u044f \u043e\u0442\u0433\u043e\u0432\u0430\u0440\u044f \u043d\u0430 \u0437\u0430\u044f\u0432\u043b\u0435\u043d\u0438\u044f\u0442\u0430 \u0437\u0430 \u043f\u0443\u0431\u043b\u0438\u0447\u0435\u043d \u0434\u043e\u0441\u0442\u044a\u043f \u0434\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438</title><label>\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u044f: B9-0162/2024</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Vrijeme koje je Komisiji potrebno da obradi zahtjeve za javni pristup dokumentima</title><label>Prijedlog rezolucije: B9-0162/2024</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Le d\u00e9lai n\u00e9cessaire \u00e0 la Commission pour traiter les demandes d\u2019acc\u00e8s du public aux documents</title><label>Proposition de r\u00e9solution: B9-0162/2024</label></structuredLabel>",
+                "nl": "<structuredLabel><title>De tijd die de Europese Commissie erover doet om verzoeken om toegang tot documenten te behandelen</title><label>Ontwerpresolutie: B9-0162/2024</label></structuredLabel>",
+                "it": "<structuredLabel><title>Tempo impiegato dalla Commissione europea per trattare le richieste di accesso del pubblico ai documenti</title><label>Proposta di risoluzione: B9-0162/2024</label></structuredLabel>",
+                "mt": "<structuredLabel><title>I\u017c-\u017cmien li tie\u0127u l-Kummissjoni Ewropea biex tittratta t-talbiet ta\u2019 a\u010b\u010bess pubbliku g\u0127ad-dokumenti</title><label>Mozzjoni g\u0127al ri\u017coluzzjoni: B9-0162/2024</label></structuredLabel>",
+                "hu": "<structuredLabel><title>A dokumentumokhoz val\u00f3 nyilv\u00e1nos hozz\u00e1f\u00e9r\u00e9s ir\u00e1nti k\u00e9relmek Eur\u00f3pai Bizotts\u00e1g \u00e1ltali elb\u00edr\u00e1l\u00e1s\u00e1hoz sz\u00fcks\u00e9ges id\u0151</title><label>\u00c1ll\u00e1sfoglal\u00e1si ind\u00edtv\u00e1ny: B9-0162/2024</label></structuredLabel>",
+                "en": "<structuredLabel><title>The time the European Commission takes to deal with requests for public access to documents</title><label>Motion for a resolution: B9-0162/2024</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Laikas, per kur\u012f Europos Komisija nagrin\u0117ja pra\u0161ymus leisti visuomenei susipa\u017einti su dokumentais</title><label>Pasi\u016blymas d\u0117l rezoliucijos: B9-0162/2024</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Intervalele \u00een care Comisia European\u0103 d\u0103 curs cererilor de acces public la documente</title><label>Propunere de rezolu\u021bie: B9-0162/2024</label></structuredLabel>",
+                "es": "<structuredLabel><title>Tiempo que tarda la Comisi\u00f3n Europea en tramitar las solicitudes de acceso del p\u00fablico a los documentos</title><label>Propuesta de Resoluci\u00f3n: B9-0162/2024</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Den tid det tar f\u00f6r Europeiska kommissionen att behandla beg\u00e4randen om allm\u00e4nhetens tillg\u00e5ng till handlingar</title><label>Resolutionsf\u00f6rslag: B9-0162/2024</label></structuredLabel>",
+                "de": "<structuredLabel><title>Die Zeit, die die Europ\u00e4ische Kommission f\u00fcr die Bearbeitung von Antr\u00e4gen auf Zugang der \u00d6ffentlichkeit zu Dokumenten ben\u00f6tigt</title><label>Entschlie\u00dfungsantrag: B9-0162/2024</label></structuredLabel>",
+                "ga": "<structuredLabel><title>An t-am a th\u00f3gann an Coimisi\u00fan Eorpach chun d\u00e9ile\u00e1il le hiarrata\u00ed ar rochtain phoibl\u00ed ar dhoicim\u00e9id</title><label>Tairiscint i gcomhair r\u00fain: B9-0162/2024</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u039f \u03c7\u03c1\u03cc\u03bd\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03b5\u03af \u03b1\u03b9\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03b9\u03bd\u03bf\u03cd \u03c3\u03b5 \u03ad\u03b3\u03b3\u03c1\u03b1\u03c6\u03b1</title><label>\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c8\u03b7\u03c6\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2: B9-0162/2024</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

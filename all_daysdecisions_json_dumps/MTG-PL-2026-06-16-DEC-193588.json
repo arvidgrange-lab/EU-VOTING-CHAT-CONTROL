@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-06-16-DEC-193588",
+            "type": "Vote",
+            "activity_date": "2026-06-16",
+            "activity_id": "MTG-PL-2026-06-16-DEC-193588",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "193588",
+            "referenceText": {
+                "ro": "Cerere de aplicare a procedurii de urgen\u021b\u0103",
+                "fr": "Demande de d\u00e9cision d'urgence",
+                "en": "Request for an urgent decision",
+                "el": "\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03ba\u03b1\u03c4\u03b5\u03c0\u03b5\u03af\u03b3\u03bf\u03c5\u03c3\u03b1 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7",
+                "pt": "Pedido de decis\u00e3o urgente",
+                "sl": "Zahteva za nujni postopek",
+                "it": "Richiesta di decisione d'urgenza",
+                "cs": "\u017e\u00e1dost o p\u0159ijet\u00ed nal\u00e9hav\u00e9ho rozhodnut\u00ed",
+                "da": "Anmodning om uops\u00e6ttelig afg\u00f8relse",
+                "sv": "Beg\u00e4ran om br\u00e5dskande beslut",
+                "ga": "Iarraidh ar chinneadh pr\u00e1inneach",
+                "lv": "Piepras\u012bjums steidzami pie\u0146emt l\u0113mumu",
+                "lt": "Pra\u0161ymas skubos tvarka priimti sprendim\u0105",
+                "et": "Kiireloomulise otsuse tegemise taotlus",
+                "hr": "Zahtjev za hitnu odluku",
+                "fi": "kiireellist\u00e4 p\u00e4\u00e4t\u00f6st\u00e4 koskeva pyynt\u00f6",
+                "hu": "S\u00fcrg\u0151ss\u00e9gi hat\u00e1rozatra ir\u00e1nyul\u00f3 k\u00e9relem",
+                "es": "Solicitud de decisi\u00f3n de urgencia",
+                "sk": "\u017diados\u0165 o naliehav\u00e9 rozhodnutie",
+                "nl": "Verzoek om een urgent besluit",
+                "mt": "Talba g\u0127al de\u010bi\u017cjoni ur\u0121enti",
+                "pl": "Wniosek o podj\u0119cie decyzji w trybie pilnym",
+                "de": "Antrag auf einen Beschluss im Dringlichkeitsverfahren",
+                "bg": "\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u043d\u0435\u043e\u0442\u043b\u043e\u0436\u043d\u043e \u0440\u0435\u0448\u0435\u043d\u0438\u0435"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

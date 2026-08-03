@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-09-VOT-ITM-939069",
+            "type": "Activity",
+            "activity_date": "2023-05-09",
+            "activity_id": "MTG-PL-2023-05-09-VOT-ITM-939069",
+            "activity_label": {
+                "fr": "R\u00e8gles sp\u00e9cifiques relatives \u00e0 l\u2019entr\u00e9e en Irlande du Nord en provenance d\u2019autres parties du Royaume-Uni de certains envois de biens de consommation courante, de v\u00e9g\u00e9taux destin\u00e9s \u00e0 la plantation, de plants de pommes de terre, de machines et de certains v\u00e9hicules exploit\u00e9s \u00e0 des fins agricoles ou foresti\u00e8res ainsi qu\u2019aux mouvements non commerciaux de certains animaux de compagnie \u00e0 destination de l\u2019Irlande du Nord"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0168"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-09-OJ-ITM-V-50",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-09-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939069",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8gles sp\u00e9cifiques relatives \u00e0 l\u2019entr\u00e9e en Irlande du Nord en provenance d\u2019autres parties du Royaume-Uni de certains envois de biens de consommation courante, de v\u00e9g\u00e9taux destin\u00e9s \u00e0 la plantation, de plants de pommes de terre, de machines et de certains v\u00e9hicules exploit\u00e9s \u00e0 des fins agricoles ou foresti\u00e8res ainsi qu\u2019aux mouvements non commerciaux de certains animaux de compagnie \u00e0 destination de l\u2019Irlande du Nord</title><label>Rapport: Pascal Canfin, Martin Hlav\u00e1\u010dek (A9-0168/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,746 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939195",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2023/000 TA 2023 - Assistance technique sur l\u2019initiative de la Commission"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0195"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-38",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939195",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2023/000 TA 2023 - Assistance technique sur l\u2019initiative de la Commission</title><label>Rapport: Monika Vana (A9-0195/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0106",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939185",
+            "activity_label": {
+                "fr": "Accords entre le Parlement europ\u00e9en et la BCE relatifs \u00e0 la structuration de leurs pratiques d\u2019interaction dans le domaine des activit\u00e9s de banque centrale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0158"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-27",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939185",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accords entre le Parlement europ\u00e9en et la BCE relatifs \u00e0 la structuration de leurs pratiques d\u2019interaction dans le domaine des activit\u00e9s de banque centrale</title><label>Rapport: Salvatore De Meo (A9-0158/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2026",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939196",
+            "activity_label": {
+                "fr": "Acte l\u00e9gislatif de soutien \u00e0 la production de munitions"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/C-9-2023-0161"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-44",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939196",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Acte l\u00e9gislatif de soutien \u00e0 la production de munitions</title><label>Proposition de r\u00e8glement (COM(2023)0237 - C9-0161/2023 - 2023/0140(COD))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0140",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939186",
+            "activity_label": {
+                "fr": "Ing\u00e9rence \u00e9trang\u00e8re dans l\u2019ensemble des processus d\u00e9mocratiques de l\u2019Union europ\u00e9enne, y compris la d\u00e9sinformation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0187"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-9",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-014"
+            ],
+            "notation_dlvId": "939186",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ing\u00e9rence \u00e9trang\u00e8re dans l\u2019ensemble des processus d\u00e9mocratiques de l\u2019Union europ\u00e9enne, y compris la d\u00e9sinformation</title><label>Rapport: Sandra Kalniete (A9-0187/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2075",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939190",
+            "activity_label": {
+                "fr": "Nomination d\u2019un membre de la Cour des comptes \u2013 Ildik\u00f3 G\u00e1ll-Pelcz"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0197"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-32",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939190",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d\u2019un membre de la Cour des comptes \u2013 Ildik\u00f3 G\u00e1ll-Pelcz</title><label>Rapport: Ryszard Czarnecki (A9-0197/2023) (Vote au scrutin secret (article 191, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0803",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939206",
+            "activity_label": {
+                "fr": "Renforcer le dialogue social"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0259"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-42",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939206",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renforcer le dialogue social</title><label>Proposition de r\u00e9solution: B9-0259/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2536",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939189",
+            "activity_label": {
+                "fr": "Arrangement avec la R\u00e9publique d\u2019Islande sur les modalit\u00e9s de sa participation au Bureau europ\u00e9en d\u2019appui en mati\u00e8re d\u2019asile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0175"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-31",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939189",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Arrangement avec la R\u00e9publique d\u2019Islande sur les modalit\u00e9s de sa participation au Bureau europ\u00e9en d\u2019appui en mati\u00e8re d\u2019asile</title><label>Recommandation: Jeroen Lenaers (A9-0175/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0425",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939203",
+            "activity_label": {
+                "fr": "Violations de l\u2019\u00e9tat de droit et des droits fondamentaux en Hongrie et fonds de l\u2019UE gel\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0257"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-40",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939203",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Violations de l\u2019\u00e9tat de droit et des droits fondamentaux en Hongrie et fonds de l\u2019UE gel\u00e9s</title><label>Proposition de r\u00e9solution: B9-0257/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2691",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939184",
+            "activity_label": {
+                "fr": "Devoir de vigilance des entreprises en mati\u00e8re de durabilit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0184"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-19",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939184",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Devoir de vigilance des entreprises en mati\u00e8re de durabilit\u00e9</title><label>Rapport: Lara Wolters (A9-0184/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0051",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939193",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Maria Spyraki"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0201"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-47",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939193",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Maria Spyraki</title><label>Rapport: Ilana Cicurel (A9-0201/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2009",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939204",
+            "activity_label": {
+                "fr": "Action coordonn\u00e9e pour lutter contre la r\u00e9sistance aux antimicrobiens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0258"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-43",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-015"
+            ],
+            "notation_dlvId": "939204",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Action coordonn\u00e9e pour lutter contre la r\u00e9sistance aux antimicrobiens</title><label>Proposition de r\u00e9solution: B9-0258/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2703",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939183",
+            "activity_label": {
+                "fr": "Strat\u00e9gie de l\u2019Union europ\u00e9enne pour des textiles durables et circulaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0176"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-4",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939183",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie de l\u2019Union europ\u00e9enne pour des textiles durables et circulaires</title><label>Rapport: Delara Burkhardt (A9-0176/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2171",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939188",
+            "activity_label": {
+                "fr": "Indications g\u00e9ographiques pour les vins, les boissons spiritueuses et les produits agricoles"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0173"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-29",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939188",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Indications g\u00e9ographiques pour les vins, les boissons spiritueuses et les produits agricoles</title><label>Rapport: Paolo De Castro (A9-0173/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0089",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939207",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 d'Alexis Georgoulis"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0202"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-48",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939207",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 d'Alexis Georgoulis</title><label>Rapport: Andrzej Halicki (A9-0202/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2056",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939187",
+            "activity_label": {
+                "fr": "Harc\u00e8lement sexuel dans l\u2019Union europ\u00e9enne et \u00e9valuation de MeToo"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0178"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-5",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939187",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Harc\u00e8lement sexuel dans l\u2019Union europ\u00e9enne et \u00e9valuation de MeToo</title><label>Rapport: Michal \u0160ime\u010dka (A9-0178/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-06-01",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939195",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939185",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939186",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939190",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939206",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939203",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939184",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939193",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939204",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939183",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939188",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939207",
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2138",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939187"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-14-VOT-ITM-939843",
+            "type": "Activity",
+            "activity_date": "2023-12-14",
+            "activity_id": "MTG-PL-2023-12-14-VOT-ITM-939843",
+            "activity_label": {
+                "fr": "Banque europ\u00e9enne de l'hydrog\u00e8ne",
+                "mul": "Banque europ\u00e9enne de l'hydrog\u00e8ne - European Hydrogen Bank - Europ\u00e4ische Wasserstoffbank"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0379"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-14-OJ-ITM-V-47",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-14-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939843",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Banque europ\u00e9enne de l'hydrog\u00e8ne</title><label>Rapport: Robert Haj\u0161el (A9-0379/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

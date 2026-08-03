@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-13-VOT-ITM-939453",
+            "type": "Activity",
+            "activity_date": "2023-09-13",
+            "activity_id": "MTG-PL-2023-09-13-VOT-ITM-939453",
+            "activity_label": {
+                "fr": "Instrument du march\u00e9 unique pour les situations d\u2019urgence"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0246"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-13-OJ-ITM-V-30",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-13-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939453",
+            "epvoc:amendmentsAdoptedCommittee": 294,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 294,
+            "epvoc:amendmentsTabledCommittee": 294,
+            "epvoc:amendmentsTabledPoliticalGroup": 1,
+            "epvoc:amendmentsTabledTotal": 295,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Instrument du march\u00e9 unique pour les situations d\u2019urgence</title><label>Rapport: Andreas Schwab (A9-0246/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

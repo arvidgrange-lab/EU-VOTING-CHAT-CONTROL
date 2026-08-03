@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-04-28-VOT-ITM-422841-4",
+            "type": "Activity",
+            "activity_date": "2015-04-28",
+            "activity_id": "MTG-PL-2015-04-28-VOT-ITM-422841-4",
+            "activity_label": {
+                "fr": "Directive sur la qualit\u00e9 du carburant et directive sur les \u00e9nergies renouvelables"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0025"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-04-28-OJ-ITM-V-123"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-04-28-VOT-ITM-004"
+            ],
+            "notation_dlvId": "422841",
+            "epvoc:amendmentsAdoptedCommittee": 2,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 2,
+            "epvoc:amendmentsTabledCommittee": 98,
+            "epvoc:amendmentsTabledPoliticalGroup": 5,
+            "epvoc:amendmentsTabledTotal": 103,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Directive sur la qualit\u00e9 du carburant et directive sur les \u00e9nergies renouvelables</title><label>Recommandation pour la deuxi\u00e8me lecture: Nils Torvalds (A8-0025/2015) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

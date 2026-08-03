@@ -1,0 +1,786 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-506243-5",
+            "activity_label": {
+                "fr": "Instauration de mesures commerciales autonomes d'urgence en faveur de la Tunisie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0013"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-005"
+            ],
+            "notation_dlvId": "506243",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Instauration de mesures commerciales autonomes d'urgence en faveur de la Tunisie</title><label>Rapport: Marielle de Sarnez (A8-0013/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0218",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-506240-3",
+            "activity_label": {
+                "fr": "Adh\u00e9sion de la Croatie aux conventions relatives \u00e0 la protection des int\u00e9r\u00eats financiers des Communaut\u00e9s europ\u00e9ennes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0019"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-26"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-003"
+            ],
+            "notation_dlvId": "506240",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion de la Croatie aux conventions relatives \u00e0 la protection des int\u00e9r\u00eats financiers des Communaut\u00e9s europ\u00e9ennes</title><label>Rapport: Tom\u00e1\u0161 Zdechovsk\u00fd (A8-0019/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0210",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-506240-2",
+            "activity_label": {
+                "fr": "Accord CE-Saint-Marin pr\u00e9voyant des mesures sur la fiscalit\u00e9 des revenus de l'\u00e9pargne sous forme de paiements d'int\u00e9r\u00eats"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0025"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-11"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-002"
+            ],
+            "notation_dlvId": "506240",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord CE-Saint-Marin pr\u00e9voyant des mesures sur la fiscalit\u00e9 des revenus de l'\u00e9pargne sous forme de paiements d'int\u00e9r\u00eats</title><label>Rapport: Cora van Nieuwenhuizen (A8-0025/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0244",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-506503-14",
+            "activity_label": {
+                "fr": "Introduction de syst\u00e8mes compatibles d'enregistrement des animaux de compagnie dans tous les \u00c9tats membres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0253",
+                "eli/dl/doc/B-8-2016-0251",
+                "eli/dl/doc/B-8-2016-0256",
+                "eli/dl/doc/B-8-2016-0252",
+                "eli/dl/doc/B-8-2016-0254"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-014"
+            ],
+            "notation_dlvId": "506503",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Introduction de syst\u00e8mes compatibles d'enregistrement des animaux de compagnie dans tous les \u00c9tats membres</title><label>Propositions de r\u00e9solution: B8-0252/2016, B8-0253/2016, B8-0254/2016, B8-0256/2016, B8-0251/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2540",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-506240-1",
+            "activity_label": {
+                "fr": "Adh\u00e9sion de l'Autriche et de Malte \u00e0 la convention de La\u00a0Haye relative \u00e0 la signification et la notification \u00e0 l'\u00e9tranger des actes judiciaires et extrajudiciaires en mati\u00e8re civile et commerciale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0018"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-001"
+            ],
+            "notation_dlvId": "506240",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion de l'Autriche et de Malte \u00e0 la convention de La\u00a0Haye relative \u00e0 la signification et la notification \u00e0 l'\u00e9tranger des actes judiciaires et extrajudiciaires en mati\u00e8re civile et commerciale</title><label>Recommandation: Viktor Uspaskich (A8-0018/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0177",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-508039-8",
+            "activity_label": {
+                "fr": "Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: emploi et aspects sociaux dans le cadre de l'examen annuel de la croissance 2016"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0031"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-008"
+            ],
+            "notation_dlvId": "508039",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: emploi et aspects sociaux dans le cadre de l'examen annuel de la croissance 2016</title><label>Rapport: Sofia Ribeiro (A8-0031/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2330",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-506502-13",
+            "activity_label": {
+                "fr": "Ouverture des n\u00e9gociations sur un accord de libre-\u00e9change avec l'Australie et la Nouvelle-Z\u00e9lande"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0250"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-013"
+            ],
+            "notation_dlvId": "506502",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ouverture des n\u00e9gociations sur un accord de libre-\u00e9change avec l'Australie et la Nouvelle-Z\u00e9lande</title><label>Proposition de r\u00e9solution: B8-0250/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2932",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-506241-4",
+            "activity_label": {
+                "fr": "R\u00e9seau europ\u00e9en des services de l'emploi, acc\u00e8s des travailleurs aux services de mobilit\u00e9 et poursuite de l'int\u00e9gration des march\u00e9s du travail"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0224"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-004"
+            ],
+            "notation_dlvId": "506241",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9seau europ\u00e9en des services de l'emploi, acc\u00e8s des travailleurs aux services de mobilit\u00e9 et poursuite de l'int\u00e9gration des march\u00e9s du travail</title><label>Rapport: Heinz K. Becker (A8-0224/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0002",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-506501-10",
+            "activity_label": {
+                "fr": "Ouverture des n\u00e9gociations en vue d'un accord de libre-\u00e9change UE-Tunisie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0255"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-010"
+            ],
+            "notation_dlvId": "506501",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ouverture des n\u00e9gociations en vue d'un accord de libre-\u00e9change UE-Tunisie</title><label>Proposition de r\u00e9solution: B8-0255/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2791",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-506247-12",
+            "activity_label": {
+                "fr": "Rapport annuel 2014 de la Banque centrale europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0012"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-012"
+            ],
+            "notation_dlvId": "506247",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel 2014 de la Banque centrale europ\u00e9enne</title><label>Rapport: Notis Marias (A8-0012/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2115",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-500679-15",
+            "activity_label": {
+                "fr": "Situation humanitaire au Y\u00e9men"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0151",
+                "eli/dl/doc/B-8-2016-0152",
+                "eli/dl/doc/B-8-2016-0155",
+                "eli/dl/doc/B-8-2016-0160",
+                "eli/dl/doc/B-8-2016-0158",
+                "eli/dl/doc/B-8-2016-0147",
+                "eli/dl/doc/B-8-2016-0153"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-015"
+            ],
+            "notation_dlvId": "500679",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation humanitaire au Y\u00e9men</title><label>Propositions de r\u00e9solution: B8-0147/2016, B8-0152/2016, B8-0153/2016, B8-0155/2016, B8-0158/2016, B8-0160/2016, B8-0151/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2515",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-506244-9",
+            "activity_label": {
+                "fr": "Gouvernance du march\u00e9 unique dans le cadre du Semestre europ\u00e9en 2016"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0017"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-009"
+            ],
+            "notation_dlvId": "506244",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gouvernance du march\u00e9 unique dans le cadre du Semestre europ\u00e9en 2016</title><label>Rapport: Catherine Stihler (A8-0017/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2256",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-506245-11",
+            "activity_label": {
+                "fr": "Activit\u00e9s du M\u00e9diateur europ\u00e9en en 2014"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0020"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-011"
+            ],
+            "notation_dlvId": "506245",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Activit\u00e9s du M\u00e9diateur europ\u00e9en en 2014</title><label>Rapport: Soledad Cabez\u00f3n Ruiz (A8-0020/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2231",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-508040-6",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation - demande EGF/2015/007 BE/ Hainaut-Namur Glass"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0029"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-006"
+            ],
+            "notation_dlvId": "508040",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation - demande EGF/2015/007 BE/ Hainaut-Namur Glass</title><label>Rapport: Tom\u00e1\u0161 Zdechovsk\u00fd (A8-0029/2016) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2013",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7",
+            "type": "Activity",
+            "activity_date": "2016-02-25",
+            "activity_id": "MTG-PL-2016-02-25-VOT-ITM-508038-7",
+            "activity_label": {
+                "fr": "Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: examen annuel de la croissance 2016"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0030"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-02-25-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-02-25-VOT-ITM-007"
+            ],
+            "notation_dlvId": "508038",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Semestre europ\u00e9en pour la coordination des politiques \u00e9conomiques: examen annuel de la croissance 2016</title><label>Rapport: Maria Jo\u00e3o Rodrigues (A8-0030/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-02-25",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506243-5",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-3",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-2",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506503-14",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506240-1",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508039-8",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506502-13",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506241-4",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506501-10",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506247-12",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-500679-15",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506244-9",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-506245-11",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508040-6",
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2285",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-02-25-VOT-ITM-508038-7"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

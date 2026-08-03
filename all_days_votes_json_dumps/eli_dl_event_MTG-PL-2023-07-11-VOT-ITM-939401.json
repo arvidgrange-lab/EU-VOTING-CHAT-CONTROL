@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939401",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939401",
+            "activity_label": {
+                "fr": "Accord UE-Japon: services a\u00e9riens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0221"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-84",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939401",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Japon: services a\u00e9riens</title><label>Recommandation: Cl\u00e1udia Monteiro de Aguiar (A9-0221/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

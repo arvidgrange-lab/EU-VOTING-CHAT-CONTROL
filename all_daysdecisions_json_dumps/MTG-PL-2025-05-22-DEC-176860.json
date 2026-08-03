@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-05-22-DEC-176860",
+            "type": "Vote",
+            "activity_date": "2025-05-22",
+            "activity_id": "MTG-PL-2025-05-22-DEC-176860",
+            "activity_label": {
+                "fi": "1 kappale",
+                "ga": "Aithris 1",
+                "et": "P\u00f5hjendus 1",
+                "da": "Betragtning 1",
+                "sk": "od\u00f4vodnenie 1",
+                "fr": "Consid\u00e9rant 1",
+                "bg": "\u0441\u044a\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 1",
+                "mt": "Premessa 1",
+                "nl": "Overweging\u00a01",
+                "hu": "1 preb.",
+                "en": "Recital 1",
+                "el": "\u0391\u03b9\u03c4\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03c3\u03ba\u03ad\u03c8\u03b7 1",
+                "de": "Erw\u00e4gung\u00a01",
+                "es": "Considerando 1",
+                "pt": "Considerando 1",
+                "it": "Considerando 1",
+                "pl": "Motyw 1",
+                "ro": "Considerentul 1",
+                "cs": "od\u016fv. 1",
+                "hr": "Uvodna izjava 1",
+                "lv": "1.\u00a0apsv\u0113rums",
+                "sl": "uvodna izjava\u00a01",
+                "lt": "1 konstatuojamoji dalis",
+                "sv": "Sk\u00e4l 1"
+            },
+            "activity_order": "16.0",
+            "decided_on_a_realization_of": [
+                "eli/dl/doc/A-10-2025-0085-AM-16"
+            ],
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/REJECTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "responsible_organization_label": {
+                "lv": "PfE",
+                "pt": "PfE",
+                "et": "PfE",
+                "hu": "PfE",
+                "pl": "PfE",
+                "sl": "PfE",
+                "ro": "PfE",
+                "lt": "PfE",
+                "es": "PfE",
+                "sv": "PfE",
+                "it": "PfE",
+                "ga": "PfE",
+                "de": "PfE",
+                "cs": "PfE",
+                "da": "PfE",
+                "mt": "PfE",
+                "nl": "PfE",
+                "hr": "PfE",
+                "fr": "PfE",
+                "en": "PfE",
+                "bg": "PfE",
+                "fi": "PfE",
+                "sk": "PfE",
+                "el": "PfE"
+            },
+            "notation_votingId": "176860",
+            "decisionAboutId_XMLLiteral": "<am><reference><number>16</number></reference></am>",
+            "decisionAboutId": "16",
+            "decisionAboutId_Lang": {
+                "lt": "16",
+                "cs": "16"
+            },
+            "referenceText": {
+                "da": "Betragtning 1",
+                "sl": "uvodna izjava\u00a01",
+                "de": "Erw\u00e4gung\u00a01",
+                "lt": "1 konstatuojamoji dalis",
+                "mt": "Premessa 1",
+                "nl": "Overweging\u00a01",
+                "sk": "od\u00f4vodnenie 1",
+                "el": "\u0391\u03b9\u03c4\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03c3\u03ba\u03ad\u03c8\u03b7 1",
+                "fr": "Consid\u00e9rant 1",
+                "ro": "Considerentul 1",
+                "hu": "1 preb.",
+                "ga": "Aithris 1",
+                "lv": "1.\u00a0apsv\u0113rums",
+                "hr": "Uvodna izjava 1",
+                "bg": "\u0441\u044a\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 1",
+                "sv": "Sk\u00e4l 1",
+                "cs": "od\u016fv. 1",
+                "fi": "1 kappale",
+                "en": "Recital 1",
+                "pl": "Motyw 1",
+                "it": "Considerando 1",
+                "pt": "Considerando 1",
+                "es": "Considerando 1",
+                "et": "P\u00f5hjendus 1"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

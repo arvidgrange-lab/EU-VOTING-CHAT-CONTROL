@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-01-17-VOT-ITM-938510",
+            "type": "Activity",
+            "activity_date": "2023-01-17",
+            "activity_id": "MTG-PL-2023-01-17-VOT-ITM-938510",
+            "activity_label": {
+                "fr": "Transferts de d\u00e9chets"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0290"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-01-17-OJ-ITM-V-40",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-01-17-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938510",
+            "epvoc:amendmentsAdoptedCommittee": 117,
+            "epvoc:amendmentsAdoptedMEP": 1,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 118,
+            "epvoc:amendmentsTabledCommittee": 117,
+            "epvoc:amendmentsTabledMEP": 4,
+            "epvoc:amendmentsTabledPoliticalGroup": 4,
+            "epvoc:amendmentsTabledTotal": 125,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Transferts de d\u00e9chets</title><label>Rapport: Pernille Weiss (A9-0290/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

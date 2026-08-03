@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938809",
+            "type": "Activity",
+            "activity_date": "2023-03-16",
+            "activity_id": "MTG-PL-2023-03-16-VOT-ITM-938809",
+            "activity_label": {
+                "fr": "Orientations de l'Union europ\u00e9enne concernant les d\u00e9fenseurs des droits de l'homme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0034"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-16-OJ-ITM-V-37",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-16-VOT-ITM-004"
+            ],
+            "notation_dlvId": "938809",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 2,
+            "epvoc:amendmentsAdoptedTotal": 2,
+            "epvoc:amendmentsTabledPoliticalGroup": 13,
+            "epvoc:amendmentsTabledTotal": 13,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Orientations de l'Union europ\u00e9enne concernant les d\u00e9fenseurs des droits de l'homme</title><label>Rapport: Hannah Neumann (A9-0034/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

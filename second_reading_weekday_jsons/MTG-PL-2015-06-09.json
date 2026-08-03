@@ -1,0 +1,171 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435695-4",
+            "type": "Activity",
+            "activity_date": "2015-06-09",
+            "activity_id": "MTG-PL-2015-06-09-VOT-ITM-435695-4",
+            "activity_label": {
+                "fr": "Droits de propri\u00e9t\u00e9 intellectuelle: un plan d'action de l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0169"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-06-09-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-06-09-VOT-ITM-004"
+            ],
+            "notation_dlvId": "435695",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits de propri\u00e9t\u00e9 intellectuelle: un plan d'action de l'UE</title><label>Rapport: Pavel Svoboda (A8-0169/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435695-4",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435117-2",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435115-1",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-436059-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2151",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435695-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435117-2",
+            "type": "Activity",
+            "activity_date": "2015-06-09",
+            "activity_id": "MTG-PL-2015-06-09-VOT-ITM-435117-2",
+            "activity_label": {
+                "fr": "La strat\u00e9gie de l'Union pour l'\u00e9galit\u00e9 entre les femmes et les hommes de l'apr\u00e8s 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0163"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-06-09-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-06-09-VOT-ITM-002"
+            ],
+            "notation_dlvId": "435117",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La strat\u00e9gie de l'Union pour l'\u00e9galit\u00e9 entre les femmes et les hommes de l'apr\u00e8s 2015</title><label>Rapport: Maria Noichl (A8-0163/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435695-4",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435117-2",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435115-1",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-436059-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2152",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435117-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435115-1",
+            "type": "Activity",
+            "activity_date": "2015-06-09",
+            "activity_id": "MTG-PL-2015-06-09-VOT-ITM-435115-1",
+            "activity_label": {
+                "fr": "Taux d'ajustement des paiements directs au titre de l'ann\u00e9e 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0174"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-06-09-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-06-09-VOT-ITM-001"
+            ],
+            "notation_dlvId": "435115",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Taux d'ajustement des paiements directs au titre de l'ann\u00e9e 2015</title><label>Rapport: Czes\u0142aw Adam Siekierski (A8-0174/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435695-4",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435117-2",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435115-1",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-436059-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0070",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435115-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-436059-3",
+            "type": "Activity",
+            "activity_date": "2015-06-09",
+            "activity_id": "MTG-PL-2015-06-09-VOT-ITM-436059-3",
+            "activity_label": {
+                "fr": "Droits de propri\u00e9t\u00e9 intellectuelle dans les pays tiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0161"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-06-09-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-06-09-VOT-ITM-003"
+            ],
+            "notation_dlvId": "436059",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits de propri\u00e9t\u00e9 intellectuelle dans les pays tiers</title><label>Rapport: Alessia Maria Mosca (A8-0161/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435695-4",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435117-2",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-435115-1",
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-436059-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2206",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-06-09-VOT-ITM-436059-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935525",
+            "type": "Activity",
+            "activity_date": "2021-10-06",
+            "activity_id": "MTG-PL-2021-10-06-VOT-ITM-935525",
+            "activity_label": {
+                "fr": "\u00c9tat des capacit\u00e9s de cyberd\u00e9fense de l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0234"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-10-06-OJ-ITM-V-46",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-06-VOT-ITM-003"
+            ],
+            "notation_dlvId": "935525",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tat des capacit\u00e9s de cyberd\u00e9fense de l\u2019Union</title><label>Rapport: Urmas Paet (A9-0234/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935525",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935529",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935506",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935524",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935512",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935505"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935529",
+            "type": "Activity",
+            "activity_date": "2021-10-06",
+            "activity_id": "MTG-PL-2021-10-06-VOT-ITM-935529",
+            "activity_label": {
+                "fr": "La protection des personnes handicap\u00e9es en tenant compte des \u00e9l\u00e9ments fournis par diverses p\u00e9titions: enseignements tir\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0261"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-10-06-OJ-ITM-V-20",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-06-VOT-ITM-005"
+            ],
+            "notation_dlvId": "935529",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La protection des personnes handicap\u00e9es en tenant compte des \u00e9l\u00e9ments fournis par diverses p\u00e9titions: enseignements tir\u00e9s</title><label>Rapport: Alex Agius Saliba (A9-0261/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935525",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935529",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935506",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935524",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935512",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935505"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2209",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935529"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935506",
+            "type": "Activity",
+            "activity_date": "2021-10-06",
+            "activity_id": "MTG-PL-2021-10-06-VOT-ITM-935506",
+            "activity_label": {
+                "fr": "L'Arctique: perspectives, probl\u00e9matiques et enjeux de s\u00e9curit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0239"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-10-06-OJ-ITM-V-14",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-06-VOT-ITM-004"
+            ],
+            "notation_dlvId": "935506",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'Arctique: perspectives, probl\u00e9matiques et enjeux de s\u00e9curit\u00e9</title><label>Rapport: Anna Fotyga (A9-0239/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935525",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935529",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935506",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935524",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935512",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935505"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935524",
+            "type": "Activity",
+            "activity_date": "2021-10-06",
+            "activity_id": "MTG-PL-2021-10-06-VOT-ITM-935524",
+            "activity_label": {
+                "fr": "Rapport d\u2019ex\u00e9cution sur les fonds fiduciaires de l'Union et la facilit\u00e9 en faveur des r\u00e9fugi\u00e9s en Turquie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0255"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-10-06-OJ-ITM-V-54",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-06-VOT-ITM-002"
+            ],
+            "notation_dlvId": "935524",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport d\u2019ex\u00e9cution sur les fonds fiduciaires de l'Union et la facilit\u00e9 en faveur des r\u00e9fugi\u00e9s en Turquie</title><label>Rapport: Gy\u00f6rgy H\u00f6lv\u00e9nyi, Janusz Lewandowski, Milan Zver (A9-0255/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935525",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935529",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935506",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935524",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935512",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935505"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935512",
+            "type": "Activity",
+            "activity_date": "2021-10-06",
+            "activity_id": "MTG-PL-2021-10-06-VOT-ITM-935512",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0256"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-10-06-OJ-ITM-V-137",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-06-VOT-ITM-006"
+            ],
+            "notation_dlvId": "935512",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935525",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935529",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935506",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935524",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935512",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935505"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935505",
+            "type": "Activity",
+            "activity_date": "2021-10-06",
+            "activity_id": "MTG-PL-2021-10-06-VOT-ITM-935505",
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0245"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-10-06-OJ-ITM-V-138",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-06-VOT-ITM-007"
+            ],
+            "notation_dlvId": "935505",
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935525",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935529",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935506",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935524",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935512",
+                        "eli/dl/event/MTG-PL-2021-10-06-VOT-ITM-935505"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483892-1",
+            "type": "Activity",
+            "activity_date": "2015-12-02",
+            "activity_id": "MTG-PL-2015-12-02-VOT-ITM-483892-1",
+            "activity_label": {
+                "fr": "Constitution, attributions, composition num\u00e9rique et dur\u00e9e du mandat de la commission sp\u00e9ciale sur les rescrits fiscaux et autres mesures similaires par leur nature ou par leur effet"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-1335"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-02-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-02-VOT-ITM-001"
+            ],
+            "notation_dlvId": "483892",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Constitution, attributions, composition num\u00e9rique et dur\u00e9e du mandat de la commission sp\u00e9ciale sur les rescrits fiscaux et autres mesures similaires par leur nature ou par leur effet</title><label>Proposition de d\u00e9cision: B8-1335/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483892-1",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-482119-4",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481857-5",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483896-2",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481855-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-3005",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483892-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-482119-4",
+            "type": "Activity",
+            "activity_date": "2015-12-02",
+            "activity_id": "MTG-PL-2015-12-02-VOT-ITM-482119-4",
+            "activity_label": {
+                "fr": "Rapport sp\u00e9cial du M\u00e9diateur europ\u00e9en dans l'enqu\u00eate d'initiative relative \u00e0 Frontex"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0343"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-02-OJ-ITM-V-13"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-02-VOT-ITM-004"
+            ],
+            "notation_dlvId": "482119",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport sp\u00e9cial du M\u00e9diateur europ\u00e9en dans l'enqu\u00eate d'initiative relative \u00e0 Frontex</title><label>Rapport: Roberta Metsola et  Ska Keller (A8-0343/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483892-1",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-482119-4",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481857-5",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483896-2",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481855-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2215",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-482119-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481857-5",
+            "type": "Activity",
+            "activity_date": "2015-12-02",
+            "activity_id": "MTG-PL-2015-12-02-VOT-ITM-481857-5",
+            "activity_label": {
+                "fr": "Mobilit\u00e9 urbaine durable"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0319"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-02-OJ-ITM-V-3"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-02-VOT-ITM-005"
+            ],
+            "notation_dlvId": "481857",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilit\u00e9 urbaine durable</title><label>Rapport: Karima Delli (A8-0319/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483892-1",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-482119-4",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481857-5",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483896-2",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481855-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2242",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481857-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483896-2",
+            "type": "Activity",
+            "activity_date": "2015-12-02",
+            "activity_id": "MTG-PL-2015-12-02-VOT-ITM-483896-2",
+            "activity_label": {
+                "fr": "Nomination des membres de la commission sp\u00e9ciale sur les rescrits fiscaux"
+            },
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-02-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-02-VOT-ITM-002"
+            ],
+            "notation_dlvId": "483896",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title> Nomination des membres de la commission sp\u00e9ciale sur les rescrits fiscaux</title><label></label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483892-1",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-482119-4",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481857-5",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483896-2",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481855-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481855-3",
+            "type": "Activity",
+            "activity_date": "2015-12-02",
+            "activity_id": "MTG-PL-2015-12-02-VOT-ITM-481855-3",
+            "activity_label": {
+                "fr": "Accord UE-Liechtenstein concernant l'\u00e9change automatique d'informations sur les comptes financiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0334"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-12-02-OJ-ITM-V-11"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-12-02-VOT-ITM-003"
+            ],
+            "notation_dlvId": "481855",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Liechtenstein concernant l'\u00e9change automatique d'informations sur les comptes financiers</title><label>Rapport: Sander Loones (A8-0334/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-12-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483892-1",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-482119-4",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481857-5",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-483896-2",
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481855-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0175",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-12-02-VOT-ITM-481855-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

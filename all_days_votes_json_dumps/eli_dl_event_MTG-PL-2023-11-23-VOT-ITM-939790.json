@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-23-VOT-ITM-939790",
+            "type": "Activity",
+            "activity_date": "2023-11-23",
+            "activity_id": "MTG-PL-2023-11-23-VOT-ITM-939790",
+            "activity_label": {
+                "fr": "La s\u00e9questration ill\u00e9gale du pr\u00e9sident Mohamed Bazoum au Niger"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0471",
+                "eli/dl/doc/B-9-2023-0470",
+                "eli/dl/doc/B-9-2023-0466",
+                "eli/dl/doc/B-9-2023-0465",
+                "eli/dl/doc/B-9-2023-0473",
+                "eli/dl/doc/B-9-2023-0472"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-23-OJ-ITM-V_101"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-23-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939790",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La s\u00e9questration ill\u00e9gale du pr\u00e9sident Mohamed Bazoum au Niger</title><label>Propositions de r\u00e9solution: RC-B9-0466/2023, B9-0465/2023, B9-0466/2023, B9-0470/2023, B9-0471/2023, B9-0472/2023, B9-0473/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

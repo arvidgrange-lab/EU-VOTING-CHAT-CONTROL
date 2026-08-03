@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-05-20-VOT-ITM-429190-3",
+            "type": "Activity",
+            "activity_date": "2015-05-20",
+            "activity_id": "MTG-PL-2015-05-20-VOT-ITM-429190-3",
+            "activity_label": {
+                "fr": "Pr\u00e9vention de l'utilisation du syst\u00e8me financier aux fins du blanchiment de capitaux et du financement du terrorisme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0153"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-05-20-OJ-ITM-V-48"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-05-20-VOT-ITM-003"
+            ],
+            "notation_dlvId": "429190",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pr\u00e9vention de l'utilisation du syst\u00e8me financier aux fins du blanchiment de capitaux et du financement du terrorisme</title><label>Recommandation pour la deuxi\u00e8me lecture: Kri\u0161j\u0101nis Kari\u0146\u0161 et  Judith Sargentini (A8-0153/2015)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

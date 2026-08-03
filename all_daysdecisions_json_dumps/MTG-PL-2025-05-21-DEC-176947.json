@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-05-21-DEC-176947",
+            "type": "Vote",
+            "activity_date": "2025-05-21",
+            "activity_id": "MTG-PL-2025-05-21-DEC-176947",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "176947",
+            "referenceText": {
+                "sv": "Beg\u00e4ran fr\u00e5n PPE-, S&amp;D- och Verts/ALE-grupperna",
+                "el": "\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03c4\u03c9\u03bd \u039f\u03bc\u03ac\u03b4\u03c9\u03bd PPE, S&amp;D \u03ba\u03b1\u03b9 Verts/ALE",
+                "sl": "Zahteva skupin PPE, S&amp;D in Verts/ALE",
+                "pl": "Wniosek grup PPE, S&amp;D i Verts/ALE",
+                "pt": "Pedido dos Grupos PPE, S&amp;D e Verts/ALE",
+                "cs": "\u017d\u00e1dost skupin PPE, S&amp;D a Verts/ALE",
+                "hu": "A PPE, S&amp;D \u00e9s a Verts/ALE k\u00e9pvisel\u0151csoport k\u00e9relme",
+                "lt": "PPE, S&amp;D ir Verts/ALE frakcij\u0173 pra\u0161ymas",
+                "es": "Solicitud de los Grupos PPE, S&amp;D y Verts/ALE",
+                "fi": "PPE-, S&amp;D- ja Verts/ALE-ryhmien pyynt\u00f6",
+                "et": "Fraktsioonide PPE, S&amp;D ja Verts/ALE taotlus",
+                "bg": "\u0418\u0441\u043a\u0430\u043d\u0435 \u043d\u0430 \u0433\u0440\u0443\u043f\u0438\u0442\u0435 PPE, S&amp;D \u0438 Verts/ALE",
+                "lv": "PPE grupas, S&amp;D grupas un Verts/ALE grupas piepras\u012bjums",
+                "sk": "\u017diados\u0165 skup\u00edn PPE, S&amp;D a Verts/ALE",
+                "hr": "Zahtjev klubova zastupnika PPE-a, S&amp;D-a i Verts/ALE-a",
+                "it": "Richiesta dei gruppi PPE, S&amp;D e Verts/ALE",
+                "ro": "Cerere din partea grupurilor PPE, S&amp;D \u0219i Verts/ALE",
+                "nl": "Verzoek van de PPE-, de S&amp;D- en de Verts/ALE\u2011Fractie",
+                "mt": "Talba tal-Gruppi PPE, S&amp;D u Verts/ALE",
+                "fr": "Demande des groupes PPE, S&amp;D et Verts/ALE"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

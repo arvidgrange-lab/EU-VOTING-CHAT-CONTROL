@@ -1,0 +1,912 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562714-3",
+            "activity_label": {
+                "fr": "Accord de partenariat et de coop\u00e9ration CE/Ouzb\u00e9kistan et commerce bilat\u00e9ral de textiles (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0330"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "562714",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat et de coop\u00e9ration CE/Ouzb\u00e9kistan et commerce bilat\u00e9ral de textiles (r\u00e9solution)</title><label>Rapport: Maria Arena (A8-0330/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2226",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562729-12",
+            "activity_label": {
+                "fr": "Acc\u00e8s au march\u00e9 des services portuaires et transparence financi\u00e8re des ports"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0023"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-012"
+            ],
+            "notation_dlvId": "562729",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Acc\u00e8s au march\u00e9 des services portuaires et transparence financi\u00e8re des ports</title><label>Rapport: Knut Fleckenstein (A8-0023/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0157",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562714-1",
+            "activity_label": {
+                "fr": "Proc\u00e9dures d\u2019insolvabilit\u00e9 et praticiens de l'insolvabilit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0324"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "562714",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Proc\u00e9dures d\u2019insolvabilit\u00e9 et praticiens de l'insolvabilit\u00e9</title><label>Rapport: Tadeusz Zwiefka (A8-0324/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0159",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562711-17",
+            "activity_label": {
+                "fr": "Les outils de la PAC permettant de r\u00e9duire la volatilit\u00e9 des prix sur les march\u00e9s agricoles"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0339"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-017"
+            ],
+            "notation_dlvId": "562711",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les outils de la PAC permettant de r\u00e9duire la volatilit\u00e9 des prix sur les march\u00e9s agricoles</title><label>Rapport: Ang\u00e9lique Delahaye (A8-0339/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2034",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562714-5",
+            "activity_label": {
+                "fr": "Accord entre l'Union europ\u00e9enne et la Norv\u00e8ge concernant l'acc\u00e8s r\u00e9ciproque aux activit\u00e9s de p\u00eache dans le Skagerrak"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0321"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "562714",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord entre l'Union europ\u00e9enne et la Norv\u00e8ge concernant l'acc\u00e8s r\u00e9ciproque aux activit\u00e9s de p\u00eache dans le Skagerrak</title><label>Recommandation: J\u00f8rn Dohrmann (A8-0321/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0192",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-563961-8",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation \u2013 demande EGF/2016/004 ES/Comunidad Valenciana\u00a0\u2013 Automobile - Espagne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0379"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-89"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "563961",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation \u2013 demande EGF/2016/004 ES/Comunidad Valenciana\u00a0\u2013 Automobile - Espagne</title><label>Rapport: Esteban Gonz\u00e1lez Pons (A8-0379/2016) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2298",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562728-11",
+            "activity_label": {
+                "fr": "Espace ferroviaire unique europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0371"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-69"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "562728",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Espace ferroviaire unique europ\u00e9en</title><label>Recommandation pour la deuxi\u00e8me lecture: David-Maria Sassoli (A8-0371/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0029",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562720-9",
+            "activity_label": {
+                "fr": "Normalisation des comptes des entreprises de chemin de fer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0368"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "562720",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normalisation des comptes des entreprises de chemin de fer</title><label>Recommandation pour la deuxi\u00e8me lecture: Merja Kyll\u00f6nen (A8-0368/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0013",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562714-4",
+            "activity_label": {
+                "fr": "Accord commercial UE-Colombie et P\u00e9rou (adh\u00e9sion de l'\u00c9quateur)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0362"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "562714",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord commercial UE-Colombie et P\u00e9rou (adh\u00e9sion de l'\u00c9quateur)</title><label>Recommandation: Helmut Scholz (A8-0362/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0092",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562717-15",
+            "activity_label": {
+                "fr": "Rapport annuel 2015 sur les droits de l'homme et la d\u00e9mocratie dans le monde et la politique de l'Union europ\u00e9enne en la mati\u00e8re"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0355"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-015"
+            ],
+            "notation_dlvId": "562717",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel 2015 sur les droits de l'homme et la d\u00e9mocratie dans le monde et la politique de l'Union europ\u00e9enne en la mati\u00e8re</title><label>Rapport: Josef Weidenholzer (A8-0355/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2219",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562714-6",
+            "activity_label": {
+                "fr": "Accord entre l'Union europ\u00e9enne et la Norv\u00e8ge concernant l'acc\u00e8s r\u00e9ciproque aux activit\u00e9s de p\u00eache dans le Skagerrak (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0320"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "562714",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord entre l'Union europ\u00e9enne et la Norv\u00e8ge concernant l'acc\u00e8s r\u00e9ciproque aux activit\u00e9s de p\u00eache dans le Skagerrak (r\u00e9solution)</title><label>Rapport: J\u00f8rn Dohrmann (A8-0320/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2229",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562714-2",
+            "activity_label": {
+                "fr": "Accord de partenariat et de coop\u00e9ration CE/Ouzb\u00e9kistan et commerce bilat\u00e9ral de textiles"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0332"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "562714",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat et de coop\u00e9ration CE/Ouzb\u00e9kistan et commerce bilat\u00e9ral de textiles </title><label>Recommandation: Maria Arena (A8-0332/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2010-0323",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562716-14",
+            "activity_label": {
+                "fr": "Programme de recherche du Fonds de recherche du charbon et de l\u2019acier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0358"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-83"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-014"
+            ],
+            "notation_dlvId": "562716",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Programme de recherche du Fonds de recherche du charbon et de l\u2019acier</title><label>Rapport: Jerzy Buzek (A8-0358/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0047",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562718-16",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre de la politique \u00e9trang\u00e8re et de s\u00e9curit\u00e9 commune (article 36 trait\u00e9 UE)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0360"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-016"
+            ],
+            "notation_dlvId": "562718",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de la politique \u00e9trang\u00e8re et de s\u00e9curit\u00e9 commune (article 36 trait\u00e9 UE)</title><label>Rapport: Elmar Brok (A8-0360/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2036",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-563932-13",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes - Juhan Parts"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0375"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-013"
+            ],
+            "notation_dlvId": "563932",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes - Juhan Parts</title><label>Rapport: Bart Staes (A8-0375/2016) (Vote au scrutin secret (article 182, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0817",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562727-10",
+            "activity_label": {
+                "fr": "Services nationaux de transport de voyageurs par chemin de fer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0373"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "562727",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Services nationaux de transport de voyageurs par chemin de fer</title><label>Recommandation pour la deuxi\u00e8me lecture: Wim van de Camp (A8-0373/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0028",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7",
+            "type": "Activity",
+            "activity_date": "2016-12-14",
+            "activity_id": "MTG-PL-2016-12-14-VOT-ITM-562714-7",
+            "activity_label": {
+                "fr": "Accord sur la coop\u00e9ration op\u00e9rationnelle et strat\u00e9gique entre la G\u00e9orgie et Europol"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0343"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-12-14-OJ-ITM-V-60"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-12-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "562714",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord sur la coop\u00e9ration op\u00e9rationnelle et strat\u00e9gique entre la G\u00e9orgie et Europol</title><label>Rapport: Claude Moraes (A8-0343/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-12-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-3",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562729-12",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-1",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562711-17",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-5",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563961-8",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562728-11",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562720-9",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-4",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562717-15",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-6",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-2",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562716-14",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562718-16",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-563932-13",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562727-10",
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0810",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-12-14-VOT-ITM-562714-7"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

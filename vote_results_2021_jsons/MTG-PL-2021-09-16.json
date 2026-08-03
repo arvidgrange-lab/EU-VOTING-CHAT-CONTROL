@@ -1,0 +1,311 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935487",
+            "type": "Activity",
+            "activity_date": "2021-09-16",
+            "activity_id": "MTG-PL-2021-09-16-VOT-ITM-935487",
+            "activity_label": {
+                "fr": "R\u00e9pression gouvernementale visant les manifestations et les citoyens \u00e0 Cuba"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0436"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-16-OJ-ITM-V-75",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-16-VOT-ITM-001"
+            ],
+            "notation_dlvId": "935487",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9pression gouvernementale visant les manifestations et les citoyens \u00e0 Cuba</title><label>Propositions de r\u00e9solution: B9-0436/2021, B9-0438/2021, B9-0439/2021, B9-0441/2021, B9-0443/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935487",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935488",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935485",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935406",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935486",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935189",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935484",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935483"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935488",
+            "type": "Activity",
+            "activity_date": "2021-09-16",
+            "activity_id": "MTG-PL-2021-09-16-VOT-ITM-935488",
+            "activity_label": {
+                "fr": "Situation d'Ahmed Mansoor, d\u00e9fenseur des droits de l'homme, aux EAU"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0434"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-16-OJ-ITM-V-76",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-16-VOT-ITM-002"
+            ],
+            "notation_dlvId": "935488",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation d'Ahmed Mansoor, d\u00e9fenseur des droits de l'homme, aux EAU</title><label>Propositions de r\u00e9solution: B9-0434/2021, B9-0435/2021, B9-0437/2021, B9-0440/2021, B9-0442/2021, B9-0456/2021, B9-0457/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935487",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935488",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935485",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935406",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935486",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935189",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935484",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935483"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935485",
+            "type": "Activity",
+            "activity_date": "2021-09-16",
+            "activity_id": "MTG-PL-2021-09-16-VOT-ITM-935485",
+            "activity_label": {
+                "fr": "Situation dans le camp de r\u00e9fugi\u00e9s de Kakuma au Kenya"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0444"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-16-OJ-ITM-V-77",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-16-VOT-ITM-003"
+            ],
+            "notation_dlvId": "935485",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation dans le camp de r\u00e9fugi\u00e9s de Kakuma au Kenya</title><label>Propositions de r\u00e9solution: B9-0444/2021, B9-0445/2021, B9-0446/2021, B9-0447/2021, B9-0448/2021, B9-0452/2021, B9-0454/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935487",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935488",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935485",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935406",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935486",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935189",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935484",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935483"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935406",
+            "type": "Activity",
+            "activity_date": "2021-09-16",
+            "activity_id": "MTG-PL-2021-09-16-VOT-ITM-935406",
+            "activity_label": {
+                "fr": "Renforcement de la transparence et de l\u2019int\u00e9grit\u00e9 des institutions de l\u2019UE par la cr\u00e9ation d\u2019un organisme europ\u00e9en ind\u00e9pendant charg\u00e9 des questions d\u2019\u00e9thique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0260"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-16-OJ-ITM-V-29",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-16-VOT-ITM-008"
+            ],
+            "notation_dlvId": "935406",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renforcement de la transparence et de l\u2019int\u00e9grit\u00e9 des institutions de l\u2019UE par la cr\u00e9ation d\u2019un organisme europ\u00e9en ind\u00e9pendant charg\u00e9 des questions d\u2019\u00e9thique</title><label>Rapport: Daniel Freund (A9-0260/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935487",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935488",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935485",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935406",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935486",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935189",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935484",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935483"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2133",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935406"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935486",
+            "type": "Activity",
+            "activity_date": "2021-09-16",
+            "activity_id": "MTG-PL-2021-09-16-VOT-ITM-935486",
+            "activity_label": {
+                "fr": "Situation en Afghanistan"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0433"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-16-OJ-ITM-V-81",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-16-VOT-ITM-005"
+            ],
+            "notation_dlvId": "935486",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation en Afghanistan</title><label>Propositions de r\u00e9solution: B9-0433/2021, B9-0453/2021, B9-0455/2021, B9-0458/2021, B9-0459/2021, B9-0460/2021, B9-0462/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935487",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935488",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935485",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935406",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935486",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935189",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935484",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935483"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935189",
+            "type": "Activity",
+            "activity_date": "2021-09-16",
+            "activity_id": "MTG-PL-2021-09-16-VOT-ITM-935189",
+            "activity_label": {
+                "fr": "Application des exigences de l'Union en mati\u00e8re d'\u00e9change de renseignements fiscaux"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0193"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-16-OJ-ITM-V-61",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-16-VOT-ITM-004"
+            ],
+            "notation_dlvId": "935189",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Application des exigences de l'Union en mati\u00e8re d'\u00e9change de renseignements fiscaux</title><label>Rapport: Sven Giegold (A9-0193/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935487",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935488",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935485",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935406",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935486",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935189",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935484",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935483"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2046",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935189"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935484",
+            "type": "Activity",
+            "activity_date": "2021-09-16",
+            "activity_id": "MTG-PL-2021-09-16-VOT-ITM-935484",
+            "activity_label": {
+                "fr": "Situation au Liban"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0464"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-16-OJ-ITM-V-82",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-16-VOT-ITM-006"
+            ],
+            "notation_dlvId": "935484",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation au Liban</title><label>Propositions de r\u00e9solution: B9-0464/2021, B9-0465/2021, B9-0466/2021, B9-0467/2021, B9-0468/2021, B9-0469/2021, B9-0470/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935487",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935488",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935485",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935406",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935486",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935189",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935484",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935483"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935483",
+            "type": "Activity",
+            "activity_date": "2021-09-16",
+            "activity_id": "MTG-PL-2021-09-16-VOT-ITM-935483",
+            "activity_label": {
+                "fr": "Libert\u00e9 des m\u00e9dias et nouvelle d\u00e9t\u00e9rioration de l'\u00e9tat de droit en Pologne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0461"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-16-OJ-ITM-V-85",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-16-VOT-ITM-007"
+            ],
+            "notation_dlvId": "935483",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Libert\u00e9 des m\u00e9dias et nouvelle d\u00e9t\u00e9rioration de l'\u00e9tat de droit en Pologne</title><label>Propositions de r\u00e9solution: B9-0461/2021, B9-0463/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935487",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935488",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935485",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935406",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935486",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935189",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935484",
+                        "eli/dl/event/MTG-PL-2021-09-16-VOT-ITM-935483"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

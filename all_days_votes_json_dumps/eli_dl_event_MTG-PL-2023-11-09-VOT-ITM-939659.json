@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939659",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939659",
+            "activity_label": {
+                "fr": "Nomination d'un membre de la Cour des comptes -\u2013 Bettina Michelle Jakobsen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0292"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-28",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939659",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d'un membre de la Cour des comptes -\u2013 Bettina Michelle Jakobsen</title><label>Rapport: Victor Negrescu (A9-0292/2023) (Vote au scrutin secret (article 129, paragraphe 3, du r\u00e8glement))</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

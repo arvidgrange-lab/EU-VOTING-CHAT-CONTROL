@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-18-VOT-ITM-939591",
+            "type": "Activity",
+            "activity_date": "2023-10-18",
+            "activity_id": "MTG-PL-2023-10-18-VOT-ITM-939591",
+            "activity_label": {
+                "fr": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Normes d\u2019information en mati\u00e8re de durabilit\u00e9",
+                "mul": "Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Normes d\u2019information en mati\u00e8re de durabilit\u00e9 - Objection pursuant to Rule 111(3): European Sustainability Reporting Standards - Einwand gem\u00e4\u00df Artikel 111 Absatz 3 GO: Europ\u00e4ische Standards f\u00fcr die Nachhaltigkeitsberichterstattung"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0426"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-18-OJ-ITM-V-85",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-18-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939591",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection formul\u00e9e conform\u00e9ment \u00e0 l'article 111, paragraphe 3: Normes d\u2019information en mati\u00e8re de durabilit\u00e9</title><label>Proposition de r\u00e9solution: B9-0426/2023 (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

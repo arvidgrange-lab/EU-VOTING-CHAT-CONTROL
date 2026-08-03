@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938989",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938989",
+            "activity_label": {
+                "fr": "Gestion des situations de crise dans le domaine de la migration et de l'asile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0127"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-92",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-000"
+            ],
+            "notation_dlvId": "938989",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gestion des situations de crise dans le domaine de la migration et de l'asile</title><label>Rapport: Juan Fernando L\u00f3pez Aguilar (A9-0127/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939839",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939839",
+            "activity_label": {
+                "mul": "La situation des enfants priv\u00e9s de libert\u00e9 dans le monde - The situation of children deprived of liberty in the world - Die Situation von Kindern weltweit, die ihrer Freiheit beraubt wurden",
+                "fr": "La situation des enfants priv\u00e9s de libert\u00e9 dans le monde"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0371"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-30",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939839",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La situation des enfants priv\u00e9s de libert\u00e9 dans le monde</title><label>Rapport: Mar\u00eda Soraya Rodr\u00edguez Ramos (A9-0371/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

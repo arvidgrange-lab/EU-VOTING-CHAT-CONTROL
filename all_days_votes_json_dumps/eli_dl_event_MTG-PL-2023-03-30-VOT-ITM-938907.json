@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-30-VOT-ITM-938907",
+            "type": "Activity",
+            "activity_date": "2023-03-30",
+            "activity_id": "MTG-PL-2023-03-30-VOT-ITM-938907",
+            "activity_label": {
+                "fr": "L\u2019Ann\u00e9e europ\u00e9enne des comp\u00e9tences en 2023"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0028"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-30-OJ-ITM-V-25",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-30-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938907",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u2019Ann\u00e9e europ\u00e9enne des comp\u00e9tences en 2023</title><label>Rapport: Loucas Fourlas (A9-0028/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

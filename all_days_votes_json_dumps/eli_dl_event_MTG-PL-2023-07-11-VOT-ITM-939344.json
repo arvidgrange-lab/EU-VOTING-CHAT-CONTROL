@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-11-VOT-ITM-939344",
+            "type": "Activity",
+            "activity_date": "2023-07-11",
+            "activity_id": "MTG-PL-2023-07-11-VOT-ITM-939344",
+            "activity_label": {
+                "fr": "D\u00e9ploiement d\u2019une infrastructure pour carburants alternatifs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0234"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-07-11-OJ-ITM-V-35",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-11-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939344",
+            "epvoc:amendmentsAdoptedCommittee": 141,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 141,
+            "epvoc:amendmentsTabledCommittee": 141,
+            "epvoc:amendmentsTabledPoliticalGroup": 30,
+            "epvoc:amendmentsTabledTotal": 171,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9ploiement d\u2019une infrastructure pour carburants alternatifs</title><label>Rapport: Petar Vitanov (A9-0234/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939830",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939830",
+            "activity_label": {
+                "fr": "Relations UE-Chine",
+                "mul": "Relations UE-Chine - EU-China relations - Beziehungen zwischen der EU und China"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0375"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-24",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939830",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 11,
+            "epvoc:amendmentsTabledTotal": 11,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations UE-Chine</title><label>Rapport: Hilde Vautmans (A9-0375/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

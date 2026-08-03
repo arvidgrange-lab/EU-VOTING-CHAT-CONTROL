@@ -1,0 +1,151 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935412",
+            "type": "Activity",
+            "activity_date": "2021-09-13",
+            "activity_id": "MTG-PL-2021-09-13-VOT-ITM-935412",
+            "activity_label": {
+                "fr": "Droits des personnes LGBTIQ dans l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0431"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-13-OJ-ITM-V-47",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "935412",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits des personnes LGBTIQ dans l'Union</title><label>Proposition de r\u00e9solution: B9-0431/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935412",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935386",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935367",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935416"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2679",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935412"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935386",
+            "type": "Activity",
+            "activity_date": "2021-09-13",
+            "activity_id": "MTG-PL-2021-09-13-VOT-ITM-935386",
+            "activity_label": {
+                "fr": "Protection communautaire des obtentions v\u00e9g\u00e9tales: prorogation de la dur\u00e9e pour certaines vari\u00e9t\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0171"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-13-OJ-ITM-V-56",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "935386",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection communautaire des obtentions v\u00e9g\u00e9tales: prorogation de la dur\u00e9e pour certaines vari\u00e9t\u00e9s</title><label>Rapport: Bert-Jan Ruissen (A9-0171/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935412",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935386",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935367",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935416"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935367",
+            "type": "Activity",
+            "activity_date": "2021-09-13",
+            "activity_id": "MTG-PL-2021-09-13-VOT-ITM-935367",
+            "activity_label": {
+                "fr": "Association des pays et territoires d'outre-mer \u00e0 l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0244"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-13-OJ-ITM-V-53",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "935367",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Association des pays et territoires d'outre-mer \u00e0 l'Union europ\u00e9enne</title><label>Rapport: Tomas Tob\u00e9 (A9-0244/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935412",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935386",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935367",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935416"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0244",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935367"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935416",
+            "type": "Activity",
+            "activity_date": "2021-09-13",
+            "activity_id": "MTG-PL-2021-09-13-VOT-ITM-935416",
+            "activity_label": {
+                "fr": "Demande de d\u00e9fense des privil\u00e8ges et immunit\u00e9s de Guy Verhofstadt"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0238"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-09-13-OJ-ITM-V-78",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-09-13-VOT-ITM-003"
+            ],
+            "notation_dlvId": "935416",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de d\u00e9fense des privil\u00e8ges et immunit\u00e9s de Guy Verhofstadt</title><label>Rapport: Angel Dzhambazki (A9-0238/2021) (Vote au scrutin secret (article 191 du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935412",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935386",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935367",
+                        "eli/dl/event/MTG-PL-2021-09-13-VOT-ITM-935416"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939383",
+            "activity_label": {
+                "fr": "Pand\u00e9mie de COVID-19: le\u00e7ons tir\u00e9es et recommandations pour l'avenir"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0217"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939383",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pand\u00e9mie de COVID-19: le\u00e7ons tir\u00e9es et recommandations pour l'avenir</title><label>Rapport: Dolors Montserrat (A9-0217/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,668 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-707918-5",
+            "activity_label": {
+                "fr": "Examen de la proportionnalit\u00e9 avant l'adoption d'une nouvelle r\u00e9glementation de professions"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0395"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-36"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "707918",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Examen de la proportionnalit\u00e9 avant l'adoption d'une nouvelle r\u00e9glementation de professions</title><label>Rapport: Andreas Schwab (A8-0395/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0404",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-707917-4",
+            "activity_label": {
+                "fr": "Obstacles structurels et financiers limitant l'acc\u00e8s \u00e0 la culture"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0169"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-10"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "707917",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Obstacles structurels et financiers limitant l'acc\u00e8s \u00e0 la culture</title><label>Rapport: Bogdan Andrzej Zdrojewski (A8-0169/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2255",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-708197-12",
+            "activity_label": {
+                "fr": "N\u00e9gociations sur un nouvel accord de partenariat UE-ACP"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0274"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-50"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-012"
+            ],
+            "notation_dlvId": "708197",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>N\u00e9gociations sur un nouvel accord de partenariat UE-ACP</title><label>Proposition de r\u00e9solution: B8-0274/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2634",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-707919-13",
+            "activity_label": {
+                "fr": "Contr\u00f4le de l'application du droit de l'Union en 2016"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0197"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-64"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-013"
+            ],
+            "notation_dlvId": "707919",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contr\u00f4le de l'application du droit de l'Union en 2016</title><label>Rapport: Kostas Chrysogonos (A8-0197/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2273",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-708189-3",
+            "activity_label": {
+                "fr": "La situation des r\u00e9fugi\u00e9s rohingyas, en particulier le drame des enfants"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0293",
+                "eli/dl/doc/B-8-2018-0298",
+                "eli/dl/doc/B-8-2018-0295",
+                "eli/dl/doc/B-8-2018-0297",
+                "eli/dl/doc/B-8-2018-0292",
+                "eli/dl/doc/B-8-2018-0294"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-98"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "708189",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La situation des r\u00e9fugi\u00e9s rohingyas, en particulier le drame des enfants</title><label>Propositions de r\u00e9solution:: B8-0292/2018, B8-0293/2018, B8-0294/2018, B8-0295/2018, B8-0297/2018, B8-0298/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2756",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-709564-7",
+            "activity_label": {
+                "fr": "Exigences en mati\u00e8re de contr\u00f4le et r\u00e8gles sp\u00e9cifiques pour le d\u00e9tachement de conducteurs dans le secteur du transport routier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0206"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-104"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "709564",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Exigences en mati\u00e8re de contr\u00f4le et r\u00e8gles sp\u00e9cifiques pour le d\u00e9tachement de conducteurs dans le secteur du transport routier</title><label>Rapport: Merja Kyll\u00f6nen (A8-0206/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0121",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-708188-2",
+            "activity_label": {
+                "fr": "La situation des droits de l'homme \u00e0 Bahre\u00efn, notamment le cas de Nabil Rajab"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0287",
+                "eli/dl/doc/B-8-2018-0286",
+                "eli/dl/doc/B-8-2018-0281",
+                "eli/dl/doc/B-8-2018-0280",
+                "eli/dl/doc/B-8-2018-0283",
+                "eli/dl/doc/B-8-2018-0282",
+                "eli/dl/doc/B-8-2018-0284"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-97"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "708188",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La situation des droits de l'homme \u00e0 Bahre\u00efn, notamment le cas de Nabil Rajab</title><label>Propositions de r\u00e9solution:: B8-0280/2018, B8-0281/2018, B8-0281/2018, B8-0282/2018, B8-0283/2018, B8-0284/2018, B8-0286/2018, B8-0287/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2755",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-707992-6",
+            "activity_label": {
+                "fr": "Utilisation de v\u00e9hicules lou\u00e9s sans chauffeur dans le transport de marchandises par route"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0193"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-87"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "707992",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Utilisation de v\u00e9hicules lou\u00e9s sans chauffeur dans le transport de marchandises par route</title><label>Rapport: Cl\u00e1udia Monteiro de Aguiar (A8-0193/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0113",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-708195-11",
+            "activity_label": {
+                "fr": "Territoires g\u00e9orgiens occup\u00e9s dix ans apr\u00e8s l'invasion russe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0279",
+                "eli/dl/doc/B-8-2018-0275",
+                "eli/dl/doc/B-8-2018-0285",
+                "eli/dl/doc/B-8-2018-0278",
+                "eli/dl/doc/B-8-2018-0276",
+                "eli/dl/doc/B-8-2018-0277"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "708195",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Territoires g\u00e9orgiens occup\u00e9s dix ans apr\u00e8s l'invasion russe</title><label>Propositions de r\u00e9solution: B8-0275/2018, B8-0276/2018, B8-0277/2018, B8-0278/2018, B8-0279/2018, B8-0285/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2741",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-709569-9",
+            "activity_label": {
+                "fr": "Modification du r\u00e8glement (CE) n\u00b0\u00a01071/2009 et du r\u00e8glement (CE) n\u00b0\u00a01072/2009 en vue de les adapter aux \u00e9volutions du secteur"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0204"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-102"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "709569",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification du r\u00e8glement (CE) n\u00b0\u00a01071/2009 et du r\u00e8glement (CE) n\u00b0\u00a01072/2009 en vue de les adapter aux \u00e9volutions du secteur</title><label>Rapport: Ismail Ertug (A8-0204/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0123",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-708191-10",
+            "activity_label": {
+                "fr": "Objection au r\u00e8glement d\u00e9l\u00e9gu\u00e9 de la Commission modifiant le r\u00e8glement d\u00e9l\u00e9gu\u00e9 (UE) 2017/118 \u00e9tablissant des mesures de conservation en mati\u00e8re de p\u00eache pour la protection du milieu marin de la mer du Nord"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0299"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-90"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "708191",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection au r\u00e8glement d\u00e9l\u00e9gu\u00e9 de la Commission modifiant le r\u00e8glement d\u00e9l\u00e9gu\u00e9 (UE) 2017/118 \u00e9tablissant des mesures de conservation en mati\u00e8re de p\u00eache pour la protection du milieu marin de la mer du Nord</title><label>Proposition de r\u00e9solution:: B8-0299/2018 (majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2614",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-709568-8",
+            "activity_label": {
+                "fr": "Modification du r\u00e8glement (CE) n\u00b0\u00a0561/2006 en ce qui concerne les exigences minimales relatives aux dur\u00e9es maximales de conduite journali\u00e8re et hebdomadaire et \u00e0 la dur\u00e9e minimale des pauses et des temps de repos journalier et hebdomadaire et du r\u00e8glement (UE) n\u00b0\u00a0165/2014 en ce qui concerne la localisation au moyen de tachygraphes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0205"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-103"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "709568",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification du r\u00e8glement (CE) n\u00b0\u00a0561/2006 en ce qui concerne les exigences minimales relatives aux dur\u00e9es maximales de conduite journali\u00e8re et hebdomadaire et \u00e0 la dur\u00e9e minimale des pauses et des temps de repos journalier et hebdomadaire et du r\u00e8glement (UE) n\u00b0\u00a0165/2014 en ce qui concerne la localisation au moyen de tachygraphes</title><label>Rapport: Wim van de Camp (A8-0205/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0122",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1",
+            "type": "Activity",
+            "activity_date": "2018-06-14",
+            "activity_id": "MTG-PL-2018-06-14-VOT-ITM-708186-1",
+            "activity_label": {
+                "fr": "La Russie, notamment le cas du prisonnier politique ukrainien Oleg Sentsov"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0288",
+                "eli/dl/doc/B-8-2018-0289",
+                "eli/dl/doc/B-8-2018-0290",
+                "eli/dl/doc/B-8-2018-0296",
+                "eli/dl/doc/B-8-2018-0291"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-06-14-OJ-ITM-V-96"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-06-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "708186",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La Russie, notamment le cas du prisonnier politique ukrainien Oleg Sentsov</title><label>Propositions de r\u00e9solution:: B8-0288/2018, B8-0289/2018, B8-0290/2018, B8-0291/2018, B8-0296/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-06-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707918-5",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707917-4",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708197-12",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707919-13",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708189-3",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709564-7",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708188-2",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-707992-6",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708195-11",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709569-9",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708191-10",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-709568-8",
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2754",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-06-14-VOT-ITM-708186-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

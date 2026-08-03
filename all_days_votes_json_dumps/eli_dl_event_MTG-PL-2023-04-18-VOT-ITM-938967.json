@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-18-VOT-ITM-938967",
+            "type": "Activity",
+            "activity_date": "2023-04-18",
+            "activity_id": "MTG-PL-2023-04-18-VOT-ITM-938967",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre de la PSDC civile et d\u2019autres formes d\u2019assistance de l\u2019Union dans le domaine de la s\u00e9curit\u00e9 civile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0091"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-18-OJ-ITM-V-63",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-18-VOT-ITM-011"
+            ],
+            "notation_dlvId": "938967",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de la PSDC civile et d\u2019autres formes d\u2019assistance de l\u2019Union dans le domaine de la s\u00e9curit\u00e9 civile</title><label>Rapport: Alviina Alamets\u00e4 (A9-0091/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

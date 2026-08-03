@@ -1,0 +1,815 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-609181-13",
+            "activity_label": {
+                "fr": "Le camp de r\u00e9fugi\u00e9s de Dadaab"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0334",
+                "eli/dl/doc/B-8-2017-0332",
+                "eli/dl/doc/B-8-2017-0339",
+                "eli/dl/doc/B-8-2017-0300",
+                "eli/dl/doc/B-8-2017-0336"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-74"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-013"
+            ],
+            "notation_dlvId": "609181",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le camp de r\u00e9fugi\u00e9s de Dadaab</title><label>Propositions de r\u00e9solution: B8-0300/2017, B8-0332/2017, B8-0334/2017, B8-0336/2017, B8-0339/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2687",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-608830-9",
+            "activity_label": {
+                "fr": "Mise en application de l'accord de libre-\u00e9change entre l'Union europ\u00e9enne et la R\u00e9publique de Cor\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0123"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-009"
+            ],
+            "notation_dlvId": "608830",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en application de l'accord de libre-\u00e9change entre l'Union europ\u00e9enne et la R\u00e9publique de Cor\u00e9e</title><label>Rapport: Adam Szejnfeld (A8-0123/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2059",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-610279-8",
+            "activity_label": {
+                "fr": "Coordination de certaines dispositions l\u00e9gislatives, r\u00e9glementaires et administratives des \u00c9tats membres relatives \u00e0 la fourniture de services de m\u00e9dias audiovisuels, compte tenu de l'\u00e9volution des r\u00e9alit\u00e9s du march\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0192"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-008"
+            ],
+            "notation_dlvId": "610279",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coordination de certaines dispositions l\u00e9gislatives, r\u00e9glementaires et administratives des \u00c9tats membres relatives \u00e0 la fourniture de services de m\u00e9dias audiovisuels, compte tenu de l'\u00e9volution des r\u00e9alit\u00e9s du march\u00e9</title><label>Rapport: Sabine Verheyen et  Petra Kammerevert (A8-0192/2017) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0151",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-608841-12",
+            "activity_label": {
+                "fr": "Transport routier dans l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0290"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-012"
+            ],
+            "notation_dlvId": "608841",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Transport routier dans l'Union europ\u00e9enne</title><label>Proposition de r\u00e9solution: B8-0290/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2545",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-609179-3",
+            "activity_label": {
+                "fr": "Soudan du Sud"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0358",
+                "eli/dl/doc/B-8-2017-0359",
+                "eli/dl/doc/B-8-2017-0370",
+                "eli/dl/doc/B-8-2017-0362",
+                "eli/dl/doc/B-8-2017-0367",
+                "eli/dl/doc/B-8-2017-0360",
+                "eli/dl/doc/B-8-2017-0364"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-81"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-003"
+            ],
+            "notation_dlvId": "609179",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Soudan du Sud</title><label>Propositions de r\u00e9solution: B8-0358/2017, B8-0359/2017, B8-0360/2017, B8-0362/2017, B8-0364/2017, B8-0367/2017, B8-0370/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2683",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-609176-1",
+            "activity_label": {
+                "fr": "Zambie, en particulier le cas de Hakainde Hichilema"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0368",
+                "eli/dl/doc/B-8-2017-0366",
+                "eli/dl/doc/B-8-2017-0363",
+                "eli/dl/doc/B-8-2017-0361",
+                "eli/dl/doc/B-8-2017-0372",
+                "eli/dl/doc/B-8-2017-0365"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "609176",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Zambie, en particulier le cas de Hakainde Hichilema</title><label>Propositions de r\u00e9solution: B8-0361/2017, B8-0363/2017, B8-0365/2017, B8-0366/2017, B8-0368/2017, B8-0372/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2681",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-608831-4",
+            "activity_label": {
+                "fr": "Accord entre l\u2019Union europ\u00e9enne, l\u2019Islande, la Principaut\u00e9 de Liechtenstein et le Royaume de Norv\u00e8ge concernant un m\u00e9canisme financier de l\u2019EEE pour la p\u00e9riode 2014-2021"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0072"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-57"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-004"
+            ],
+            "notation_dlvId": "608831",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord entre l\u2019Union europ\u00e9enne, l\u2019Islande, la Principaut\u00e9 de Liechtenstein et le Royaume de Norv\u00e8ge concernant un m\u00e9canisme financier de l\u2019EEE pour la p\u00e9riode 2014-2021</title><label>Recommandation: David Borrelli (A8-0072/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0052",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-609180-14",
+            "activity_label": {
+                "fr": "Permettre la relocalisation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0343",
+                "eli/dl/doc/B-8-2017-0344",
+                "eli/dl/doc/B-8-2017-0340"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-72"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-014"
+            ],
+            "notation_dlvId": "609180",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Permettre la relocalisation</title><label>Propositions de r\u00e9solution: B8-0340/2017, B8-0343/2017, B8-0344/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2685",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-608836-10",
+            "activity_label": {
+                "fr": "Parvenir \u00e0 la solution fond\u00e9e sur la coexistence de deux \u00c9tats au Proche-orient"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0347",
+                "eli/dl/doc/B-8-2017-0352",
+                "eli/dl/doc/B-8-2017-0346",
+                "eli/dl/doc/B-8-2017-0348",
+                "eli/dl/doc/B-8-2017-0354",
+                "eli/dl/doc/B-8-2017-0345"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-49"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-010"
+            ],
+            "notation_dlvId": "608836",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Parvenir \u00e0 la solution fond\u00e9e sur la coexistence de deux \u00c9tats au Proche-orient</title><label>Propositions de r\u00e9solution: B8-0345/2017, B8-0346/2017, B8-0347/2017, B8-0348/2017, B8-0352/2017, B8-0354/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2998",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-609182-15",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre des lignes directrices du Conseil relatives aux personnes LGBTI, notamment en ce qui concerne la pers\u00e9cution des hommes (per\u00e7us comme) homosexuels en Tch\u00e9tch\u00e9nie (Russie)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0349",
+                "eli/dl/doc/B-8-2017-0353",
+                "eli/dl/doc/B-8-2017-0350",
+                "eli/dl/doc/B-8-2017-0351",
+                "eli/dl/doc/B-8-2017-0355",
+                "eli/dl/doc/B-8-2017-0356"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-015"
+            ],
+            "notation_dlvId": "609182",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre des lignes directrices du Conseil relatives aux personnes LGBTI, notamment en ce qui concerne la pers\u00e9cution des hommes (per\u00e7us comme) homosexuels en Tch\u00e9tch\u00e9nie (Russie)</title><label>Propositions de r\u00e9solution: B8-0349/2017, B8-0350/2017, B8-0351/2017, B8-0353/2017, B8-0355/2017, B8-0356/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2688",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-609082-7",
+            "activity_label": {
+                "fr": "Portabilit\u00e9 transfronti\u00e8re des services de contenu en ligne dans le march\u00e9 int\u00e9rieur"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0378"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-007"
+            ],
+            "notation_dlvId": "609082",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Portabilit\u00e9 transfronti\u00e8re des services de contenu en ligne dans le march\u00e9 int\u00e9rieur</title><label>Rapport: Jean-Marie Cavada (A8-0378/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0284",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-608831-6",
+            "activity_label": {
+                "fr": "Perspectives d\u2019avenir pour l\u2019assistance technique dans le cadre de la politique de coh\u00e9sion"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0180"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-006"
+            ],
+            "notation_dlvId": "608831",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Perspectives d\u2019avenir pour l\u2019assistance technique dans le cadre de la politique de coh\u00e9sion</title><label>Rapport: Ru\u017ea Toma\u0161i\u0107 (A8-0180/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2303",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-608838-11",
+            "activity_label": {
+                "fr": "Strat\u00e9gie de l'Union europ\u00e9enne \u00e0 l'\u00e9gard de la Syrie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0337",
+                "eli/dl/doc/B-8-2017-0331",
+                "eli/dl/doc/B-8-2017-0341",
+                "eli/dl/doc/B-8-2017-0333",
+                "eli/dl/doc/B-8-2017-0338",
+                "eli/dl/doc/B-8-2017-0335",
+                "eli/dl/doc/B-8-2017-0342"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-54"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-011"
+            ],
+            "notation_dlvId": "608838",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie de l'Union europ\u00e9enne \u00e0 l'\u00e9gard de la Syrie</title><label>Propositions de r\u00e9solution: B8-0331/2017, B8-0333/2017, B8-0335/2017, B8-0337/2017, B8-0338/2017, B8-0341/2017, B8-0342/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2654",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-608831-5",
+            "activity_label": {
+                "fr": "La palette appropri\u00e9e de financement pour les r\u00e9gions d\u2019Europe: \u00e9quilibre entre les instruments financiers et les subventions dans la politique de coh\u00e9sion de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0139"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-005"
+            ],
+            "notation_dlvId": "608831",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La palette appropri\u00e9e de financement pour les r\u00e9gions d\u2019Europe: \u00e9quilibre entre les instruments financiers et les subventions dans la politique de coh\u00e9sion de l'Union</title><label>Rapport: Andrey Novakov (A8-0139/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2302",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2",
+            "type": "Activity",
+            "activity_date": "2017-05-18",
+            "activity_id": "MTG-PL-2017-05-18-VOT-ITM-609178-2",
+            "activity_label": {
+                "fr": "\u00c9thiopie, en particulier le cas de Merera Gudina"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0371",
+                "eli/dl/doc/B-8-2017-0373",
+                "eli/dl/doc/B-8-2017-0375",
+                "eli/dl/doc/B-8-2017-0374",
+                "eli/dl/doc/B-8-2017-0376",
+                "eli/dl/doc/B-8-2017-0369",
+                "eli/dl/doc/B-8-2017-0377"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-05-18-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-05-18-VOT-ITM-002"
+            ],
+            "notation_dlvId": "609178",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9thiopie, en particulier le cas de Merera Gudina</title><label>Propositions de r\u00e9solution: B8-0369/2017, B8-0371/2017, B8-0373/2017, B8-0374/2017, B8-0375/2017, B8-0376/2017, B8-0377/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-05-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609181-13",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608830-9",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-610279-8",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608841-12",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609179-3",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609176-1",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-4",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609180-14",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608836-10",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609182-15",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609082-7",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-6",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608838-11",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-608831-5",
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2682",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-05-18-VOT-ITM-609178-2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

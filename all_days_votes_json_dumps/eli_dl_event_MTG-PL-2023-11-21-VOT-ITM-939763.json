@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939763",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939763",
+            "activity_label": {
+                "fr": "Les enfants d\u2019abord \u2013 Renforcer la garantie pour l\u2019enfance deux ans apr\u00e8s son adoption",
+                "mul": "Les enfants d\u2019abord \u2013 Renforcer la garantie pour l\u2019enfance deux ans apr\u00e8s son adoption - Children first - strengthening the Child guarantee, two years on from its adoption - Vorrang f\u00fcr Kinder \u2013 St\u00e4rkung der Garantie f\u00fcr Kinder zwei Jahre nach ihrer Annahme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0462"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-49",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939763",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 1,
+            "epvoc:amendmentsTabledTotal": 1,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les enfants d\u2019abord \u2013 Renforcer la garantie pour l\u2019enfance deux ans apr\u00e8s son adoption</title><label>Proposition de r\u00e9solution: B9-0462/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

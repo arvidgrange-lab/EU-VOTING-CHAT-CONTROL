@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-09-09-DEC-178426",
+            "type": "Vote",
+            "activity_date": "2025-09-09",
+            "activity_id": "MTG-PL-2025-09-09-DEC-178426",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 641,
+            "number_of_votes_abstention": 70,
+            "number_of_votes_against": 41,
+            "number_of_votes_favor": 530,
+            "comment": {
+                "sv": "sluten",
+                "sk": "TH",
+                "ga": "BR",
+                "hu": "TITK.",
+                "lt": "SB",
+                "et": "SH",
+                "sl": "TG",
+                "pl": "taj",
+                "lv": "AIZKL",
+                "fr": "SEC",
+                "hr": "SEC",
+                "es": "SEC",
+                "en": "SEC",
+                "ro": "SEC",
+                "fi": "SEC",
+                "pt": "SEC",
+                "it": "SEC",
+                "bg": "SEC",
+                "da": "SEC",
+                "mt": "Seg.",
+                "nl": "Geh. S",
+                "cs": "TAJ",
+                "el": "\u039c\u03a8",
+                "de": "geh."
+            },
+            "notation_votingId": "178426",
+            "referenceText": {
+                "mt": "\u0126atra proposta ta\u2019 Jo\u00eblle Elvinger",
+                "pt": "Nomea\u00e7\u00e3o de Jo\u00eblle Elvinger",
+                "hr": "Imenovanje Jo\u00eblle Elvinger",
+                "sl": "Imenovanje Jo\u00eblle Elvinger",
+                "pl": "Mianowanie Jo\u00eblle Elvinger",
+                "es": "Nombramiento de Jo\u00eblle Elvinger",
+                "ro": "Desemnarea lui Jo\u00eblle Elvinger",
+                "fi": "Jo\u00eblle Elvingerin nimitt\u00e4minen",
+                "lt": "Jo\u00eblle Elvinger skyrimas",
+                "sv": "Utn\u00e4mning av Jo\u00eblle Elvinger",
+                "lv": "Jo\u00eblle Elvinger iecel\u0161ana",
+                "cs": "jmenov\u00e1n\u00ed Jo\u00eblle Elvingerov\u00e9",
+                "et": "Jo\u00eblle Elvingeri nimetamine",
+                "nl": "Benoeming van Jo\u00eblle Elvinger",
+                "it": "Nomina di Jo\u00eblle Elvinger",
+                "en": "Nomination of Jo\u00eblle Elvinger",
+                "da": "Udn\u00e6vnelse af J\u00f6elle Elvinger",
+                "ga": "Ainmni\u00fach\u00e1n Jo\u00eblle Elvinger",
+                "hu": "Jo\u00eblle Elvinger jel\u00f6l\u00e9se",
+                "sk": " Vymenovanie Jo\u00eblle Elvingerovej",
+                "de": "Ernennung von Jo\u00eblle Elvinger",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03b7\u03c2 Jo\u00eblle Elvinger",
+                "bg": "\u041d\u0430\u0437\u043d\u0430\u0447\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0416\u043e\u0435\u043b \u0415\u043b\u0432\u0438\u043d\u0433\u0435\u0440 ",
+                "fr": "Nomination de Jo\u00eblle Elvinger"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

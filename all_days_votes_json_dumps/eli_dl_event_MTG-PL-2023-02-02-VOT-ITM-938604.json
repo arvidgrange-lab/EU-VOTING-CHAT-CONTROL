@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-02-VOT-ITM-938604",
+            "type": "Activity",
+            "activity_date": "2023-02-02",
+            "activity_id": "MTG-PL-2023-02-02-VOT-ITM-938604",
+            "activity_label": {
+                "fr": "Am\u00e9lioration des conditions de travail dans le cadre du travail via une plateforme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0301"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-02-OJ-ITM-V-30",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-02-VOT-ITM-000"
+            ],
+            "notation_dlvId": "938604",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Am\u00e9lioration des conditions de travail dans le cadre du travail via une plateforme</title><label>Rapport: Elisabetta Gualmini (A9-0301/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

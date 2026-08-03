@@ -1,0 +1,224 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938884",
+            "type": "Activity",
+            "activity_date": "2023-03-16",
+            "activity_id": "MTG-PL-2023-03-16-VOT-ITM-938884",
+            "activity_label": {
+                "fr": "Cambodge: le cas du chef de l'opposition Kem Sokha"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0174",
+                "eli/dl/doc/B-9-2023-0176",
+                "eli/dl/doc/RC-9-2023-0169",
+                "eli/dl/doc/B-9-2023-0184",
+                "eli/dl/doc/B-9-2023-0178",
+                "eli/dl/doc/B-9-2023-0169",
+                "eli/dl/doc/B-9-2023-0186"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-16-OJ-ITM-V-69",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-16-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938884",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cambodge: le cas du chef de l'opposition Kem Sokha</title><label>Propositions de r\u00e9solutions: RC-B9-0169/2023, B9-0169/2023, B9-0174/2023, B9-0176/2023, B9-0178/2023, B9-0184/2023, B9-0186/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-03-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938884",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938864",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938883",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938885",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938809"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2589",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938884"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938864",
+            "type": "Activity",
+            "activity_date": "2023-03-16",
+            "activity_id": "MTG-PL-2023-03-16-VOT-ITM-938864",
+            "activity_label": {
+                "fr": "Iran: en particulier l'empoisonnement de centaines d'\u00e9coli\u00e8res"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0170",
+                "eli/dl/doc/B-9-2023-0181",
+                "eli/dl/doc/RC-9-2023-0170",
+                "eli/dl/doc/B-9-2023-0175",
+                "eli/dl/doc/B-9-2023-0180",
+                "eli/dl/doc/B-9-2023-0177",
+                "eli/dl/doc/B-9-2023-0172"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-16-OJ-ITM-V-67",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-16-VOT-ITM-001"
+            ],
+            "notation_dlvId": "938864",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Iran: en particulier l'empoisonnement de centaines d'\u00e9coli\u00e8res</title><label>Propositions de r\u00e9solutions: RC-B9-0170/2023, B9-0170/2023, B9-0172/2023, B9-0175/2023, B9-0177/2023, B9-0180/2023, B9-0181/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-03-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938884",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938864",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938883",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938885",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938809"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2587",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938864"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938883",
+            "type": "Activity",
+            "activity_date": "2023-03-16",
+            "activity_id": "MTG-PL-2023-03-16-VOT-ITM-938883",
+            "activity_label": {
+                "fr": "Modification du r\u00e8glement (UE) n\u00b0 910/2014 en ce qui concerne le d\u00e9veloppement d'un cadre pour une identit\u00e9 num\u00e9rique europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0038"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-16-OJ-ITM-V-87",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-16-VOT-ITM-000"
+            ],
+            "notation_dlvId": "938883",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification du r\u00e8glement (UE) n\u00b0 910/2014 en ce qui concerne le d\u00e9veloppement d'un cadre pour une identit\u00e9 num\u00e9rique europ\u00e9enne</title><label>Rapport: Romana Jerkovi\u0107 (A9-0038/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-03-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938884",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938864",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938883",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938885",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938809"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0136",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938883"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938885",
+            "type": "Activity",
+            "activity_date": "2023-03-16",
+            "activity_id": "MTG-PL-2023-03-16-VOT-ITM-938885",
+            "activity_label": {
+                "fr": "Tunisie: r\u00e9centes atteintes \u00e0 la libert\u00e9 d'expression et d'association et attaques contre les syndicats, en particulier le cas du journaliste Noureddine Boutar"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0179",
+                "eli/dl/doc/B-9-2023-0183",
+                "eli/dl/doc/B-9-2023-0185",
+                "eli/dl/doc/B-9-2023-0171",
+                "eli/dl/doc/B-9-2023-0173",
+                "eli/dl/doc/RC-9-2023-0171",
+                "eli/dl/doc/B-9-2023-0182"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-16-OJ-ITM-V-68",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-16-VOT-ITM-002"
+            ],
+            "notation_dlvId": "938885",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Tunisie: r\u00e9centes atteintes \u00e0 la libert\u00e9 d'expression et d'association et attaques contre les syndicats, en particulier le cas du journaliste Noureddine Boutar</title><label>Propositions de r\u00e9solutions: RC-B9-0171/2023/rev, B9-0171/2023, B9-0173/2023, B9-0179/2023, B9-0182/2023, B9-0183/2023, B9-0185/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-03-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938884",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938864",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938883",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938885",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938809"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2588",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938885"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938809",
+            "type": "Activity",
+            "activity_date": "2023-03-16",
+            "activity_id": "MTG-PL-2023-03-16-VOT-ITM-938809",
+            "activity_label": {
+                "fr": "Orientations de l'Union europ\u00e9enne concernant les d\u00e9fenseurs des droits de l'homme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0034"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-03-16-OJ-ITM-V-37",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-03-16-VOT-ITM-004"
+            ],
+            "notation_dlvId": "938809",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Orientations de l'Union europ\u00e9enne concernant les d\u00e9fenseurs des droits de l'homme</title><label>Rapport: Hannah Neumann (A9-0034/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-03-16",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938884",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938864",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938883",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938885",
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938809"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2204",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-03-16-VOT-ITM-938809"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

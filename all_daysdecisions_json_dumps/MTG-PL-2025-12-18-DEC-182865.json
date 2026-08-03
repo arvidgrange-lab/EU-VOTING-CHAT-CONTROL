@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-12-18-DEC-182865",
+            "type": "Vote",
+            "activity_date": "2025-12-18",
+            "activity_id": "MTG-PL-2025-12-18-DEC-182865",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 567,
+            "number_of_votes_abstention": 27,
+            "number_of_votes_against": 29,
+            "number_of_votes_favor": 511,
+            "comment": {
+                "lv": "AIZKL",
+                "lt": "SB",
+                "sv": "sluten",
+                "nl": "Geh. S",
+                "el": "\u039c\u03a8",
+                "pl": "taj",
+                "ga": "BR",
+                "de": "geh.",
+                "bg": "\u0422\u0413",
+                "sl": "TG",
+                "hr": "SEC",
+                "es": "SEC",
+                "en": "SEC",
+                "ro": "SEC",
+                "fi": "SEC",
+                "pt": "SEC",
+                "it": "SEC",
+                "fr": "SEC",
+                "da": "SEC",
+                "mt": "SIG",
+                "sk": "TH",
+                "cs": "TAJ",
+                "hu": "TITK.",
+                "et": "SH"
+            },
+            "notation_votingId": "182865",
+            "referenceText": {
+                "pl": "Powo\u0142anie Henriki Marii Verbeek-Kusters",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03b7\u03c2 Henrica Maria Verbeek-Kusters",
+                "es": "Nombramiento de Henrica Maria Verbeek-Kusters",
+                "lt": "Henricos Marios Verbeek-Kusters skyrimas",
+                "da": "Udn\u00e6vnelse af Henrica Maria Verbeek-Kusters",
+                "sl": "Imenovanje Henrice Marie Verbeek-Kusters",
+                "it": "Nomina di Henrica Maria Verbeek-Kusters",
+                "en": "Appointment of Henrica Maria Verbeek-Kusters",
+                "nl": "Benoeming van Henrica Maria Verbeek\u2011Kusters",
+                "fi": "Henrica Maria Verbeek-Kustersin nimitt\u00e4minen",
+                "bg": "\u041d\u0430\u0437\u043d\u0430\u0447\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0425\u0435\u043d\u0440\u0438\u043a\u0430 \u041c\u0430\u0440\u0438\u044f \u0412\u0435\u0440\u0431\u0435\u043a-\u041a\u044e\u0441\u0442\u0435\u0440\u0441",
+                "lv": "Henrica Maria Verbeek-Kusters iecel\u0161ana",
+                "pt": "Nomea\u00e7\u00e3o de Henrica Maria Verbeek-Kusters",
+                "hr": "Imenovanje Henrice Marije Verbeek-Kusters",
+                "ga": "Ceapach\u00e1n Henrica Maria Verbeek-Kusters",
+                "sk": "Vymenovanie Henricy Marie Verbeekovej-Kustersovej",
+                "fr": "Nomination de Henrica Maria Verbeek-Kusters",
+                "hu": "Henrica Maria Verbeek-Kusters kinevez\u00e9se",
+                "et": "Henrica Maria Verbeek-Kustersi ametisse nimetamine",
+                "ro": "Numirea lui Henrica Maria Verbeek-Kusters",
+                "mt": "Il-\u0127atra ta\u2019 Henrica Maria Verbeek-Kusters",
+                "cs": "jmenov\u00e1n\u00ed Henricy Marii Verbeek-Kustersov\u00e9",
+                "sv": "Utn\u00e4mning av Henrica Maria Verbeek-Kusters",
+                "de": "Ernennung von Henrica Maria Verbeek-Kusters"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

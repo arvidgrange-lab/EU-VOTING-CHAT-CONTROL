@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939647",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939647",
+            "activity_label": {
+                "mul": "Modification de certaines directives eu \u00e9gard \u00e0 l\u2019\u00e9tablissement et le fonctionnement du point d\u2019acc\u00e8s unique europ\u00e9en - Amending certain Directives as regards the establishment and functioning of the European single access point (ESAP) - \u00c4nderung bestimmter Richtlinien in Bezug auf die Einrichtung und die Funktionsweise des zentralen europ\u00e4ischen Zugangsportals (ESAP)",
+                "fr": "Modification de certaines directives eu \u00e9gard \u00e0 l\u2019\u00e9tablissement et le fonctionnement du point d\u2019acc\u00e8s unique europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0023"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-15",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939647",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification de certaines directives eu \u00e9gard \u00e0 l\u2019\u00e9tablissement et le fonctionnement du point d\u2019acc\u00e8s unique europ\u00e9en</title><label>Rapport: Pedro Silva Pereira (A9-0023/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

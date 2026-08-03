@@ -1,0 +1,194 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934826",
+            "type": "Activity",
+            "activity_date": "2021-06-09",
+            "activity_id": "MTG-PL-2021-06-09-VOT-ITM-934826",
+            "activity_label": {
+                "fr": "Objection au titre de l'article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: limite maximale de r\u00e9sidus pour l'imidaclopride"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0313"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-06-09-OJ-ITM-V-94",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-06-09-VOT-ITM-011"
+            ],
+            "notation_dlvId": "934826",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection au titre de l'article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: limite maximale de r\u00e9sidus pour l'imidaclopride</title><label>B9-0313/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934826",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934825",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934828",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934827",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934810"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2705",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934826"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934825",
+            "type": "Activity",
+            "activity_date": "2021-06-09",
+            "activity_id": "MTG-PL-2021-06-09-VOT-ITM-934825",
+            "activity_label": {
+                "fr": "Objection au titre de l'article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: substances actives, dont la flumioxazine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0312"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-06-09-OJ-ITM-V-95",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-06-09-VOT-ITM-012"
+            ],
+            "notation_dlvId": "934825",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection au titre de l'article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: substances actives, dont la flumioxazine</title><label>B9-0312/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934826",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934825",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934828",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934827",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934810"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2706",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934825"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934828",
+            "type": "Activity",
+            "activity_date": "2021-06-09",
+            "activity_id": "MTG-PL-2021-06-09-VOT-ITM-934828",
+            "activity_label": {
+                "fr": "Le conflit d'int\u00e9r\u00eats du Premier ministre de la R\u00e9publique tch\u00e8que"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0303"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-06-09-OJ-ITM-V-69",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-06-09-VOT-ITM-003"
+            ],
+            "notation_dlvId": "934828",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le conflit d'int\u00e9r\u00eats du Premier ministre de la R\u00e9publique tch\u00e8que</title><label>Propositions de r\u00e9solution: B9-0303/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934826",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934825",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934828",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934827",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934810"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2671",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934828"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934827",
+            "type": "Activity",
+            "activity_date": "2021-06-09",
+            "activity_id": "MTG-PL-2021-06-09-VOT-ITM-934827",
+            "activity_label": {
+                "fr": "Relever le d\u00e9fi mondial pos\u00e9 par la COVID-19: effets de la d\u00e9rogation \u00e0 l\u2019accord de l\u2019OMC sur les ADPIC concernant les vaccins contre la COVID-19, les traitements, le mat\u00e9riel et l'augmentation des capacit\u00e9s de production et de fabrication dans les pays en d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0306"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-06-09-OJ-ITM-V-70",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-06-09-VOT-ITM-004"
+            ],
+            "notation_dlvId": "934827",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relever le d\u00e9fi mondial pos\u00e9 par la COVID-19: effets de la d\u00e9rogation \u00e0 l\u2019accord de l\u2019OMC sur les ADPIC concernant les vaccins contre la COVID-19, les traitements, le mat\u00e9riel et l'augmentation des capacit\u00e9s de production et de fabrication dans les pays en d\u00e9veloppement</title><label>Propositions de r\u00e9solution: B9-0306/2021, B9-0307/2021, B9-0308/2021, B9-0309/2021, B9-0310/2021, B9-0311/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934826",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934825",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934828",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934827",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934810"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934810",
+            "type": "Activity",
+            "activity_date": "2021-06-09",
+            "activity_id": "MTG-PL-2021-06-09-VOT-ITM-934810",
+            "activity_label": {
+                "fr": "Statut et conditions g\u00e9n\u00e9rales d\u2019exercice des fonctions du M\u00e9diateur europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0174"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2021-06-09-OJ-ITM-V-59",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-06-09-VOT-ITM-009"
+            ],
+            "notation_dlvId": "934810",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Statut et conditions g\u00e9n\u00e9rales d\u2019exercice des fonctions du M\u00e9diateur europ\u00e9en</title><label>Rapport: Paulo Rangel (A9-0174/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-06-09",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934826",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934825",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934828",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934827",
+                        "eli/dl/event/MTG-PL-2021-06-09-VOT-ITM-934810"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

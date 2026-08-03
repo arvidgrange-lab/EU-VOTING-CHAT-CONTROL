@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-03-10-DEC-186119",
+            "type": "Vote",
+            "activity_date": "2026-03-10",
+            "activity_id": "MTG-PL-2026-03-10-DEC-186119",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 619,
+            "number_of_votes_abstention": 91,
+            "number_of_votes_against": 68,
+            "number_of_votes_favor": 460,
+            "comment": {
+                "sl": "TG",
+                "lt": "SB",
+                "bg": "\u0422\u0413",
+                "cs": "TAJ",
+                "el": "\u039c\u03a8",
+                "hu": "TITK.",
+                "sk": "TH",
+                "ga": "BR",
+                "de": "geh.",
+                "sv": "sluten",
+                "lv": "AIZKL",
+                "pl": "taj",
+                "mt": "SIG",
+                "it": "SEC",
+                "pt": "SEC",
+                "fi": "SEC",
+                "ro": "SEC",
+                "en": "SEC",
+                "es": "SEC",
+                "hr": "SEC",
+                "fr": "SEC",
+                "da": "SEC",
+                "et": "SH",
+                "nl": "Geh. S"
+            },
+            "notation_votingId": "186119",
+            "referenceText": {
+                "fr": "Nomination de Boris Vuj\u010di\u0107",
+                "lt": "Boriso Vuj\u010di\u0107iaus skyrimas",
+                "mt": "Il-\u0127atra ta\u2019 Boris Vuj\u010di\u0107",
+                "es": "Nombramiento de Boris Vuj\u010di\u0107",
+                "lv": "Boris Vuj\u010di\u0107 iecel\u0161ana",
+                "de": "Ernennung von Boris Vuj\u010di\u0107",
+                "pt": "Nomea\u00e7\u00e3o de Boris Vuj\u010di\u0107",
+                "en": "Appointment of Boris Vuj\u010di\u0107",
+                "ga": "Ceapach\u00e1n Boris Vuj\u010di\u0107",
+                "hu": "Boris Vuj\u010di\u0107 kinevez\u00e9se",
+                "sl": "Imenovanje Borisa Vuj\u010di\u0107a",
+                "hr": "Imenovanje Borisa Vuj\u010di\u0107a",
+                "sk": "Vymenovanie Borisa Vuj\u010di\u0107a",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 Boris Vuj\u010di\u0107",
+                "ro": "Numirea lui Boris Vuj\u010di\u0107",
+                "pl": "Mianowanie Borisa Vuj\u010dicia",
+                "nl": "Benoeming van Boris Vuj\u010di\u0107",
+                "bg": "\u041d\u0430\u0437\u043d\u0430\u0447\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0411\u043e\u0440\u0438\u0441 \u0412\u0443\u0439\u0447\u0438\u0447",
+                "et": "Boris Vuj\u010di\u0107i ametisse nimetamine",
+                "cs": "jmenov\u00e1n\u00ed Borise Vuj\u010di\u0107e",
+                "fi": "Boris Vuj\u010di\u0107in nimitt\u00e4minen",
+                "sv": "Utn\u00e4mning av Boris Vuj\u010di\u0107",
+                "it": "Nomina di Boris Vuj\u010di\u0107",
+                "da": "Udn\u00e6vnelse af Boris Vuj\u010di\u0107"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

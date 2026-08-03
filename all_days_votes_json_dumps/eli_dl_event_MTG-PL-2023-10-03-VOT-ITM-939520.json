@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939520",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939520",
+            "activity_label": {
+                "mul": "Des transports europ\u00e9ens qui fonctionnent pour les femmes - Ensuring European transportation works for women - Schaffung eines europ\u00e4ischen Verkehrswesens, das den Bed\u00fcrfnissen von Frauen gerecht wird",
+                "fr": "Des transports europ\u00e9ens qui fonctionnent pour les femmes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0239"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-57",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939520",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Des transports europ\u00e9ens qui fonctionnent pour les femmes</title><label>Rapport: El\u017cbieta Katarzyna \u0141ukacijewska (A9-0239/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

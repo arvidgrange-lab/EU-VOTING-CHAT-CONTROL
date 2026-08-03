@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-04-11-VOT-ITM-945187",
+            "type": "Activity",
+            "activity_date": "2024-04-11",
+            "activity_id": "MTG-PL-2024-04-11-VOT-ITM-945187",
+            "activity_label": {
+                "bg": "\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u0441\u043d\u0435\u043c\u0430\u043d\u0435 \u043d\u0430 \u0438\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430 \u043d\u0430 \u0413\u0443\u043d\u0430\u0440 \u0411\u0435\u043a",
+                "pl": "Wniosek o uchylenie immunitetu Gunnara Becka",
+                "hr": "Zahtjev za ukidanje imuniteta Gunnaru Becku",
+                "es": "Suplicatorio de suspensi\u00f3n de la inmunidad de Gunnar Beck",
+                "de": "Antrag auf Aufhebung der Immunit\u00e4t von Gunnar Beck",
+                "sk": "\u017diados\u0165 o zbavenie Gunnara Becka imunity",
+                "ro": "Cerere de ridicare a imunit\u0103\u021bii lui Gunnar Beck",
+                "en": "Request for the waiver of the immunity of Gunnar Beck",
+                "lt": "Pra\u0161ymas at\u0161aukti Gunnaro Becko (Gunnar Beck) imunitet\u0105",
+                "da": "Anmodning om oph\u00e6velse af Gunnar Becks immunitet",
+                "it": "Richiesta di revoca dell'immunit\u00e0 di Gunnar Beck",
+                "el": "\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ac\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c5\u03bb\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 Gunnar Beck",
+                "lv": "Piepras\u012bjums atcelt Gunnar Beck imunit\u0101ti",
+                "hu": "Gunnar Beck mentelmi jog\u00e1nak felf\u00fcggeszt\u00e9s\u00e9re ir\u00e1nyul\u00f3 k\u00e9relem",
+                "ga": "Iarraidh ar dh\u00edol\u00faine Gunnar Beck a tharscaoileadh",
+                "nl": "Verzoek tot opheffing van de immuniteit van Gunnar Beck",
+                "pt": "Pedido de levantamento da imunidade de Gunnar Beck",
+                "et": "Gunnar Becki puutumatuse \u00e4rav\u00f5tmise taotlus",
+                "mt": "Talba g\u0127at-tne\u0127\u0127ija tal-immunit\u00e0 ta\u2019 Gunnar Beck",
+                "fr": "Demande de lev\u00e9e de l\u2019immunit\u00e9 de Gunnar Beck",
+                "cs": "\u017d\u00e1dost, aby byl Gunnar Beck zbaven imunity",
+                "sv": "Beg\u00e4ran om upph\u00e4vande av Gunnar Becks immunitet",
+                "sl": "Zahteva za odvzem imunitete Gunnarju Becku",
+                "fi": "Gunnar Beckin koskemattomuuden pid\u00e4tt\u00e4mist\u00e4 koskeva pyynt\u00f6"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2024-0170"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-04-11-DEC-168059"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-04-11-OJ-ITM-V-181"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-04-11-VOT-ITM-001"
+            ],
+            "notation_dlvId": "945187",
+            "structuredLabel": {
+                "ga": "<structuredLabel><title>Iarraidh ar dh\u00edol\u00faine Gunnar Beck a tharscaoileadh</title><label>Tuarasc\u00e1il: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "de": "<structuredLabel><title>Antrag auf Aufhebung der Immunit\u00e4t von Gunnar Beck</title><label>Bericht: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Beg\u00e4ran om upph\u00e4vande av Gunnar Becks immunitet</title><label>Bet\u00e4nkande: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "da": "<structuredLabel><title>Anmodning om oph\u00e6velse af Gunnar Becks immunitet</title><label>Bet\u00e6nkning: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "lv": "<structuredLabel><title>Piepras\u012bjums atcelt Gunnar Beck imunit\u0101ti</title><label>Zi\u0146ojums: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Talba g\u0127at-tne\u0127\u0127ija tal-immunit\u00e0 ta\u2019 Gunnar Beck</title><label>Rapport: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "et": "<structuredLabel><title>Gunnar Becki puutumatuse \u00e4rav\u00f5tmise taotlus</title><label>Raport: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Zahteva za odvzem imunitete Gunnarju Becku</title><label>Poro\u010dilo: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "nl": "<structuredLabel><title>Verzoek tot opheffing van de immuniteit van Gunnar Beck</title><label>Verslag: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "hu": "<structuredLabel><title>Gunnar Beck mentelmi jog\u00e1nak felf\u00fcggeszt\u00e9s\u00e9re ir\u00e1nyul\u00f3 k\u00e9relem</title><label>Jelent\u00e9s: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Cerere de ridicare a imunit\u0103\u021bii lui Gunnar Beck</title><label>Raport: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "sk": "<structuredLabel><title>\u017diados\u0165 o zbavenie Gunnara Becka imunity</title><label>Spr\u00e1va: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Pra\u0161ymas at\u0161aukti Gunnaro Becko (Gunnar Beck) imunitet\u0105</title><label>Prane\u0161imas: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Wniosek o uchylenie immunitetu Gunnara Becka</title><label>Sprawozdanie: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "cs": "<structuredLabel><title>\u017d\u00e1dost, aby byl Gunnar Beck zbaven imunity</title><label>Zpr\u00e1va: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Gunnar Beckin koskemattomuuden pid\u00e4tt\u00e4mist\u00e4 koskeva pyynt\u00f6</title><label>Mietint\u00f6: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "es": "<structuredLabel><title>Suplicatorio de suspensi\u00f3n de la inmunidad de Gunnar Beck</title><label>Informe: Ib\u00e1n Garc\u00eda del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ac\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c5\u03bb\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 Gunnar Beck</title><label>\u0388\u03ba\u03b8\u03b5\u03c3\u03b7: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l\u2019immunit\u00e9 de Gunnar Beck</title><label>Rapport: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "it": "<structuredLabel><title>Richiesta di revoca dell'immunit\u00e0 di Gunnar Beck</title><label>Relazione: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "en": "<structuredLabel><title>Request for the waiver of the immunity of Gunnar Beck</title><label>Report: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Zahtjev za ukidanje imuniteta Gunnaru Becku</title><label>Izvje\u0161\u0107e: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0418\u0441\u043a\u0430\u043d\u0435 \u0437\u0430 \u0441\u043d\u0435\u043c\u0430\u043d\u0435 \u043d\u0430 \u0438\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430 \u043d\u0430 \u0413\u0443\u043d\u0430\u0440 \u0411\u0435\u043a</title><label>\u0414\u043e\u043a\u043b\u0430\u0434: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>",
+                "pt": "<structuredLabel><title>Pedido de levantamento da imunidade de Gunnar Beck</title><label>Relat\u00f3rio: Ib\u00e1n Garc\u00eda Del Blanco (A9-0170/2024)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

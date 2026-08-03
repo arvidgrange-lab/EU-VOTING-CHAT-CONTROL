@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-01-17-DEC-163260",
+            "type": "Vote",
+            "activity_date": "2024-01-17",
+            "activity_id": "MTG-PL-2024-01-17-DEC-163260",
+            "activity_label": {
+                "nl": "overweging\u00a0AH",
+                "ga": "Aithris AH",
+                "hu": "AH. preb.",
+                "el": "\u0391\u03b9\u03c4. \u03c3\u03ba. \u039b\u0394",
+                "da": "Betragtning AH",
+                "de": "Erw\u00e4gung\u00a0AH",
+                "et": "P\u00f5hjendus AH",
+                "lv": "AH\u00a0apsv\u0113rums",
+                "sv": "sk\u00e4l AH",
+                "fr": "Consid\u00e9rant AH",
+                "en": "Recital AH",
+                "pl": "Motyw AH",
+                "fi": "AH kappale",
+                "mt": "Premessa AH",
+                "bg": "\u0441\u044a\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0410\u0417",
+                "cs": "od\u016fv. AH",
+                "lt": "AH konstatuojamoji dalis",
+                "sl": "uvodna izjava AH",
+                "hr": "Uvodna izjava AH",
+                "es": "Considerando AH",
+                "it": "Considerando AH",
+                "pt": "Considerando AH",
+                "sk": "od\u00f4vodnenie AH",
+                "ro": "Considerentul AH"
+            },
+            "activity_order": "28.0",
+            "decided_on_a_realization_of": [
+                "eli/dl/doc/MTG-PL-2024-01-17-VOT-ITM-939912-SPLIT-9-1"
+            ],
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "responsible_organization_label": {
+                "hu": "eredeti sz\u00f6veg",
+                "pl": "pierwotny tekst",
+                "sv": "originaltexten",
+                "sk": "p\u00f4vodn\u00fd text"
+            },
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2024-01-17-VOT-ITM-939912-SPLIT-9"
+            ],
+            "comment": {
+                "mt": "1",
+                "et": "1",
+                "sv": "1",
+                "it": "1",
+                "cs": "1",
+                "el": "1",
+                "sl": "1",
+                "nl": "1",
+                "de": "1",
+                "da": "1",
+                "fi": "1",
+                "bg": "1",
+                "hu": "1",
+                "hr": "1",
+                "lt": "1",
+                "es": "1",
+                "en": "1",
+                "lv": "1",
+                "pl": "1",
+                "ro": "1",
+                "sk": "1",
+                "ga": "1",
+                "pt": "1",
+                "fr": "1"
+            },
+            "notation_votingId": "163260",
+            "decisionAboutId": "\u00a7",
+            "decisionAboutId_XMLLiteral": "<am><symbol href=\"https://xx.xx.xx/\u00a7\"/></am>",
+            "referenceText": {
+                "et": "P\u00f5hjendus AH",
+                "nl": "overweging\u00a0AH",
+                "fr": "Consid\u00e9rant AH",
+                "de": "Erw\u00e4gung\u00a0AH",
+                "bg": "\u0441\u044a\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0410\u0417",
+                "fi": "AH kappale",
+                "sl": "uvodna izjava AH",
+                "sv": "sk\u00e4l AH",
+                "sk": "od\u00f4vodnenie AH",
+                "lv": "AH\u00a0apsv\u0113rums",
+                "mt": "Premessa AH",
+                "ga": "Aithris AH",
+                "ro": "Considerentul AH",
+                "cs": "od\u016fv. AH",
+                "pt": "Considerando AH",
+                "it": "Considerando AH",
+                "es": "Considerando AH",
+                "da": "Betragtning AH",
+                "el": "\u0391\u03b9\u03c4. \u03c3\u03ba. \u039b\u0394",
+                "hu": "AH. preb.",
+                "pl": "Motyw AH",
+                "lt": "AH konstatuojamoji dalis",
+                "en": "Recital AH",
+                "hr": "Uvodna izjava AH"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

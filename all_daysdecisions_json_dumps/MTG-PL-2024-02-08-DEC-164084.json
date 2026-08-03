@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-02-08-DEC-164084",
+            "type": "Vote",
+            "activity_date": "2024-02-08",
+            "activity_id": "MTG-PL-2024-02-08-DEC-164084",
+            "activity_order": "2.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "164084",
+            "headingLabel": {
+                "cs": "N\u00e1vrh usnesen\u00ed B9-0090/2024 (v\u00fdbor INTA)",
+                "sv": "Resolutionsf\u00f6rslag B9-0090/2024 (INTA-utskottet)",
+                "fr": "Proposition de r\u00e9solution B9-0090/2024 \n(commission INTA)",
+                "hu": "\u00c1ll\u00e1sfoglal\u00e1si ind\u00edtv\u00e1ny: B9-0090/2024 (INTA bizotts\u00e1g)",
+                "sk": "N\u00e1vrh uznesenia B9-0090/2024 (v\u00fdbor INTA)",
+                "et": "Resolutsiooni ettepanek B9-0090/2024\n(INTA-komisjon)",
+                "ga": "Tairiscint i gcomhair r\u00fain B9-0090/2024 (Coiste INTA)",
+                "lt": "Pasi\u016blymas d\u0117l rezoliucijos B9-0090/2024 (INTA komitetas)",
+                "fi": "P\u00e4\u00e4t\u00f6slauselmaesitys B9-0090/2024 (INTA-valiokunta)",
+                "da": "Forslag til beslutning B9-0090/2024 (INTA)",
+                "sl": "Predlog resolucije B9-0090/2024 (odbor INTA)",
+                "mt": "Mozzjoni g\u0127al ri\u017coluzzjoni B9-0090/2024 (Kumitat INTA)",
+                "it": "Proposta di risoluzione B9-0090/2024 (commissione INTA)",
+                "ro": "Propunere de rezolu\u021bie B9-0090/2024 (Comisia INTA)",
+                "nl": "Ontwerpresolutie B9-0090/2024 (commissie INTA)",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c8\u03b7\u03c6\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 B9-0090/2024 (\u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae INTA)",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u044f B9-0090/2024 (\u043a\u043e\u043c\u0438\u0441\u0438\u044f INTA)",
+                "pt": "Proposta de resolu\u00e7\u00e3o B9-0090/2024 (Comiss\u00e3o INTA)",
+                "hr": "Prijedlog rezolucije B9-0090/2024 (odbor INTA)",
+                "es": "Propuesta de Resoluci\u00f3n B9-0090/2024\n(Comisi\u00f3n INTA)",
+                "pl": "Projekt rezolucji B9-0090/2024 (komisja INTA)",
+                "lv": "Rezol\u016bcijas priek\u0161likums B9-0090/2024 (INTA komiteja)",
+                "en": "Motion for a resolution B9-0090/2024\n(INTA Committee)",
+                "de": "Entschlie\u00dfungsantrag B9-0090/2024 (INTA-Ausschuss)"
+            },
+            "referenceText": {
+                "lv": "rezol\u016bcijas priek\u0161likums",
+                "mt": "Mozzjoni g\u0127al ri\u017coluzzjoni",
+                "es": "Propuesta de Resoluci\u00f3n",
+                "cs": "n\u00e1vrh usnesen\u00ed",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u044f",
+                "pt": "Proposta de resolu\u00e7\u00e3o",
+                "it": "Proposta di risoluzione",
+                "da": "Forslag til beslutning",
+                "fr": "Proposition de r\u00e9solution",
+                "de": "Entschlie\u00dfungsantrag",
+                "pl": "Projekt rezolucji",
+                "sl": "predlog resolucije",
+                "nl": "Ontwerpresolutie",
+                "lt": "Pasi\u016blymas d\u0117l rezoliucijos",
+                "sk": "N\u00e1vrh uznesenia",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c8\u03b7\u03c6\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2",
+                "ro": "Propunere de rezolu\u021bie",
+                "sv": "Resolutionsf\u00f6rslag",
+                "hr": "Prijedlog rezolucije",
+                "ga": "Tairiscint i gcomhair r\u00fain",
+                "hu": "\u00c1ll\u00e1sfoglal\u00e1sra ir\u00e1nyul\u00f3 ind\u00edtv\u00e1ny",
+                "et": "Resolutsiooni ettepanek",
+                "fi": "P\u00e4\u00e4t\u00f6slauselmaesitys",
+                "en": "Motion for a resolution"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

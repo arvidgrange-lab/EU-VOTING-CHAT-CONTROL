@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-09-12-VOT-ITM-939448",
+            "type": "Activity",
+            "activity_date": "2023-09-12",
+            "activity_id": "MTG-PL-2023-09-12-VOT-ITM-939448",
+            "activity_label": {
+                "fr": "Normes de qualit\u00e9 et de s\u00e9curit\u00e9 des substances d\u2019origine humaine destin\u00e9es \u00e0 une application humaine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0250"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-09-12-OJ-ITM-V-29",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-09-12-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939448",
+            "epvoc:amendmentsAdoptedCommittee": 239,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 240,
+            "epvoc:amendmentsTabledCommittee": 239,
+            "epvoc:amendmentsTabledPoliticalGroup": 3,
+            "epvoc:amendmentsTabledTotal": 242,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normes de qualit\u00e9 et de s\u00e9curit\u00e9 des substances d\u2019origine humaine destin\u00e9es \u00e0 une application humaine</title><label>Rapport: Nathalie Colin-Oesterl\u00e9 (A9-0250/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

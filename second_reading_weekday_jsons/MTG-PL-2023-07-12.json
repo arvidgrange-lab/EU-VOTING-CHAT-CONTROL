@@ -1,0 +1,856 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939368",
+            "activity_label": {
+                "fr": "Activit\u00e9s financi\u00e8res de la Banque europ\u00e9enne d'investissement \u2013 rapport annuel 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0210"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-015"
+            ],
+            "notation_dlvId": "939368",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Activit\u00e9s financi\u00e8res de la Banque europ\u00e9enne d'investissement \u2013 rapport annuel 2022</title><label>Rapport: Stefan Berger (A9-0210/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2062",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939376",
+            "activity_label": {
+                "fr": "P\u00eache dans la zone couverte par l\u2019accord de la Commission g\u00e9n\u00e9rale des p\u00eaches pour la M\u00e9diterran\u00e9e (CGPM)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0136"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_52"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939376",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>P\u00eache dans la zone couverte par l\u2019accord de la Commission g\u00e9n\u00e9rale des p\u00eaches pour la M\u00e9diterran\u00e9e (CGPM)</title><label>Rapport: Ladislav Il\u010di\u0107 (A9-0136/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0248",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939393",
+            "activity_label": {
+                "fr": "Relations avec l'Autorit\u00e9 palestinienne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0226"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939393",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations avec l'Autorit\u00e9 palestinienne</title><label>Rapport: Evin Incir (A9-0226/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2207",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939369",
+            "activity_label": {
+                "fr": "Redevances et droits dus \u00e0 l\u2019Agence europ\u00e9enne des m\u00e9dicaments"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0224"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939369",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Redevances et droits dus \u00e0 l\u2019Agence europ\u00e9enne des m\u00e9dicaments</title><label>Rapport: Cristian-Silviu Bu\u015foi (A9-0224/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0417",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939383",
+            "activity_label": {
+                "fr": "Pand\u00e9mie de COVID-19: le\u00e7ons tir\u00e9es et recommandations pour l'avenir"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0217"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939383",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pand\u00e9mie de COVID-19: le\u00e7ons tir\u00e9es et recommandations pour l'avenir</title><label>Rapport: Dolors Montserrat (A9-0217/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2076",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939405",
+            "activity_label": {
+                "fr": "Situation au Liban"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0325",
+                "eli/dl/doc/B-9-2023-0328",
+                "eli/dl/doc/B-9-2023-0323",
+                "eli/dl/doc/B-9-2023-0326",
+                "eli/dl/doc/B-9-2023-0324",
+                "eli/dl/doc/B-9-2023-0327"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_87"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939405",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation au Liban</title><label>Propositions de r\u00e9solution: RC-B9-0323/2023, B9-0323/2023, B9-0324/2023, B9-0325/2023, B9-0326/2023, B9-0327/2023, B9-0328/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2742",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939403",
+            "activity_label": {
+                "fr": "Situation de l'accord de dialogue politique et de coop\u00e9ration UE-Cuba \u00e0 la lumi\u00e8re de la r\u00e9cente visite du haut repr\u00e9sentant dans l'\u00eele"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0321",
+                "eli/dl/doc/B-9-2023-0320",
+                "eli/dl/doc/B-9-2023-0313",
+                "eli/dl/doc/B-9-2023-0311",
+                "eli/dl/doc/B-9-2023-0322"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939403",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation de l'accord de dialogue politique et de coop\u00e9ration UE-Cuba \u00e0 la lumi\u00e8re de la r\u00e9cente visite du haut repr\u00e9sentant dans l'\u00eele</title><label>Propositions de r\u00e9solution: RC-B9-0311/2023, B9-0311/2023, B9-0313/2023, B9-0320/2023, B9-0321/2023, B9-0322/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2744",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939391",
+            "activity_label": {
+                "fr": "Rapport 2022 de la Commission concernant la Bosnie-Herz\u00e9govine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0229"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939391",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2022 de la Commission concernant la Bosnie-Herz\u00e9govine</title><label>Rapport: Paulo Rangel (A9-0229/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2200",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939404",
+            "activity_label": {
+                "fr": "Cr\u00e9ation de l'organisme europ\u00e9en charg\u00e9 des questions d\u2019\u00e9thique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0317",
+                "eli/dl/doc/B-9-2023-0315",
+                "eli/dl/doc/B-9-2023-0316",
+                "eli/dl/doc/B-9-2023-0314",
+                "eli/dl/doc/B-9-2023-0312"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939404",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation de l'organisme europ\u00e9en charg\u00e9 des questions d\u2019\u00e9thique</title><label>Propositions de r\u00e9solution: RC-B9-0312/2023, B9-0312/2023, B9-0314/2023, B9-0315/2023, B9-0316/2023, B9-0317/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2741",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939373",
+            "activity_label": {
+                "fr": "Rapport 2022 concernant l'Albanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0204"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-014"
+            ],
+            "notation_dlvId": "939373",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2022 concernant l'Albanie</title><label>Rapport: Isabel Santos (A9-0204/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2199",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939374",
+            "activity_label": {
+                "fr": "\u00c9change d\u2019informations num\u00e9riques dans les affaires de terrorisme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0261"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939374",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change d\u2019informations num\u00e9riques dans les affaires de terrorisme</title><label>Rapport: Patryk Jaki (A9-0261/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0393",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939380",
+            "activity_label": {
+                "fr": "\u00c9change d\u2019informations et coop\u00e9ration concernant les infractions terroristes: alignement avec les r\u00e8gles de l'Union en mati\u00e8re de protection des donn\u00e9es \u00e0 caract\u00e8re personnel"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0041"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939380",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change d\u2019informations et coop\u00e9ration concernant les infractions terroristes: alignement avec les r\u00e8gles de l'Union en mati\u00e8re de protection des donn\u00e9es \u00e0 caract\u00e8re personnel</title><label>Rapport: Patryk Jaki (A9-0041/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0399",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939386",
+            "activity_label": {
+                "fr": "R\u00e8glement sur l\u2019\u00e9coconception"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0218"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939386",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8glement sur l\u2019\u00e9coconception</title><label>Rapport: Alessandra Moretti (A9-0218/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0095",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939384",
+            "activity_label": {
+                "fr": "Restauration de la nature"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0220"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939384",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Restauration de la nature</title><label>Rapport: C\u00e9sar Luena (A9-0220/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0195",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939399",
+            "activity_label": {
+                "fr": "Adh\u00e9sion \u00e0 l'espace Schengen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0309"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939399",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Adh\u00e9sion \u00e0 l'espace Schengen</title><label>Proposition de r\u00e9solution: B9-0309/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2668",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939364",
+            "activity_label": {
+                "fr": "Contr\u00f4le des activit\u00e9s financi\u00e8res de la Banque europ\u00e9enne d\u2019investissement \u2013 rapport annuel 2022"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0212"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-016"
+            ],
+            "notation_dlvId": "939364",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Contr\u00f4le des activit\u00e9s financi\u00e8res de la Banque europ\u00e9enne d\u2019investissement \u2013 rapport annuel 2022</title><label>Rapport: Viola von Cramon-Taubadel (A9-0212/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-07-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939368",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939376",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939393",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939383",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939405",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939403",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939391",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939373",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939374",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939380",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939386",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939384",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939399",
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2046",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939364"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

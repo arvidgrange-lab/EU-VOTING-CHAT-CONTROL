@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939189",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939189",
+            "activity_label": {
+                "fr": "Arrangement avec la R\u00e9publique d\u2019Islande sur les modalit\u00e9s de sa participation au Bureau europ\u00e9en d\u2019appui en mati\u00e8re d\u2019asile"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0175"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-31",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939189",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Arrangement avec la R\u00e9publique d\u2019Islande sur les modalit\u00e9s de sa participation au Bureau europ\u00e9en d\u2019appui en mati\u00e8re d\u2019asile</title><label>Recommandation: Jeroen Lenaers (A9-0175/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

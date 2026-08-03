@@ -1,0 +1,416 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584937-6",
+            "type": "Activity",
+            "activity_date": "2017-03-02",
+            "activity_id": "MTG-PL-2017-03-02-VOT-ITM-584937-6",
+            "activity_label": {
+                "fr": "Options pour am\u00e9liorer l'acc\u00e8s aux m\u00e9dicaments"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0040"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-02-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-02-VOT-ITM-006"
+            ],
+            "notation_dlvId": "584937",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Options pour am\u00e9liorer l'acc\u00e8s aux m\u00e9dicaments</title><label>Rapport: Soledad Cabez\u00f3n Ruiz (A8-0040/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584937-6",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-586305-5",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584942-9",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584941-8",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584940-7",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584934-4",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-1",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-3",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2057",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584937-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-586305-5",
+            "type": "Activity",
+            "activity_date": "2017-03-02",
+            "activity_id": "MTG-PL-2017-03-02-VOT-ITM-586305-5",
+            "activity_label": {
+                "fr": "Obligations quant \u00e0 la r\u00e9ciprocit\u00e9 en mati\u00e8re de visas"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0173"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-02-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-02-VOT-ITM-005"
+            ],
+            "notation_dlvId": "586305",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Obligations quant \u00e0 la r\u00e9ciprocit\u00e9 en mati\u00e8re de visas</title><label>Propositions de r\u00e9solution: B8-0173/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584937-6",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-586305-5",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584942-9",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584941-8",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584940-7",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584934-4",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-1",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-3",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2986",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-586305-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584942-9",
+            "type": "Activity",
+            "activity_date": "2017-03-02",
+            "activity_id": "MTG-PL-2017-03-02-VOT-ITM-584942-9",
+            "activity_label": {
+                "fr": "La politique commerciale commune dans le cadre des imp\u00e9ratifs en mati\u00e8re de pr\u00e9servation des esp\u00e8ces sauvages"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0012"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-02-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-02-VOT-ITM-009"
+            ],
+            "notation_dlvId": "584942",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La politique commerciale commune dans le cadre des imp\u00e9ratifs en mati\u00e8re de pr\u00e9servation des esp\u00e8ces sauvages</title><label>Rapport: Emma McClarkin (A8-0012/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584937-6",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-586305-5",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584942-9",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584941-8",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584940-7",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584934-4",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-1",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-3",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2054",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584942-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584941-8",
+            "type": "Activity",
+            "activity_date": "2017-03-02",
+            "activity_id": "MTG-PL-2017-03-02-VOT-ITM-584941-8",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre du programme \"L'Europe pour les citoyens\""
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0017"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-02-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-02-VOT-ITM-008"
+            ],
+            "notation_dlvId": "584941",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du programme \"L'Europe pour les citoyens\"</title><label>Rapport: Mar\u00eda Teresa Gim\u00e9nez Barbat (A8-0017/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584937-6",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-586305-5",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584942-9",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584941-8",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584940-7",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584934-4",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-1",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-3",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2329",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584941-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584940-7",
+            "type": "Activity",
+            "activity_date": "2017-03-02",
+            "activity_id": "MTG-PL-2017-03-02-VOT-ITM-584940-7",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre du programme \"Europe cr\u00e9ative\""
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0030"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-02-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-02-VOT-ITM-007"
+            ],
+            "notation_dlvId": "584940",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du programme \"Europe cr\u00e9ative\"</title><label>Rapport: Silvia Costa (A8-0030/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584937-6",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-586305-5",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584942-9",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584941-8",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584940-7",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584934-4",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-1",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-3",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2328",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584940-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584934-4",
+            "type": "Activity",
+            "activity_date": "2017-03-02",
+            "activity_id": "MTG-PL-2017-03-02-VOT-ITM-584934-4",
+            "activity_label": {
+                "fr": "\u00c9tablissement d'un m\u00e9canisme d'\u00e9change d'informations en ce qui concerne les accords intergouvernementaux et les instruments non contraignants dans le domaine de l'\u00e9nergie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0305"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-02-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-02-VOT-ITM-004"
+            ],
+            "notation_dlvId": "584934",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement d'un m\u00e9canisme d'\u00e9change d'informations en ce qui concerne les accords intergouvernementaux et les instruments non contraignants dans le domaine de l'\u00e9nergie</title><label>Rapport: Zdzis\u0142aw Krasnod\u0119bski (A8-0305/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584937-6",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-586305-5",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584942-9",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584941-8",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584940-7",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584934-4",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-1",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-3",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0031",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584934-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-1",
+            "type": "Activity",
+            "activity_date": "2017-03-02",
+            "activity_id": "MTG-PL-2017-03-02-VOT-ITM-584933-1",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e d\u2019immunit\u00e9 de Marine Le Pen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0047"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-02-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-02-VOT-ITM-001"
+            ],
+            "notation_dlvId": "584933",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e d\u2019immunit\u00e9 de Marine Le Pen</title><label>Rapport: Laura Ferrara (A8-0047/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584937-6",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-586305-5",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584942-9",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584941-8",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584940-7",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584934-4",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-1",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-3",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2295",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-3",
+            "type": "Activity",
+            "activity_date": "2017-03-02",
+            "activity_id": "MTG-PL-2017-03-02-VOT-ITM-584933-3",
+            "activity_label": {
+                "fr": "Accord UE-Liechtenstein concernant des dispositions compl\u00e9mentaires relatives \u00e0 l'instrument de soutien financier dans le domaine des fronti\u00e8res ext\u00e9rieures et des visas"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0025"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-02-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-02-VOT-ITM-003"
+            ],
+            "notation_dlvId": "584933",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Liechtenstein concernant des dispositions compl\u00e9mentaires relatives \u00e0 l'instrument de soutien financier dans le domaine des fronti\u00e8res ext\u00e9rieures et des visas</title><label>Recommandation: Josef Weidenholzer (A8-0025/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584937-6",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-586305-5",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584942-9",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584941-8",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584940-7",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584934-4",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-1",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-3",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0247",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-2",
+            "type": "Activity",
+            "activity_date": "2017-03-02",
+            "activity_id": "MTG-PL-2017-03-02-VOT-ITM-584933-2",
+            "activity_label": {
+                "fr": "Accord euro-m\u00e9diterran\u00e9en UE-Liban (adh\u00e9sion de la Croatie)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0027"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-02-OJ-ITM-V-4"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-02-VOT-ITM-002"
+            ],
+            "notation_dlvId": "584933",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord euro-m\u00e9diterran\u00e9en UE-Liban (adh\u00e9sion de la Croatie)</title><label>Recommandation: Ramona Nicole M\u0103nescu (A8-0027/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584937-6",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-586305-5",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584942-9",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584941-8",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584940-7",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584934-4",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-1",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-3",
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0292",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-02-VOT-ITM-584933-2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

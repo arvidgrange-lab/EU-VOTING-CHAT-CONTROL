@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-14-VOT-ITM-939883",
+            "type": "Activity",
+            "activity_date": "2023-12-14",
+            "activity_id": "MTG-PL-2023-12-14-VOT-ITM-939883",
+            "activity_label": {
+                "fr": "Enl\u00e8vement d'enfants tib\u00e9tains et pratiques d'assimilation forc\u00e9e dans des internats chinois au Tibet",
+                "mul": "Enl\u00e8vement d'enfants tib\u00e9tains et pratiques d'assimilation forc\u00e9e dans des internats chinois au Tibet - The abduction of Tibetan children and forced assimilation practices through Chinese boarding schools in Tibet - Die Entf\u00fchrung tibetischer Kinder und Praktiken der Zwangsassimilation in chinesischen Internaten in Tibet"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0508",
+                "eli/dl/doc/B-9-2023-0521",
+                "eli/dl/doc/B-9-2023-0522",
+                "eli/dl/doc/B-9-2023-0510",
+                "eli/dl/doc/B-9-2023-0518",
+                "eli/dl/doc/B-9-2023-0512"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-14-OJ-ITM-V-97",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939883",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Enl\u00e8vement d'enfants tib\u00e9tains et pratiques d'assimilation forc\u00e9e dans des internats chinois au Tibet</title><label>Propositions de r\u00e9solution: RC-B9-0510/2023, B9-0508/2023, B9-0510/2023, B9-0512/2023, B9-0518/2023, B9-0521/2023, B9-0522/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

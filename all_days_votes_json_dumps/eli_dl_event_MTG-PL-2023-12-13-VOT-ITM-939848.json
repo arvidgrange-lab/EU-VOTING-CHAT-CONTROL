@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939848",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939848",
+            "activity_label": {
+                "fr": "Objection \u00e0 un acte d\u00e9l\u00e9gu\u00e9 conform\u00e9ment \u00e0 l\u2019article 111, paragraphe 3: Ajustement des crit\u00e8res de taille pour les micro-, petites, moyennes et grandes entreprises ou pour les groupes",
+                "mul": "Objection \u00e0 un acte d\u00e9l\u00e9gu\u00e9 conform\u00e9ment \u00e0 l\u2019article 111, paragraphe 3: Ajustement des crit\u00e8res de taille pour les micro-, petites, moyennes et grandes entreprises ou pour les groupes - Objection to a delegated act pursuant to Rule 111(3): Adjustments of the size criteria for micro, small, medium-sized and large undertakings or groups - Einwand gegen einen delegierten Rechtsakt gem\u00e4\u00df Artikel 111 Absatz 3 GO: Anpassung der Gr\u00f6\u00dfenkriterien f\u00fcr Kleinstunternehmen und f\u00fcr kleine, mittlere und gro\u00dfe Unternehmen oder Gruppen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0493"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-99",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939848",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection \u00e0 un acte d\u00e9l\u00e9gu\u00e9 conform\u00e9ment \u00e0 l\u2019article 111, paragraphe 3: Ajustement des crit\u00e8res de taille pour les micro-, petites, moyennes et grandes entreprises ou pour les groupes</title><label>Proposition de r\u00e9solution: B9-0493/2023 (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

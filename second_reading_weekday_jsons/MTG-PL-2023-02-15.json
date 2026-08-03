@@ -1,0 +1,403 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938725",
+            "activity_label": {
+                "fr": "Situation de l'ancien pr\u00e9sident de la G\u00e9orgie, Mikhe\u00efl Saakachvili"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0117",
+                "eli/dl/doc/B-9-2023-0114",
+                "eli/dl/doc/B-9-2023-0106",
+                "eli/dl/doc/B-9-2023-0109",
+                "eli/dl/doc/B-9-2023-0112"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-56",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "938725",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation de l'ancien pr\u00e9sident de la G\u00e9orgie, Mikhe\u00efl Saakachvili</title><label>Propositions de r\u00e9solutions: B9-0106/2023, B9-0109/2023, B9-0112/2023, B9-0114/2023, B9-0117/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938683",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938651",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938653"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2543",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938643",
+            "activity_label": {
+                "fr": "Amendements au r\u00e8glement relatif aux fonds europ\u00e9ens d'investissement \u00e0 long terme (ELTIF)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0196"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-31",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "938643",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Amendements au r\u00e8glement relatif aux fonds europ\u00e9ens d'investissement \u00e0 long terme (ELTIF)</title><label>Rapport: Michiel Hoogeveen (A9-0196/2022)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938683",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938651",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938653"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0377",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938684",
+            "activity_label": {
+                "fr": "Autorisation pour la Pologne de ratifier la modification de la convention sur la conservation et la gestion des ressources en colin dans la partie centrale de la mer de B\u00e9ring"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0007"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-38",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "938684",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Autorisation pour la Pologne de ratifier la modification de la convention sur la conservation et la gestion des ressources en colin dans la partie centrale de la mer de B\u00e9ring</title><label>Recommandation: El\u017cbieta Rafalska (A9-0007/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938683",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938651",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938653"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0177",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938683",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938683",
+            "activity_label": {
+                "fr": "Accord UE/Mac\u00e9doine du Nord: activit\u00e9s op\u00e9rationnelles men\u00e9es par l'Agence europ\u00e9enne de garde-fronti\u00e8res et de garde-c\u00f4tes en R\u00e9publique de Mac\u00e9doine du Nord"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0027"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-40",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-002"
+            ],
+            "notation_dlvId": "938683",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE/Mac\u00e9doine du Nord: activit\u00e9s op\u00e9rationnelles men\u00e9es par l'Agence europ\u00e9enne de garde-fronti\u00e8res et de garde-c\u00f4tes en R\u00e9publique de Mac\u00e9doine du Nord</title><label>Recommandation: Lena D\u00fcpont (A9-0027/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938683",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938651",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938653"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0301",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938683"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938726",
+            "activity_label": {
+                "fr": "Les priorit\u00e9s de l'UE pour la 67e session de la Commission de la condition de la femme des Nations unies"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0100",
+                "eli/dl/doc/B-9-2023-0103"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-29",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-009"
+            ],
+            "notation_dlvId": "938726",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les priorit\u00e9s de l'UE pour la 67e session de la Commission de la condition de la femme des Nations unies</title><label>Propositions de r\u00e9solutions: B9-0100/2023, B9-0103/2023</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938683",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938651",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938653"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2839",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938685",
+            "activity_label": {
+                "fr": "Protocole \u00e0 l'accord de coop\u00e9ration concernant un syst\u00e8me mondial de navigation par satellite \u00e0 usage civil CE/Cor\u00e9e: adh\u00e9sion de la Bulgarie, de la Croatie et de la Roumanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0006"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-35",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "938685",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protocole \u00e0 l'accord de coop\u00e9ration concernant un syst\u00e8me mondial de navigation par satellite \u00e0 usage civil CE/Cor\u00e9e: adh\u00e9sion de la Bulgarie, de la Croatie et de la Roumanie</title><label>Recommandation: Cristian-Silviu Bu\u015foi (A9-0006/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938683",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938651",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938653"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0429",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938651",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938651",
+            "activity_label": {
+                "fr": "Entreprises communes dans le cadre d\u2019Horizon Europe: entreprise commune \u00abSemi-conducteurs\u00bb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0012"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-44",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-005"
+            ],
+            "notation_dlvId": "938651",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Entreprises communes dans le cadre d\u2019Horizon Europe: entreprise commune \u00abSemi-conducteurs\u00bb</title><label>Rapport: Eva Maydell (A9-0012/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938683",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938651",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938653"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0033",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938651"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938661",
+            "activity_label": {
+                "fr": "Consultation sur les dispositions d\u2019ex\u00e9cution du M\u00e9diateur europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0010"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-21",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "938661",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Consultation sur les dispositions d\u2019ex\u00e9cution du M\u00e9diateur europ\u00e9en</title><label>Rapport: Paulo Rangel (A9-0010/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938683",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938651",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938653"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0903",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938653",
+            "type": "Activity",
+            "activity_date": "2023-02-15",
+            "activity_id": "MTG-PL-2023-02-15-VOT-ITM-938653",
+            "activity_label": {
+                "fr": "Convention du Conseil de l'Europe sur la pr\u00e9vention et la lutte contre la violence \u00e0 l'\u00e9gard des femmes et la violence domestique: adh\u00e9sion de l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0021"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-15-OJ-ITM-V-43",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-15-VOT-ITM-008"
+            ],
+            "notation_dlvId": "938653",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Convention du Conseil de l'Europe sur la pr\u00e9vention et la lutte contre la violence \u00e0 l'\u00e9gard des femmes et la violence domestique: adh\u00e9sion de l'UE</title><label>Rapport: \u0141ukasz Kohut, Arba Kokalari (A9-0021/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-02-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938725",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938643",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938684",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938683",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938726",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938685",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938651",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938661",
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938653"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0062R",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-02-15-VOT-ITM-938653"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-03-VOT-ITM-939511",
+            "type": "Activity",
+            "activity_date": "2023-10-03",
+            "activity_id": "MTG-PL-2023-10-03-VOT-ITM-939511",
+            "activity_label": {
+                "mul": "L\u00e9gislation europ\u00e9enne sur la libert\u00e9 des m\u00e9dias  - European Media Freedom Act - Europ\u00e4isches Medienfreiheitsgesetz",
+                "fr": "L\u00e9gislation europ\u00e9enne sur la libert\u00e9 des m\u00e9dias"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0264"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-03-OJ-ITM-V-20",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-03-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939511",
+            "epvoc:amendmentsAdoptedCommittee": 295,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 295,
+            "epvoc:amendmentsTabledCommittee": 295,
+            "epvoc:amendmentsTabledOthers": 2,
+            "epvoc:amendmentsTabledPoliticalGroup": 31,
+            "epvoc:amendmentsTabledTotal": 328,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u00e9gislation europ\u00e9enne sur la libert\u00e9 des m\u00e9dias </title><label>Rapport: Sabine Verheyen (A9-0264/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

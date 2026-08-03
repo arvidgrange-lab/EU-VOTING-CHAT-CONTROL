@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939369",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939369",
+            "activity_label": {
+                "fr": "Redevances et droits dus \u00e0 l\u2019Agence europ\u00e9enne des m\u00e9dicaments"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0224"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939369",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Redevances et droits dus \u00e0 l\u2019Agence europ\u00e9enne des m\u00e9dicaments</title><label>Rapport: Cristian-Silviu Bu\u015foi (A9-0224/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

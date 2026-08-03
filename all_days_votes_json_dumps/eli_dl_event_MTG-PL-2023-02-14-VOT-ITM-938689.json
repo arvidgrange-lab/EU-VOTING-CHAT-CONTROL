@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-14-VOT-ITM-938689",
+            "type": "Activity",
+            "activity_date": "2023-02-14",
+            "activity_id": "MTG-PL-2023-02-14-VOT-ITM-938689",
+            "activity_label": {
+                "fr": "Accord de partenariat volontaire UE/Guyana: application des r\u00e9glementations foresti\u00e8res, gouvernance et \u00e9changes commerciaux de produits du bois vers l\u2019UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0008"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-02-14-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "938689",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat volontaire UE/Guyana: application des r\u00e9glementations foresti\u00e8res, gouvernance et \u00e9changes commerciaux de produits du bois vers l\u2019UE</title><label>Recommandation: Karin Karlsbro (A9-0008/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

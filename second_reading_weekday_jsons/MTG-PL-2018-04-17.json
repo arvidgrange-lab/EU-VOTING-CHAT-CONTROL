@@ -1,0 +1,711 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-693330-6",
+            "activity_label": {
+                "fr": "R\u00e9ductions annuelles contraignantes des \u00e9missions de gaz \u00e0 effet de serre afin de respecter les engagements pris en vertu de l\u2019accord de Paris"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0208"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-148"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-006"
+            ],
+            "notation_dlvId": "693330",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9ductions annuelles contraignantes des \u00e9missions de gaz \u00e0 effet de serre afin de respecter les engagements pris en vertu de l\u2019accord de Paris </title><label>Rapport: Gerben-Jan Gerbrandy (A8-0208/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0231",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-693337-10",
+            "activity_label": {
+                "fr": "L'\u00e9galit\u00e9 des genres dans le secteur des m\u00e9dias au sein de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0031"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-187"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-010"
+            ],
+            "notation_dlvId": "693337",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'\u00e9galit\u00e9 des genres dans le secteur des m\u00e9dias au sein de l\u2019Union europ\u00e9enne</title><label>Rapport: Michaela \u0160ojdrov\u00e1 (A8-0031/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2210",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-693642-12",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre de l'instrument de financement de la coop\u00e9ration au d\u00e9veloppement, de l'instrument d'aide humanitaire et du Fonds europ\u00e9en de d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0118"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-012"
+            ],
+            "notation_dlvId": "693642",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de l'instrument de financement de la coop\u00e9ration au d\u00e9veloppement, de l'instrument d'aide humanitaire et du Fonds europ\u00e9en de d\u00e9veloppement</title><label>Rapport: Enrique Guerrero Salom (A8-0118/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2258",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-692910-3",
+            "activity_label": {
+                "fr": "Accord UE-Norv\u00e8ge: octroi de pr\u00e9f\u00e9rences commerciales suppl\u00e9mentaires pour des produits agricoles"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0126"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-157"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-003"
+            ],
+            "notation_dlvId": "692910",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Norv\u00e8ge: octroi de pr\u00e9f\u00e9rences commerciales suppl\u00e9mentaires pour des produits agricoles</title><label>Recommandation: Tiziana Beghin (A8-0126/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0259",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-693973-11",
+            "activity_label": {
+                "fr": "L'\u00e9mancipation des femmes et des filles \u00e0 l'aide du secteur num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0183"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-167"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-011"
+            ],
+            "notation_dlvId": "693973",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'\u00e9mancipation des femmes et des filles \u00e0 l'aide du secteur num\u00e9rique</title><label>Proposition de r\u00e9solution: B8-0183/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-3016",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-693333-8",
+            "activity_label": {
+                "fr": "Performance \u00e9nerg\u00e9tique des b\u00e2timents"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0314"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-008"
+            ],
+            "notation_dlvId": "693333",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Performance \u00e9nerg\u00e9tique des b\u00e2timents</title><label>Rapport: Bendt Bendtsen (A8-0314/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0381",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-693340-13",
+            "activity_label": {
+                "fr": "Am\u00e9liorer la soutenabilit\u00e9 de la dette des pays en d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0129"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-176"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-013"
+            ],
+            "notation_dlvId": "693340",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Am\u00e9liorer la soutenabilit\u00e9 de la dette des pays en d\u00e9veloppement</title><label>Rapport: Charles Goerens (A8-0129/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2241",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-692910-4",
+            "activity_label": {
+                "fr": "Strat\u00e9gie europ\u00e9enne pour la promotion des cultures prot\u00e9agineuses"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0121"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-177"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-004"
+            ],
+            "notation_dlvId": "692910",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Strat\u00e9gie europ\u00e9enne pour la promotion des cultures prot\u00e9agineuses</title><label>Rapport: Jean-Paul Denanot (A8-0121/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2116",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-693605-14",
+            "activity_label": {
+                "fr": "Renforcer la coh\u00e9sion \u00e9conomique, sociale et territoriale au sein de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0138"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-159"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-014"
+            ],
+            "notation_dlvId": "693605",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renforcer la coh\u00e9sion \u00e9conomique, sociale et territoriale au sein de l'Union europ\u00e9enne</title><label>Rapport: Marc Joulaud (A8-0138/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2279",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-693338-9",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre du septi\u00e8me programme d\u2019action pour l\u2019environnement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0059"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-009"
+            ],
+            "notation_dlvId": "693338",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du septi\u00e8me programme d\u2019action pour l\u2019environnement</title><label>Rapport: Daciana Octavia S\u00e2rbu (A8-0059/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2030",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-692910-1",
+            "activity_label": {
+                "fr": "Accord de coop\u00e9ration scientifique et technologique UE/Liban: participation du Liban au partenariat en mati\u00e8re de recherche et d\u2019innovation dans la zone m\u00e9diterran\u00e9enne (PRIMA)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0352"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-184"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-001"
+            ],
+            "notation_dlvId": "692910",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de coop\u00e9ration scientifique et technologique UE/Liban: participation du Liban au partenariat en mati\u00e8re de recherche et d\u2019innovation dans la zone m\u00e9diterran\u00e9enne (PRIMA)</title><label>Recommandation: Sofia Sakorafa (A8-0352/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0199",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-693327-5",
+            "activity_label": {
+                "fr": "Prise en compte des \u00e9missions et des absorptions de gaz \u00e0 effet de serre r\u00e9sultant de l'utilisation des terres, du changement d'affectation des terres et de la foresterie dans le cadre d'action pour le climat et l'\u00e9nergie \u00e0 l'horizon 2030"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0262"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-149"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-005"
+            ],
+            "notation_dlvId": "693327",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Prise en compte des \u00e9missions et des absorptions de gaz \u00e0 effet de serre r\u00e9sultant de l'utilisation des terres, du changement d'affectation des terres et de la foresterie dans le cadre d'action pour le climat et l'\u00e9nergie \u00e0 l'horizon 2030</title><label>Rapport: Norbert Lins (A8-0262/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0230",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-693332-7",
+            "activity_label": {
+                "fr": "Statut et financement des partis politiques europ\u00e9ens et des fondations politiques europ\u00e9ennes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0373"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-181"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-007"
+            ],
+            "notation_dlvId": "693332",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Statut et financement des partis politiques europ\u00e9ens et des fondations politiques europ\u00e9ennes</title><label>Rapport: Mercedes Bresso et  Rainer Wieland (A8-0373/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0219",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2",
+            "type": "Activity",
+            "activity_date": "2018-04-17",
+            "activity_id": "MTG-PL-2018-04-17-VOT-ITM-692910-2",
+            "activity_label": {
+                "fr": "Accord de partenariat de p\u00eache UE-Maurice: possibilit\u00e9s de p\u00eache et contrepartie financi\u00e8re"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0053"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-04-17-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-04-17-VOT-ITM-002"
+            ],
+            "notation_dlvId": "692910",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat de p\u00eache UE-Maurice: possibilit\u00e9s de p\u00eache et contrepartie financi\u00e8re</title><label>Recommandation: Norica Nicolai (A8-0053/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-04-17",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693330-6",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693337-10",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693642-12",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-3",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693973-11",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693333-8",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693340-13",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-4",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693605-14",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693338-9",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-1",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693327-5",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-693332-7",
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0223",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-04-17-VOT-ITM-692910-2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

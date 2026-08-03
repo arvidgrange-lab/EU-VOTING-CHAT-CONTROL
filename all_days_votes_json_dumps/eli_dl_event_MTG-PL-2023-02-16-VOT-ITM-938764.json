@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-16-VOT-ITM-938764",
+            "type": "Activity",
+            "activity_date": "2023-02-16",
+            "activity_id": "MTG-PL-2023-02-16-VOT-ITM-938764",
+            "activity_label": {
+                "fr": "Cr\u00e9ation d\u2019un organisme europ\u00e9en ind\u00e9pendant charg\u00e9 des questions d\u2019\u00e9thique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0151",
+                "eli/dl/doc/B-9-2023-0148",
+                "eli/dl/doc/B-9-2023-0144",
+                "eli/dl/doc/B-9-2023-0149",
+                "eli/dl/doc/B-9-2023-0145",
+                "eli/dl/doc/B-9-2023-0146"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-16-OJ-ITM-V-65",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-16-VOT-ITM-007"
+            ],
+            "notation_dlvId": "938764",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation d\u2019un organisme europ\u00e9en ind\u00e9pendant charg\u00e9 des questions d\u2019\u00e9thique</title><label>Propositions de r\u00e9solutions: B9-0144/2023, B9-0145/2023, B9-0146/2023, B9-0148/2023, B9-0149/2023, B9-0151/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

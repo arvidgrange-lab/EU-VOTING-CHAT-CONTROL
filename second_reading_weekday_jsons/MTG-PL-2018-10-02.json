@@ -1,0 +1,363 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-6",
+            "type": "Activity",
+            "activity_date": "2018-10-02",
+            "activity_id": "MTG-PL-2018-10-02-VOT-ITM-736126-6",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation \u00e0 la suite de la demande des Pays-Bas \u2013 EGF/2018/001\u00a0NL/Activit\u00e9s des services financiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0294"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-02-OJ-ITM-V-56"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-02-VOT-ITM-006"
+            ],
+            "notation_dlvId": "736126",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation \u00e0 la suite de la demande des Pays-Bas \u2013 EGF/2018/001\u00a0NL/Activit\u00e9s des services financiers</title><label>Rapport: Ivana Maleti\u0107 (A8-0294/2018) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-6",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-5",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-4",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736235-8",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736170-7",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-1",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-3",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2220",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-5",
+            "type": "Activity",
+            "activity_date": "2018-10-02",
+            "activity_id": "MTG-PL-2018-10-02-VOT-ITM-736126-5",
+            "activity_label": {
+                "fr": "Inclusion de la municipalit\u00e9 italienne de Campione d\u2019Italia et des eaux italiennes du lac de Lugano dans le territoire douanier de l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0284"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-02-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-02-VOT-ITM-005"
+            ],
+            "notation_dlvId": "736126",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Inclusion de la municipalit\u00e9 italienne de Campione d\u2019Italia et des eaux italiennes du lac de Lugano dans le territoire douanier de l\u2019Union</title><label>Rapport: Roberto Gualtieri (A8-0284/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-6",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-5",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-4",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736235-8",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736170-7",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-1",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-3",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0124",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-4",
+            "type": "Activity",
+            "activity_date": "2018-10-02",
+            "activity_id": "MTG-PL-2018-10-02-VOT-ITM-736126-4",
+            "activity_label": {
+                "fr": "Accord de transport a\u00e9rien CE-Canada"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0254"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-02-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-02-VOT-ITM-004"
+            ],
+            "notation_dlvId": "736126",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de transport a\u00e9rien CE-Canada</title><label>Recommandation: Francisco Assis (A8-0254/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-6",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-5",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-4",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736235-8",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736170-7",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-1",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-3",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2009-0018",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736235-8",
+            "type": "Activity",
+            "activity_date": "2018-10-02",
+            "activity_id": "MTG-PL-2018-10-02-VOT-ITM-736235-8",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 5/2018: annulation de la r\u00e9serve li\u00e9e \u00e0 l\u2019aide en faveur de la Turquie provenant de l\u2019instrument d\u2019aide de pr\u00e9adh\u00e9sion (IAP II) et renforcement de l\u2019instrument europ\u00e9en de voisinage et de l\u2019aide humanitaire pour d'autres mesures urgentes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0292"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-02-OJ-ITM-V-57"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-02-VOT-ITM-008"
+            ],
+            "notation_dlvId": "736235",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 5/2018: annulation de la r\u00e9serve li\u00e9e \u00e0 l\u2019aide en faveur de la Turquie provenant de l\u2019instrument d\u2019aide de pr\u00e9adh\u00e9sion (IAP II) et renforcement de l\u2019instrument europ\u00e9en de voisinage et de l\u2019aide humanitaire pour d'autres mesures urgentes</title><label>Rapport: Siegfried Mure\u015fan (A8-0292/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-6",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-5",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-4",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736235-8",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736170-7",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-1",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-3",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2165",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736235-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736170-7",
+            "type": "Activity",
+            "activity_date": "2018-10-02",
+            "activity_id": "MTG-PL-2018-10-02-VOT-ITM-736170-7",
+            "activity_label": {
+                "fr": "Fourniture de services de m\u00e9dias audiovisuels"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0192"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-02-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-02-VOT-ITM-007"
+            ],
+            "notation_dlvId": "736170",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fourniture de services de m\u00e9dias audiovisuels</title><label>Rapport: Sabine Verheyen et  Petra Kammerevert (A8-0192/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-6",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-5",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-4",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736235-8",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736170-7",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-1",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-3",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0151",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736170-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-1",
+            "type": "Activity",
+            "activity_date": "2018-10-02",
+            "activity_id": "MTG-PL-2018-10-02-VOT-ITM-736126-1",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Georgios Kyrtsos"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0291"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-02-OJ-ITM-V-76"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-02-VOT-ITM-001"
+            ],
+            "notation_dlvId": "736126",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Georgios Kyrtsos</title><label>Rapport: Laura Ferrara (A8-0291/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-6",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-5",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-4",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736235-8",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736170-7",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-1",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-3",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2069",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-3",
+            "type": "Activity",
+            "activity_date": "2018-10-02",
+            "activity_id": "MTG-PL-2018-10-02-VOT-ITM-736126-3",
+            "activity_label": {
+                "fr": "Accord de coop\u00e9ration scientifique et technologique UE-Maroc: conditions et modalit\u00e9s de la participation du Royaume du Maroc au partenariat en mati\u00e8re de recherche et d\u2019innovation dans la zone m\u00e9diterran\u00e9enne (PRIMA)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0281"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-02-OJ-ITM-V-31"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-02-VOT-ITM-003"
+            ],
+            "notation_dlvId": "736126",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de coop\u00e9ration scientifique et technologique UE-Maroc: conditions et modalit\u00e9s de la participation du Royaume du Maroc au partenariat en mati\u00e8re de recherche et d\u2019innovation dans la zone m\u00e9diterran\u00e9enne (PRIMA)</title><label>Recommandation: Aldo Patriciello (A8-0281/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-6",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-5",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-4",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736235-8",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736170-7",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-1",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-3",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0036",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-2",
+            "type": "Activity",
+            "activity_date": "2018-10-02",
+            "activity_id": "MTG-PL-2018-10-02-VOT-ITM-736126-2",
+            "activity_label": {
+                "fr": "Pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa pour franchir les fronti\u00e8res ext\u00e9rieures et pays tiers dont les ressortissants sont exempt\u00e9s de cette obligation"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0290"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-10-02-OJ-ITM-V-59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-10-02-VOT-ITM-002"
+            ],
+            "notation_dlvId": "736126",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa pour franchir les fronti\u00e8res ext\u00e9rieures et pays tiers dont les ressortissants sont exempt\u00e9s de cette obligation</title><label>Rapport: Lidia Joanna Geringer de Oedenberg (A8-0290/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-10-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-6",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-5",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-4",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736235-8",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736170-7",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-1",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-3",
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-2"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0066",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-10-02-VOT-ITM-736126-2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

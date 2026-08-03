@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-02-02-VOT-ITM-938584",
+            "type": "Activity",
+            "activity_date": "2023-02-02",
+            "activity_id": "MTG-PL-2023-02-02-VOT-ITM-938584",
+            "activity_label": {
+                "fr": "Syst\u00e8me europ\u00e9en des comptes nationaux et r\u00e9gionaux dans l'Union europ\u00e9enne (SEC 2010)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0202"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-02-02-OJ-ITM-V-5",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-02-02-VOT-ITM-006"
+            ],
+            "notation_dlvId": "938584",
+            "epvoc:amendmentsAdoptedCommittee": 2,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 2,
+            "epvoc:amendmentsTabledCommittee": 2,
+            "epvoc:amendmentsTabledTotal": 2,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8me europ\u00e9en des comptes nationaux et r\u00e9gionaux dans l'Union europ\u00e9enne (SEC 2010)</title><label>Rapport: Irene Tinagli (A9-0202/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

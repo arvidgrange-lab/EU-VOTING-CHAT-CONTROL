@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-07-12-VOT-ITM-939404",
+            "type": "Activity",
+            "activity_date": "2023-07-12",
+            "activity_id": "MTG-PL-2023-07-12-VOT-ITM-939404",
+            "activity_label": {
+                "fr": "Cr\u00e9ation de l'organisme europ\u00e9en charg\u00e9 des questions d\u2019\u00e9thique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0317",
+                "eli/dl/doc/B-9-2023-0315",
+                "eli/dl/doc/B-9-2023-0316",
+                "eli/dl/doc/B-9-2023-0314",
+                "eli/dl/doc/B-9-2023-0312"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-07-12-OJ-ITM-V_91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-07-12-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939404",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation de l'organisme europ\u00e9en charg\u00e9 des questions d\u2019\u00e9thique</title><label>Propositions de r\u00e9solution: RC-B9-0312/2023, B9-0312/2023, B9-0314/2023, B9-0315/2023, B9-0316/2023, B9-0317/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

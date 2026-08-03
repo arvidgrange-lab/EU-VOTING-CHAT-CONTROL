@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-09-VOT-ITM-939655",
+            "type": "Activity",
+            "activity_date": "2023-11-09",
+            "activity_id": "MTG-PL-2023-11-09-VOT-ITM-939655",
+            "activity_label": {
+                "mul": "Renforcer le droit \u00e0 la participation: l\u00e9gitimit\u00e9 et r\u00e9silience des processus \u00e9lectoraux dans les syst\u00e8mes politiques illib\u00e9raux et les r\u00e9gimes autoritaires - Strengthening the right to participate: legitimacy and resilience of electoral processes in illiberal political systems and authoritarian regimes - St\u00e4rkung des Rechts auf Teilhabe: Legitimit\u00e4t und Resilienz von Wahlprozessen in illiberalen politischen Systemen und autorit\u00e4ren Regimen",
+                "fr": "Renforcer le droit \u00e0 la participation: l\u00e9gitimit\u00e9 et r\u00e9silience des processus \u00e9lectoraux dans les syst\u00e8mes politiques illib\u00e9raux et les r\u00e9gimes autoritaires"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0323"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-09-OJ-ITM-V-18",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-09-VOT-ITM-020"
+            ],
+            "notation_dlvId": "939655",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renforcer le droit \u00e0 la participation: l\u00e9gitimit\u00e9 et r\u00e9silience des processus \u00e9lectoraux dans les syst\u00e8mes politiques illib\u00e9raux et les r\u00e9gimes autoritaires</title><label>Rapport: Nacho S\u00e1nchez Amor (A9-0323/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

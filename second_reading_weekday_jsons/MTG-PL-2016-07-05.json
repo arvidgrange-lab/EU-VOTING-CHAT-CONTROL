@@ -1,0 +1,263 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547956-1",
+            "type": "Activity",
+            "activity_date": "2016-07-05",
+            "activity_id": "MTG-PL-2016-07-05-VOT-ITM-547956-1",
+            "activity_label": {
+                "fr": "Accord entre l'Union europ\u00e9enne et le P\u00e9rou relatif \u00e0 l'exemption de visa de court s\u00e9jour"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0197"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-05-OJ-ITM-V-63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-05-VOT-ITM-001"
+            ],
+            "notation_dlvId": "547956",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord entre l'Union europ\u00e9enne et le P\u00e9rou relatif \u00e0 l'exemption de visa de court s\u00e9jour</title><label>Recommandation: Mariya Gabriel (A8-0197/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547956-1",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547947-3",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547946-2",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547948-4",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547949-5",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547950-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0199",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547956-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547947-3",
+            "type": "Activity",
+            "activity_date": "2016-07-05",
+            "activity_id": "MTG-PL-2016-07-05-VOT-ITM-547947-3",
+            "activity_label": {
+                "fr": "R\u00e9fugi\u00e9s: inclusion sociale et int\u00e9gration sur le march\u00e9 du travail"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0204"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-05-OJ-ITM-V-34"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-05-VOT-ITM-003"
+            ],
+            "notation_dlvId": "547947",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9fugi\u00e9s: inclusion sociale et int\u00e9gration sur le march\u00e9 du travail</title><label>Rapport: Brando Benifei (A8-0204/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547956-1",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547947-3",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547946-2",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547948-4",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547949-5",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547950-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2321",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547947-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547946-2",
+            "type": "Activity",
+            "activity_date": "2016-07-05",
+            "activity_id": "MTG-PL-2016-07-05-VOT-ITM-547946-2",
+            "activity_label": {
+                "fr": "Limites d'\u00e9missions pour les engins mobiles non routiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0276"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-05-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-05-VOT-ITM-002"
+            ],
+            "notation_dlvId": "547946",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Limites d'\u00e9missions pour les engins mobiles non routiers</title><label>Rapport: Elisabetta Gardini (A8-0276/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547956-1",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547947-3",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547946-2",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547948-4",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547949-5",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547950-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0268",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547946-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547948-4",
+            "type": "Activity",
+            "activity_date": "2016-07-05",
+            "activity_id": "MTG-PL-2016-07-05-VOT-ITM-547948-4",
+            "activity_label": {
+                "fr": "Normes sociales et environnementales, droits de l'homme et responsabilit\u00e9 des entreprises"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0217"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-05-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-05-VOT-ITM-004"
+            ],
+            "notation_dlvId": "547948",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Normes sociales et environnementales, droits de l'homme et responsabilit\u00e9 des entreprises</title><label>Rapport: Eleonora Forenza (A8-0217/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547956-1",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547947-3",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547946-2",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547948-4",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547949-5",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547950-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2038",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547948-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547949-5",
+            "type": "Activity",
+            "activity_date": "2016-07-05",
+            "activity_id": "MTG-PL-2016-07-05-VOT-ITM-547949-5",
+            "activity_label": {
+                "fr": "Nouvelle strat\u00e9gie d'avenir novatrice en mati\u00e8re de commerce et d'investissement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0220"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-05-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-05-VOT-ITM-005"
+            ],
+            "notation_dlvId": "547949",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nouvelle strat\u00e9gie d'avenir novatrice en mati\u00e8re de commerce et d'investissement</title><label>Rapport: Tiziana Beghin (A8-0220/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547956-1",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547947-3",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547946-2",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547948-4",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547949-5",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547950-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2105",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547949-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547950-6",
+            "type": "Activity",
+            "activity_date": "2016-07-05",
+            "activity_id": "MTG-PL-2016-07-05-VOT-ITM-547950-6",
+            "activity_label": {
+                "fr": "La lutte contre la traite des \u00eatres humains dans les relations ext\u00e9rieures de l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0205"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-07-05-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-07-05-VOT-ITM-006"
+            ],
+            "notation_dlvId": "547950",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>La lutte contre la traite des \u00eatres humains dans les relations ext\u00e9rieures de l'UE</title><label>Rapport: Barbara Lochbihler (A8-0205/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-07-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547956-1",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547947-3",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547946-2",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547948-4",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547949-5",
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547950-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2340",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-07-05-VOT-ITM-547950-6"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,673 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-677161-2",
+            "activity_label": {
+                "fr": "Ex\u00e9cutions en \u00c9gypte"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0109",
+                "eli/dl/doc/B-8-2018-0112",
+                "eli/dl/doc/B-8-2018-0111",
+                "eli/dl/doc/B-8-2018-0113",
+                "eli/dl/doc/B-8-2018-0116",
+                "eli/dl/doc/B-8-2018-0115",
+                "eli/dl/doc/B-8-2018-0114"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-002"
+            ],
+            "notation_dlvId": "677161",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ex\u00e9cutions en \u00c9gypte</title><label>B8-0109/2018, B8-0111/2018, B8-0112/2018, B8-0113/2018, B8-0114/2018, B8-0115/2018, B8-0116/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2561",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-676139-13",
+            "activity_label": {
+                "fr": "Dispositions relatives \u00e0 l\u2019heure d\u2019\u00e9t\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0071",
+                "eli/dl/doc/B-8-2018-0070"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-36"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-013"
+            ],
+            "notation_dlvId": "676139",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Dispositions relatives \u00e0 l\u2019heure d\u2019\u00e9t\u00e9</title><label>Propositions de r\u00e9solution: B8-0070/2018, B8-0071/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2968",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-675675-9",
+            "activity_label": {
+                "fr": "Rapport annuel sur les activit\u00e9s financi\u00e8res de la Banque europ\u00e9enne d'investissement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0013"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-009"
+            ],
+            "notation_dlvId": "675675",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur les activit\u00e9s financi\u00e8res de la Banque europ\u00e9enne d'investissement</title><label>Rapport: Eider Gardiazabal Rubial (A8-0013/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2071",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-676141-11",
+            "activity_label": {
+                "fr": "Situation au Venezuela"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0080",
+                "eli/dl/doc/B-8-2018-0078",
+                "eli/dl/doc/B-8-2018-0083",
+                "eli/dl/doc/B-8-2018-0094",
+                "eli/dl/doc/B-8-2018-0081",
+                "eli/dl/doc/B-8-2018-0087"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-60"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-011"
+            ],
+            "notation_dlvId": "676141",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation au Venezuela</title><label>Propositions de r\u00e9solution: B8-0078/2018, B8-0080/2018, B8-0081/2018, B8-0083/2018, B8-0087/2018, B8-0094/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2559",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-675416-8",
+            "activity_label": {
+                "fr": "Garantie de l\u2019Union europ\u00e9enne \u00e0 la Banque europ\u00e9enne d\u2019investissement contre les pertes dans des op\u00e9rations de financement de projets d\u2019investissement hors de l\u2019Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0135"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-008"
+            ],
+            "notation_dlvId": "675416",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Garantie de l\u2019Union europ\u00e9enne \u00e0 la Banque europ\u00e9enne d\u2019investissement contre les pertes dans des op\u00e9rations de financement de projets d\u2019investissement hors de l\u2019Union</title><label>Rapport: Eider Gardiazabal Rubial (A8-0135/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0275",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-677160-1",
+            "activity_label": {
+                "fr": "Russie, le cas d'Oyub Titiev et le centre des droits de l'homme \u00abM\u00e9morial\u00bb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0102",
+                "eli/dl/doc/B-8-2018-0106",
+                "eli/dl/doc/B-8-2018-0105",
+                "eli/dl/doc/B-8-2018-0099",
+                "eli/dl/doc/B-8-2018-0096",
+                "eli/dl/doc/B-8-2018-0098"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-001"
+            ],
+            "notation_dlvId": "677160",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Russie, le cas d'Oyub Titiev et le centre des droits de l'homme \u00abM\u00e9morial\u00bb</title><label>B8-0096/2018, B8-0098/2018, B8-0099/2018, B8-0102/2018, B8-0105/2018, B8-0106/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2560",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-675415-7",
+            "activity_label": {
+                "fr": "Fonds de garantie pour les actions ext\u00e9rieures"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0132"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-007"
+            ],
+            "notation_dlvId": "675415",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds de garantie pour les actions ext\u00e9rieures</title><label>Rapport: Eider Gardiazabal Rubial (A8-0132/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0274",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-677418-4",
+            "activity_label": {
+                "fr": "Composition nominative de la commission sp\u00e9ciale sur la proc\u00e9dure europ\u00e9enne d\u2019autorisation des pesticides"
+            },
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-50"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-004"
+            ],
+            "notation_dlvId": "677418",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Composition nominative de la commission sp\u00e9ciale sur la proc\u00e9dure europ\u00e9enne d\u2019autorisation des pesticides</title><label></label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-676142-10",
+            "activity_label": {
+                "fr": "Situation actuelle des droits de l\u2019homme en Turquie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0095",
+                "eli/dl/doc/B-8-2018-0097",
+                "eli/dl/doc/B-8-2018-0103",
+                "eli/dl/doc/B-8-2018-0091",
+                "eli/dl/doc/B-8-2018-0082",
+                "eli/dl/doc/B-8-2018-0079",
+                "eli/dl/doc/B-8-2018-0092",
+                "eli/dl/doc/B-8-2018-0084"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-010"
+            ],
+            "notation_dlvId": "676142",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation actuelle des droits de l\u2019homme en Turquie</title><label>Propositions de r\u00e9solution: B8-0079/2018, B8-0082/2018, B8-0084/2018, B8-0091/2018, B8-0092/2018, B8-0095/2018, B8-0097/2018, B8-0103/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2527",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-676143-12",
+            "activity_label": {
+                "fr": "Situation de l'UNRWA"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0086",
+                "eli/dl/doc/B-8-2018-0085",
+                "eli/dl/doc/B-8-2018-0093",
+                "eli/dl/doc/B-8-2018-0089",
+                "eli/dl/doc/B-8-2018-0088",
+                "eli/dl/doc/B-8-2018-0090"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-012"
+            ],
+            "notation_dlvId": "676143",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation de l'UNRWA</title><label>Propositions de r\u00e9solution: B8-0085/2018, B8-0086/2018, B8-0088/2018, B8-0089/2018, B8-0090/2018, B8-0093/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2553",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-677398-5",
+            "activity_label": {
+                "fr": "Surveillance et communication des donn\u00e9es relatives aux \u00e9missions de CO2 et \u00e0 la consommation de carburant des v\u00e9hicules utilitaires lourds neufs"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0010"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-005"
+            ],
+            "notation_dlvId": "677398",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Surveillance et communication des donn\u00e9es relatives aux \u00e9missions de CO2 et \u00e0 la consommation de carburant des v\u00e9hicules utilitaires lourds neufs</title><label>Rapport: Damiano Zoffoli (A8-0010/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0111",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-677399-6",
+            "activity_label": {
+                "fr": "Cr\u00e9ation d'un syst\u00e8me centralis\u00e9 pour identifier les \u00c9tats membres qui d\u00e9tiennent des informations sur les condamnations de ressortissants de pays tiers et d'apatrides (RPT), afin de compl\u00e9ter et de seconder le syst\u00e8me europ\u00e9en d'information sur les casiers judiciaires (ECRIS-RPT)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0018"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-72"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-006"
+            ],
+            "notation_dlvId": "677399",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cr\u00e9ation d'un syst\u00e8me centralis\u00e9 pour identifier les \u00c9tats membres qui d\u00e9tiennent des informations sur les condamnations de ressortissants de pays tiers et d'apatrides (RPT), afin de compl\u00e9ter et de seconder le syst\u00e8me europ\u00e9en d'information sur les casiers judiciaires (ECRIS-RPT)</title><label>Rapport: Daniel Dalton (A8-0018/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0144",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3",
+            "type": "Activity",
+            "activity_date": "2018-02-08",
+            "activity_id": "MTG-PL-2018-02-08-VOT-ITM-677162-3",
+            "activity_label": {
+                "fr": "Esclavage d'enfants en Ha\u00efti"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0100",
+                "eli/dl/doc/B-8-2018-0101",
+                "eli/dl/doc/B-8-2018-0104",
+                "eli/dl/doc/B-8-2018-0107",
+                "eli/dl/doc/B-8-2018-0108",
+                "eli/dl/doc/B-8-2018-0110"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-02-08-OJ-ITM-V-64"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-02-08-VOT-ITM-003"
+            ],
+            "notation_dlvId": "677162",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Esclavage d'enfants en Ha\u00efti</title><label>B8-0100/2018, B8-0101/2018, B8-0104/2018, B8-0107/2018, B8-0108/2018, B8-0110/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-02-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677161-2",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676139-13",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675675-9",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676141-11",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675416-8",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677160-1",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-675415-7",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677418-4",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676142-10",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-676143-12",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677398-5",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677399-6",
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2562",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-02-08-VOT-ITM-677162-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

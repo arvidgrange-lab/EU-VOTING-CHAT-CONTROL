@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-10-VOT-ITM-939072",
+            "type": "Activity",
+            "activity_date": "2023-05-10",
+            "activity_id": "MTG-PL-2023-05-10-VOT-ITM-939072",
+            "activity_label": {
+                "fr": "D\u00e9charge 2021: Agence de l\u2019Union europ\u00e9enne pour la gestion op\u00e9rationnelle des syst\u00e8mes d\u2019information \u00e0 grande \u00e9chelle au sein de l\u2019espace de libert\u00e9, de s\u00e9curit\u00e9 et de justice (eu-LISA)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0105"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-10-OJ-ITM-V-103",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-10-VOT-ITM-043"
+            ],
+            "notation_dlvId": "939072",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9charge 2021: Agence de l\u2019Union europ\u00e9enne pour la gestion op\u00e9rationnelle des syst\u00e8mes d\u2019information \u00e0 grande \u00e9chelle au sein de l\u2019espace de libert\u00e9, de s\u00e9curit\u00e9 et de justice (eu-LISA)</title><label>Rapport: Ramona Strugariu (A9-0105/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

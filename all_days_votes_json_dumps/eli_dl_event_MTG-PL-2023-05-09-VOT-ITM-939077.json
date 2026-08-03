@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-09-VOT-ITM-939077",
+            "type": "Activity",
+            "activity_date": "2023-05-09",
+            "activity_id": "MTG-PL-2023-05-09-VOT-ITM-939077",
+            "activity_label": {
+                "fr": "Technologies critiques pour la s\u00e9curit\u00e9 et la d\u00e9fense"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0120"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-09-OJ-ITM-V-63",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-09-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939077",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Technologies critiques pour la s\u00e9curit\u00e9 et la d\u00e9fense</title><label>Rapport: Riho Terras (A9-0120/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

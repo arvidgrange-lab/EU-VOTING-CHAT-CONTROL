@@ -1,0 +1,776 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662334-3",
+            "activity_label": {
+                "fr": "Syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de l'Union europ\u00e9enne (SEQE de l'UE): maintenir l'actuelle restriction du champ d'application pour les activit\u00e9s a\u00e9riennes et pr\u00e9parer la mise en \u0153uvre d\u2019un m\u00e9canisme de march\u00e9 mondial \u00e0 partir de 2021"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0258"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-003"
+            ],
+            "notation_dlvId": "662334",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de l'Union europ\u00e9enne (SEQE de l'UE): maintenir l'actuelle restriction du champ d'application pour les activit\u00e9s a\u00e9riennes et pr\u00e9parer la mise en \u0153uvre d\u2019un m\u00e9canisme de march\u00e9 mondial \u00e0 partir de 2021</title><label>Rapport: Julie Girling (A8-0258/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0017",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662307-4",
+            "activity_label": {
+                "fr": "Prolongation de la dur\u00e9e d'existence du Fonds europ\u00e9en pour les investissements strat\u00e9giques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0198"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-004"
+            ],
+            "notation_dlvId": "662307",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Prolongation de la dur\u00e9e d'existence du Fonds europ\u00e9en pour les investissements strat\u00e9giques</title><label>Rapport: Udo Bullmann et  Jos\u00e9 Manuel Fernandes (A8-0198/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0276",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662314-7",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 de Ingeborg Gr\u00e4\u00dfle"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0397"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-64"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-007"
+            ],
+            "notation_dlvId": "662314",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 de Ingeborg Gr\u00e4\u00dfle</title><label>Rapport: Jean-Marie Cavada (A8-0397/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2220",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662585-15",
+            "activity_label": {
+                "fr": "Vers une strat\u00e9gie pour le commerce num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0384"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-015"
+            ],
+            "notation_dlvId": "662585",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Vers une strat\u00e9gie pour le commerce num\u00e9rique</title><label>Rapport: Marietje Schaake (A8-0384/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2065",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662314-8",
+            "activity_label": {
+                "fr": "Droits de douane sur les importations de certains produits originaires des \u00c9tats-Unis d\u2019Am\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0331"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-008"
+            ],
+            "notation_dlvId": "662314",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Droits de douane sur les importations de certains produits originaires des \u00c9tats-Unis d\u2019Am\u00e9rique</title><label>Rapport: Ji\u0159\u00ed Ma\u0161t\u00e1lka (A8-0331/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0175",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662314-10",
+            "activity_label": {
+                "fr": "Accord entre l\u2019Union europ\u00e9enne et la Suisse sur le couplage de leurs syst\u00e8mes d\u2019\u00e9change de quotas d\u2019\u00e9mission de gaz \u00e0 effet de serre"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0386"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-67"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-010"
+            ],
+            "notation_dlvId": "662314",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord entre l\u2019Union europ\u00e9enne et la Suisse sur le couplage de leurs syst\u00e8mes d\u2019\u00e9change de quotas d\u2019\u00e9mission de gaz \u00e0 effet de serre</title><label>Recommandation: Christofer Fjellner (A8-0386/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0193",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662314-11",
+            "activity_label": {
+                "fr": "Accord de partenariat et de coop\u00e9ration renforc\u00e9e UE-Kazakhstan (approbation)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0325"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-011"
+            ],
+            "notation_dlvId": "662314",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat et de coop\u00e9ration renforc\u00e9e UE-Kazakhstan (approbation)</title><label>Recommandation: Liisa Jaakonsaari (A8-0325/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0166",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662314-9",
+            "activity_label": {
+                "fr": "Accord de transport a\u00e9rien UE/\u00c9tats-Unis"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0376"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-49"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-009"
+            ],
+            "notation_dlvId": "662314",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de transport a\u00e9rien UE/\u00c9tats-Unis</title><label>Recommandation: Theresa Griffin (A8-0376/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2006-0058",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662304-1",
+            "activity_label": {
+                "fr": "Gestion durable des flottes de p\u00eache externes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0374"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-12"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-001"
+            ],
+            "notation_dlvId": "662304",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gestion durable des flottes de p\u00eache externes</title><label>Recommandation pour la deuxi\u00e8me lecture: Linn\u00e9a Engstr\u00f6m (A8-0374/2017) (majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0289",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662593-2",
+            "activity_label": {
+                "fr": "Amendements \u00e0 plusieurs r\u00e8glements dans le domaine de l'agriculture et du d\u00e9veloppement rural"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0380"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-69"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-002"
+            ],
+            "notation_dlvId": "662593",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Amendements \u00e0 plusieurs r\u00e8glements dans le domaine de l'agriculture et du d\u00e9veloppement rural</title><label>Rapport: Albert De\u00df (A8-0380/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0282B",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662314-12",
+            "activity_label": {
+                "fr": "Accord de partenariat et de coop\u00e9ration renforc\u00e9e UE-Kazakhstan (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0335"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-50"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-012"
+            ],
+            "notation_dlvId": "662314",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat et de coop\u00e9ration renforc\u00e9e UE-Kazakhstan (r\u00e9solution)</title><label>Rapport: Liisa Jaakonsaari (A8-0335/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2035",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662314-13",
+            "activity_label": {
+                "fr": "Renouvellement du mandat de la pr\u00e9sidente du Conseil de r\u00e9solution unique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0393"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-013"
+            ],
+            "notation_dlvId": "662314",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renouvellement du mandat de la pr\u00e9sidente du Conseil de r\u00e9solution unique</title><label>Rapport: Roberto Gualtieri (A8-0393/2017) (Vote au scrutin secret (article 180 bis, paragraphe 1, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0901",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662354-5",
+            "activity_label": {
+                "fr": "R\u00e8gles relatives \u00e0 l'exercice du droit d'auteur et des droits voisins applicables \u00e0 certaines transmissions en ligne d'organismes de radiodiffusion et aux retransmissions de programmes de radio et de t\u00e9l\u00e9vision"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0378"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-65"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-005"
+            ],
+            "notation_dlvId": "662354",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e8gles relatives \u00e0 l'exercice du droit d'auteur et des droits voisins applicables \u00e0 certaines transmissions en ligne d'organismes de radiodiffusion et aux retransmissions de programmes de radio et de t\u00e9l\u00e9vision</title><label>Rapport: Tiemo W\u00f6lken (A8-0378/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0284",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662315-14",
+            "activity_label": {
+                "fr": "Rapport 2017 sur la citoyennet\u00e9 de l'Union: renforcer les droits des citoyens dans une Union du changement d\u00e9mocratique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0385"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-014"
+            ],
+            "notation_dlvId": "662315",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2017 sur la citoyennet\u00e9 de l'Union: renforcer les droits des citoyens dans une Union du changement d\u00e9mocratique</title><label>Rapport: Beatriz Becerra Basterrechea (A8-0385/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2069",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6",
+            "type": "Activity",
+            "activity_date": "2017-12-12",
+            "activity_id": "MTG-PL-2017-12-12-VOT-ITM-662314-6",
+            "activity_label": {
+                "fr": "Demande de d\u00e9fense des privil\u00e8ges et immunit\u00e9s de Eleonora Forenza"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0398"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-12-12-OJ-ITM-V-63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-12-12-VOT-ITM-006"
+            ],
+            "notation_dlvId": "662314",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de d\u00e9fense des privil\u00e8ges et immunit\u00e9s de Eleonora Forenza</title><label>Rapport: Gilles Lebreton (A8-0398/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662334-3",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662307-4",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-7",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662585-15",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-8",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-10",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-11",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-9",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662304-1",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662593-2",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-12",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-13",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662354-5",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662315-14",
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2199",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-12-12-VOT-ITM-662314-6"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

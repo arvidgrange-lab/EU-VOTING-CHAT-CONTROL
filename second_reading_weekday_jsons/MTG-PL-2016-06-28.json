@@ -1,0 +1,51 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-06-28-VOT-ITM-547684-1",
+            "type": "Activity",
+            "activity_date": "2016-06-28",
+            "activity_id": "MTG-PL-2016-06-28-VOT-ITM-547684-1",
+            "activity_label": {
+                "fr": "R\u00e9sultat du r\u00e9f\u00e9rendum au Royaume-Uni"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2016-0840",
+                "eli/dl/doc/B-8-2016-0841",
+                "eli/dl/doc/B-8-2016-0838",
+                "eli/dl/doc/B-8-2016-0839"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-06-28-OJ-ITM-V-3"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-06-28-VOT-ITM-001"
+            ],
+            "notation_dlvId": "547684",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9sultat du r\u00e9f\u00e9rendum au Royaume-Uni</title><label>Propositions de r\u00e9solutions: B8-0838/2016, B8-0839/2016, B8-0840/2016, B8-0841/2016</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-06-28",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-28-VOT-ITM-547684-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2800",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-06-28-VOT-ITM-547684-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

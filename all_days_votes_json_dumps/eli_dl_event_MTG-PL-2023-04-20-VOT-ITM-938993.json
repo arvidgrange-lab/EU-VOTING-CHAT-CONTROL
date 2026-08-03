@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938993",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938993",
+            "activity_label": {
+                "fr": "D\u00e9p\u00e9nalisation universelle de l'homosexualit\u00e9, \u00e0 la lumi\u00e8re des \u00e9v\u00e9nements r\u00e9cents en Ouganda"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0222",
+                "eli/dl/doc/B-9-2023-0223",
+                "eli/dl/doc/B-9-2023-0219",
+                "eli/dl/doc/B-9-2023-0221",
+                "eli/dl/doc/B-9-2023-0220",
+                "eli/dl/doc/B-9-2023-0224"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-70",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM-007"
+            ],
+            "notation_dlvId": "938993",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9p\u00e9nalisation universelle de l'homosexualit\u00e9, \u00e0 la lumi\u00e8re des \u00e9v\u00e9nements r\u00e9cents en Ouganda</title><label>Propositions de r\u00e9solution: RC-B9-0219/2023, B9-0219/2023, B9-0220/2023, B9-0221/2023, B9-0222/2023, B9-0223/2023, B9-0224/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

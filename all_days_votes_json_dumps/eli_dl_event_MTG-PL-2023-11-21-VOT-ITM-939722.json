@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-21-VOT-ITM-939722",
+            "type": "Activity",
+            "activity_date": "2023-11-21",
+            "activity_id": "MTG-PL-2023-11-21-VOT-ITM-939722",
+            "activity_label": {
+                "fr": "Cadre de certification de l\u2019Union relatif aux absorptions de carbone",
+                "mul": "Cadre de certification de l\u2019Union relatif aux absorptions de carbone - Union certification framework for carbon removals - Unionsrahmen f\u00fcr die Zertifizierung von CO2-Entnahmen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0329"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-11-21-OJ-ITM-V-60",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-21-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939722",
+            "epvoc:amendmentsAdoptedCommittee": 147,
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedTotal": 147,
+            "epvoc:amendmentsTabledCommittee": 148,
+            "epvoc:amendmentsTabledPoliticalGroup": 9,
+            "epvoc:amendmentsTabledTotal": 157,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre de certification de l\u2019Union relatif aux absorptions de carbone</title><label>Rapport: L\u00eddia Pereira (A9-0329/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

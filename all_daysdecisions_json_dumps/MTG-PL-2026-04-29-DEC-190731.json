@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-04-29-DEC-190731",
+            "type": "Vote",
+            "activity_date": "2026-04-29",
+            "activity_id": "MTG-PL-2026-04-29-DEC-190731",
+            "activity_order": "2.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "190731",
+            "headingLabel": {
+                "lt": "Pasi\u016blymas d\u0117l rezoliucijos B10-0185/2026\n(PETI)",
+                "sv": "F\u00f6rslag till resolution B10-0185/2026\n(PETI)",
+                "sk": "N\u00e1vrh uznesenia B10-0185/2026\n(PETI)",
+                "de": "Entschlie\u00dfungsantrag B10-0185/2026\n(PETI)",
+                "fi": "p\u00e4\u00e4t\u00f6slauselmaesitys B10-0185/2026\u2028(PETI)",
+                "pt": "Proposta de resolu\u00e7\u00e3o B10-0185/2026\n(PETI)",
+                "mt": "Mozzjoni g\u0127al ri\u017coluzzjoni B10-0185/2026\u2028(PETI)",
+                "sl": "Predlog resolucije B10-0185/2026\n(PETI)",
+                "hr": "Prijedlog rezolucije B10-0185/2026\n(PETI)",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u044f B10-0185/2026\n(PETI)",
+                "en": "Motion for a resolution B10-0185/2026\n(PETI)",
+                "fr": "Proposition de r\u00e9solution B10-0185/2026\n(PETI)",
+                "ga": "Tairiscint i gcomhair r\u00fain B10-0185/2026\n(PETI)",
+                "it": "Proposta di risoluzione B10-0185/2026\n(PETI)",
+                "nl": "Ontwerpresolutie B10-0185/2026\n(PETI)",
+                "es": "Propuesta de Resoluci\u00f3n B10-0185/2026\n(PETI)",
+                "ro": "Propunere de rezolu\u021bie B10-0185/2026\n(PETI)",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c8\u03b7\u03c6\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 B10-0185/2026\n(PETI)",
+                "da": "Forslag til beslutning B10-0185/2026\n(PETI)",
+                "lv": "Rezol\u016bcijas priek\u0161likums B10-0185/2026\n(PETI)",
+                "et": "Resolutsiooni ettepanek B10-0185/2026\n(PETI)",
+                "cs": "N\u00e1vrh usnesen\u00ed B10-0185/2026\n(PETI)",
+                "pl": "Projekt rezolucji B10-0185/2026 \n(PETI)",
+                "hu": "\u00c1ll\u00e1sfoglal\u00e1sra ir\u00e1nyul\u00f3 ind\u00edtv\u00e1ny B10-0185/2026 \n(PETI)"
+            },
+            "referenceText": {
+                "hu": "\u00c1ll\u00e1sfoglal\u00e1si ind\u00edtv\u00e1ny",
+                "it": "Proposta di risoluzione",
+                "nl": "Ontwerpresolutie",
+                "ro": "Propunere de rezolu\u021bie",
+                "fi": "p\u00e4\u00e4t\u00f6slauselmaesitys",
+                "sl": "predlog resolucije",
+                "lv": "Rezol\u016bcijas priek\u0161likums",
+                "es": "Propuesta de Resoluci\u00f3n",
+                "de": "Entschlie\u00dfungsantrag",
+                "sk": "N\u00e1vrh uznesenia",
+                "fr": "Proposition de r\u00e9solution",
+                "en": "Motion for a resolution",
+                "hr": "Prijedlog rezolucije",
+                "sv": "Resolutionsf\u00f6rslag",
+                "bg": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u044f",
+                "lt": "Pasi\u016blymas d\u0117l rezoliucijos",
+                "pl": "Projekt rezolucji",
+                "ga": "Tairiscint i gcomhair r\u00fain",
+                "cs": "n\u00e1vrh usnesen\u00ed",
+                "pt": "Proposta de resolu\u00e7\u00e3o",
+                "et": "Resolutsiooni ettepanek",
+                "da": "Forslag til beslutning",
+                "el": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c8\u03b7\u03c6\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2",
+                "mt": "Mozzjoni g\u0127al ri\u017coluzzjoni"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

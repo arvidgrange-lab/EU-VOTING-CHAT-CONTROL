@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-01-VOT-ITM-939196",
+            "type": "Activity",
+            "activity_date": "2023-06-01",
+            "activity_id": "MTG-PL-2023-06-01-VOT-ITM-939196",
+            "activity_label": {
+                "fr": "Acte l\u00e9gislatif de soutien \u00e0 la production de munitions"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/C-9-2023-0161"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-01-OJ-ITM-V-44",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-01-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939196",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Acte l\u00e9gislatif de soutien \u00e0 la production de munitions</title><label>Proposition de r\u00e8glement (COM(2023)0237 - C9-0161/2023 - 2023/0140(COD))</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

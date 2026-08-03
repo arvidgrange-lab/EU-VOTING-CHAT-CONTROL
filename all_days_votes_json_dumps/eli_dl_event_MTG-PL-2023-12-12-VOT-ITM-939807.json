@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-12-VOT-ITM-939807",
+            "type": "Activity",
+            "activity_date": "2023-12-12",
+            "activity_id": "MTG-PL-2023-12-12-VOT-ITM-939807",
+            "activity_label": {
+                "mul": "Mise en \u0153uvre de l'instrument de voisinage, de coop\u00e9ration au d\u00e9veloppement et de coop\u00e9ration internationale - Europe dans le monde - Implementation of the Neighbourhood, Development and International Cooperation Instrument \u2013 Global Europe - Umsetzung des Instruments f\u00fcr Nachbarschaft, Entwicklungszusammenarbeit und internationale Zusammenarbeit \u2013 Europa in der Welt",
+                "fr": "Mise en \u0153uvre de l'instrument de voisinage, de coop\u00e9ration au d\u00e9veloppement et de coop\u00e9ration internationale - Europe dans le monde"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0374"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-12-OJ-ITM-V-35",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-12-VOT-ITM-015"
+            ],
+            "notation_dlvId": "939807",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsAdoptedPoliticalGroup": 1,
+            "epvoc:amendmentsAdoptedTotal": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 22,
+            "epvoc:amendmentsTabledTotal": 22,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de l'instrument de voisinage, de coop\u00e9ration au d\u00e9veloppement et de coop\u00e9ration internationale - Europe dans le monde</title><label>Rapport: Tomas Tob\u00e9, Pedro Marques, Charles Goerens, Michael Gahler (A9-0374/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

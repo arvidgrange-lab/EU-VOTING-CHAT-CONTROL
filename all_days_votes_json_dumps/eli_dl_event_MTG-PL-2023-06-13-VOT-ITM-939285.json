@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-13-VOT-ITM-939285",
+            "type": "Activity",
+            "activity_date": "2023-06-13",
+            "activity_id": "MTG-PL-2023-06-13-VOT-ITM-939285",
+            "activity_label": {
+                "fr": "Calendrier des p\u00e9riodes de session du Parlement - 2024"
+            },
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-13-OJ-ITM-V-83",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939285",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Calendrier des p\u00e9riodes de session du Parlement - 2024</title><label>Proposition de la Conf\u00e9rence des pr\u00e9sidents: </label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

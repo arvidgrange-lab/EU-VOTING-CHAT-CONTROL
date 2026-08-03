@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-07-02-VOT-ITM-359577-1",
+            "type": "Activity",
+            "activity_date": "2014-07-02",
+            "activity_id": "MTG-PL-2014-07-02-VOT-ITM-359577-1",
+            "activity_label": {
+                "fr": "Composition num\u00e9rique des commissions"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2014-0001"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-07-02-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2014-07-02-VOT-ITM-001"
+            ],
+            "notation_dlvId": "359577",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Composition num\u00e9rique des commissions</title><label>Proposition de d\u00e9cision: B8-0001/2014</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2014-07-02",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-02-VOT-ITM-359577-1"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2702",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2014-07-02-VOT-ITM-359577-1"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

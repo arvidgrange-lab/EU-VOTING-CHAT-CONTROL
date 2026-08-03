@@ -1,0 +1,264 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825079",
+            "type": "Activity",
+            "activity_date": "2019-09-18",
+            "activity_id": "MTG-PL-2019-09-18-VOT-ITM-825079",
+            "activity_label": {
+                "fr": "Retrait du Royaume-Uni de l'UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2019-0039",
+                "eli/dl/doc/B-9-2019-0038"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-18-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-18-VOT-ITM-006"
+            ],
+            "notation_dlvId": "825079",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Retrait du Royaume-Uni de l'UE</title><label>Propositions de r\u00e9solution: B9-0038/2019, B9-0039/2019</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825079",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825065",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825059",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825058",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825063",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825060"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2817",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825079"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825065",
+            "type": "Activity",
+            "activity_date": "2019-09-18",
+            "activity_id": "MTG-PL-2019-09-18-VOT-ITM-825065",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation - EGF/2019/000 TA 2019 - Assistance technique sur l'initiative de la Commission"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0001"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-18-OJ-ITM-V-23"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-18-VOT-ITM-005"
+            ],
+            "notation_dlvId": "825065",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation - EGF/2019/000 TA 2019 - Assistance technique sur l'initiative de la Commission</title><label>Rapport: Bogdan Rzo\u0144ca (A9-0001/2019) (majorit\u00e9 des membres qui composent le Parlement et 3/5 des suffrages exprim\u00e9s requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825079",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825065",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825059",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825058",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825063",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825060"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2036",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825065"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825059",
+            "type": "Activity",
+            "activity_date": "2019-09-18",
+            "activity_id": "MTG-PL-2019-09-18-VOT-ITM-825059",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00ba 2/2019: renforcement de programmes cl\u00e9s pour la comp\u00e9titivit\u00e9 de l'UE: Horizon\u00a02020 et Erasmus+"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0004"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-18-OJ-ITM-V-21"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-18-VOT-ITM-002"
+            ],
+            "notation_dlvId": "825059",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00ba 2/2019: renforcement de programmes cl\u00e9s pour la comp\u00e9titivit\u00e9 de l'UE: Horizon\u00a02020 et Erasmus+</title><label>Rapport: John Howarth (A9-0004/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825079",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825065",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825059",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825058",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825063",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825060"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2022",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825059"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825058",
+            "type": "Activity",
+            "activity_date": "2019-09-18",
+            "activity_id": "MTG-PL-2019-09-18-VOT-ITM-825058",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b0 1/2019: exc\u00e9dent de l\u2019exercice 2018"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0005"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-18-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-18-VOT-ITM-001"
+            ],
+            "notation_dlvId": "825058",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b0 1/2019: exc\u00e9dent de l\u2019exercice 2018</title><label>Rapport: John Howarth (A9-0005/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825079",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825065",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825059",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825058",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825063",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825060"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2021",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825058"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825063",
+            "type": "Activity",
+            "activity_date": "2019-09-18",
+            "activity_id": "MTG-PL-2019-09-18-VOT-ITM-825063",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b03/2019: proposition de mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne pour venir en aide \u00e0 la Roumanie, \u00e0 l'Italie et \u00e0 l'Autriche"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0006"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-18-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-18-VOT-ITM-004"
+            ],
+            "notation_dlvId": "825063",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b03/2019: proposition de mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne pour venir en aide \u00e0 la Roumanie, \u00e0 l'Italie et \u00e0 l'Autriche</title><label>Rapport: John Howarth (A9-0006/2019)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825079",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825065",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825059",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825058",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825063",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825060"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2024",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825063"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825060",
+            "type": "Activity",
+            "activity_date": "2019-09-18",
+            "activity_id": "MTG-PL-2019-09-18-VOT-ITM-825060",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne pour venir en aide \u00e0 la Roumanie, \u00e0 l'Italie et \u00e0 l'Autriche"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2019-0002"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2019-09-18-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2019-09-18-VOT-ITM-003"
+            ],
+            "notation_dlvId": "825060",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne pour venir en aide \u00e0 la Roumanie, \u00e0 l'Italie et \u00e0 l'Autriche</title><label>Rapport: Siegfried Mure\u015fan (A9-0002/2019) (majorit\u00e9 des membres qui composent le Parlement et 3/5 des suffrages exprim\u00e9s requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2019-09-18",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825079",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825065",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825059",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825058",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825063",
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825060"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2019-2023",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2019-09-18-VOT-ITM-825060"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

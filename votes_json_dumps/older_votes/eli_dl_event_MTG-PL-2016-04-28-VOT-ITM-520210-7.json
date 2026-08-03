@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-28-VOT-ITM-520210-7",
+            "type": "Activity",
+            "activity_date": "2016-04-28",
+            "activity_id": "MTG-PL-2016-04-28-VOT-ITM-520210-7",
+            "activity_label": {
+                "fr": "Agence de l\u2019Union europ\u00e9enne pour les chemins de fer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0073"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-28-OJ-ITM-V-152"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-28-VOT-ITM-007"
+            ],
+            "notation_dlvId": "520210",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Agence de l\u2019Union europ\u00e9enne pour les chemins de fer</title><label>Recommandation pour la deuxi\u00e8me lecture: Roberts Z\u012ble (A8-0073/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-03-11-DEC-172111",
+            "type": "Vote",
+            "activity_date": "2025-03-11",
+            "activity_id": "MTG-PL-2025-03-11-DEC-172111",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_ELECTRONIC_SECRET",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "number_of_attendees": 648,
+            "number_of_votes_abstention": 67,
+            "number_of_votes_against": 19,
+            "number_of_votes_favor": 562,
+            "comment": {
+                "mt": "SIG",
+                "bg": "\u0422\u0413",
+                "sl": "TG",
+                "sv": "sluten",
+                "cs": "TAJ",
+                "da": "SEC",
+                "fr": "SEC",
+                "hr": "SEC",
+                "es": "SEC",
+                "en": "SEC",
+                "ro": "SEC",
+                "fi": "SEC",
+                "pt": "SEC",
+                "it": "SEC",
+                "ga": "BR",
+                "lt": "SB",
+                "pl": "taj",
+                "et": "SH",
+                "hu": "TITK.",
+                "el": "\u039c\u03a8",
+                "nl": "Geh. S",
+                "lv": "AIZKL",
+                "sk": "TH",
+                "de": "geh."
+            },
+            "notation_votingId": "172111",
+            "referenceText": {
+                "mt": "\u0126atra ta\u2019 Radek Urban",
+                "de": "Ernennung von Radek Urban",
+                "sl": "Imenovanje Radeka Urbana",
+                "hr": "Imenovanje Radeka Urbana",
+                "bg": "\u041d\u043e\u043c\u0438\u043d\u0438\u0440\u0430\u043d\u0435 \u043d\u0430 \u0420\u0430\u0434\u0435\u043a \u0423\u0440\u0431\u0430\u043d",
+                "et": "Radek Urbani ametisse nimetamine",
+                "lt": "Radeko Urbano skyrimas",
+                "nl": "Benoeming van Radek Urban",
+                "cs": "jmenov\u00e1n\u00ed Radka Urbana",
+                "es": "Nombramiento de Radek Urban",
+                "pt": "Nomea\u00e7\u00e3o de Radek Urban",
+                "ga": "Ceapach\u00e1n Radek Urban",
+                "el": "\u0394\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 Radek Urban",
+                "sv": "Utn\u00e4mning av Radek Urban",
+                "fr": "Nomination de Radek Urban",
+                "pl": "Mianowanie Radka Urbana",
+                "lv": "Radek Urban iecel\u0161ana",
+                "ro": "Numirea lui Radek Urban",
+                "sk": "Vymenovanie Radka Urbana",
+                "da": "Udn\u00e6vnelse af Radek Urban",
+                "en": "Appointment of Radek Urban",
+                "fi": "Radek Urbanin nimitt\u00e4minen",
+                "hu": "Radek Urban jel\u00f6l\u00e9se",
+                "it": "Nomina di Radek Urban"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

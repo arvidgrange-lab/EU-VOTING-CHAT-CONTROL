@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-05-09-VOT-ITM-939096",
+            "type": "Activity",
+            "activity_date": "2023-05-09",
+            "activity_id": "MTG-PL-2023-05-09-VOT-ITM-939096",
+            "activity_label": {
+                "fr": "Assistance macrofinanci\u00e8re \u00e0 la Moldavie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0166"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-05-09-OJ-ITM-V-37",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-05-09-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939096",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Assistance macrofinanci\u00e8re \u00e0 la Moldavie</title><label>Rapport: Mark\u00e9ta Gregorov\u00e1 (A9-0166/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-14-VOT-ITM-939825",
+            "type": "Activity",
+            "activity_date": "2023-12-14",
+            "activity_id": "MTG-PL-2023-12-14-VOT-ITM-939825",
+            "activity_label": {
+                "fr": "Accro\u00eetre l\u2019innovation et la comp\u00e9titivit\u00e9 industrielle et technologique gr\u00e2ce \u00e0 un environnement favorable aux jeunes pousses et aux entreprises en expansion",
+                "mul": "Accro\u00eetre l\u2019innovation et la comp\u00e9titivit\u00e9 industrielle et technologique gr\u00e2ce \u00e0 un environnement favorable aux jeunes pousses et aux entreprises en expansion - Increasing innovation, industrial and technological competitiveness - Verbesserung von Innovation und der industriellen und technologischen Wettbewerbsf\u00e4higkeit"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0383"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-14-OJ-ITM-V-73",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939825",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accro\u00eetre l\u2019innovation et la comp\u00e9titivit\u00e9 industrielle et technologique gr\u00e2ce \u00e0 un environnement favorable aux jeunes pousses et aux entreprises en expansion</title><label>Rapport: Tsvetelina Penkova (A9-0383/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

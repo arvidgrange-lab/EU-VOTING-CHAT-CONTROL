@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2026-07-09-DEC-195653",
+            "type": "Vote",
+            "activity_date": "2026-07-09",
+            "activity_id": "MTG-PL-2026-07-09-DEC-195653",
+            "activity_order": "1.0",
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "notation_votingId": "195653",
+            "referenceText": {
+                "fr": "D\u00e9cision d'engager des n\u00e9gociations interinstitutionnelles",
+                "sk": "Rozhodnutie o\u00a0za\u010dat\u00ed medziin\u0161titucion\u00e1lnych rokovan\u00ed",
+                "lt": "Sprendimas prad\u0117ti tarpinstitucines derybas",
+                "bg": "\u0420\u0435\u0448\u0435\u043d\u0438\u0435 \u0437\u0430 \u0437\u0430\u043f\u043e\u0447\u0432\u0430\u043d\u0435 \u043d\u0430 \u043c\u0435\u0436\u0434\u0443\u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u0438 \u043f\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u0438",
+                "da": "Afg\u00f8relse om at indlede interinstitutionelle forhandlinger",
+                "ga": "Cinneadh dul i mbun caibidl\u00edocht idirinstiti\u00faideach",
+                "hu": "Int\u00e9zm\u00e9nyk\u00f6zi t\u00e1rgyal\u00e1sok megind\u00edt\u00e1s\u00e1r\u00f3l sz\u00f3l\u00f3 hat\u00e1rozat",
+                "et": "Otsus alustada institutsioonidevahelisi l\u00e4bir\u00e4\u00e4kimisi",
+                "hr": "Odluka o pokretanju me\u0111uinstitucijskih pregovora",
+                "it": "Decisione sull'avvio di negoziati interistituzionali",
+                "es": "Decisi\u00f3n de entablar negociaciones interinstitucionales",
+                "de": "Beschluss \u00fcber die Aufnahme von interinstitutionellen Verhandlungen",
+                "fi": "p\u00e4\u00e4t\u00f6s aloittaa toimielinten v\u00e4liset neuvottelut",
+                "cs": "rozhodnut\u00ed o\u00a0zah\u00e1jen\u00ed interinstitucion\u00e1ln\u00edch jedn\u00e1n\u00ed",
+                "ro": "Decizie de a ini\u021bia negocieri interinstitu\u021bionale",
+                "lv": "L\u0113mums s\u0101kt iest\u0101\u017eu sarunas",
+                "sl": "odlo\u010ditev o za\u010detku medinstitucionalnih pogajanj",
+                "mt": "De\u010bi\u017cjoni g\u0127al d\u0127ul f\u2019negozjati interistituzzjonali",
+                "pt": "Decis\u00e3o de encetar negocia\u00e7\u00f5es interinstitucionais",
+                "el": "\u0391\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ad\u03bd\u03b1\u03c1\u03be\u03b7 \u03b4\u03b9\u03bf\u03c1\u03b3\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u03b4\u03b9\u03b1\u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b5\u03cd\u03c3\u03b5\u03c9\u03bd",
+                "en": "Decision to enter into interinstitutional negotiations",
+                "pl": "Decyzja o przyst\u0105pieniu do negocjacji mi\u0119dzyinstytucjonalnych",
+                "nl": "Besluit om interinstitutionele onderhandelingen te beginnen"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

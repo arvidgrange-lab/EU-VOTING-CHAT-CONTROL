@@ -1,0 +1,525 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+            "type": "Activity",
+            "activity_date": "2017-07-06",
+            "activity_id": "MTG-PL-2017-07-06-VOT-ITM-621431-7",
+            "activity_label": {
+                "fr": "Utilisations autoris\u00e9es des \u0153uvres et des autres objets prot\u00e9g\u00e9s par le droit d'auteur et les droits voisins pour les aveugles, les d\u00e9ficients visuels et les personnes ayant d'autres difficult\u00e9s de lecture des textes imprim\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0097"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-06-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-06-VOT-ITM-007"
+            ],
+            "notation_dlvId": "621431",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Utilisations autoris\u00e9es des \u0153uvres et des autres objets prot\u00e9g\u00e9s par le droit d'auteur et les droits voisins pour les aveugles, les d\u00e9ficients visuels et les personnes ayant d'autres difficult\u00e9s de lecture des textes imprim\u00e9s</title><label>Rapport: Max Andersson (A8-0097/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0278",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+            "type": "Activity",
+            "activity_date": "2017-07-06",
+            "activity_id": "MTG-PL-2017-07-06-VOT-ITM-621436-9",
+            "activity_label": {
+                "fr": "M\u00e9canismes de r\u00e8glement des diff\u00e9rends en mati\u00e8re de double imposition dans l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0225"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-06-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-06-VOT-ITM-009"
+            ],
+            "notation_dlvId": "621436",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>M\u00e9canismes de r\u00e8glement des diff\u00e9rends en mati\u00e8re de double imposition dans l'Union europ\u00e9enne</title><label>Rapport: Michael Theurer (A8-0225/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0338",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+            "type": "Activity",
+            "activity_date": "2017-07-06",
+            "activity_id": "MTG-PL-2017-07-06-VOT-ITM-621438-11",
+            "activity_label": {
+                "fr": "Promouvoir la coh\u00e9sion et le d\u00e9veloppement dans les r\u00e9gions ultrap\u00e9riph\u00e9riques de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0226"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-06-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-06-VOT-ITM-011"
+            ],
+            "notation_dlvId": "621438",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Promouvoir la coh\u00e9sion et le d\u00e9veloppement dans les r\u00e9gions ultrap\u00e9riph\u00e9riques de l'Union</title><label>Rapport: Younous Omarjee (A8-0226/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2250",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+            "type": "Activity",
+            "activity_date": "2017-07-06",
+            "activity_id": "MTG-PL-2017-07-06-VOT-ITM-623570-2",
+            "activity_label": {
+                "fr": "Constitution, attributions, composition num\u00e9rique et dur\u00e9e du mandat de la commission sp\u00e9ciale sur le terrorisme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0477"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-06-OJ-ITM-V-90"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-06-VOT-ITM-002"
+            ],
+            "notation_dlvId": "623570",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Constitution, attributions, composition num\u00e9rique et dur\u00e9e du mandat de la commission sp\u00e9ciale sur le terrorisme</title><label>Proposition de d\u00e9cision: B8-0477/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2758",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+            "type": "Activity",
+            "activity_date": "2017-07-06",
+            "activity_id": "MTG-PL-2017-07-06-VOT-ITM-622176-5",
+            "activity_label": {
+                "fr": "Burundi"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0475",
+                "eli/dl/doc/B-8-2017-0474",
+                "eli/dl/doc/B-8-2017-0465",
+                "eli/dl/doc/B-8-2017-0471",
+                "eli/dl/doc/B-8-2017-0469",
+                "eli/dl/doc/B-8-2017-0468",
+                "eli/dl/doc/B-8-2017-0476"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-06-OJ-ITM-V-87"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-06-VOT-ITM-005"
+            ],
+            "notation_dlvId": "622176",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Burundi</title><label>B8-0465/2017, B8-0468/2017, B8-0469/2017, B8-0471/2017, B8-0474/2017, B8-0475/2017, B8-0476/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+            "type": "Activity",
+            "activity_date": "2017-07-06",
+            "activity_id": "MTG-PL-2017-07-06-VOT-ITM-621750-10",
+            "activity_label": {
+                "fr": "Action de l'Union en faveur de la durabilit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0239"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-06-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-06-VOT-ITM-010"
+            ],
+            "notation_dlvId": "621750",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Action de l'Union en faveur de la durabilit\u00e9</title><label>Rapport: Seb Dance (A8-0239/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2009",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+            "type": "Activity",
+            "activity_date": "2017-07-06",
+            "activity_id": "MTG-PL-2017-07-06-VOT-ITM-621975-6",
+            "activity_label": {
+                "fr": "Fonds europ\u00e9en pour le d\u00e9veloppement durable (FEDD) et cr\u00e9ation de la garantie FEDD et du Fonds de garantie FEDD"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0170"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-06-OJ-ITM-V-76"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-06-VOT-ITM-006"
+            ],
+            "notation_dlvId": "621975",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds europ\u00e9en pour le d\u00e9veloppement durable (FEDD) et cr\u00e9ation de la garantie FEDD et du Fonds de garantie FEDD</title><label>Rapport: Eduard Kukan,  Doru-Claudian Frunzulic\u0103 et  Eider Gardiazabal Rubial (A8-0170/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0281",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+            "type": "Activity",
+            "activity_date": "2017-07-06",
+            "activity_id": "MTG-PL-2017-07-06-VOT-ITM-621435-8",
+            "activity_label": {
+                "fr": "\u00c9change transfrontalier d'exemplaires en format accessible de certaines \u0153uvres et d'autres objets prot\u00e9g\u00e9s en faveur des aveugles, des d\u00e9ficients visuels et des personnes ayant d'autres difficult\u00e9s de lecture des textes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0102"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-06-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-06-VOT-ITM-008"
+            ],
+            "notation_dlvId": "621435",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9change transfrontalier d'exemplaires en format accessible de certaines \u0153uvres et d'autres objets prot\u00e9g\u00e9s en faveur des aveugles, des d\u00e9ficients visuels et des personnes ayant d'autres difficult\u00e9s de lecture des textes</title><label>Rapport: Max Andersson (A8-0102/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0279",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+            "type": "Activity",
+            "activity_date": "2017-07-06",
+            "activity_id": "MTG-PL-2017-07-06-VOT-ITM-621437-1",
+            "activity_label": {
+                "fr": "Rapport 2016 sur la Turquie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0234"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-06-OJ-ITM-V-17"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-06-VOT-ITM-001"
+            ],
+            "notation_dlvId": "621437",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport 2016 sur la Turquie</title><label>Rapport: Kati Piri (A8-0234/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2308",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+            "type": "Activity",
+            "activity_date": "2017-07-06",
+            "activity_id": "MTG-PL-2017-07-06-VOT-ITM-622174-4",
+            "activity_label": {
+                "fr": "\u00c9rythr\u00e9e, en particulier les cas d'Abune Antonios et Dawit Isaak"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0472",
+                "eli/dl/doc/B-8-2017-0467",
+                "eli/dl/doc/B-8-2017-0470",
+                "eli/dl/doc/B-8-2017-0466",
+                "eli/dl/doc/B-8-2017-0473",
+                "eli/dl/doc/B-8-2017-0464"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-06-OJ-ITM-V-86"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-06-VOT-ITM-004"
+            ],
+            "notation_dlvId": "622174",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9rythr\u00e9e, en particulier les cas d'Abune Antonios et Dawit Isaak</title><label>B8-0464/2017, B8-0466/2017, B8-0467/2017, B8-0470/2017, B8-0472/2017, B8-0473/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3",
+            "type": "Activity",
+            "activity_date": "2017-07-06",
+            "activity_id": "MTG-PL-2017-07-06-VOT-ITM-622171-3",
+            "activity_label": {
+                "fr": "Les cas du laur\u00e9at du prix Nobel Liu Xiaobo et de Lee Ming-che"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0462",
+                "eli/dl/doc/B-8-2017-0459",
+                "eli/dl/doc/B-8-2017-0461",
+                "eli/dl/doc/B-8-2017-0460",
+                "eli/dl/doc/B-8-2017-0463"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-07-06-OJ-ITM-V-85"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-07-06-VOT-ITM-003"
+            ],
+            "notation_dlvId": "622171",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les cas du laur\u00e9at du prix Nobel Liu Xiaobo et de Lee Ming-che</title><label>B8-0459/2017, B8-0460/2017, B8-0461/2017, B8-0462/2017, B8-0463/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-07-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621431-7",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621436-9",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621438-11",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-623570-2",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622176-5",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621750-10",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621975-6",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621435-8",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-621437-1",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622174-4",
+                        "eli/dl/event/MTG-PL-2017-07-06-VOT-ITM-622171-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

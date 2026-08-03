@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2025-09-08-VOT-ITM-000001",
+            "type": "Activity",
+            "activity_date": "2025-09-08",
+            "activity_id": "MTG-PL-2025-09-08-VOT-ITM-000001",
+            "activity_label": {
+                "pt": "Ordem do dia de quarta-feira \u2013 Pedido do Grupo PPE",
+                "et": "Kolmap\u00e4eva p\u00e4evakord \u2013 fraktsiooni PPE taotlus",
+                "sl": "Sredin dnevni red \u2013 zahteva skupine PPE",
+                "ga": "Cl\u00e1r Oibre D\u00e9 C\u00e9adaoin - Iarraidh \u00f3n nGr\u00fapa PPE",
+                "sv": "Onsdagens f\u00f6redragningslista \u2013 beg\u00e4ran fr\u00e5n PPE-gruppen",
+                "bg": "\u0414\u043d\u0435\u0432\u0435\u043d \u0440\u0435\u0434 \u0437\u0430 \u0441\u0440\u044f\u0434\u0430 - \u0438\u0441\u043a\u0430\u043d\u0435 \u043d\u0430 \u0433\u0440\u0443\u043f\u0430\u0442\u0430 PPE",
+                "cs": "St\u0159ede\u010dn\u00ed po\u0159ad jedn\u00e1n\u00ed \u2013 \u017e\u00e1dost skupiny PPE",
+                "fr": "Ordre du jour de mercredi - Demande du groupe PPE",
+                "lv": "Tre\u0161dienas darba k\u0101rt\u012bba - PPE grupas piepras\u012bjums",
+                "it": "Ordine del giorno di mercoled\u00ec \u2013 Richiesta del gruppo PPE",
+                "hr": "Dnevni red za srijedu \u2013 Zahtjev Kluba zastupnika PPE-a",
+                "mul": "Ordre du jour de mercredi - Demande du groupe PPE - Wednesday\u2019s Agenda - Request from the PPE Group - Tagesordnung f\u00fcr Mittwoch - Antrag der PPE-Fraktion",
+                "mt": "A\u0121enda tal-Erbg\u0127a - Talba tal-Grupp PPE",
+                "fi": "Keskiviikon esityslista \u2013 PPE-ryhm\u00e4n pyynt\u00f6",
+                "sk": "Program stredaj\u0161ieho rokovania \u2013 \u017eiados\u0165 skupiny PPE",
+                "pl": "Porz\u0105dek obrad w \u015brod\u0119 \u2013 wniosek grupy PPE",
+                "nl": "Agenda van woensdag \u2013 Verzoek van de PPE-Fractie",
+                "ro": "Ordinea de zi de miercuri - Solicitarea Grupului PPE",
+                "en": "Wednesday\u2019s agenda \u2013 Request by the PPE Group",
+                "da": "Dagsorden for onsdag \u2013 Anmodning fra PPE-Gruppen",
+                "de": "Tagesordnung f\u00fcr Mittwoch\u00a0\u2013 Antrag der PPE-Fraktion",
+                "es": "Orden del d\u00eda del mi\u00e9rcoles - Solicitud del Grupo PPE",
+                "hu": "Szerdai napirend \u2013 a PPE k\u00e9pvisel\u0151csoport k\u00e9relme",
+                "el": "\u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03b1 \u03b4\u03b9\u03ac\u03c4\u03b1\u03be\u03b7 \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7\u03c2 \u2013 \u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u039f\u03bc\u03ac\u03b4\u03b1\u03c2 PPE",
+                "lt": "Tre\u010diadienio darbotvark\u0117 - PPE frakcijos pra\u0161ymas"
+            },
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2025-09-08-DEC-178758"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-10-2025-09-08-VOT-ITM-002"
+            ],
+            "notation_dlvId": "000001",
+            "structuredLabel": {
+                "hu": "<structuredLabel><title>Szerdai napirend \u2013 a PPE k\u00e9pvisel\u0151csoport k\u00e9relme</title><label/></structuredLabel>",
+                "fr": "<structuredLabel><title>Ordre du jour de mercredi - Demande du groupe PPE</title><label/></structuredLabel>",
+                "lt": "<structuredLabel><title>Tre\u010diadienio darbotvark\u0117 - PPE frakcijos pra\u0161ymas</title><label/></structuredLabel>",
+                "et": "<structuredLabel><title>Kolmap\u00e4eva p\u00e4evakord \u2013 fraktsiooni PPE taotlus</title><label/></structuredLabel>",
+                "es": "<structuredLabel><title>Orden del d\u00eda del mi\u00e9rcoles - Solicitud del Grupo PPE</title><label/></structuredLabel>",
+                "pt": "<structuredLabel><title>Ordem do dia de quarta-feira \u2013 Pedido do Grupo PPE</title><label/></structuredLabel>",
+                "de": "<structuredLabel><title>Tagesordnung f\u00fcr Mittwoch\u00a0\u2013 Antrag der PPE-Fraktion</title><label/></structuredLabel>",
+                "en": "<structuredLabel><title>Wednesday\u2019s agenda \u2013 Request by the PPE Group</title><label/></structuredLabel>",
+                "ga": "<structuredLabel><title>Cl\u00e1r Oibre D\u00e9 C\u00e9adaoin - Iarraidh \u00f3n nGr\u00fapa PPE</title><label/></structuredLabel>",
+                "pl": "<structuredLabel><title>Porz\u0105dek obrad w \u015brod\u0119 \u2013 wniosek grupy PPE</title><label/></structuredLabel>",
+                "cs": "<structuredLabel><title>St\u0159ede\u010dn\u00ed po\u0159ad jedn\u00e1n\u00ed \u2013 \u017e\u00e1dost skupiny PPE</title><label/></structuredLabel>",
+                "mt": "<structuredLabel><title>A\u0121enda tal-Erbg\u0127a - Talba tal-Grupp PPE</title><label/></structuredLabel>",
+                "sk": "<structuredLabel><title>Program stredaj\u0161ieho rokovania \u2013 \u017eiados\u0165 skupiny PPE</title><label/></structuredLabel>",
+                "ro": "<structuredLabel><title>Ordinea de zi de miercuri - Solicitarea Grupului PPE</title><label/></structuredLabel>",
+                "sv": "<structuredLabel><title>Onsdagens f\u00f6redragningslista \u2013 beg\u00e4ran fr\u00e5n PPE-gruppen</title><label/></structuredLabel>",
+                "da": "<structuredLabel><title>Dagsorden for onsdag \u2013 Anmodning fra PPE-Gruppen</title><label/></structuredLabel>",
+                "lv": "<structuredLabel><title>Tre\u0161dienas darba k\u0101rt\u012bba - PPE grupas piepras\u012bjums</title><label/></structuredLabel>",
+                "it": "<structuredLabel><title>Ordine del giorno di mercoled\u00ec \u2013 Richiesta del gruppo PPE</title><label/></structuredLabel>",
+                "fi": "<structuredLabel><title>Keskiviikon esityslista \u2013 PPE-ryhm\u00e4n pyynt\u00f6</title><label/></structuredLabel>",
+                "sl": "<structuredLabel><title>Sredin dnevni red \u2013 zahteva skupine PPE</title><label/></structuredLabel>",
+                "nl": "<structuredLabel><title>Agenda van woensdag \u2013 Verzoek van de PPE-Fractie</title><label/></structuredLabel>",
+                "bg": "<structuredLabel><title>\u0414\u043d\u0435\u0432\u0435\u043d \u0440\u0435\u0434 \u0437\u0430 \u0441\u0440\u044f\u0434\u0430 - \u0438\u0441\u043a\u0430\u043d\u0435 \u043d\u0430 \u0433\u0440\u0443\u043f\u0430\u0442\u0430 PPE</title><label/></structuredLabel>",
+                "el": "<structuredLabel><title>\u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03b1 \u03b4\u03b9\u03ac\u03c4\u03b1\u03be\u03b7 \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7\u03c2 \u2013 \u0391\u03af\u03c4\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u039f\u03bc\u03ac\u03b4\u03b1\u03c2 PPE</title><label/></structuredLabel>",
+                "hr": "<structuredLabel><title>Dnevni red za srijedu \u2013 Zahtjev Kluba zastupnika PPE-a</title><label/></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

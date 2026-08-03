@@ -1,0 +1,1125 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754013-13",
+            "activity_label": {
+                "fr": "Paquet \u00abMarch\u00e9 unique\u00bb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0558",
+                "eli/dl/doc/B-8-2018-0557",
+                "eli/dl/doc/B-8-2018-0559",
+                "eli/dl/doc/B-8-2018-0560"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-60"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-013"
+            ],
+            "notation_dlvId": "754013",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Paquet \u00abMarch\u00e9 unique\u00bb</title><label>Propositions de r\u00e9solution: B8-0557/2018, B8-0558/2018, B8-0559/2018, B8-0560/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2903",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754022-20",
+            "activity_label": {
+                "fr": "Accord d'association UE-Ukraine"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0369"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-020"
+            ],
+            "notation_dlvId": "754022",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord d'association UE-Ukraine</title><label>Rapport: Michael Gahler (A8-0369/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2283",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-755756-5",
+            "activity_label": {
+                "fr": "Nouveau budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2019"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0454"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-96"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-005"
+            ],
+            "notation_dlvId": "755756",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nouveau budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2019</title><label>Rapport: Daniele Viotti et  Paul R\u00fcbig (A8-0454/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2275",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754125-18",
+            "activity_label": {
+                "fr": "\u00c9tablissement du Fonds europ\u00e9en de la d\u00e9fense"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0412"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-92"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-018"
+            ],
+            "notation_dlvId": "754125",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement du Fonds europ\u00e9en de la d\u00e9fense</title><label>Rapport: Zdzis\u0142aw Krasnod\u0119bski (A8-0412/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0254",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754283-2",
+            "activity_label": {
+                "fr": "Mobilisation de l\u2019instrument de flexibilit\u00e9 aux fins du financement de mesures budg\u00e9taires imm\u00e9diates pour faire face aux d\u00e9fis actuels li\u00e9s \u00e0 la migration, \u00e0 l\u2019afflux de r\u00e9fugi\u00e9s et\u00a0aux menaces pesant sur la s\u00e9curit\u00e9"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0455"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-97"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-002"
+            ],
+            "notation_dlvId": "754283",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation de l\u2019instrument de flexibilit\u00e9 aux fins du financement de mesures budg\u00e9taires imm\u00e9diates pour faire face aux d\u00e9fis actuels li\u00e9s \u00e0 la migration, \u00e0 l\u2019afflux de r\u00e9fugi\u00e9s et\u00a0aux menaces pesant sur la s\u00e9curit\u00e9</title><label>Rapport: Daniele Viotti (A8-0455/2018) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2274",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754020-17",
+            "activity_label": {
+                "fr": "Rapport annuel sur les droits de l\u2019homme et la d\u00e9mocratie dans le monde en 2017 et la politique de l\u2019Union europ\u00e9enne en la mati\u00e8re"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0373"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-017"
+            ],
+            "notation_dlvId": "754020",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur les droits de l\u2019homme et la d\u00e9mocratie dans le monde en 2017 et la politique de l\u2019Union europ\u00e9enne en la mati\u00e8re</title><label>Rapport: Petras Au\u0161trevi\u010dius (A8-0373/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2098",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754288-19",
+            "activity_label": {
+                "fr": "M\u00e9canisme pour l\u2019interconnexion en Europe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0409"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-91"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-019"
+            ],
+            "notation_dlvId": "754288",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>M\u00e9canisme pour l\u2019interconnexion en Europe</title><label>Rapport: Henna Virkkunen,  Marian-Jean Marinescu et  Pavel Teli\u010dka (A8-0409/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0228",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754122-12",
+            "activity_label": {
+                "fr": "Programme d\u2019ex\u00e9cution du programme-cadre \u00abHorizon Europe\u00bb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0410"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-88"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-012"
+            ],
+            "notation_dlvId": "754122",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Programme d\u2019ex\u00e9cution du programme-cadre \u00abHorizon Europe\u00bb</title><label>Rapport: Christian Ehler (A8-0410/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0225",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754283-3",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne aux fins du paiement d'avances dans le cadre du budget g\u00e9n\u00e9ral de l'Union pour\u00a02019"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0453"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-003"
+            ],
+            "notation_dlvId": "754283",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne aux fins du paiement d'avances dans le cadre du budget g\u00e9n\u00e9ral de l'Union pour\u00a02019</title><label>Rapport: Lefteris Christoforou (A8-0453/2018) (majorit\u00e9 des membres qui composent le Parlement requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2074",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754120-11",
+            "activity_label": {
+                "fr": "\u00c9tablissement du programme-cadre \u00abHorizon Europe\u00bb \u2013 d\u00e9finition de ses r\u00e8gles de participation et de diffusion"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0401"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-89"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-011"
+            ],
+            "notation_dlvId": "754120",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement du programme-cadre \u00abHorizon Europe\u00bb \u2013 d\u00e9finition de ses r\u00e8gles de participation et de diffusion</title><label>Rapport: Dan Nica (A8-0401/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0224",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754285-8",
+            "activity_label": {
+                "fr": "Accord de partenariat strat\u00e9gique UE-Japon"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0383"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-54"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-008"
+            ],
+            "notation_dlvId": "754285",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat strat\u00e9gique UE-Japon</title><label>Recommandation: Alojz Peterle (A8-0383/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0122",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754014-14",
+            "activity_label": {
+                "fr": "Constatations et recommandations de la commission sp\u00e9ciale sur le terrorisme"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0374"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-014"
+            ],
+            "notation_dlvId": "754014",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Constatations et recommandations de la commission sp\u00e9ciale sur le terrorisme</title><label>Rapport: Monika Hohlmeier et  Helga Stevens (A8-0374/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2044",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754283-1",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00b06/2018: r\u00e9duction des cr\u00e9dits de paiement et d'engagement (ressources propres)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0399"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-79"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-001"
+            ],
+            "notation_dlvId": "754283",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00b06/2018: r\u00e9duction des cr\u00e9dits de paiement et d'engagement (ressources propres)</title><label>Rapport: Siegfried Mure\u015fan (A8-0399/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2244",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754284-6",
+            "activity_label": {
+                "fr": "Accord de partenariat \u00e9conomique UE-Japon"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0366"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-25"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-006"
+            ],
+            "notation_dlvId": "754284",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat \u00e9conomique UE-Japon</title><label>Recommandation: Pedro Silva Pereira (A8-0366/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0091",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754016-16",
+            "activity_label": {
+                "fr": "Rapport annuel sur la mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0375"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-016"
+            ],
+            "notation_dlvId": "754016",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur la mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune</title><label>Rapport: Ioan Mircea Pa\u015fcu (A8-0375/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2099",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754007-10",
+            "activity_label": {
+                "fr": "Accord euro-m\u00e9diterran\u00e9en relatif aux services a\u00e9riens entre l'UE et la Jordanie (adh\u00e9sion de la Croatie)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0371"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-19"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-010"
+            ],
+            "notation_dlvId": "754007",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord euro-m\u00e9diterran\u00e9en relatif aux services a\u00e9riens entre l'UE et la Jordanie (adh\u00e9sion de la Croatie)</title><label>Recommandation: Keith Taylor (A8-0371/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0003",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754109-9",
+            "activity_label": {
+                "fr": "Accord de partenariat strat\u00e9gique UE-Japon (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0385"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-009"
+            ],
+            "notation_dlvId": "754109",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat strat\u00e9gique UE-Japon (r\u00e9solution)</title><label>Rapport: Alojz Peterle (A8-0385/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0122M",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-755983-4",
+            "activity_label": {
+                "fr": "Nouveau budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2019 - toutes sections"
+            },
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-99"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-004"
+            ],
+            "notation_dlvId": "755983",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nouveau budget g\u00e9n\u00e9ral de l'Union europ\u00e9enne pour l'exercice 2019 - toutes sections</title><label></label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754015-15",
+            "activity_label": {
+                "fr": "Rapport annuel sur la mise en \u0153uvre de la politique \u00e9trang\u00e8re et de s\u00e9curit\u00e9 commune"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0392"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-015"
+            ],
+            "notation_dlvId": "754015",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur la mise en \u0153uvre de la politique \u00e9trang\u00e8re et de s\u00e9curit\u00e9 commune</title><label>Rapport: David McAllister (A8-0392/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2097",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7",
+            "type": "Activity",
+            "activity_date": "2018-12-12",
+            "activity_id": "MTG-PL-2018-12-12-VOT-ITM-754108-7",
+            "activity_label": {
+                "fr": "Accord de partenariat \u00e9conomique UE-Japon (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0367"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-12-12-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-12-12-VOT-ITM-007"
+            ],
+            "notation_dlvId": "754108",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat \u00e9conomique UE-Japon (r\u00e9solution)</title><label>Rapport: Pedro Silva Pereira (A8-0367/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-12-12",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754013-13",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754022-20",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755756-5",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754125-18",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-2",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754020-17",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754288-19",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754122-12",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-3",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754120-11",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754285-8",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754014-14",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754283-1",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754284-6",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754016-16",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754007-10",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754109-9",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-755983-4",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754015-15",
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0091M",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-12-12-VOT-ITM-754108-7"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

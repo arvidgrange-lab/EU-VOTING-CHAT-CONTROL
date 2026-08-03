@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-05-VOT-ITM-939547",
+            "type": "Activity",
+            "activity_date": "2023-10-05",
+            "activity_id": "MTG-PL-2023-10-05-VOT-ITM-939547",
+            "activity_label": {
+                "fr": "Approbation de la nomination de Wopke Hoekstra en tant que membre de la Commission europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/C-9-2023-0335"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-05-OJ-ITM-V-70",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-05-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939547",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Approbation de la nomination de Wopke Hoekstra en tant que membre de la Commission europ\u00e9enne</title><label> (Vote au scrutin secret (article 191 du r\u00e8glement))</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

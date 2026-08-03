@@ -1,0 +1,651 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935603",
+            "activity_label": {
+                "fr": "Nomination du pr\u00e9sident de l'Autorit\u00e9 europ\u00e9enne des march\u00e9s financiers (AEMF)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0272"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_107"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-014"
+            ],
+            "notation_dlvId": "935603",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination du pr\u00e9sident de l'Autorit\u00e9 europ\u00e9enne des march\u00e9s financiers (AEMF)</title><label>Rapport: Irene Tinagli (A9-0272/2021) (Vote au scrutin secret (article 191 du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935645",
+            "activity_label": {
+                "fr": "Proposition de constitution d\u2019une d\u00e9l\u00e9gation \u00e0 l\u2019Assembl\u00e9e parlementaire UE-Royaume-Uni et de d\u00e9termination de sa composition num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0479"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_154"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-018"
+            ],
+            "notation_dlvId": "935645",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Proposition de constitution d\u2019une d\u00e9l\u00e9gation \u00e0 l\u2019Assembl\u00e9e parlementaire UE-Royaume-Uni et de d\u00e9termination de sa composition num\u00e9rique</title><label>B9-0479/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935643",
+            "activity_label": {
+                "fr": "Objection en vertu de l'article 111, paragraphe 3, du r\u00e8glement int\u00e9rieur: crit\u00e8res d\u2019examen technique permettant de d\u00e9terminer \u00e0 quelles conditions une activit\u00e9 \u00e9conomique peut \u00eatre consid\u00e9r\u00e9e comme contribuant substantiellement \u00e0 l\u2019att\u00e9nuation du changement climatique ou \u00e0 l\u2019adaptation \u00e0 celui-ci et si cette activit\u00e9 \u00e9conomique ne cause de pr\u00e9judice important \u00e0 aucun des autres objectifs environnementaux"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0476"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_102"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-016"
+            ],
+            "notation_dlvId": "935643",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection en vertu de l'article 111, paragraphe 3, du r\u00e8glement int\u00e9rieur: crit\u00e8res d\u2019examen technique permettant de d\u00e9terminer \u00e0 quelles conditions une activit\u00e9 \u00e9conomique peut \u00eatre consid\u00e9r\u00e9e comme contribuant substantiellement \u00e0 l\u2019att\u00e9nuation du changement climatique ou \u00e0 l\u2019adaptation \u00e0 celui-ci et si cette activit\u00e9 \u00e9conomique ne cause de pr\u00e9judice important \u00e0 aucun des autres objectifs environnementaux</title><label>B9-0476/2021, B9-0477/2021 (Majorit\u00e9 des membres qui composent le Parlement requise)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935523",
+            "activity_label": {
+                "fr": "Cadre politique de l\u2019UE en mati\u00e8re de s\u00e9curit\u00e9 routi\u00e8re pour la d\u00e9cennie d\u2019action 2021-2030 \u2013 Recommandations pour les prochaines \u00e9tapes de la campagne \u00abVision Z\u00e9ro\u00bb"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0211"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_50"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-009"
+            ],
+            "notation_dlvId": "935523",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cadre politique de l\u2019UE en mati\u00e8re de s\u00e9curit\u00e9 routi\u00e8re pour la d\u00e9cennie d\u2019action 2021-2030 \u2013 Recommandations pour les prochaines \u00e9tapes de la campagne \u00abVision Z\u00e9ro\u00bb</title><label>Rapport: Elena Kountoura (A9-0211/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2014",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935644",
+            "activity_label": {
+                "fr": "Objection en vertu de l\u2019article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: substances actives, dont le chlorotoluron et le dif\u00e9noconazole"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0481"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_101"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-017"
+            ],
+            "notation_dlvId": "935644",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Objection en vertu de l\u2019article 112, paragraphes 2 et 3, du r\u00e8glement int\u00e9rieur: substances actives, dont le chlorotoluron et le dif\u00e9noconazole</title><label>B9-0481/2021</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2869",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935544",
+            "activity_label": {
+                "fr": "Accord de partenariat UE/Groenland et Danemark dans le domaine de la p\u00eache durable"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0233"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_28"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-011"
+            ],
+            "notation_dlvId": "935544",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat UE/Groenland et Danemark dans le domaine de la p\u00eache durable</title><label>Recommandation: Pierre Karleskind (A9-0233/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935627",
+            "activity_label": {
+                "fr": "Renouvellement du mandat de Julia Laffranque au comit\u00e9 institu\u00e9 au titre de l'article 255 du trait\u00e9 sur le fonctionnement de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2021-0478"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_74"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-015"
+            ],
+            "notation_dlvId": "935627",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Renouvellement du mandat de Julia Laffranque au comit\u00e9 institu\u00e9 au titre de l'article 255 du trait\u00e9 sur le fonctionnement de l'Union europ\u00e9enne</title><label>B9-0478/2021 (Vote au scrutin secret (article 191 du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935526",
+            "activity_label": {
+                "fr": "Accord de partenariat UE/Groenland et Danemark dans le domaine de la p\u00eache durable (r\u00e9solution)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0235"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_27"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-012"
+            ],
+            "notation_dlvId": "935526",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de partenariat UE/Groenland et Danemark dans le domaine de la p\u00eache durable (r\u00e9solution)</title><label>Rapport: Pierre Karleskind (A9-0235/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-0037M",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935565",
+            "activity_label": {
+                "fr": "Reconstitution des stocks halieutiques en M\u00e9diterran\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0225"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-006"
+            ],
+            "notation_dlvId": "935565",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Reconstitution des stocks halieutiques en M\u00e9diterran\u00e9e</title><label>Rapport: Raffaele Stancanelli (A9-0225/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935543",
+            "activity_label": {
+                "fr": "Suspension temporaire des droits autonomes du tarif douanier commun lors de l\u2019importation d\u2019un certain nombre de produits industriels aux \u00celes Canaries"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0267"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_103"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-010"
+            ],
+            "notation_dlvId": "935543",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Suspension temporaire des droits autonomes du tarif douanier commun lors de l\u2019importation d\u2019un certain nombre de produits industriels aux \u00celes Canaries</title><label>Rapport: Younous Omarjee (A9-0267/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935510",
+            "activity_label": {
+                "fr": "Environnement: le r\u00e8glement d\u2019Aarhus"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0152"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-001"
+            ],
+            "notation_dlvId": "935510",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Environnement: le r\u00e8glement d\u2019Aarhus</title><label>Rapport: Christian Doleschal (A9-0152/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935564",
+            "activity_label": {
+                "fr": "L\u2019intelligence artificielle en droit p\u00e9nal et son utilisation par les autorit\u00e9s polici\u00e8res et judiciaires dans les affaires p\u00e9nales"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0232"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_48"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-004"
+            ],
+            "notation_dlvId": "935564",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u2019intelligence artificielle en droit p\u00e9nal et son utilisation par les autorit\u00e9s polici\u00e8res et judiciaires dans les affaires p\u00e9nales</title><label>Rapport: Petar Vitanov (A9-0232/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-2016",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935528",
+            "activity_label": {
+                "fr": "Le r\u00f4le de la politique de d\u00e9veloppement face \u00e0 la perte de biodiversit\u00e9 dans les pays en d\u00e9veloppement, dans le contexte de la r\u00e9alisation du programme de d\u00e9veloppement durable \u00e0 l\u2019horizon 2030"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0258"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-003"
+            ],
+            "notation_dlvId": "935528",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Le r\u00f4le de la politique de d\u00e9veloppement face \u00e0 la perte de biodiversit\u00e9 dans les pays en d\u00e9veloppement, dans le contexte de la r\u00e9alisation du programme de d\u00e9veloppement durable \u00e0 l\u2019horizon 2030</title><label>Rapport: Mich\u00e8le Rivasi (A9-0258/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527",
+            "type": "Activity",
+            "activity_date": "2021-10-05",
+            "activity_id": "MTG-PL-2021-10-05-VOT-ITM-935527",
+            "activity_label": {
+                "fr": "Les cons\u00e9quences des violences conjugales et des droits de garde sur les femmes et les enfants"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2021-0254"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2021-10-05-OJ-ITM-V_47"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2021-10-05-VOT-ITM-005"
+            ],
+            "notation_dlvId": "935527",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les cons\u00e9quences des violences conjugales et des droits de garde sur les femmes et les enfants</title><label>Rapport: Elena Kountoura, Luisa Regimenti (A9-0254/2021)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2021-10-05",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935603",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935645",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935643",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935523",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935644",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935544",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935627",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935526",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935565",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935543",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935510",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935564",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935528",
+                        "eli/dl/event/MTG-PL-2021-10-05-VOT-ITM-935527"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

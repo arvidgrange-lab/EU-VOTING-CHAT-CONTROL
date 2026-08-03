@@ -1,0 +1,803 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-730979-5",
+            "activity_label": {
+                "fr": "Protection des personnes physiques \u00e0 l'\u00e9gard du traitement des donn\u00e9es \u00e0 caract\u00e8re personnel par les institutions, organes et organismes de l'Union et libre circulation de ces donn\u00e9es"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0313",
+                "eli/dl/doc/A-8-2018-0313"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-005"
+            ],
+            "notation_dlvId": "730979",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protection des personnes physiques \u00e0 l'\u00e9gard du traitement des donn\u00e9es \u00e0 caract\u00e8re personnel par les institutions, organes et organismes de l'Union et libre circulation de ces donn\u00e9es</title><label>Rapport: Cornelia Ernst (A8-0313/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0002",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-730964-12",
+            "activity_label": {
+                "fr": "Plan d\u2019action europ\u00e9en fond\u00e9 sur le principe \u00abUne seule sant\u00e9\u00bb pour combattre la r\u00e9sistance aux antimicrobiens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0257"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-24"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-012"
+            ],
+            "notation_dlvId": "730964",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Plan d\u2019action europ\u00e9en fond\u00e9 sur le principe \u00abUne seule sant\u00e9\u00bb pour combattre la r\u00e9sistance aux antimicrobiens </title><label>Rapport: Karin Kadenbach (A8-0257/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2254",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-730984-15",
+            "activity_label": {
+                "fr": "Les produits de qualit\u00e9 diff\u00e9renci\u00e9e sur le march\u00e9 int\u00e9rieur"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0267"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-22"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-015"
+            ],
+            "notation_dlvId": "730984",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les produits de qualit\u00e9 diff\u00e9renci\u00e9e sur le march\u00e9 int\u00e9rieur</title><label>Rapport: Olga Sehnalov\u00e1 (A8-0267/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2008",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-730977-4",
+            "activity_label": {
+                "fr": "Accord sur la coop\u00e9ration entre Eurojust et l'Albanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0275"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-89"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-004"
+            ],
+            "notation_dlvId": "730977",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord sur la coop\u00e9ration entre Eurojust et l'Albanie</title><label>Rapport: Laura Ferrara (A8-0275/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-0807",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-732507-8",
+            "activity_label": {
+                "fr": "Les incendies survenus en juillet 2018 \u00e0 Mati, dans la r\u00e9gion de l'Attique (Gr\u00e8ce), et la r\u00e9ponse de l'Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0392",
+                "eli/dl/doc/B-8-2018-0394",
+                "eli/dl/doc/B-8-2018-0388",
+                "eli/dl/doc/B-8-2018-0391",
+                "eli/dl/doc/B-8-2018-0390",
+                "eli/dl/doc/B-8-2018-0393"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-99"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-008"
+            ],
+            "notation_dlvId": "732507",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Les incendies survenus en juillet 2018 \u00e0 Mati, dans la r\u00e9gion de l'Attique (Gr\u00e8ce), et la r\u00e9ponse de l'Union europ\u00e9enne</title><label>Propositions de r\u00e9solution: B8-0388/2018, B8-0390/2018, B8-0391/2018, B8-0392/2018, B8-0393/2018, B8-0394/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2847",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-732512-1",
+            "activity_label": {
+                "fr": "Ouganda, arrestation de d\u00e9put\u00e9s de l'opposition"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0368",
+                "eli/dl/doc/B-8-2018-0367",
+                "eli/dl/doc/B-8-2018-0364",
+                "eli/dl/doc/B-8-2018-0365",
+                "eli/dl/doc/B-8-2018-0372",
+                "eli/dl/doc/B-8-2018-0378"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-94"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-001"
+            ],
+            "notation_dlvId": "732512",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Ouganda, arrestation de d\u00e9put\u00e9s de l'opposition</title><label>Propositions de r\u00e9solution: B8-0364/2018, B8-0365/2018, B8-0367/2018, B8-0368/2018, B8-0372/2018, B8-0378/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2840",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-732514-2",
+            "activity_label": {
+                "fr": "Myanmar/Birmanie, notamment le cas des journalistes Wa Lone et Kyaw Soe Oo"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0380",
+                "eli/dl/doc/B-8-2018-0382",
+                "eli/dl/doc/B-8-2018-0379",
+                "eli/dl/doc/B-8-2018-0376",
+                "eli/dl/doc/B-8-2018-0374",
+                "eli/dl/doc/B-8-2018-0371",
+                "eli/dl/doc/B-8-2018-0381"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-95"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-002"
+            ],
+            "notation_dlvId": "732514",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Myanmar/Birmanie, notamment le cas des journalistes Wa Lone et Kyaw Soe Oo</title><label>Propositions de r\u00e9solution: B8-0371/2018, B8-0374/2018, B8-0376/2018, B8-0379/2018, B8-0380/2018, B8-0381/2018, B8-0382/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2841",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-732240-11",
+            "activity_label": {
+                "fr": "Solutions possibles pour les questions \u00e0 l\u2019interface entre les textes l\u00e9gislatifs relatifs aux substances chimiques, aux produits et aux d\u00e9chets"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0363"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-011"
+            ],
+            "notation_dlvId": "732240",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Solutions possibles pour les questions \u00e0 l\u2019interface entre les textes l\u00e9gislatifs relatifs aux substances chimiques, aux produits et aux d\u00e9chets</title><label>Proposition de r\u00e9solution: B8-0363/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2589",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-730982-13",
+            "activity_label": {
+                "fr": "L'Europe en mouvement: programme pour l\u2019avenir de la mobilit\u00e9 dans l\u2019UE"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0241"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-49"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-013"
+            ],
+            "notation_dlvId": "730982",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'Europe en mouvement: programme pour l\u2019avenir de la mobilit\u00e9 dans l\u2019UE</title><label>Rapport: Istv\u00e1n Ujhelyi (A8-0241/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2257",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-730981-10",
+            "activity_label": {
+                "fr": "Une strat\u00e9gie europ\u00e9enne sur les mati\u00e8res plastiques dans une \u00e9conomie circulaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0262"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-010"
+            ],
+            "notation_dlvId": "730981",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Une strat\u00e9gie europ\u00e9enne sur les mati\u00e8res plastiques dans une \u00e9conomie circulaire</title><label>Rapport: Mark Demesmaeker (A8-0262/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2035",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-732511-9",
+            "activity_label": {
+                "fr": "Menace de d\u00e9molition de Khan el-Ahmar et d'autres villages b\u00e9douins"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0384",
+                "eli/dl/doc/B-8-2018-0385",
+                "eli/dl/doc/B-8-2018-0383",
+                "eli/dl/doc/B-8-2018-0389",
+                "eli/dl/doc/B-8-2018-0387",
+                "eli/dl/doc/B-8-2018-0386"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-100"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-009"
+            ],
+            "notation_dlvId": "732511",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Menace de d\u00e9molition de Khan el-Ahmar et d'autres villages b\u00e9douins</title><label>Propositions de r\u00e9solution: B8-0383/2018, B8-0384/2018, B8-0385/2018, B8-0386/2018, B8-0387/2018, B8-0389/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2849",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-732516-3",
+            "activity_label": {
+                "fr": "Cambodge, notamment le cas de Kem Sokha"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2018-0370",
+                "eli/dl/doc/B-8-2018-0373",
+                "eli/dl/doc/B-8-2018-0369",
+                "eli/dl/doc/B-8-2018-0375",
+                "eli/dl/doc/B-8-2018-0366",
+                "eli/dl/doc/B-8-2018-0377"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-96"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-003"
+            ],
+            "notation_dlvId": "732516",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cambodge, notamment le cas de Kem Sokha</title><label>Propositions de r\u00e9solution: B8-0366/2018, B8-0369/2018, B8-0370/2018, B8-0373/2018, B8-0375/2018, B8-0377/2018</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2018-2842",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-730980-6",
+            "activity_label": {
+                "fr": "Mise en place d'un portail num\u00e9rique unique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0054"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-55"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-006"
+            ],
+            "notation_dlvId": "730980",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en place d'un portail num\u00e9rique unique</title><label>Rapport: Marlene Mizzi (A8-0054/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0086",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-732738-7",
+            "activity_label": {
+                "fr": "Liste des pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa pour franchir les fronti\u00e8res ext\u00e9rieures et de ceux dont les ressortissants sont exempt\u00e9s de cette obligation (Kosovo*)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0261"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-101"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-007"
+            ],
+            "notation_dlvId": "732738",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Liste des pays tiers dont les ressortissants sont soumis \u00e0 l'obligation de visa pour franchir les fronti\u00e8res ext\u00e9rieures et de ceux dont les ressortissants sont exempt\u00e9s de cette obligation (Kosovo*)</title><label>Rapport: Tanja Fajon (A8-0261/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0139",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14",
+            "type": "Activity",
+            "activity_date": "2018-09-13",
+            "activity_id": "MTG-PL-2018-09-13-VOT-ITM-730983-14",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre du r\u00e8glement sur les produits phytopharmaceutiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2018-0268"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2018-09-13-OJ-ITM-V-36"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2018-09-13-VOT-ITM-014"
+            ],
+            "notation_dlvId": "730983",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre du r\u00e8glement sur les produits phytopharmaceutiques</title><label>Rapport: Pavel Poc (A8-0268/2018)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2018-09-13",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730979-5",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730964-12",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730984-15",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730977-4",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732507-8",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732512-1",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732514-2",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732240-11",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730982-13",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730981-10",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732511-9",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732516-3",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730980-6",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-732738-7",
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2128",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2018-09-13-VOT-ITM-730983-14"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

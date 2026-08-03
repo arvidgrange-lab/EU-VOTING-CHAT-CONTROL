@@ -1,0 +1,770 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443482-5",
+            "activity_label": {
+                "fr": "Coop\u00e9ration scientifique et technologique avec les \u00celes F\u00e9ro\u00e9: Horizon 2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0180"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-005"
+            ],
+            "notation_dlvId": "443482",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coop\u00e9ration scientifique et technologique avec les \u00celes F\u00e9ro\u00e9: Horizon 2020</title><label>Recommandation: Jerzy Buzek (A8-0180/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0228",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443465-7",
+            "activity_label": {
+                "fr": "R\u00e9serve de stabilit\u00e9 du march\u00e9 pour le syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de gaz \u00e0 effet de serre de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0029"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-46"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-007"
+            ],
+            "notation_dlvId": "443465",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00e9serve de stabilit\u00e9 du march\u00e9 pour le syst\u00e8me d'\u00e9change de quotas d'\u00e9mission de gaz \u00e0 effet de serre de l'Union</title><label>Rapport: Ivo Belet (A8-0029/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0011",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443480-12",
+            "activity_label": {
+                "fr": "Budget 2016 - mandat pour le trilogue"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0217"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-80"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-012"
+            ],
+            "notation_dlvId": "443480",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Budget 2016 - mandat pour le trilogue</title><label>Rapport: Jos\u00e9 Manuel Fernandes (A8-0217/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2074",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443482-2",
+            "activity_label": {
+                "fr": "Accord de stabilisation et d'association avec l'ancienne R\u00e9publique yougoslave de Mac\u00e9doine (protocole afin de tenir compte de l'adh\u00e9sion de la Croatie \u00e0 l'UE)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0188"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-54"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-002"
+            ],
+            "notation_dlvId": "443482",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de stabilisation et d'association avec l'ancienne R\u00e9publique yougoslave de Mac\u00e9doine (protocole afin de tenir compte de l'adh\u00e9sion de la Croatie \u00e0 l'UE)</title><label>Recommandation: Ivo Vajgl (A8-0188/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0386",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443485-13",
+            "activity_label": {
+                "fr": "Initiative pour l'emploi vert"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0204"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-30"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-013"
+            ],
+            "notation_dlvId": "443485",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Initiative pour l'emploi vert </title><label>Rapport: Jean Lambert (A8-0204/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2238",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443482-4",
+            "activity_label": {
+                "fr": "Coop\u00e9ration scientifique et technologique avec l'Inde: renouvellement de l'accord"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0179"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-004"
+            ],
+            "notation_dlvId": "443482",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Coop\u00e9ration scientifique et technologique avec l'Inde: renouvellement de l'accord</title><label>Recommandation: Jerzy Buzek (A8-0179/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0293",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443961-8",
+            "activity_label": {
+                "fr": "Gens de mer"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0127"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-65"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-008"
+            ],
+            "notation_dlvId": "443961",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gens de mer</title><label>Rapport: Elisabeth Morin-Chartier (A8-0127/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0390",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443942-14",
+            "activity_label": {
+                "fr": "L'\u00e9vasion fiscale et la fraude fiscale: des d\u00e9fis dans les pays en d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0184"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-014"
+            ],
+            "notation_dlvId": "443942",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'\u00e9vasion fiscale et la fraude fiscale: des d\u00e9fis dans les pays en d\u00e9veloppement</title><label>Rapport: Elly Schlein (A8-0184/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2058",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443482-3",
+            "activity_label": {
+                "fr": "Accord de stabilisation et d'association avec la Serbie (protocole afin de tenir compte de l'adh\u00e9sion de la Croatie)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0189"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-53"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-003"
+            ],
+            "notation_dlvId": "443482",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de stabilisation et d'association avec la Serbie (protocole afin de tenir compte de l'adh\u00e9sion de la Croatie)</title><label>Recommandation: David McAllister (A8-0189/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0039",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443488-9",
+            "activity_label": {
+                "fr": "Accord de coop\u00e9ration scientifique et technologique avec la Suisse: Horizon 2020 et activit\u00e9s d'ITER"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0181"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-61"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-009"
+            ],
+            "notation_dlvId": "443488",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de coop\u00e9ration scientifique et technologique avec la Suisse: Horizon 2020 et activit\u00e9s d'ITER </title><label>Recommandation: Jerzy Buzek (A8-0181/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0304",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443483-10",
+            "activity_label": {
+                "fr": "Lignes directrices pour les politiques de l\u2019emploi des \u00c9tats membres"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0205"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-35"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-010"
+            ],
+            "notation_dlvId": "443483",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lignes directrices pour les politiques de l\u2019emploi des \u00c9tats membres</title><label>Rapport: Laura Agea (A8-0205/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0051",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-435122-6",
+            "activity_label": {
+                "fr": "Engagement \u00e0 long terme des actionnaires et d\u00e9claration sur la gouvernance d'entreprise"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0158"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-90"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-006"
+            ],
+            "notation_dlvId": "435122",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Engagement \u00e0 long terme des actionnaires et d\u00e9claration sur la gouvernance d'entreprise</title><label>Rapport: Sergio Gaetano Cofferati (A8-0158/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0121",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-445226-11",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2015/001 FI/Broadcom)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0210"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-96"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-011"
+            ],
+            "notation_dlvId": "445226",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2015/001 FI/Broadcom)</title><label>Rapport: Petri Sarvamaa (A8-0210/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2125",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-435126-1",
+            "activity_label": {
+                "fr": "N\u00e9gociations du partenariat transatlantique de commerce et d'investissement (PTCI)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0175"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-98"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-001"
+            ],
+            "notation_dlvId": "435126",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>N\u00e9gociations du partenariat transatlantique de commerce et d'investissement (PTCI)</title><label>Rapport: Bernd Lange (A8-0175/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2228",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15",
+            "type": "Activity",
+            "activity_date": "2015-07-08",
+            "activity_id": "MTG-PL-2015-07-08-VOT-ITM-443458-15",
+            "activity_label": {
+                "fr": "Efficacit\u00e9 des ressources: le passage \u00e0 une \u00e9conomie circulaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0215"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-07-08-OJ-ITM-V-84"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-07-08-VOT-ITM-015"
+            ],
+            "notation_dlvId": "443458",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Efficacit\u00e9 des ressources: le passage \u00e0 une \u00e9conomie circulaire</title><label>Rapport: Sirpa Pietik\u00e4inen (A8-0215/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-07-08",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-5",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443465-7",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443480-12",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-2",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443485-13",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-4",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443961-8",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443942-14",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443482-3",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443488-9",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443483-10",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435122-6",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-445226-11",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-435126-1",
+                        "eli/dl/event/MTG-PL-2015-07-08-VOT-ITM-443458-15"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

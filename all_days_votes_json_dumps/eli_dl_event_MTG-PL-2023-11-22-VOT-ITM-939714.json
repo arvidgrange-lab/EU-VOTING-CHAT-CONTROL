@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939714",
+            "activity_label": {
+                "fr": "Accord de libre-\u00e9change entre l\u2019Union europ\u00e9enne et la Nouvelle-Z\u00e9lande (r\u00e9solution)",
+                "mul": "Accord de libre-\u00e9change entre l\u2019Union europ\u00e9enne et la Nouvelle-Z\u00e9lande (r\u00e9solution) - EU/New Zealand Free Trade Agreement (Resolution) - Freihandelsabkommen zwischen der EU und Neuseeland (Entschlie\u00dfung)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0314"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939714",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de libre-\u00e9change entre l\u2019Union europ\u00e9enne et la Nouvelle-Z\u00e9lande (r\u00e9solution)</title><label>Rapport: Daniel Caspary (A9-0314/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

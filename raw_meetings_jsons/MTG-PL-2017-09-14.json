@@ -1,0 +1,779 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-641754-13",
+            "activity_label": {
+                "fr": "Transparence, responsabilit\u00e9 et int\u00e9grit\u00e9 au sein des institutions europ\u00e9ennes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0133"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-102"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-013"
+            ],
+            "notation_dlvId": "641754",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Transparence, responsabilit\u00e9 et int\u00e9grit\u00e9 au sein des institutions europ\u00e9ennes</title><label>Rapport: Sven Giegold (A8-0133/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2041",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-641975-12",
+            "activity_label": {
+                "fr": "\u00c9tablissement d'un instrument contribuant \u00e0 la stabilit\u00e9 et \u00e0 la paix"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0261"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-117"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-012"
+            ],
+            "notation_dlvId": "641975",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9tablissement d'un instrument contribuant \u00e0 la stabilit\u00e9 et \u00e0 la paix</title><label>Rapport: Arnaud Danjean (A8-0261/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-640202-1",
+            "activity_label": {
+                "fr": "Exigences en mati\u00e8re d'accessibilit\u00e9 applicables aux produits et services"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0188"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-001"
+            ],
+            "notation_dlvId": "640202",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Exigences en mati\u00e8re d'accessibilit\u00e9 applicables aux produits et services</title><label>Rapport: Morten L\u00f8kkegaard (A8-0188/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-641576-8",
+            "activity_label": {
+                "fr": "Modernisation du pilier commercial de l'accord d'association UE-Chili"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0267"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-15"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-008"
+            ],
+            "notation_dlvId": "641576",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modernisation du pilier commercial de l'accord d'association UE-Chili</title><label>Rapport: Inmaculada Rodr\u00edguez-Pi\u00f1ero Fern\u00e1ndez (A8-0267/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2057",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-641564-11",
+            "activity_label": {
+                "fr": "Plan pluriannuel pour les stocks d\u00e9mersaux de la mer du Nord et les p\u00eacheries exploitant ces stocks"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0263"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-89"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-011"
+            ],
+            "notation_dlvId": "641564",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Plan pluriannuel pour les stocks d\u00e9mersaux de la mer du Nord et les p\u00eacheries exploitant ces stocks</title><label>Rapport: Ulrike Rodust (A8-0263/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-641507-2",
+            "activity_label": {
+                "fr": "Cambodge, en particulier le cas de Kem Sokha"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0508",
+                "eli/dl/doc/B-8-2017-0506",
+                "eli/dl/doc/B-8-2017-0509",
+                "eli/dl/doc/B-8-2017-0510",
+                "eli/dl/doc/B-8-2017-0511",
+                "eli/dl/doc/B-8-2017-0507"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-96"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-002"
+            ],
+            "notation_dlvId": "641507",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Cambodge, en particulier le cas de Kem Sokha</title><label>Propositions de r\u00e9solution: B8-0506/2017, B8-0507/2017, B8-0508/2017, B8-0509/2017, B8-0510/2017, B8-0511/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2829",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-641506-14",
+            "activity_label": {
+                "fr": "L'avenir du programme Erasmus+"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0495"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-56"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-014"
+            ],
+            "notation_dlvId": "641506",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L'avenir du programme Erasmus+</title><label>Proposition de r\u00e9solution: B8-0495/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2740",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-641508-3",
+            "activity_label": {
+                "fr": "Gabon, r\u00e9pression de l'opposition"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0522",
+                "eli/dl/doc/B-8-2017-0514",
+                "eli/dl/doc/B-8-2017-0526",
+                "eli/dl/doc/B-8-2017-0512",
+                "eli/dl/doc/B-8-2017-0520",
+                "eli/dl/doc/B-8-2017-0515",
+                "eli/dl/doc/B-8-2017-0524"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-97"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-003"
+            ],
+            "notation_dlvId": "641508",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Gabon, r\u00e9pression de l'opposition</title><label>Propositions de r\u00e9solution: B8-0512/2017, B8-0514/2017, B8-0515/2017, B8-0520/2017, B8-0522/2017, B8-0524/2017, B8-0526/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2830",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-640203-15",
+            "activity_label": {
+                "fr": "Une nouvelle strat\u00e9gie en mati\u00e8re de comp\u00e9tences pour l'Europe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0276"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-59"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-015"
+            ],
+            "notation_dlvId": "640203",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Une nouvelle strat\u00e9gie en mati\u00e8re de comp\u00e9tences pour l'Europe</title><label>Rapport: Martina Dlabajov\u00e1 et  Momchil Nekov (A8-0276/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2002",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-640445-10",
+            "activity_label": {
+                "fr": "Fonds de capital-risque europ\u00e9ens et fonds d'entrepreneuriat social europ\u00e9ens"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0120"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-010"
+            ],
+            "notation_dlvId": "640445",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Fonds de capital-risque europ\u00e9ens et fonds d'entrepreneuriat social europ\u00e9ens</title><label>Rapport: Sirpa Pietik\u00e4inen (A8-0120/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0221",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-640198-6",
+            "activity_label": {
+                "fr": "Accord UE-Chili sur le commerce des produits biologiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0257"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-006"
+            ],
+            "notation_dlvId": "640198",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE-Chili sur le commerce des produits biologiques</title><label>Recommandation: Inmaculada Rodr\u00edguez-Pi\u00f1ero Fern\u00e1ndez (A8-0257/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0383",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-641510-5",
+            "activity_label": {
+                "fr": "Myanmar/Birmanie, notamment la situation des Rohingya"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0529",
+                "eli/dl/doc/B-8-2017-0528",
+                "eli/dl/doc/B-8-2017-0531",
+                "eli/dl/doc/B-8-2017-0530",
+                "eli/dl/doc/B-8-2017-0525",
+                "eli/dl/doc/B-8-2017-0527"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-110"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-005"
+            ],
+            "notation_dlvId": "641510",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Myanmar/Birmanie, notamment la situation des Rohingya</title><label>B8-0525/2017, B8-0527/2017, B8-0528/2017, B8-0529/2017, B8-0530/2017, B8-0531/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2838",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-640198-7",
+            "activity_label": {
+                "fr": "Protocole \u00e0 l'accord d'association UE-Chili (adh\u00e9sion de la Croatie)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0277"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-16"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "640198",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Protocole \u00e0 l'accord d'association UE-Chili (adh\u00e9sion de la Croatie)</title><label>Recommandation: Inmaculada Rodr\u00edguez-Pi\u00f1ero Fern\u00e1ndez (A8-0277/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-0042",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-641509-4",
+            "activity_label": {
+                "fr": "Laos, en particulier les cas de Somphone Phimmasone, Lod Thammavong et Soukane Chaithad"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0518",
+                "eli/dl/doc/B-8-2017-0521",
+                "eli/dl/doc/B-8-2017-0517",
+                "eli/dl/doc/B-8-2017-0523",
+                "eli/dl/doc/B-8-2017-0519",
+                "eli/dl/doc/B-8-2017-0513"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-98"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-004"
+            ],
+            "notation_dlvId": "641509",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Laos, en particulier les cas de Somphone Phimmasone, Lod Thammavong et Soukane Chaithad</title><label>Propositions de r\u00e9solution: B8-0513/2017, B8-0517/2017, B8-0518/2017, B8-0519/2017, B8-0521/2017, B8-0523/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2831",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9",
+            "type": "Activity",
+            "activity_date": "2017-09-14",
+            "activity_id": "MTG-PL-2017-09-14-VOT-ITM-640444-9",
+            "activity_label": {
+                "fr": "Prolongation du programme statistique europ\u00e9en jusqu'\u00e0 2020"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0158"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-09-14-OJ-ITM-V-57"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-09-14-VOT-ITM-009"
+            ],
+            "notation_dlvId": "640444",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Prolongation du programme statistique europ\u00e9en jusqu'\u00e0 2020</title><label>Rapport: Roberto Gualtieri (A8-0158/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-09-14",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641754-13",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641975-12",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640202-1",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641576-8",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641564-11",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641507-2",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641506-14",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641508-3",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640203-15",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640445-10",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-6",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641510-5",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640198-7",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-641509-4",
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0265",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-09-14-VOT-ITM-640444-9"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

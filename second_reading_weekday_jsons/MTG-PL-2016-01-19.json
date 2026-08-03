@@ -1,0 +1,416 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496145-1",
+            "type": "Activity",
+            "activity_date": "2016-01-19",
+            "activity_id": "MTG-PL-2016-01-19-VOT-ITM-496145-1",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 parlementaire de Czes\u0142aw Adam Siekierski"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0004"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-19-OJ-ITM-V-76"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-19-VOT-ITM-001"
+            ],
+            "notation_dlvId": "496145",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 parlementaire de Czes\u0142aw Adam Siekierski </title><label>Rapport: Heidi Hautala (A8-0004/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496145-1",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495652-9",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495649-5",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495648-4",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495647-3",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495651-8",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495650-7",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496146-2",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495967-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2241",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496145-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495652-9",
+            "type": "Activity",
+            "activity_date": "2016-01-19",
+            "activity_id": "MTG-PL-2016-01-19-VOT-ITM-495652-9",
+            "activity_label": {
+                "fr": "Vers un acte sur le march\u00e9 unique num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0371"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-19-OJ-ITM-V-33"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-19-VOT-ITM-009"
+            ],
+            "notation_dlvId": "495652",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Vers un acte sur le march\u00e9 unique num\u00e9rique</title><label>Rapport: Kaja Kallas et  Evelyne Gebhardt (A8-0371/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496145-1",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495652-9",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495649-5",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495648-4",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495647-3",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495651-8",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495650-7",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496146-2",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495967-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2147",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495652-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495649-5",
+            "type": "Activity",
+            "activity_date": "2016-01-19",
+            "activity_id": "MTG-PL-2016-01-19-VOT-ITM-495649-5",
+            "activity_label": {
+                "fr": "R\u00f4le du dialogue interculturel, de la diversit\u00e9 culturelle et de l'\u00e9ducation dans la promotion des valeurs fondamentales de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0373"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-19-OJ-ITM-V-61"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-19-VOT-ITM-005"
+            ],
+            "notation_dlvId": "495649",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00f4le du dialogue interculturel, de la diversit\u00e9 culturelle et de l'\u00e9ducation dans la promotion des valeurs fondamentales de l'Union</title><label>Rapport: Julie Ward (A8-0373/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496145-1",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495652-9",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495649-5",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495648-4",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495647-3",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495651-8",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495650-7",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496146-2",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495967-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2139",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495649-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495648-4",
+            "type": "Activity",
+            "activity_date": "2016-01-19",
+            "activity_id": "MTG-PL-2016-01-19-VOT-ITM-495648-4",
+            "activity_label": {
+                "fr": "Rapport annuel sur la politique de concurrence de l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0368"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-19-OJ-ITM-V-20"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-19-VOT-ITM-004"
+            ],
+            "notation_dlvId": "495648",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Rapport annuel sur la politique de concurrence de l'Union</title><label>Rapport: Werner Langen (A8-0368/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496145-1",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495652-9",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495649-5",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495648-4",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495647-3",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495651-8",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495650-7",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496146-2",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495967-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2140",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495648-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495647-3",
+            "type": "Activity",
+            "activity_date": "2016-01-19",
+            "activity_id": "MTG-PL-2016-01-19-VOT-ITM-495647-3",
+            "activity_label": {
+                "fr": "Plan pluriannuel de reconstitution des stocks de thon rouge dans l'Atlantique Est et la M\u00e9diterran\u00e9e"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0367"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-19-OJ-ITM-V-32"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-19-VOT-ITM-003"
+            ],
+            "notation_dlvId": "495647",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Plan pluriannuel de reconstitution des stocks de thon rouge dans l'Atlantique Est et la M\u00e9diterran\u00e9e</title><label>Rapport: Gabriel Mato (A8-0367/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496145-1",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495652-9",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495649-5",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495648-4",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495647-3",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495651-8",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495650-7",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496146-2",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495967-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0096",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495647-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495651-8",
+            "type": "Activity",
+            "activity_date": "2016-01-19",
+            "activity_id": "MTG-PL-2016-01-19-VOT-ITM-495651-8",
+            "activity_label": {
+                "fr": "Politiques en faveur du d\u00e9veloppement des comp\u00e9tences pour lutter contre le ch\u00f4mage des jeunes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0366"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-19-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-19-VOT-ITM-008"
+            ],
+            "notation_dlvId": "495651",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Politiques en faveur du d\u00e9veloppement des comp\u00e9tences pour lutter contre le ch\u00f4mage des jeunes</title><label>Rapport: Marek Plura (A8-0366/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496145-1",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495652-9",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495649-5",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495648-4",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495647-3",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495651-8",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495650-7",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496146-2",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495967-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2088",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495651-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495650-7",
+            "type": "Activity",
+            "activity_date": "2016-01-19",
+            "activity_id": "MTG-PL-2016-01-19-VOT-ITM-495650-7",
+            "activity_label": {
+                "fr": "Facteurs externes faisant obstacle \u00e0 l'entrepreneuriat f\u00e9minin europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0369"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-19-OJ-ITM-V-14"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-19-VOT-ITM-007"
+            ],
+            "notation_dlvId": "495650",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Facteurs externes faisant obstacle \u00e0 l'entrepreneuriat f\u00e9minin europ\u00e9en</title><label>Rapport: Barbara Matera (A8-0369/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496145-1",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495652-9",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495649-5",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495648-4",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495647-3",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495651-8",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495650-7",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496146-2",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495967-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2111",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495650-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496146-2",
+            "type": "Activity",
+            "activity_date": "2016-01-19",
+            "activity_id": "MTG-PL-2016-01-19-VOT-ITM-496146-2",
+            "activity_label": {
+                "fr": "Demande de lev\u00e9e de l'immunit\u00e9 parlementaire de Czes\u0142aw Adam Siekierski"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0005"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-19-OJ-ITM-V-75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-19-VOT-ITM-002"
+            ],
+            "notation_dlvId": "496146",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Demande de lev\u00e9e de l'immunit\u00e9 parlementaire de Czes\u0142aw Adam Siekierski</title><label>Rapport: Heidi Hautala (A8-0005/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496145-1",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495652-9",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495649-5",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495648-4",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495647-3",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495651-8",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495650-7",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496146-2",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495967-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2268",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496146-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495967-6",
+            "type": "Activity",
+            "activity_date": "2016-01-19",
+            "activity_id": "MTG-PL-2016-01-19-VOT-ITM-495967-6",
+            "activity_label": {
+                "fr": "Bilan et enjeux de la r\u00e9glementation de l'Union sur les services financiers"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0360"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-01-19-OJ-ITM-V-29"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-01-19-VOT-ITM-006"
+            ],
+            "notation_dlvId": "495967",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Bilan et enjeux de la r\u00e9glementation de l'Union sur les services financiers</title><label>Rapport: Burkhard Balz (A8-0360/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2016-01-19",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496145-1",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495652-9",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495649-5",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495648-4",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495647-3",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495651-8",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495650-7",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-496146-2",
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495967-6"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2106",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2016-01-19-VOT-ITM-495967-6"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

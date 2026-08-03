@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-15-VOT-ITM-939304",
+            "type": "Activity",
+            "activity_date": "2023-06-15",
+            "activity_id": "MTG-PL-2023-06-15-VOT-ITM-939304",
+            "activity_label": {
+                "fr": "Composition du Parlement europ\u00e9en"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0214"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-15-OJ-ITM-V-27",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939304",
+            "epvoc:amendmentsAdoptedOthers": 0,
+            "epvoc:amendmentsTabledMEP": 1,
+            "epvoc:amendmentsTabledPoliticalGroup": 12,
+            "epvoc:amendmentsTabledTotal": 13,
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Composition du Parlement europ\u00e9en</title><label>Rapport: Lor\u00e1nt Vincze, Sandro Gozi (A9-0214/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

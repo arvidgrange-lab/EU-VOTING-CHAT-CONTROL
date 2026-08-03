@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588913-4",
+            "type": "Activity",
+            "activity_date": "2017-03-15",
+            "activity_id": "MTG-PL-2017-03-15-VOT-ITM-588913-4",
+            "activity_label": {
+                "fr": "L\u00e9gislation sur les denr\u00e9es alimentaires et les aliments pour animaux, r\u00e8gles relatives \u00e0 la sant\u00e9 et au bien-\u00eatre des animaux, \u00e0 la sant\u00e9 des v\u00e9g\u00e9taux et aux produits phytopharmaceutiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0022"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-15-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "588913",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u00e9gislation sur les denr\u00e9es alimentaires et les aliments pour animaux, r\u00e8gles relatives \u00e0 la sant\u00e9 et au bien-\u00eatre des animaux, \u00e0 la sant\u00e9 des v\u00e9g\u00e9taux et aux produits phytopharmaceutiques</title><label>Recommandation pour la deuxi\u00e8me lecture: Karin Kadenbach (A8-0022/2017)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

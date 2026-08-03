@@ -1,0 +1,281 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429196-4",
+            "type": "Activity",
+            "activity_date": "2015-05-21",
+            "activity_id": "MTG-PL-2015-05-21-VOT-ITM-429196-4",
+            "activity_label": {
+                "fr": "Mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0054"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-05-21-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-05-21-VOT-ITM-004"
+            ],
+            "notation_dlvId": "429196",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mise en \u0153uvre de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune</title><label>Rapport: Arnaud Danjean (A8-0054/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-05-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429196-4",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429730-6",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429710-2",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429708-1",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429711-3",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429198-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2220",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429196-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429730-6",
+            "type": "Activity",
+            "activity_date": "2015-05-21",
+            "activity_id": "MTG-PL-2015-05-21-VOT-ITM-429730-6",
+            "activity_label": {
+                "fr": "Capacit\u00e9s de s\u00e9curit\u00e9 et de d\u00e9fense en Europe"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0159"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-05-21-OJ-ITM-V-87"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-05-21-VOT-ITM-006"
+            ],
+            "notation_dlvId": "429730",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Capacit\u00e9s de s\u00e9curit\u00e9 et de d\u00e9fense en Europe</title><label>Rapport: Ana Gomes (A8-0159/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-05-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429196-4",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429730-6",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429710-2",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429708-1",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429711-3",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429198-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2037",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429730-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429710-2",
+            "type": "Activity",
+            "activity_date": "2015-05-21",
+            "activity_id": "MTG-PL-2015-05-21-VOT-ITM-429710-2",
+            "activity_label": {
+                "fr": "Situation d\u00e9plorable des r\u00e9fugi\u00e9s Rohingyas, y compris la question des fosses communes en Tha\u00eflande"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0477",
+                "eli/dl/doc/B-8-2015-0469",
+                "eli/dl/doc/B-8-2015-0472",
+                "eli/dl/doc/B-8-2015-0480",
+                "eli/dl/doc/B-8-2015-0470",
+                "eli/dl/doc/B-8-2015-0484",
+                "eli/dl/doc/B-8-2015-0482"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-05-21-OJ-ITM-V-107"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-05-21-VOT-ITM-002"
+            ],
+            "notation_dlvId": "429710",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Situation d\u00e9plorable des r\u00e9fugi\u00e9s Rohingyas, y compris la question des fosses communes en Tha\u00eflande</title><label>Propositions de r\u00e9solution: B8-0469/2015, B8-0470/2015, B8-0472/2015, B8-0477/2015, B8-0480/2015, B8-0482/2015, B8-0484/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-05-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429196-4",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429730-6",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429710-2",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429708-1",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429711-3",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429198-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2711",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429710-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429708-1",
+            "type": "Activity",
+            "activity_date": "2015-05-21",
+            "activity_id": "MTG-PL-2015-05-21-VOT-ITM-429708-1",
+            "activity_label": {
+                "fr": "Zimbabwe, l'affaire du d\u00e9fenseur des droits de l'homme, Itai Dzamara"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0468",
+                "eli/dl/doc/B-8-2015-0474",
+                "eli/dl/doc/B-8-2015-0471",
+                "eli/dl/doc/B-8-2015-0467",
+                "eli/dl/doc/B-8-2015-0466",
+                "eli/dl/doc/B-8-2015-0465",
+                "eli/dl/doc/B-8-2015-0478"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-05-21-OJ-ITM-V-106"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-05-21-VOT-ITM-001"
+            ],
+            "notation_dlvId": "429708",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Zimbabwe, l'affaire du d\u00e9fenseur des droits de l'homme, Itai Dzamara</title><label>Propsitions de r\u00e9solution: B8-0465/2015, B8-0466/2015, B8-0467/2015, B8-0468/2015, B8-0471/2015, B8-0474/2015, B8-0478/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-05-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429196-4",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429730-6",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429710-2",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429708-1",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429711-3",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429198-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2710",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429708-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429711-3",
+            "type": "Activity",
+            "activity_date": "2015-05-21",
+            "activity_id": "MTG-PL-2015-05-21-VOT-ITM-429711-3",
+            "activity_label": {
+                "fr": "Swaziland, l'affaire des d\u00e9fenseurs des droits de l'homme, Thulani Maseko et Bheki Makhubu"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2015-0473",
+                "eli/dl/doc/B-8-2015-0483",
+                "eli/dl/doc/B-8-2015-0481",
+                "eli/dl/doc/B-8-2015-0475",
+                "eli/dl/doc/B-8-2015-0485",
+                "eli/dl/doc/B-8-2015-0479",
+                "eli/dl/doc/B-8-2015-0476"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-05-21-OJ-ITM-V-108"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-05-21-VOT-ITM-003"
+            ],
+            "notation_dlvId": "429711",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Swaziland, l'affaire des d\u00e9fenseurs des droits de l'homme, Thulani Maseko et Bheki Makhubu</title><label>B8-0473/2015, B8-0475/2015, B8-0476/2015, B8-0479/2015, B8-0481/2015, B8-0483/2015, B8-0485/2015</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-05-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429196-4",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429730-6",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429710-2",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429708-1",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429711-3",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429198-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2712",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429711-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429198-5",
+            "type": "Activity",
+            "activity_date": "2015-05-21",
+            "activity_id": "MTG-PL-2015-05-21-VOT-ITM-429198-5",
+            "activity_label": {
+                "fr": "Financement de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0136"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-05-21-OJ-ITM-V-37"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-05-21-VOT-ITM-005"
+            ],
+            "notation_dlvId": "429198",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Financement de la politique de s\u00e9curit\u00e9 et de d\u00e9fense commune</title><label>Rapport: Eduard Kukan et  Indrek Tarand (A8-0136/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-05-21",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429196-4",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429730-6",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429710-2",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429708-1",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429711-3",
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429198-5"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-2258",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-05-21-VOT-ITM-429198-5"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

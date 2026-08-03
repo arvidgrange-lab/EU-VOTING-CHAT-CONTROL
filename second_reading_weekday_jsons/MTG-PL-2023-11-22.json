@@ -1,0 +1,983 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939717",
+            "activity_label": {
+                "fr": "TVA: accords de coop\u00e9ration administrative \u00e0 l\u2019\u00e8re du num\u00e9rique",
+                "mul": "TVA: accords de coop\u00e9ration administrative \u00e0 l\u2019\u00e8re du num\u00e9rique - VAT: administrative cooperation arrangements for the digital age - MwSt \u2013 f\u00fcr das digitale Zeitalter erforderliche Regelungen f\u00fcr die Zusammenarbeit der Verwaltungsbeh\u00f6rden"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0324"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-011"
+            ],
+            "notation_dlvId": "939717",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>TVA: accords de coop\u00e9ration administrative \u00e0 l\u2019\u00e8re du num\u00e9rique</title><label>Rapport: Olivier Chastel (A9-0324/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0409",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939766",
+            "activity_label": {
+                "fr": "Nomination d\u2019un membre de la Cour des comptes - Petri Sarvamaa"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0349"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_66"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-008"
+            ],
+            "notation_dlvId": "939766",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d\u2019un membre de la Cour des comptes - Petri Sarvamaa</title><label>Rapport: Gilles Boyer (A9-0349/2023) (Vote au scrutin secret (article 129, paragraphe 3, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0811",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939769",
+            "activity_label": {
+                "fr": "Accord de libre-\u00e9change entre l'Union europ\u00e9enne et la Nouvelle-Z\u00e9lande",
+                "mul": "Accord de libre-\u00e9change entre l'Union europ\u00e9enne et la Nouvelle-Z\u00e9lande - EU/New Zealand Free Trade Agreement - Freihandelsabkommen zwischen der EU und Neuseeland"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0305"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-006"
+            ],
+            "notation_dlvId": "939769",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de libre-\u00e9change entre l'Union europ\u00e9enne et la Nouvelle-Z\u00e9lande</title><label>Recommandation: Daniel Caspary (A9-0305/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0038",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939714",
+            "activity_label": {
+                "fr": "Accord de libre-\u00e9change entre l\u2019Union europ\u00e9enne et la Nouvelle-Z\u00e9lande (r\u00e9solution)",
+                "mul": "Accord de libre-\u00e9change entre l\u2019Union europ\u00e9enne et la Nouvelle-Z\u00e9lande (r\u00e9solution) - EU/New Zealand Free Trade Agreement (Resolution) - Freihandelsabkommen zwischen der EU und Neuseeland (Entschlie\u00dfung)"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0314"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_63"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939714",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord de libre-\u00e9change entre l\u2019Union europ\u00e9enne et la Nouvelle-Z\u00e9lande (r\u00e9solution)</title><label>Rapport: Daniel Caspary (A9-0314/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0038M",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939724",
+            "activity_label": {
+                "mul": "Emballages et d\u00e9chets d'emballages - Packaging and packaging waste   - Verpackungen und Verpackungsabf\u00e4lle",
+                "fr": "Emballages et d\u00e9chets d'emballages"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0319"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-014"
+            ],
+            "notation_dlvId": "939724",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Emballages et d\u00e9chets d'emballages</title><label>Rapport: Fr\u00e9d\u00e9rique Ries (A9-0319/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0396",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939727",
+            "activity_label": {
+                "mul": "Propositions du Parlement europ\u00e9en pour la r\u00e9vision des trait\u00e9s - Proposals of the European Parliament for the amendment of the Treaties - Vorschl\u00e4ge des Europ\u00e4ischen Parlaments zur \u00c4nderung der Vertr\u00e4ge",
+                "fr": "Propositions du Parlement europ\u00e9en pour la r\u00e9vision des trait\u00e9s"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0337"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_78"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-016"
+            ],
+            "notation_dlvId": "939727",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Propositions du Parlement europ\u00e9en pour la r\u00e9vision des trait\u00e9s</title><label>Rapport: Guy Verhofstadt, Sven Simon, Gabriele Bischoff, Daniel Freund, Helmut Scholz (A9-0337/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-2051",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939767",
+            "activity_label": {
+                "mul": "Projet commun de budget g\u00e9n\u00e9ral de l\u2019Union europ\u00e9enne pour l\u2019exercice 2024 - 2024 budgetary procedure: Joint text - Haushaltsverfahren 2024\u00a0\u2013 gemeinsamer Entwurf",
+                "fr": "Projet commun de budget g\u00e9n\u00e9ral de l\u2019Union europ\u00e9enne pour l\u2019exercice 2024"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0362"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_96"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-002"
+            ],
+            "notation_dlvId": "939767",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet commun de budget g\u00e9n\u00e9ral de l\u2019Union europ\u00e9enne pour l\u2019exercice 2024</title><label>Rapport: Siegfried Mure\u015fan, Nils U\u0161akovs (A9-0362/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0264",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939708",
+            "activity_label": {
+                "fr": "TVA: assujettis, r\u00e9gimes particuliers concernant les ventes \u00e0 distance de biens import\u00e9s et la d\u00e9claration et le paiement de la TVA \u00e0 l'importation",
+                "mul": "TVA: assujettis, r\u00e9gimes particuliers concernant les ventes \u00e0 distance de biens import\u00e9s et la d\u00e9claration et le paiement de la TVA \u00e0 l'importation - VAT: taxable persons, special scheme and special arrangements for declaration and payment relating to distance sales of imported goods - MwSt\u00a0\u2013 Steuerpflichtige und Sonderregelungen f\u00fcr die Erkl\u00e4rung und Entrichtung bei Fernverk\u00e4ufen von eingef\u00fchrten Gegenst\u00e4nden"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0320"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939708",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>TVA: assujettis, r\u00e9gimes particuliers concernant les ventes \u00e0 distance de biens import\u00e9s et la d\u00e9claration et le paiement de la TVA \u00e0 l'importation</title><label>Rapport: Olivier Chastel (A9-0320/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0158",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939772",
+            "activity_label": {
+                "mul": "Publication \u00e9lectronique du Journal officiel de l\u2019Union europ\u00e9enne - Official Journal of the EU: electronic publication - Amtsblatt der Europ\u00e4ischen Union \u2013 elektronische Ver\u00f6ffentlichung",
+                "fr": "Publication \u00e9lectronique du Journal officiel de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0352"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_75"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-004"
+            ],
+            "notation_dlvId": "939772",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Publication \u00e9lectronique du Journal officiel de l\u2019Union europ\u00e9enne</title><label>Recommandation: Adri\u00e1n V\u00e1zquez L\u00e1zara (A9-0352/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2020-0126",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939715",
+            "activity_label": {
+                "mul": "TVA: les r\u00e8gles \u00e0 l\u2019\u00e8re du num\u00e9rique - VAT: rules for the digital age - MwSt \u2013 Vorschriften f\u00fcr das digitale Zeitalter",
+                "fr": "TVA: les r\u00e8gles \u00e0 l\u2019\u00e8re du num\u00e9rique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0327"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-010"
+            ],
+            "notation_dlvId": "939715",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>TVA: les r\u00e8gles \u00e0 l\u2019\u00e8re du num\u00e9rique</title><label>Rapport: Olivier Chastel (A9-0327/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0407",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939716",
+            "activity_label": {
+                "fr": "Transition num\u00e9rique et droit administratif",
+                "mul": "Transition num\u00e9rique et droit administratif - Digitalisation and Administrative Law - Digitalisierung und Verwaltungsrecht"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0309"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_86"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-015"
+            ],
+            "notation_dlvId": "939716",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Transition num\u00e9rique et droit administratif</title><label>Rapport: Karen Melchior (A9-0309/2023) (Majorit\u00e9 des d\u00e9put\u00e9s qui composent le Parlement requise pour l'adoption de la proposition de r\u00e9solution)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2021-2161",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939765",
+            "activity_label": {
+                "fr": "Projet de budget rectificatif n\u00ba 4/2023 \u2013 R\u00e9duction des cr\u00e9dits de paiement, autres ajustements et actualisations techniques",
+                "mul": "Projet de budget rectificatif n\u00ba 4/2023 \u2013 R\u00e9duction des cr\u00e9dits de paiement, autres ajustements et actualisations techniques  - Draft amending budget No 4/2023: Reduction in payment appropriations, other adjustments and technical updates - Entwurf des Berichtigungshaushaltsplans Nr.\u00a04/2023: K\u00fcrzung der Mittel f\u00fcr Zahlungen, sonstige Anpassungen und technische Aktualisierungen"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0363"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_90"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-001"
+            ],
+            "notation_dlvId": "939765",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Projet de budget rectificatif n\u00ba 4/2023 \u2013 R\u00e9duction des cr\u00e9dits de paiement, autres ajustements et actualisations techniques </title><label>Rapport: Fabienne Keller (A9-0363/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0367",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939720",
+            "activity_label": {
+                "fr": "Utilisation des produits phytopharmaceutiques compatible avec le d\u00e9veloppement durable",
+                "mul": "Utilisation des produits phytopharmaceutiques compatible avec le d\u00e9veloppement durable - Sustainable use of plant protection products - Nachhaltige Verwendung von Pflanzenschutzmitteln"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0339"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_43"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-013"
+            ],
+            "notation_dlvId": "939720",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Utilisation des produits phytopharmaceutiques compatible avec le d\u00e9veloppement durable </title><label>Rapport: Sarah Wiener (A9-0339/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2022-0196",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939743",
+            "activity_label": {
+                "mul": "N\u00e9gociations concernant un accord sur le statut des activit\u00e9s op\u00e9rationnelles men\u00e9es par Frontex en Mauritanie - Negotiations on a status agreement on operational activities carried out by Frontex in Mauritania - Verhandlungen \u00fcber eine Statusvereinbarung \u00fcber operative T\u00e4tigkeiten, die von Frontex in Mauretanien durchgef\u00fchrt werden",
+                "fr": "N\u00e9gociations concernant un accord sur le statut des activit\u00e9s op\u00e9rationnelles men\u00e9es par Frontex en Mauritanie"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0358"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_68"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-017"
+            ],
+            "notation_dlvId": "939743",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>N\u00e9gociations concernant un accord sur le statut des activit\u00e9s op\u00e9rationnelles men\u00e9es par Frontex en Mauritanie</title><label>Rapport: Tineke Strik (A9-0358/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-2087",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939768",
+            "activity_label": {
+                "fr": "Nomination d\u2019un membre de la Cour des comptes - Annemie Turtelboom"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0350"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_69"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-009"
+            ],
+            "notation_dlvId": "939768",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Nomination d\u2019un membre de la Cour des comptes - Annemie Turtelboom</title><label>Rapport: Tsvetelina Penkova (A9-0350/2023) (Vote au scrutin secret (article 129, paragraphe 3, du r\u00e8glement))</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0812",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939732",
+            "activity_label": {
+                "mul": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation en faveur des travailleurs licenci\u00e9s - demande EGF/2023/002 BE/Makro - Belgique - Mobilisation of the European Globalisation Adjustment Fund \u2013 application EGF/2023/002 BE/Makro - Belgium - Inanspruchnahme des Europ\u00e4ischen Fonds f\u00fcr die Anpassung an die Globalisierung\u00a0\u2013 EGF/2023/002 BE/Makro \u2013 Belgien",
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation en faveur des travailleurs licenci\u00e9s - demande EGF/2023/002 BE/Makro - Belgique"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0351"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_84"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-003"
+            ],
+            "notation_dlvId": "939732",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation en faveur des travailleurs licenci\u00e9s - demande EGF/2023/002 BE/Makro - Belgique</title><label>Rapport: Petri Sarvamaa (A9-0351/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0352",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-221123",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-019"
+            ],
+            "notation_dlvId": "221123",
+            "structuredLabel": {
+                "fr": "<structuredLabel><label>Informations compl\u00e9mentaires</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939771",
+            "activity_label": {
+                "fr": "Conclusion d'un accord entre l\u2019Union europ\u00e9enne et le Mont\u00e9n\u00e9gro sur les activit\u00e9s op\u00e9rationnelles men\u00e9es par l\u2019Agence europ\u00e9enne de garde-fronti\u00e8res et de garde-c\u00f4tes sur le territoire du Mont\u00e9n\u00e9gro",
+                "mul": "Conclusion d'un accord entre l\u2019Union europ\u00e9enne et le Mont\u00e9n\u00e9gro sur les activit\u00e9s op\u00e9rationnelles men\u00e9es par l\u2019Agence europ\u00e9enne de garde-fronti\u00e8res et de garde-c\u00f4tes sur le territoire du Mont\u00e9n\u00e9gro - EU/Montenegro Agreement: operational activities carried out by the European Border and Coast Guard Agency in Montenegro - Vereinbarung zwischen der EU und Montenegro\u00a0\u2013 operative T\u00e4tigkeiten, die von der Europ\u00e4ischen Agentur f\u00fcr die Grenz- und K\u00fcstenwache in Montenegro durchgef\u00fchrt werden"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0369"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-005"
+            ],
+            "notation_dlvId": "939771",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Conclusion d'un accord entre l\u2019Union europ\u00e9enne et le Mont\u00e9n\u00e9gro sur les activit\u00e9s op\u00e9rationnelles men\u00e9es par l\u2019Agence europ\u00e9enne de garde-fronti\u00e8res et de garde-c\u00f4tes sur le territoire du Mont\u00e9n\u00e9gro</title><label>Recommandation: Lena D\u00fcpont (A9-0369/2023)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2023-11-22",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939717",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939766",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939769",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939714",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939727",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939767",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939708",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939772",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939715",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939716",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939765",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939720",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939743",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939768",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939732",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-221123",
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2023-0102",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939771"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

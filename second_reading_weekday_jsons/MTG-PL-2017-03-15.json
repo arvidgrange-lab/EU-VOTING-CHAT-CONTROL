@@ -1,0 +1,363 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-3",
+            "type": "Activity",
+            "activity_date": "2017-03-15",
+            "activity_id": "MTG-PL-2017-03-15-VOT-ITM-589217-3",
+            "activity_label": {
+                "fr": "Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es pour ce qui est des donn\u00e9es ADN en Gr\u00e8ce"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0053"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-15-OJ-ITM-V-77"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-15-VOT-ITM-003"
+            ],
+            "notation_dlvId": "589217",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es pour ce qui est des donn\u00e9es ADN en Gr\u00e8ce\n</title><label>Rapport: Claude Moraes (A8-0053/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-3",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-2",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588926-6",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588913-4",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589234-8",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589230-5",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-1",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588927-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0816",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-2",
+            "type": "Activity",
+            "activity_date": "2017-03-15",
+            "activity_id": "MTG-PL-2017-03-15-VOT-ITM-589217-2",
+            "activity_label": {
+                "fr": "Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es relatives \u00e0 l'immatriculation des v\u00e9hicules (DIV) au Danemark"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0051"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-15-OJ-ITM-V-76"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-15-VOT-ITM-002"
+            ],
+            "notation_dlvId": "589217",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Lancement de l'\u00e9change automatis\u00e9 de donn\u00e9es relatives \u00e0 l'immatriculation des v\u00e9hicules (DIV) au Danemark\n</title><label>Rapport: Maria Grapini (A8-0051/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-3",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-2",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588926-6",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588913-4",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589234-8",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589230-5",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-1",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588927-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0815",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588926-6",
+            "type": "Activity",
+            "activity_date": "2017-03-15",
+            "activity_id": "MTG-PL-2017-03-15-VOT-ITM-588926-6",
+            "activity_label": {
+                "fr": "Obstacles \u00e0 la libert\u00e9 des citoyens de l'UE de circuler et de travailler au sein du march\u00e9 int\u00e9rieur"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0179"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-15-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-15-VOT-ITM-006"
+            ],
+            "notation_dlvId": "588926",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Obstacles \u00e0 la libert\u00e9 des citoyens de l'UE de circuler et de travailler au sein du march\u00e9 int\u00e9rieur</title><label>Proposition de r\u00e9solution: B8-0179/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-3",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-2",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588926-6",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588913-4",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589234-8",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589230-5",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-1",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588927-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-3042",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588926-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588913-4",
+            "type": "Activity",
+            "activity_date": "2017-03-15",
+            "activity_id": "MTG-PL-2017-03-15-VOT-ITM-588913-4",
+            "activity_label": {
+                "fr": "L\u00e9gislation sur les denr\u00e9es alimentaires et les aliments pour animaux, r\u00e8gles relatives \u00e0 la sant\u00e9 et au bien-\u00eatre des animaux, \u00e0 la sant\u00e9 des v\u00e9g\u00e9taux et aux produits phytopharmaceutiques"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0022"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-15-OJ-ITM-V-45"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-15-VOT-ITM-004"
+            ],
+            "notation_dlvId": "588913",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>L\u00e9gislation sur les denr\u00e9es alimentaires et les aliments pour animaux, r\u00e8gles relatives \u00e0 la sant\u00e9 et au bien-\u00eatre des animaux, \u00e0 la sant\u00e9 des v\u00e9g\u00e9taux et aux produits phytopharmaceutiques</title><label>Recommandation pour la deuxi\u00e8me lecture: Karin Kadenbach (A8-0022/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-3",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-2",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588926-6",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588913-4",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589234-8",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589230-5",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-1",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588927-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0140",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588913-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589234-8",
+            "type": "Activity",
+            "activity_date": "2017-03-15",
+            "activity_id": "MTG-PL-2017-03-15-VOT-ITM-589234-8",
+            "activity_label": {
+                "fr": "Orientations pour le budget 2018 - Section III"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0060"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-15-OJ-ITM-V-38"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-15-VOT-ITM-008"
+            ],
+            "notation_dlvId": "589234",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Orientations pour le budget 2018 - Section III</title><label>Rapport: Siegfried Mure\u015fan (A8-0060/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-3",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-2",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588926-6",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588913-4",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589234-8",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589230-5",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-1",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588927-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-2323",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589234-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589230-5",
+            "type": "Activity",
+            "activity_date": "2017-03-15",
+            "activity_id": "MTG-PL-2017-03-15-VOT-ITM-589230-5",
+            "activity_label": {
+                "fr": "Utilisation de la bande de fr\u00e9quences 470-790\u00a0MHz dans l'Union"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0327"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-15-OJ-ITM-V-51"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-15-VOT-ITM-005"
+            ],
+            "notation_dlvId": "589230",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Utilisation de la bande de fr\u00e9quences 470-790\u00a0MHz dans l'Union</title><label>Rapport: Patrizia Toia (A8-0327/2016)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-3",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-2",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588926-6",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588913-4",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589234-8",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589230-5",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-1",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588927-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0027",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589230-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-1",
+            "type": "Activity",
+            "activity_date": "2017-03-15",
+            "activity_id": "MTG-PL-2017-03-15-VOT-ITM-589217-1",
+            "activity_label": {
+                "fr": "Accord UE/Br\u00e9sil: modification de concessions dans la liste d\u2019engagements de la Croatie dans le cadre de son adh\u00e9sion"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2017-0052"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-15-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-15-VOT-ITM-001"
+            ],
+            "notation_dlvId": "589217",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accord UE/Br\u00e9sil: modification de concessions dans la liste d\u2019engagements de la Croatie dans le cadre de son adh\u00e9sion</title><label>Recommandation: Jos\u00e9 Ignacio Salafranca S\u00e1nchez-Neyra (A8-0052/2017)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-3",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-2",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588926-6",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588913-4",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589234-8",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589230-5",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-1",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588927-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2016-0307",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588927-7",
+            "type": "Activity",
+            "activity_date": "2017-03-15",
+            "activity_id": "MTG-PL-2017-03-15-VOT-ITM-588927-7",
+            "activity_label": {
+                "fr": "Approbation par la Commission du plan r\u00e9vis\u00e9 de l'Allemagne tendant \u00e0 l'instauration d'un p\u00e9age routier"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-8-2017-0180"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2017-03-15-OJ-ITM-V-62"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2017-03-15-VOT-ITM-007"
+            ],
+            "notation_dlvId": "588927",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Approbation par la Commission du plan r\u00e9vis\u00e9 de l'Allemagne tendant \u00e0 l'instauration d'un p\u00e9age routier</title><label>Proposition de r\u00e9solution: B8-0180/2017</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2017-03-15",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-3",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-2",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588926-6",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588913-4",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589234-8",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589230-5",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-589217-1",
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588927-7"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2017-2526",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2017-03-15-VOT-ITM-588927-7"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

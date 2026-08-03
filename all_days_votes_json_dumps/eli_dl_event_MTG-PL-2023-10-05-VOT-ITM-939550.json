@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-10-05-VOT-ITM-939550",
+            "type": "Activity",
+            "activity_date": "2023-10-05",
+            "activity_id": "MTG-PL-2023-10-05-VOT-ITM-939550",
+            "activity_label": {
+                "mul": "Modification du r\u00e8glement (UE) 2016/399 concernant un code de l\u2019Union relatif au r\u00e9gime de franchissement des fronti\u00e8res par les personnes - Schengen Borders Code - \u00c4nderung der Verordnung (EU) 2016/399 \u00fcber einen Unionskodex f\u00fcr das \u00dcberschreiten der Grenzen durch Personen",
+                "fr": "Modification du r\u00e8glement (UE) 2016/399 concernant un code de l\u2019Union relatif au r\u00e9gime de franchissement des fronti\u00e8res par les personnes"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0280"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-10-05-OJ-ITM-V-93",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-10-05-VOT-ITM-000"
+            ],
+            "notation_dlvId": "939550",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Modification du r\u00e8glement (UE) 2016/399 concernant un code de l\u2019Union relatif au r\u00e9gime de franchissement des fronti\u00e8res par les personnes</title><label>Rapport: Sylvie Guillaume (A9-0280/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

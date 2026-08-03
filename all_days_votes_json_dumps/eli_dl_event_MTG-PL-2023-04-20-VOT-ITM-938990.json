@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-04-20-VOT-ITM-938990",
+            "type": "Activity",
+            "activity_date": "2023-04-20",
+            "activity_id": "MTG-PL-2023-04-20-VOT-ITM-938990",
+            "activity_label": {
+                "fr": "Filtrage des ressortissants de pays tiers aux fronti\u00e8res ext\u00e9rieures"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0149"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-04-20-OJ-ITM-V-93",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-04-20-VOT-ITM--001"
+            ],
+            "notation_dlvId": "938990",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Filtrage des ressortissants de pays tiers aux fronti\u00e8res ext\u00e9rieures</title><label>Rapport: Birgit Sippel (A9-0149/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

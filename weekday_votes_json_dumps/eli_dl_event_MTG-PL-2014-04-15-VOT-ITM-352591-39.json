@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2014-04-15-VOT-ITM-352591-39",
+            "type": "Activity",
+            "activity_date": "2014-04-15",
+            "activity_id": "MTG-PL-2014-04-15-VOT-ITM-352591-39",
+            "activity_label": {
+                "fr": "Accroissement de la mobilit\u00e9 des travailleurs par l'am\u00e9lioration de l'acquisition et de la pr\u00e9servation des droits \u00e0 pension compl\u00e9mentaire"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-7-2014-0188"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2014-04-15-OJ-ITM-V-97"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-7-2014-04-15-VOT-ITM-039"
+            ],
+            "notation_dlvId": "352591",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Accroissement de la mobilit\u00e9 des travailleurs par l'am\u00e9lioration de l'acquisition et de la pr\u00e9servation des droits \u00e0 pension compl\u00e9mentaire</title><label>Recommandation pour la deuxi\u00e8me lecture: Ria Oomen-Ruijten (A7-0188/2014)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

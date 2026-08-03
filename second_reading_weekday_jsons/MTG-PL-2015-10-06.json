@@ -1,0 +1,587 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467124-12",
+            "activity_label": {
+                "fr": "R\u00f4le des autorit\u00e9s locales des pays en d\u00e9veloppement en mati\u00e8re de coop\u00e9ration au d\u00e9veloppement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0232"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-73"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-012"
+            ],
+            "notation_dlvId": "467124",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>R\u00f4le des autorit\u00e9s locales des pays en d\u00e9veloppement en mati\u00e8re de coop\u00e9ration au d\u00e9veloppement</title><label>Rapport: Eleni Theocharous (A8-0232/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2004",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467114-7",
+            "activity_label": {
+                "fr": "\u00c9ventuelle extension de la protection des indications g\u00e9ographiques de l'Union europ\u00e9enne aux produits non agricoles"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0259"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-56"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-007"
+            ],
+            "notation_dlvId": "467114",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>\u00c9ventuelle extension de la protection des indications g\u00e9ographiques de l'Union europ\u00e9enne aux produits non agricoles</title><label>Rapport: Virginie Rozi\u00e8re (A8-0259/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2053",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467114-1",
+            "activity_label": {
+                "fr": "Convention de l'OIT sur le travail forc\u00e9: coop\u00e9ration judiciaire en mati\u00e8re p\u00e9nale"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0226"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-69"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-001"
+            ],
+            "notation_dlvId": "467114",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Convention de l'OIT sur le travail forc\u00e9: coop\u00e9ration judiciaire en mati\u00e8re p\u00e9nale</title><label>Recommandation: Helga Stevens (A8-0226/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0258",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467114-4",
+            "activity_label": {
+                "fr": "D\u00e9cision d'ex\u00e9cution soumettant le 25I-NBOMe, le AH-7921, la MDPV et la m\u00e9thox\u00e9tamine \u00e0 des mesures de contr\u00f4le"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0264"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-40"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-004"
+            ],
+            "notation_dlvId": "467114",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9cision d'ex\u00e9cution soumettant le 25I-NBOMe, le AH-7921, la MDPV et la m\u00e9thox\u00e9tamine \u00e0 des mesures de contr\u00f4le</title><label>Rapport: Teresa Jim\u00e9nez-Becerril Barrio (A8-0264/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0183",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467188-10",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2015/003 BE/Ford Genk"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0272"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-71"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-010"
+            ],
+            "notation_dlvId": "467188",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d\u2019ajustement \u00e0 la mondialisation: demande EGF/2015/003 BE/Ford Genk</title><label>Rapport: Paul R\u00fcbig (A8-0272/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2209",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467114-3",
+            "activity_label": {
+                "fr": "D\u00e9cision d'ex\u00e9cution soumettant le 5-(2-aminopropyl)indole \u00e0 des mesures de contr\u00f4le"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0263"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-42"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-003"
+            ],
+            "notation_dlvId": "467114",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9cision d'ex\u00e9cution soumettant le 5-(2-aminopropyl)indole \u00e0 des mesures de contr\u00f4le</title><label>Rapport: Teresa Jim\u00e9nez-Becerril Barrio (A8-0263/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0207",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467114-6",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne: catastrophes en Bulgarie et en Gr\u00e8ce en 2015"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0253"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-48"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-006"
+            ],
+            "notation_dlvId": "467114",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds de solidarit\u00e9 de l'Union europ\u00e9enne: catastrophes en Bulgarie et en Gr\u00e8ce en 2015</title><label>Rapport: Andrey Novakov (A8-0253/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2151",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467114-2",
+            "activity_label": {
+                "fr": "D\u00e9cision d'ex\u00e9cution soumettant la 4-m\u00e9thylamph\u00e9tamine \u00e0 des mesures de contr\u00f4le"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0265"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-39"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-002"
+            ],
+            "notation_dlvId": "467114",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9cision d'ex\u00e9cution soumettant la 4-m\u00e9thylamph\u00e9tamine \u00e0 des mesures de contr\u00f4le</title><label>Rapport: Micha\u0142 Boni (A8-0265/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2013-0021",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467114-5",
+            "activity_label": {
+                "fr": "D\u00e9cision d'ex\u00e9cution soumettant le 4,4'-DMAR et le MT-45 \u00e0 des mesures de contr\u00f4le"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0262"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-41"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-005"
+            ],
+            "notation_dlvId": "467114",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>D\u00e9cision d'ex\u00e9cution soumettant le 4,4'-DMAR et le MT-45 \u00e0 des mesures de contr\u00f4le</title><label>Rapport: Micha\u0142 Boni (A8-0262/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2014-0340",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467186-9",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: demande EGF/2015/002 DE/Adam Opel"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0273"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-72"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-009"
+            ],
+            "notation_dlvId": "467186",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: demande EGF/2015/002 DE/Adam Opel</title><label>Rapport: Jens Geier (A8-0273/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2208",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467184-8",
+            "activity_label": {
+                "fr": "Dispositions communes relatives aux Fonds structurels et d'investissement europ\u00e9ens: mesures sp\u00e9cifiques pour la Gr\u00e8ce"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0260"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-64"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-008"
+            ],
+            "notation_dlvId": "467184",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Dispositions communes relatives aux Fonds structurels et d'investissement europ\u00e9ens: mesures sp\u00e9cifiques pour la Gr\u00e8ce</title><label>Rapport: Iskra Mihaylova (A8-0260/2015)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-0160",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11",
+            "type": "Activity",
+            "activity_date": "2015-10-06",
+            "activity_id": "MTG-PL-2015-10-06-VOT-ITM-467189-11",
+            "activity_label": {
+                "fr": "Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: demande EGF/2015/004 IT/Alitalia"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2015-0274"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2015-10-06-OJ-ITM-V-70"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2015-10-06-VOT-ITM-011"
+            ],
+            "notation_dlvId": "467189",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Mobilisation du Fonds europ\u00e9en d'ajustement \u00e0 la mondialisation: demande EGF/2015/004 IT/Alitalia</title><label>Rapport: Monika Vana (A8-0274/2015) (majorit\u00e9 qualifi\u00e9e requise et 3/5 des suffrages exprim\u00e9s)</label></structuredLabel>"
+            },
+            "inverse_consists_of": [
+                {
+                    "id": "eli/dl/event/MTG-PL-2015-10-06",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467124-12",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-7",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-1",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-4",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467188-10",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-3",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-6",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-2",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467114-5",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467186-9",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467184-8",
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                },
+                {
+                    "id": "eli/dl/proc/2015-2212",
+                    "consists_of": [
+                        "eli/dl/event/MTG-PL-2015-10-06-VOT-ITM-467189-11"
+                    ]
+                }
+            ]
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

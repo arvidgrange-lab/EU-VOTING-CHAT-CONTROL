@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-06-14-VOT-ITM-939226",
+            "type": "Activity",
+            "activity_date": "2023-06-14",
+            "activity_id": "MTG-PL-2023-06-14-VOT-ITM-939226",
+            "activity_label": {
+                "fr": "Batteries et d\u00e9chets de batteries"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2022-0031"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-06-14-OJ-ITM-V-19",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-06-14-VOT-ITM-007"
+            ],
+            "notation_dlvId": "939226",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Batteries et d\u00e9chets de batteries</title><label>Rapport: Achille Variati (A9-0031/2022)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

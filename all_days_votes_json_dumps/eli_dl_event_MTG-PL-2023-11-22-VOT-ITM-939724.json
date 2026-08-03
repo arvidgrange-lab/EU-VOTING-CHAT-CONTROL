@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-11-22-VOT-ITM-939724",
+            "type": "Activity",
+            "activity_date": "2023-11-22",
+            "activity_id": "MTG-PL-2023-11-22-VOT-ITM-939724",
+            "activity_label": {
+                "mul": "Emballages et d\u00e9chets d'emballages - Packaging and packaging waste   - Verpackungen und Verpackungsabf\u00e4lle",
+                "fr": "Emballages et d\u00e9chets d'emballages"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-9-2023-0319"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2023-11-22-OJ-ITM-V_44"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-11-22-VOT-ITM-014"
+            ],
+            "notation_dlvId": "939724",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Emballages et d\u00e9chets d'emballages</title><label>Rapport: Fr\u00e9d\u00e9rique Ries (A9-0319/2023)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

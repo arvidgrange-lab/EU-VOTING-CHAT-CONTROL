@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2016-04-28-VOT-ITM-520211-8",
+            "type": "Activity",
+            "activity_date": "2016-04-28",
+            "activity_id": "MTG-PL-2016-04-28-VOT-ITM-520211-8",
+            "activity_label": {
+                "fr": "Interop\u00e9rabilit\u00e9 du syst\u00e8me ferroviaire au sein de l\u2019Union europ\u00e9enne"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/A-8-2016-0071"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2016-04-28-OJ-ITM-V-153"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-8-2016-04-28-VOT-ITM-008"
+            ],
+            "notation_dlvId": "520211",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Interop\u00e9rabilit\u00e9 du syst\u00e8me ferroviaire au sein de l\u2019Union europ\u00e9enne</title><label>Recommandation pour la deuxi\u00e8me lecture: Izaskun Bilbao Barandica (A8-0071/2016) (majorit\u00e9 qualifi\u00e9e requise)</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

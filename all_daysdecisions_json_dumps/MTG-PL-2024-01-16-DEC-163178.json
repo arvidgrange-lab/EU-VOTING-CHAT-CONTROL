@@ -1,0 +1,115 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-01-16-DEC-163178",
+            "type": "Vote",
+            "activity_date": "2024-01-16",
+            "activity_id": "MTG-PL-2024-01-16-DEC-163178",
+            "activity_label": {
+                "sk": "odsek 61",
+                "en": "\u00a7 61",
+                "lv": "\u00a7 61",
+                "hr": "\u00a7 61",
+                "pt": "\u00a7 61",
+                "fr": "\u00a7 61",
+                "es": "\u00a7 61",
+                "ro": "\u00a7 61",
+                "ga": "\u00a7 61",
+                "bg": "\u00a7 61",
+                "fi": "\u00a7 61",
+                "da": "\u00a7 61",
+                "de": "\u00a7 61",
+                "el": "\u00a7 61",
+                "cs": "\u00a7 61",
+                "it": "\u00a7 61",
+                "et": "\u00a7 61",
+                "mt": "\u00a7 61",
+                "nl": "\u00a7 61",
+                "sl": "\u00a7 61",
+                "lt": "61\u00a0dalis",
+                "pl": "Ust. 61",
+                "hu": "61. bek.",
+                "sv": "punkt 61"
+            },
+            "activity_order": "5.0",
+            "decided_on_a_realization_of": [
+                "eli/dl/doc/MTG-PL-2024-01-16-VOT-ITM-939908-SPLIT-1-1"
+            ],
+            "decision_method": "def/ep-decision-methods/VOTE_HAND",
+            "decision_outcome": "def/ep-statuses/ADOPTED",
+            "had_activity_type": "def/ep-activities/PLENARY_OUTCOME",
+            "responsible_organization_label": {
+                "en": "original text",
+                "pl": "pierwotny tekst",
+                "hu": "eredeti sz\u00f6veg",
+                "sv": "originaltexten",
+                "sk": "p\u00f4vodn\u00fd text"
+            },
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2024-01-16-VOT-ITM-939908-SPLIT-1"
+            ],
+            "comment": {
+                "ga": "1",
+                "hr": "1",
+                "de": "1",
+                "da": "1",
+                "fi": "1",
+                "bg": "1",
+                "hu": "1",
+                "lt": "1",
+                "pt": "1",
+                "fr": "1",
+                "es": "1",
+                "en": "1",
+                "lv": "1",
+                "pl": "1",
+                "ro": "1",
+                "sk": "1",
+                "nl": "1",
+                "sl": "1",
+                "el": "1",
+                "cs": "1",
+                "it": "1",
+                "sv": "1",
+                "et": "1",
+                "mt": "1"
+            },
+            "notation_votingId": "163178",
+            "decisionAboutId": "\u00a7",
+            "decisionAboutId_XMLLiteral": "<am><symbol href=\"https://xx.xx.xx/\u00a7\"/></am>",
+            "referenceText": {
+                "hr": "\u00a7 61",
+                "pt": "\u00a7 61",
+                "fr": "\u00a7 61",
+                "es": "\u00a7 61",
+                "en": "\u00a7 61",
+                "lv": "\u00a7 61",
+                "ro": "\u00a7 61",
+                "ga": "\u00a7 61",
+                "bg": "\u00a7 61",
+                "fi": "\u00a7 61",
+                "da": "\u00a7 61",
+                "de": "\u00a7 61",
+                "nl": "\u00a7 61",
+                "sl": "\u00a7 61",
+                "el": "\u00a7 61",
+                "cs": "\u00a7 61",
+                "it": "\u00a7 61",
+                "et": "\u00a7 61",
+                "mt": "\u00a7 61",
+                "hu": "61. bek.",
+                "sk": "odsek 61",
+                "pl": "Ust. 61",
+                "sv": "punkt 61",
+                "lt": "61\u00a0dalis"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

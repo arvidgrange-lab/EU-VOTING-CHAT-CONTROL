@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2023-12-13-VOT-ITM-939866",
+            "type": "Activity",
+            "activity_date": "2023-12-13",
+            "activity_id": "MTG-PL-2023-12-13-VOT-ITM-939866",
+            "activity_label": {
+                "fr": "Relations UE-Ta\u00efwan en mati\u00e8re de commerce et d\u2019investissement"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2023-0498"
+            ],
+            "eli-dl:executed": "https://data.europarl.europa.eu/eli/dl/event/MTG-PL-2023-12-13-OJ-ITM-V-79",
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2023-12-13-VOT-ITM-012"
+            ],
+            "notation_dlvId": "939866",
+            "structuredLabel": {
+                "fr": "<structuredLabel><title>Relations UE-Ta\u00efwan en mati\u00e8re de commerce et d\u2019investissement</title><label>Propositions de r\u00e9solution: B9-0498/2023</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}

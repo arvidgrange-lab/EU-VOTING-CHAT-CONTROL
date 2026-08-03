@@ -1,0 +1,105 @@
+{
+    "data": [
+        {
+            "id": "eli/dl/event/MTG-PL-2024-02-08-VOT-ITM-940031",
+            "type": "Activity",
+            "activity_date": "2024-02-08",
+            "activity_id": "MTG-PL-2024-02-08-VOT-ITM-940031",
+            "activity_label": {
+                "sl": "Razmere v Srbiji po volitvah",
+                "it": "Situazione in Serbia in seguito alle elezioni",
+                "lt": "Pad\u0117tis Serbijoje po rinkim\u0173",
+                "lv": "St\u0101voklis Serbij\u0101 p\u0113c v\u0113l\u0113\u0161an\u0101m",
+                "en": "Situation in Serbia following the elections",
+                "ro": "Situa\u021bia din Serbia \u00een urma alegerilor",
+                "es": "Situaci\u00f3n en Serbia tras las elecciones",
+                "sv": "Situationen i Serbien efter valet",
+                "sk": "Situ\u00e1cia v Srbsku po vo\u013eb\u00e1ch",
+                "de": "Die Lage in Serbien nach den Wahlen",
+                "hr": "Situacija u Srbiji nakon izbora",
+                "pl": "Sytuacja w Serbii w nast\u0119pstwie wybor\u00f3w",
+                "el": "\u0397 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b7 \u03a3\u03b5\u03c1\u03b2\u03af\u03b1 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b9\u03c2 \u03b5\u03ba\u03bb\u03bf\u03b3\u03ad\u03c2",
+                "mt": "Is-sitwazzjoni fis-Serbja wara l-elezzjonijiet",
+                "bg": "\u041f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u0442\u043e \u0432 \u0421\u044a\u0440\u0431\u0438\u044f \u0441\u043b\u0435\u0434 \u0438\u0437\u0431\u043e\u0440\u0438\u0442\u0435",
+                "nl": "De situatie in Servi\u00eb na de verkiezingen",
+                "hu": "A v\u00e1laszt\u00e1sokat k\u00f6vet\u0151 szerbiai helyzet",
+                "pt": "A situa\u00e7\u00e3o na S\u00e9rvia ap\u00f3s as elei\u00e7\u00f5es",
+                "fi": "Serbian tilanne vaalien j\u00e4lkeen",
+                "et": "Valimistej\u00e4rgne olukord Serbias",
+                "cs": "Situace v Srbsku po volb\u00e1ch",
+                "ga": "An staid sa tSeirbia tar \u00e9is na dtoghch\u00e1n",
+                "mul": "La situation en Serbie \u00e0 la suite des \u00e9lections",
+                "da": "Situationen i Serbien efter valget",
+                "fr": "La situation en Serbie \u00e0 la suite des \u00e9lections"
+            },
+            "based_on_a_realization_of": [
+                "eli/dl/doc/B-9-2024-0132",
+                "eli/dl/doc/B-9-2024-0106",
+                "eli/dl/doc/B-9-2024-0108",
+                "eli/dl/doc/B-9-2024-0131",
+                "eli/dl/doc/B-9-2024-0133",
+                "eli/dl/doc/B-9-2024-0134"
+            ],
+            "consists_of": [
+                "eli/dl/event/MTG-PL-2024-02-08-DEC-164390",
+                "eli/dl/event/MTG-PL-2024-02-08-DEC-164280",
+                "eli/dl/event/MTG-PL-2024-02-08-DEC-164279",
+                "eli/dl/event/MTG-PL-2024-02-08-DEC-164395",
+                "eli/dl/event/MTG-PL-2024-02-08-DEC-164394",
+                "eli/dl/event/MTG-PL-2024-02-08-DEC-164393",
+                "eli/dl/event/MTG-PL-2024-02-08-DEC-164282",
+                "eli/dl/event/MTG-PL-2024-02-08-DEC-164283",
+                "eli/dl/event/MTG-PL-2024-02-08-DEC-164278",
+                "eli/dl/event/MTG-PL-2024-02-08-DEC-164391",
+                "eli/dl/event/MTG-PL-2024-02-08-DEC-164281"
+            ],
+            "executed": [
+                "eli/dl/event/MTG-PL-2024-02-08-OJ-ITM-V-69"
+            ],
+            "had_activity_type": "def/ep-activities/PLENARY_VOTE_RESULTS",
+            "recorded_in_a_realization_of": [
+                "eli/dl/doc/PV-9-2024-02-08-VOT-ITM-006"
+            ],
+            "was_motivated_by": [
+                "eli/dl/event/MTG-PL-2024-02-08-VOT-ITM-940031-SPLIT-1",
+                "eli/dl/event/MTG-PL-2024-02-08-VOT-ITM-940031-RCV-1",
+                "eli/dl/event/MTG-PL-2024-02-08-VOT-ITM-940031-RCV-2",
+                "eli/dl/event/MTG-PL-2024-02-08-VOT-ITM-940031-SPLIT-2"
+            ],
+            "notation_dlvId": "940031",
+            "structuredLabel": {
+                "et": "<structuredLabel><title>Valimistej\u00e4rgne olukord Serbias</title><label>Resolutsiooni ettepanekud: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "mt": "<structuredLabel><title>Is-sitwazzjoni fis-Serbja wara l-elezzjonijiet</title><label>Mozzjonijiet g\u0127al ri\u017coluzzjoni: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "ga": "<structuredLabel><title>An staid sa tSeirbia tar \u00e9is na dtoghch\u00e1n</title><label>Tairiscint\u00ed i gcomhair r\u00fain: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "fi": "<structuredLabel><title>Serbian tilanne vaalien j\u00e4lkeen</title><label>P\u00e4\u00e4t\u00f6slauselmaesitykset: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "pl": "<structuredLabel><title>Sytuacja w Serbii w nast\u0119pstwie wybor\u00f3w</title><label>Projekty rezolucji: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "de": "<structuredLabel><title>Die Lage in Serbien nach den Wahlen</title><label>Entschlie\u00dfungsantr\u00e4ge: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "it": "<structuredLabel><title>Situazione in Serbia in seguito alle elezioni</title><label>Proposte di risoluzione: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "sl": "<structuredLabel><title>Razmere v Srbiji po volitvah</title><label>Predlogi resolucij: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "da": "<structuredLabel><title>Situationen i Serbien efter valget</title><label>Forslag til beslutning: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "hu": "<structuredLabel><title>A v\u00e1laszt\u00e1sokat k\u00f6vet\u0151 szerbiai helyzet</title><label>\u00c1ll\u00e1sfoglal\u00e1sra ir\u00e1nyul\u00f3 ind\u00edtv\u00e1nyok: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "es": "<structuredLabel><title>Situaci\u00f3n en Serbia tras las elecciones</title><label>Propuestas de Resoluci\u00f3n: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "cs": "<structuredLabel><title>Situace v Srbsku po volb\u00e1ch</title><label>N\u00e1vrhy usnesen\u00ed: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "ro": "<structuredLabel><title>Situa\u021bia din Serbia \u00een urma alegerilor</title><label>Propuneri de rezolu\u021bie: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "hr": "<structuredLabel><title>Situacija u Srbiji nakon izbora</title><label>Prijedlozi rezolucije: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "pt": "<structuredLabel><title>A situa\u00e7\u00e3o na S\u00e9rvia ap\u00f3s as elei\u00e7\u00f5es</title><label>Propostas de resolu\u00e7\u00e3o: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "sv": "<structuredLabel><title>Situationen i Serbien efter valet</title><label>Resolutionsf\u00f6rslag: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "fr": "<structuredLabel><title>La situation en Serbie \u00e0 la suite des \u00e9lections</title><label>Propositions de r\u00e9solution: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "bg": "<structuredLabel><title>\u041f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u0442\u043e \u0432 \u0421\u044a\u0440\u0431\u0438\u044f \u0441\u043b\u0435\u0434 \u0438\u0437\u0431\u043e\u0440\u0438\u0442\u0435</title><label>\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0437\u0430 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u044f: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "el": "<structuredLabel><title>\u0397 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b7 \u03a3\u03b5\u03c1\u03b2\u03af\u03b1 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b9\u03c2 \u03b5\u03ba\u03bb\u03bf\u03b3\u03ad\u03c2</title><label>\u03a0\u03c1\u03bf\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03c8\u03b7\u03c6\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "lt": "<structuredLabel><title>Pad\u0117tis Serbijoje po rinkim\u0173</title><label>Pasi\u016blymai d\u0117l rezoliucij\u0173: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "lv": "<structuredLabel><title>St\u0101voklis Serbij\u0101 p\u0113c v\u0113l\u0113\u0161an\u0101m</title><label>Rezol\u016bciju priek\u0161likumi: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "sk": "<structuredLabel><title>Situ\u00e1cia v Srbsku po vo\u013eb\u00e1ch</title><label>N\u00e1vrhy uznesenia: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "en": "<structuredLabel><title>Situation in Serbia following the elections</title><label>Motions for resolutions: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>",
+                "nl": "<structuredLabel><title>De situatie in Servi\u00eb na de verkiezingen</title><label>Ontwerpresoluties: RC-B9-0106/2024, B9-0106/2024, B9-0108/2024, B9-0131/2024, B9-0132/2024, B9-0133/2024, B9-0134/2024</label></structuredLabel>"
+            }
+        }
+    ],
+    "@context": [
+        {
+            "data": "@graph",
+            "@base": "https://data.europarl.europa.eu/"
+        },
+        "https://data.europarl.europa.eu/api/v2/context.jsonld"
+    ]
+}
